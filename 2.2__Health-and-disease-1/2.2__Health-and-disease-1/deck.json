@@ -7,53 +7,6 @@
                 {
                     "__type__": "Deck",
                     "children": [],
-                    "crowdanki_uuid": "b2f231e1-7dce-11eb-8d1b-a0b2d6ecb02c",
-                    "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
-                    "desc": "",
-                    "dyn": 0,
-                    "extendNew": 0,
-                    "extendRev": 0,
-                    "media_files": [
-                        "paste-fd3f09c7e1f68cfb1c69f2ad28ac00a267976819.jpg"
-                    ],
-                    "mid": 1603908832969,
-                    "name": "1/3 Organisms and infections",
-                    "notes": [
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<span style=\"color: rgb(64, 64, 64); font-weight: bold;\">Normal </span><span style=\"color: rgb(64, 64, 64); font-weight: bold;\">&nbsp;(superficial)\nflora</span><div><span style=\"color: rgb(64, 64, 64); font-weight: bold;\">4 places&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Normal flora\nmay be derived from:&nbsp;</span></div><div>{{c1::<div><span style=\"color: rgb(228, 131, 18);\">•</span><span style=\"color: rgb(64, 64, 64);\">The maternal\ngenital </span><span style=\"color: rgb(64, 64, 64);\">tract</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">•</span><span style=\"color: rgb(64, 64, 64);\">C</span><span style=\"color: rgb(64, 64, 64);\">lose contacts</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">•</span><span style=\"color: rgb(64, 64, 64);\">Airborne </span><span style=\"color: rgb(64, 64, 64);\">organisms</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">•</span><span style=\"color: rgb(64, 64, 64);\">Environment\nand </span><span style=\"color: rgb(64, 64, 64);\">food</span></div>}}<br></div><div><br></div><div><span style=\"color: rgb(64, 64, 64);\">Estimated that\nat least&nbsp;</span>{{c1::60-70}}<span style=\"color: rgb(64, 64, 64);\">% </span><span style=\"color: rgb(64, 64, 64);\">of cells in\nour bodies are </span><span style=\"color: rgb(64, 64, 64);\">non-human&nbsp;</span><br></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><font color=\"#404040\">3 reasons for symbiotic relationship</font></div><div>{{c1::<div><span style=\"color: rgb(228, 131, 18);\">•</span><span style=\"color: rgb(64, 64, 64);\"> Microbes </span><span style=\"color: rgb(64, 64, 64);\">in gut are a\nsource of energy (butyrate) &amp; vitamins (biotin, folate, </span><span style=\"color: rgb(64, 64, 64);\">vitamin </span><span style=\"color: rgb(64, 64, 64);\">K)</span></div>\n<div><br></div>\n<div><span style=\"color: rgb(228, 131, 18);\">•</span><span style=\"color: rgb(64, 64, 64);\"> Inhibit </span><span style=\"color: rgb(64, 64, 64);\">colonisation\nby pathogenic spp</span><span style=\"color: rgb(64, 64, 64);\">. (competitive\nexclusion)</span></div>\n<div><span style=\"color: rgb(64, 64, 64);\">Competition\nfor nutrients &amp; receptors</span></div>\n<div><span style=\"color: rgb(64, 64, 64);\">Producing </span><span style=\"color: rgb(64, 64, 64);\">bacteriocins</span><span style=\"color: rgb(64, 64, 64);\"> &amp;\nfermentation acids</span></div>\n<div><br></div>\n<div><span style=\"color: rgb(228, 131, 18);\">•</span><span style=\"color: rgb(64, 64, 64);\"> We </span><span style=\"color: rgb(64, 64, 64);\">provide niches\nand nutrients for microbial survival / proliferation</span></div>}}<br></div><div><br></div><div><div><span style=\"color: rgb(228, 131, 18);\">•</span><span style=\"color: rgb(64, 64, 64);\"> Vaginal\ntract:</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">•</span><span style=\"color: rgb(64, 64, 64);\">Healthy\nindividuals – predominance of&nbsp;</span>{{c1::<span style=\"color: rgb(64, 64, 64);\">Lactobacilli, </span><span style=\"color: rgb(64, 64, 64);\">eg</span><span style=\"color: rgb(64, 64, 64);\">. </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">Lactobacillus </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">crispatus</span>}}</div>\n<div><span style=\"color: rgb(228, 131, 18);\">•</span><span style=\"color: rgb(64, 64, 64);\">Bacterial\nvaginosis – diverse range of organisms </span><span style=\"color: rgb(64, 64, 64);\">eg</span><span style=\"color: rgb(64, 64, 64);\">. coliforms, yeasts, </span><span style=\"color: rgb(64, 64, 64);\">etc</span><span style=\"color: rgb(64, 64, 64);\"> with paucity of lactobacilli</span></div></div>",
-                                ""
-                            ],
-                            "guid": "zzul9232Fn",
-                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<div><span style=\"color: rgb(228, 131, 18);\">•</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span>{{c1::<span style=\"color: rgb(64, 64, 64); font-style: italic;\">Staphylococcus\n</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">epidermidis</span>}}<span style=\"color: rgb(64, 64, 64); font-style: italic;\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">on skin -&gt; IV\nline-related bloodstream </span><span style=\"color: rgb(64, 64, 64);\">infection</span></div>\n<div><br></div>\n<div><span style=\"color: rgb(228, 131, 18);\">•</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span>{{c1::Escherichia\ncoli}}<span style=\"color: rgb(64, 64, 64); font-style: italic;\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">in your gut -&gt; peritonitis following perforated appendix</span></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><div><span style=\"color: rgb(228, 131, 18);\">•</span><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span>{{c1::<span style=\"color: rgb(64, 64, 64);\">Viridans</span><span style=\"color: rgb(64, 64, 64);\"> </span><span style=\"color: rgb(64, 64, 64);\">streptococci</span>}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;in oral cavity</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;(normal flora)&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">-&gt; common pathogens in subacute\nbacterial endocarditis</span></div></div>",
-                                "<img src=\"paste-fd3f09c7e1f68cfb1c69f2ad28ac00a267976819.jpg\">"
-                            ],
-                            "guid": "tsOCe;@h6G",
-                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<div><span style=\"color: rgb(228, 131, 18);\">•</span><span style=\"color: rgb(64, 64, 64);\">One-third of\nthe general population may have&nbsp;</span>{{c1::Staphylococcus aureus}}<span style=\"color: rgb(64, 64, 64); font-style: italic;\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">in their noses</span></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><span style=\"color: rgb(64, 64, 64); font-weight: bold;\">What is the cause of meningococcal meningitis?&nbsp;</span>{{c1::<span style=\"color: rgb(64, 64, 64); font-style: italic;\">Neisseria </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">meningitidis, he says its really factors</span>}}<span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><span style=\"color: rgb(64, 64, 64);\">how does it\nget to the nasopharynx of the patient?</span><br></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><span style=\"color: rgb(64, 64, 64);\">Why does the&nbsp;</span><span style=\"color: rgb(64, 64, 64); font-weight: bold;\">Meningitis belt exist?&nbsp;</span>{{c1::shit countries, political instability}}</div>",
-                                "<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64); font-weight: bold;\">meningococcal meningitis p</span><span style=\"color: rgb(64, 64, 64); font-weight: bold;\">athogenesis:</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Acquisition&nbsp; -&gt;</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">bloodstream invasion&nbsp;&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">-&gt;</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Bloodstream proliferation&nbsp;&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">-&gt;</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Dissemination to meninges&nbsp;&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">-&gt;</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Invasion and inflammation&nbsp;&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">-&gt;</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">infection (meningitis)</span></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><div><span style=\"color: rgb(228, 131, 18);\">•</span><span style=\"color: rgb(64, 64, 64);\">It gets\ntransferred from one nasopharynx to another via close contact </span><span style=\"color: rgb(64, 64, 64);\">eg</span><span style=\"color: rgb(64, 64, 64);\">. kissing,\ndroplet transmission, etc.</span></div></div>"
-                            ],
-                            "guid": "NafCOX%yXx",
-                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
-                            "tags": []
-                        }
-                    ]
-                },
-                {
-                    "__type__": "Deck",
-                    "children": [],
                     "crowdanki_uuid": "b304b6be-7dce-11eb-b3cd-a0b2d6ecb02c",
                     "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
                     "desc": "",
@@ -88,7 +41,7 @@
                         "tmp484kh55m.png",
                         "tmpfet72skc.png"
                     ],
-                    "name": "17/2 Classification of micro-organisms",
+                    "name": "02/17 Classification of micro-organisms",
                     "notes": [
                         {
                             "__type__": "Note",
@@ -315,6 +268,53 @@
                 {
                     "__type__": "Deck",
                     "children": [],
+                    "crowdanki_uuid": "b2f231e1-7dce-11eb-8d1b-a0b2d6ecb02c",
+                    "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-fd3f09c7e1f68cfb1c69f2ad28ac00a267976819.jpg"
+                    ],
+                    "mid": 1603908832969,
+                    "name": "03/01 Organisms and infections",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(64, 64, 64); font-weight: bold;\">Normal </span><span style=\"color: rgb(64, 64, 64); font-weight: bold;\">&nbsp;(superficial)\nflora</span><div><span style=\"color: rgb(64, 64, 64); font-weight: bold;\">4 places&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Normal flora\nmay be derived from:&nbsp;</span></div><div>{{c1::<div><span style=\"color: rgb(228, 131, 18);\">•</span><span style=\"color: rgb(64, 64, 64);\">The maternal\ngenital </span><span style=\"color: rgb(64, 64, 64);\">tract</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">•</span><span style=\"color: rgb(64, 64, 64);\">C</span><span style=\"color: rgb(64, 64, 64);\">lose contacts</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">•</span><span style=\"color: rgb(64, 64, 64);\">Airborne </span><span style=\"color: rgb(64, 64, 64);\">organisms</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">•</span><span style=\"color: rgb(64, 64, 64);\">Environment\nand </span><span style=\"color: rgb(64, 64, 64);\">food</span></div>}}<br></div><div><br></div><div><span style=\"color: rgb(64, 64, 64);\">Estimated that\nat least&nbsp;</span>{{c1::60-70}}<span style=\"color: rgb(64, 64, 64);\">% </span><span style=\"color: rgb(64, 64, 64);\">of cells in\nour bodies are </span><span style=\"color: rgb(64, 64, 64);\">non-human&nbsp;</span><br></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><font color=\"#404040\">3 reasons for symbiotic relationship</font></div><div>{{c1::<div><span style=\"color: rgb(228, 131, 18);\">•</span><span style=\"color: rgb(64, 64, 64);\"> Microbes </span><span style=\"color: rgb(64, 64, 64);\">in gut are a\nsource of energy (butyrate) &amp; vitamins (biotin, folate, </span><span style=\"color: rgb(64, 64, 64);\">vitamin </span><span style=\"color: rgb(64, 64, 64);\">K)</span></div>\n<div><br></div>\n<div><span style=\"color: rgb(228, 131, 18);\">•</span><span style=\"color: rgb(64, 64, 64);\"> Inhibit </span><span style=\"color: rgb(64, 64, 64);\">colonisation\nby pathogenic spp</span><span style=\"color: rgb(64, 64, 64);\">. (competitive\nexclusion)</span></div>\n<div><span style=\"color: rgb(64, 64, 64);\">Competition\nfor nutrients &amp; receptors</span></div>\n<div><span style=\"color: rgb(64, 64, 64);\">Producing </span><span style=\"color: rgb(64, 64, 64);\">bacteriocins</span><span style=\"color: rgb(64, 64, 64);\"> &amp;\nfermentation acids</span></div>\n<div><br></div>\n<div><span style=\"color: rgb(228, 131, 18);\">•</span><span style=\"color: rgb(64, 64, 64);\"> We </span><span style=\"color: rgb(64, 64, 64);\">provide niches\nand nutrients for microbial survival / proliferation</span></div>}}<br></div><div><br></div><div><div><span style=\"color: rgb(228, 131, 18);\">•</span><span style=\"color: rgb(64, 64, 64);\"> Vaginal\ntract:</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">•</span><span style=\"color: rgb(64, 64, 64);\">Healthy\nindividuals – predominance of&nbsp;</span>{{c1::<span style=\"color: rgb(64, 64, 64);\">Lactobacilli, </span><span style=\"color: rgb(64, 64, 64);\">eg</span><span style=\"color: rgb(64, 64, 64);\">. </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">Lactobacillus </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">crispatus</span>}}</div>\n<div><span style=\"color: rgb(228, 131, 18);\">•</span><span style=\"color: rgb(64, 64, 64);\">Bacterial\nvaginosis – diverse range of organisms </span><span style=\"color: rgb(64, 64, 64);\">eg</span><span style=\"color: rgb(64, 64, 64);\">. coliforms, yeasts, </span><span style=\"color: rgb(64, 64, 64);\">etc</span><span style=\"color: rgb(64, 64, 64);\"> with paucity of lactobacilli</span></div></div>",
+                                ""
+                            ],
+                            "guid": "zzul9232Fn",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><span style=\"color: rgb(228, 131, 18);\">•</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span>{{c1::<span style=\"color: rgb(64, 64, 64); font-style: italic;\">Staphylococcus\n</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">epidermidis</span>}}<span style=\"color: rgb(64, 64, 64); font-style: italic;\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">on skin -&gt; IV\nline-related bloodstream </span><span style=\"color: rgb(64, 64, 64);\">infection</span></div>\n<div><br></div>\n<div><span style=\"color: rgb(228, 131, 18);\">•</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span>{{c1::Escherichia\ncoli}}<span style=\"color: rgb(64, 64, 64); font-style: italic;\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">in your gut -&gt; peritonitis following perforated appendix</span></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><div><span style=\"color: rgb(228, 131, 18);\">•</span><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span>{{c1::<span style=\"color: rgb(64, 64, 64);\">Viridans</span><span style=\"color: rgb(64, 64, 64);\"> </span><span style=\"color: rgb(64, 64, 64);\">streptococci</span>}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;in oral cavity</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;(normal flora)&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">-&gt; common pathogens in subacute\nbacterial endocarditis</span></div></div>",
+                                "<img src=\"paste-fd3f09c7e1f68cfb1c69f2ad28ac00a267976819.jpg\">"
+                            ],
+                            "guid": "tsOCe;@h6G",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><span style=\"color: rgb(228, 131, 18);\">•</span><span style=\"color: rgb(64, 64, 64);\">One-third of\nthe general population may have&nbsp;</span>{{c1::Staphylococcus aureus}}<span style=\"color: rgb(64, 64, 64); font-style: italic;\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">in their noses</span></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><span style=\"color: rgb(64, 64, 64); font-weight: bold;\">What is the cause of meningococcal meningitis?&nbsp;</span>{{c1::<span style=\"color: rgb(64, 64, 64); font-style: italic;\">Neisseria </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">meningitidis, he says its really factors</span>}}<span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><span style=\"color: rgb(64, 64, 64);\">how does it\nget to the nasopharynx of the patient?</span><br></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><span style=\"color: rgb(64, 64, 64);\">Why does the&nbsp;</span><span style=\"color: rgb(64, 64, 64); font-weight: bold;\">Meningitis belt exist?&nbsp;</span>{{c1::shit countries, political instability}}</div>",
+                                "<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64); font-weight: bold;\">meningococcal meningitis p</span><span style=\"color: rgb(64, 64, 64); font-weight: bold;\">athogenesis:</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Acquisition&nbsp; -&gt;</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">bloodstream invasion&nbsp;&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">-&gt;</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Bloodstream proliferation&nbsp;&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">-&gt;</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Dissemination to meninges&nbsp;&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">-&gt;</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Invasion and inflammation&nbsp;&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">-&gt;</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">infection (meningitis)</span></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><div><span style=\"color: rgb(228, 131, 18);\">•</span><span style=\"color: rgb(64, 64, 64);\">It gets\ntransferred from one nasopharynx to another via close contact </span><span style=\"color: rgb(64, 64, 64);\">eg</span><span style=\"color: rgb(64, 64, 64);\">. kissing,\ndroplet transmission, etc.</span></div></div>"
+                            ],
+                            "guid": "NafCOX%yXx",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
                     "crowdanki_uuid": "b359a345-7dce-11eb-b59a-a0b2d6ecb02c",
                     "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
                     "desc": "",
@@ -344,7 +344,7 @@
                         "paste-fee66fd4240a6d28889d175d3614c8ae9ea1984b.jpg"
                     ],
                     "mid": 1603908832969,
-                    "name": "5/3 Laboratory Diagnosis of Infections",
+                    "name": "03/05 Laboratory Diagnosis of Infections",
                     "notes": [
                         {
                             "__type__": "Note",
@@ -437,6 +437,184 @@
                             "tags": []
                         }
                     ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "1c3d1684-872b-11eb-a84d-ff74353d551e",
+                    "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-227165fed35d59c1bf72ea50c2bfb6041d6c72f0.jpg",
+                        "paste-487cdf31bb6ce44b1bea57de90daf069c60a864b.jpg",
+                        "paste-4ed9304a0bc1cc3efc7f50429a870de59a04ce6e.jpg",
+                        "paste-509562a05c5da16a0b9e3fc42572ab3d1ea9cf34.jpg",
+                        "paste-5a3a81f25c78d1719b39dcc941e822e393b0abd0.jpg",
+                        "paste-843608ac9f65e71cfd683432dd9aeb7dd988a858.jpg",
+                        "paste-993777eac304738b97bfa48dd4439ef2bff79521.jpg",
+                        "paste-b7bf88f340f254c978eb5468202a3589fb91e525.jpg",
+                        "paste-c48f9ab861ffc05b59e77e42a42f6cd8fa6dc990.jpg",
+                        "paste-d0e862c6a5c926846b4e2fb477eeb7e32b2b1e57.jpg",
+                        "paste-e72620f39157c2010af29b60cf0e0d35cf70abf6.jpg",
+                        "paste-e9ffeaf448feae009feecd471e09a4ca9c1f9cef.jpg",
+                        "paste-ece39613dd42a14b8e18e2b96bf834781b9e824f.jpg"
+                    ],
+                    "name": "03/16 Infective endocarditis",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><span style=\"color: rgb(0, 112, 192);\">Systemic inflammatory response\nsyndrome (SIRS)</span><span style=\"color: rgb(157, 191, 190);\"><br></span></div><div><span style=\"color: rgb(64, 64, 64);\">2 or more of\nthe </span><span style=\"color: rgb(64, 64, 64);\">following</span><span style=\"color: rgb(0, 112, 192);\"><br></span></div><div><span style=\"color: rgb(157, 191, 190);\">•</span><span style=\"color: rgb(64, 64, 64);\">Temp &gt;</span>{{c1::38}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">degC</span><span style=\"color: rgb(64, 64, 64);\"> or &lt;</span>{{c1::36}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">degC</span></div>\n<div><span style=\"color: rgb(157, 191, 190);\">•</span><span style=\"color: rgb(64, 64, 64);\">Heart rate\n&gt;</span>{{c1::90}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;bpm</span></div>\n<div><span style=\"color: rgb(157, 191, 190);\">•</span><span style=\"color: rgb(64, 64, 64);\">Respiratory\nrate &gt;</span>{{c1::20}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;breaths/min</span></div>\n<div><span style=\"color: rgb(157, 191, 190);\">•</span><span style=\"color: rgb(64, 64, 64);\">WCC &gt;</span>{{c1::12,000}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">(</span><span style=\"color: rgb(64, 64, 64);\">leukocytosis</span><span style=\"color: rgb(64, 64, 64);\">) or </span><span style=\"color: rgb(64, 64, 64);\">&lt;</span>{{c1::4,000}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;per </span><span style=\"color: rgb(64, 64, 64);\">mm</span><span style=\"color: rgb(64, 64, 64);\">3 </span><span style=\"color: rgb(64, 64, 64);\">(leukopenia)</span></div>\n<div><span style=\"color: rgb(157, 191, 190);\">•</span><span style=\"color: rgb(64, 64, 64);\">(Bedside blood\nglucose &gt;</span>{{c1::7.7}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">mmol</span><span style=\"color: rgb(64, 64, 64);\">/L (in absence\nof DM))</span></div>",
+                                ""
+                            ],
+                            "guid": "fBw[1Fdxuw",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::Sepsis}}<span style=\"color: rgb(0, 112, 192);\">:&nbsp;</span><span style=\"color: rgb(157, 191, 190);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">life-threatening organ dysfunction caused </span><span style=\"color: rgb(64, 64, 64);\">by </span><span style=\"color: rgb(64, 64, 64);\">a dysregulated\nhost response to </span><span style=\"color: rgb(64, 64, 64);\">infection</span><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><div><span style=\"color: rgb(157, 191, 190);\">&nbsp;</span><span style=\"color: red;\">Clinical suspicion of infection </span><span style=\"color: rgb(64, 64, 64);\">plus one of\nfollowing presentations:</span></div>\n<div><span style=\"color: rgb(157, 191, 190);\">&nbsp;</span><span style=\"color: rgb(0, 112, 192);\">Unwell patient at risk of&nbsp;</span>{{c1::neutropenia}}<span style=\"color: rgb(64, 64, 64);\">;&nbsp;</span></div>\n<div><span style=\"color: rgb(157, 191, 190);\">&nbsp;</span><span style=\"color: rgb(0, 112, 192);\">Clinical evidence of new onset\norgan failure</span><span style=\"color: rgb(64, 64, 64);\">: acute\naltered mental status, oliguria/anuria, non-</span>{{c1::blanching}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;rash, hypotension,\nhypoxia, etc.</span></div>\n<div><span style=\"color: rgb(157, 191, 190);\">&nbsp;</span><span style=\"color: rgb(0, 112, 192);\">≥ 2&nbsp;</span>{{c1::SIRS}}<span style=\"color: rgb(0, 112, 192);\">&nbsp;criteria plus ≥ 1\nco-morbidities </span><span style=\"color: rgb(64, 64, 64);\">eg</span><span style=\"color: rgb(64, 64, 64);\">. COPD, DM,\nchronic liver/renal disease, cancer, advanced age, immunosuppressive Rx, major\nsurgery/trauma, etc.</span></div></div>",
+                                "neutropenia: low neutrophils<div>non-blanching: don't disappear with pressure</div>"
+                            ],
+                            "guid": "wfN|rZA5yf",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(0, 112, 192);\">What is the Sepsis 6?</span><span style=\"color: rgb(157, 191, 190);\">&nbsp;</span><div>{{c1::<span style=\"color: rgb(64, 64, 64);\">Take 3:</span><div><span style=\"color: rgb(157, 191, 190);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Blood cultures</span></div>\n<div><span style=\"color: rgb(157, 191, 190);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Blood tests</span></div>\n<div><span style=\"color: rgb(157, 191, 190);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Urine output</span></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><div><span style=\"color: rgb(157, 191, 190);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Give 3:</span></div>\n<div><span style=\"color: rgb(157, 191, 190);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Oxygen</span></div>\n<div><span style=\"color: rgb(157, 191, 190);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Fluids</span></div>\n<div><span style=\"color: rgb(157, 191, 190);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Antimicrobial agents</span></div></div>}}<br></div><div><br></div><div><div><span style=\"color: rgb(157, 191, 190);\">•</span><span style=\"color: rgb(0, 112, 192);\">Further\nassessment of new-onset organ dysfunction</span><span style=\"color: rgb(64, 64, 64);\">:</span></div>\n<div><span style=\"color: rgb(157, 191, 190);\">•</span><span style=\"color: rgb(64, 64, 64);\">Blood&nbsp;</span>{{c1::pressure}}</div>\n<div><span style=\"color: rgb(157, 191, 190);\">•</span>{{c1::Oxygen}}&nbsp;<span style=\"color: rgb(64, 64, 64);\">sats</span><span style=\"color: rgb(64, 64, 64);\">; lactate,\ncreatinine, bilirubin, platelets, urine output, etc.</span></div>\n<div><span style=\"color: rgb(157, 191, 190);\">•</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span>{{c1::Septic\nshock}}:&nbsp;<span style=\"color: rgb(64, 64, 64);\">a subset of\nsepsis in which underlying circulatory and cellular metabolism abnormalities\nare profound enough to substantially increase </span><span style=\"color: rgb(64, 64, 64);\">mortality</span></div>\n<div><span style=\"color: rgb(157, 191, 190);\">•</span><span style=\"color: rgb(64, 64, 64);\">Requirement of&nbsp;</span>{{c1::inotropes}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;or </span><span style=\"color: rgb(64, 64, 64);\">pressors</span><span style=\"color: rgb(64, 64, 64);\"> to maintain </span><span style=\"color: rgb(64, 64, 64);\">bp</span><span style=\"color: rgb(64, 64, 64);\"> in addition\nto fluid resuscitation</span></div></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><span style=\"color: rgb(64, 64, 64);\">What is the gold standard&nbsp;</span><span style=\"color: rgb(0, 112, 192);\">Diagnosis </span><span style=\"color: rgb(0, 112, 192);\">of\n</span><span style=\"color: rgb(0, 112, 192);\">bloodstream </span><span style=\"color: rgb(0, 112, 192);\">infection?&nbsp;</span>{{c1::Blood cultures}}</div>",
+                                "<img src=\"paste-843608ac9f65e71cfd683432dd9aeb7dd988a858.jpg\"><div>most of this covered in last lecture</div>"
+                            ],
+                            "guid": "HM@~Q:?o@&",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::Infective endocarditis}}<span style=\"color: rgb(0, 112, 192);\">:&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Bacterial (or\nfungal) infection of a heart valve or area of endocardium</span>",
+                                "<img src=\"paste-5a3a81f25c78d1719b39dcc941e822e393b0abd0.jpg\">"
+                            ],
+                            "guid": "dPa9;BTfi,",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(0, 112, 192);\">Pathogenesis</span><div><div><span style=\"color: rgb(64, 64, 64);\"><b>Host factors</b></span></div>\n<div>•<span style=\"color: rgb(64, 64, 64);\">Pre-existing </span><span style=\"color: rgb(64, 64, 64);\">valvular</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span>{{c1::lesions}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">eg</span><span style=\"color: rgb(64, 64, 64);\">. congenital,\nrheumatic fever, aortic sclerosis in elderly patients</span></div>\n<div>•<span style=\"color: rgb(64, 64, 64);\">Congenital\ncardiac abnormalities causing&nbsp;</span>{{c1::turbulent}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;blood flows</span><span style=\"color: rgb(64, 64, 64);\">.</span></div>\n<div>•<span style=\"color: rgb(64, 64, 64);\">Prosthetic&nbsp;</span>{{c1::valves}}</div>\n<div><br></div>\n<div><span style=\"color: rgb(64, 64, 64);\"><b>Risks for\nbacteraemia</b></span></div>\n<div>•<span style=\"color: rgb(64, 64, 64);\">Poor oral\nhygiene (dental/gingival conditions) –&nbsp;</span>{{c1::viridans}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;streptococci, etc.</span></div>\n<div>•<span style=\"color: rgb(64, 64, 64);\">Invasive </span><span style=\"color: rgb(64, 64, 64);\">procedures /\nintravascular </span><span style=\"color: rgb(64, 64, 64);\">lines –</span>\n{{c1::staphyl}}<span style=\"color: rgb(64, 64, 64);\">ococci, etc.</span></div>\n<div>•<span style=\"color: rgb(64, 64, 64);\">Deep seated\ninfections, etc.</span></div></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><div><span style=\"color: rgb(64, 64, 64);\">Characteristics\nof infecting organisms: </span></div>\n<div>•<span style=\"color: rgb(64, 64, 64);\"> </span><span style=\"color: rgb(64, 64, 64);\">Virulence of\norganism </span><span style=\"color: rgb(64, 64, 64);\">eg</span><span style=\"color: rgb(64, 64, 64);\">.&nbsp;</span>{{c1::S. aureus}}<span style=\"color: rgb(64, 64, 64); font-style: italic;\">&nbsp;-&gt;</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;acute course</span></div>\n<div>•<span style=\"color: rgb(64, 64, 64);\"> Ability to\nadhere and colonise damaged endothelium or prosthetic surfaces</span></div>\n<div>•<span style=\"color: rgb(64, 64, 64); font-style: italic;\"> </span><span style=\"color: rgb(64, 64, 64);\">Streptococci,\nstaphylococci &amp; enterococci (</span><span style=\"color: rgb(64, 64, 64);\">ie</span><span style=\"color: rgb(64, 64, 64);\">. Gram</span>{{c1::-positive}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;cocci)</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\"> </span><span style=\"color: rgb(64, 64, 64);\">together are responsible for &gt;</span>{{c1::80}}<span style=\"color: rgb(64, 64, 64);\">% of cases.</span></div></div>",
+                                "<img src=\"paste-b7bf88f340f254c978eb5468202a3589fb91e525.jpg\"><div><img src=\"paste-487cdf31bb6ce44b1bea57de90daf069c60a864b.jpg\"><br></div>"
+                            ],
+                            "guid": "wA==zUsom!",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(0, 112, 192);\">complications </span><span style=\"color: rgb(0, 112, 192);\">of\nendocarditis</span><div><font color=\"#0070c0\">Local<br></font><div><div><span style=\"color: rgb(157, 191, 190);\">•</span>{{c1::Valvular}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">destruction\nand incompetence</span></div>\n<div><span style=\"color: rgb(157, 191, 190);\">•</span><span style=\"color: rgb(64, 64, 64);\"> </span><span style=\"color: rgb(64, 64, 64);\">Valvular</span><span style=\"color: rgb(64, 64, 64);\"> </span><span style=\"color: rgb(64, 64, 64);\">root&nbsp;</span>{{c1::abscess}}</div>\n<div><span style=\"color: rgb(157, 191, 190);\">•</span><span style=\"color: rgb(64, 64, 64);\">\nCardiopulmonary </span><span style=\"color: rgb(64, 64, 64);\">complications </span><span style=\"color: rgb(64, 64, 64);\">eg</span><span style=\"color: rgb(64, 64, 64);\">. </span><span style=\"color: rgb(64, 64, 64);\">ventricular\nhypertrophy, heart </span><span style=\"color: rgb(64, 64, 64);\">failure,\npulmonary </span><span style=\"color: rgb(64, 64, 64);\">oedema</span></div></div></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><span style=\"color: rgb(0, 112, 192);\">Metastatic</span><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><div><span style=\"color: rgb(157, 191, 190);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Hands/feet: splinter haemorrhages, nail-fold infarcts,&nbsp;</span>{{c1::Osler}}<span style=\"color: rgb(64, 64, 64);\">’s nodes,&nbsp;</span>{{c1::Janeway}}&nbsp;<span style=\"color: rgb(64, 64, 64);\">lesions, etc.</span></div>\n<div><span style=\"color: rgb(157, 191, 190);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Eyes: Retina</span><span style=\"color: rgb(64, 64, 64);\"> </span><span style=\"color: rgb(64, 64, 64);\">-&nbsp;</span>{{c1::Roth}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;spots; conjunctival haemorrhages</span></div>\n<div><span style=\"color: rgb(157, 191, 190);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Deep organs:</span></div>\n<div><span style=\"color: rgb(157, 191, 190);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Infarction –&nbsp;</span>{{c1::splenic and renal}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;infarcts, etc.</span></div>\n<div><span style=\"color: rgb(157, 191, 190);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Abscess formation – bone/joint; brain abscesses;\npulmonary embolism/abscesses; etc</span><span style=\"color: rgb(64, 64, 64);\">.</span></div></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><span style=\"color: rgb(64, 64, 64);\"><b>Other</b></span></div><div><div>•<span style=\"color: rgb(64, 64, 64);\"> Acute&nbsp;</span>{{c1::renal}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">failure&nbsp;</span>-<span style=\"color: rgb(64, 64, 64);\">secondary </span><span style=\"color: rgb(64, 64, 64);\">to IE or to </span><span style=\"color: rgb(64, 64, 64);\">treatment –\naminoglycosides and/or </span><span style=\"color: rgb(64, 64, 64);\">glycopeptides</span></div>\n<div>•<span style=\"color: rgb(64, 64, 64);\"> </span><span style=\"color: rgb(64, 64, 64);\">Mycotic</span><span style=\"color: rgb(64, 64, 64);\"> aneurysms</span></div>\n<div>•<span style=\"color: rgb(64, 64, 64);\"> Death</span></div></div>",
+                                "<img src=\"paste-993777eac304738b97bfa48dd4439ef2bff79521.jpg\"><div><div><span style=\"color: rgb(157, 191, 190);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Vegetation is</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;a hallmark of endocarditis&nbsp;</span></div></div><div><img src=\"paste-ece39613dd42a14b8e18e2b96bf834781b9e824f.jpg\"><span style=\"color: rgb(64, 64, 64);\"><br></span></div>"
+                            ],
+                            "guid": "d[d}jjqId[",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(0, 112, 192);\">Subacute native valve\nendocarditis</span><br><div>is {{c1::less}} aggressive</div><div><br></div><div><div><span style=\"color: rgb(157, 191, 190);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Risk factors:</span></div>\n<div>•<span style=\"color: rgb(64, 64, 64);\">Congenital\nheart disease (high to lower pressure gradients greatest risk)</span></div>\n<div>•<span style=\"color: rgb(64, 64, 64);\">Rheumatic&nbsp;</span>{{c1::Heart}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;Disease</span></div>\n<div>•{{c1::Mitral}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;valve\nprolapse</span></div>\n<div>•<span style=\"color: rgb(64, 64, 64);\">Degenerative\nvalve lesions</span></div></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><div><span style=\"color: rgb(64, 64, 64);\">Usually caused\nby&nbsp;</span>{{c1::less}} more/less?<span style=\"color: rgb(64, 64, 64);\">&nbsp;virulent organisms:</span></div>\n<div><span style=\"color: rgb(157, 191, 190);\">§</span>{{c1::Viridans}}<span style=\"color: rgb(204, 0, 0);\">&nbsp;group&nbsp;</span>{{c1::strept}}<span style=\"color: rgb(204, 0, 0);\">ococci</span></div>\n<div><span style=\"color: rgb(157, 191, 190);\">§</span><span style=\"color: rgb(64, 64, 64);\">Enterococci</span></div>\n<div><span style=\"color: rgb(157, 191, 190);\">§</span><span style=\"color: rgb(64, 64, 64);\">Different types of\nstreptococci</span></div>\n<div><span style=\"color: rgb(157, 191, 190);\">§</span><span style=\"color: rgb(64, 64, 64);\">Coagulase-negative\nstaphylococci</span></div>\n<div><span style=\"color: rgb(157, 191, 190);\">§</span><span style=\"color: rgb(64, 64, 64);\">Other\npathogens (</span><span style=\"color: rgb(64, 64, 64);\">eg</span><span style=\"color: rgb(64, 64, 64);\">. HACEK\norganisms)</span></div></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><span style=\"color: rgb(64, 64, 64);\">What is this?</span></div><div><img src=\"paste-509562a05c5da16a0b9e3fc42572ab3d1ea9cf34.jpg\"><span style=\"color: rgb(64, 64, 64);\"><br></span></div>",
+                                "<span style=\"color: rgb(0, 112, 192); font-style: italic;\">Streptococcus </span><span style=\"color: rgb(0, 112, 192); font-style: italic;\">sanguis, memeber of viridans</span><img src=\"paste-509562a05c5da16a0b9e3fc42572ab3d1ea9cf34.jpg\">"
+                            ],
+                            "guid": "AT8+$oJ)t9",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(64, 64, 64);\">List the members of HACEK group</span><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div>{{c1::<div>•<span style=\"color: rgb(64, 64, 64); font-weight: bold; font-style: italic;\">H</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">aemophilus </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">aphrophilus</span></div>\n<div>•<span style=\"color: rgb(64, 64, 64); font-weight: bold; font-style: italic;\"> </span><span style=\"color: rgb(64, 64, 64); font-weight: bold; font-style: italic;\">A</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">ctinobacillus</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\"> </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">actinomycetemcomitans</span></div>\n<div>•<span style=\"color: rgb(64, 64, 64); font-weight: bold; font-style: italic;\"> </span><span style=\"color: rgb(64, 64, 64); font-weight: bold; font-style: italic;\">C</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">ardiobacterium</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\"> </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">hominis</span></div>\n<div>•<span style=\"color: rgb(64, 64, 64); font-weight: bold; font-style: italic;\"> </span><span style=\"color: rgb(64, 64, 64); font-weight: bold; font-style: italic;\">E</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">ikenella</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\"> </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">corrodens</span></div>\n<div>•<span style=\"color: rgb(64, 64, 64); font-weight: bold; font-style: italic;\"> </span><span style=\"color: rgb(64, 64, 64); font-weight: bold; font-style: italic;\">K</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">ingella</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\"> </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">kingae</span></div>}}&nbsp;<br></div><div><br></div><div>Give 2 organisms that can return as culture negative {{c1::<span style=\"color: rgb(64, 64, 64);\">&nbsp;if the\ndiagnosis is suspected, a serum sample on admission and another 4 weeks later\nmay be </span><span style=\"color: rgb(64, 64, 64);\">useful </span><span style=\"color: rgb(64, 64, 64);\">ie</span><span style=\"color: rgb(64, 64, 64);\">. </span><u><span style=\"color: rgb(64, 64, 64); font-weight: bold;\">serological testing</span></u>}}</div>",
+                                "<div><span style=\"color: rgb(64, 64, 64);\">HACEK group :&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">part of the\noral flora; more fastidious; takes longer in culture to be detectable</span></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><div><span style=\"color: rgb(64, 64, 64);\">“Culture\nnegative”</span></div>\n<div>•<span style=\"color: rgb(64, 64, 64);\"> Q </span><span style=\"color: rgb(64, 64, 64);\">fever (</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">Coxiella</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\"> </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">burnetti</span><span style=\"color: rgb(64, 64, 64);\">)</span></div>\n<div>•<span style=\"color: rgb(64, 64, 64);\"> </span><span style=\"color: rgb(64, 64, 64);\">Chlamydiae</span></div>\n<div>•<span style=\"color: rgb(64, 64, 64); font-style: italic;\"> </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">Brucella</span><span style=\"color: rgb(64, 64, 64);\"> </span><span style=\"color: rgb(64, 64, 64);\">spp</span><span style=\"color: rgb(64, 64, 64);\">.</span></div>\n<div>•<span style=\"color: rgb(64, 64, 64); font-style: italic;\"> </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">Bartonella</span><span style=\"color: rgb(64, 64, 64);\"> spp.</span></div></div>"
+                            ],
+                            "guid": "I^`VWXkQP6",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "which is early onset v late onset?<div><span style=\"color: rgb(157, 191, 190);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Coagulase-negative&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">staphylococci; enterococci</span><br><div><div><div><span style=\"color: rgb(157, 191, 190);\">◦</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">S.&nbsp;</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">aureus;&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">enterococci</span></div></div><div><div><span style=\"color: rgb(157, 191, 190);\">◦</span><span style=\"color: red;\">Viridans</span><span style=\"color: red;\">&nbsp;group streptococci</span></div></div><div><span style=\"color: rgb(157, 191, 190);\">◦</span><span style=\"color: red;\">Coagulase-negative staphylococci</span></div><div><div><span style=\"color: rgb(157, 191, 190);\">◦</span><span style=\"color: rgb(64, 64, 64);\">often the result of contamination of site during or shortly after surgery</span></div></div></div></div>",
+                                "<div><span style=\"color: rgb(157, 191, 190);\">Early</span></div><div><span style=\"color: rgb(157, 191, 190);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Majority\nwithin 3 months of surgery: often the result of contamination of site during or\nshortly after surgery:</span></div>\n<div><span style=\"color: rgb(157, 191, 190);\">◦</span><span style=\"color: red;\">Coagulase-negative staphylococci</span></div>\n<div><span style=\"color: rgb(157, 191, 190);\">◦</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">S. </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">aureus; </span><span style=\"color: rgb(64, 64, 64);\">enterococci</span></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><span style=\"color: rgb(64, 64, 64);\">Late</span></div><div><div><span style=\"color: rgb(157, 191, 190);\">◦</span><span style=\"color: red;\">Viridans</span><span style=\"color: red;\"> group streptococci</span></div>\n<div><span style=\"color: rgb(157, 191, 190);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Coagulase-negative\n</span><span style=\"color: rgb(64, 64, 64);\">staphylococci;\nenterococci</span></div></div>"
+                            ],
+                            "guid": "D=iq1bGPgp",
+                            "note_model_uuid": "afe9e61b-7dce-11eb-8b6f-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(0, 112, 192);\">IDU-associated endocarditis</span><div><div>•<span style=\"color: rgb(64, 64, 64);\">median age&nbsp;</span>{{c1::30}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;</span></div><div><span style=\"color: rgb(64, 64, 64);\">-M</span>{{c1::&gt;}}<span style=\"color: rgb(64, 64, 64);\">F</span></div></div><div><div>•{{c1::Right}}<span style=\"color: rgb(64, 64, 64);\">-sided\ninfections </span><span style=\"color: rgb(64, 64, 64);\">more common</span></div>\n<div>•{{c1::Tricuspid}}<span style=\"color: red;\">&nbsp;50%; </span><span style=\"color: rgb(64, 64, 64);\">Aortic 25%;\nMitral 20%</span></div>\n<div>•{{c1::Staphylococcus\naureus}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;predominates,\nbut other organisms, including fungi, sometimes responsible</span></div></div>",
+                                "<img src=\"paste-4ed9304a0bc1cc3efc7f50429a870de59a04ce6e.jpg\">"
+                            ],
+                            "guid": "mIm~6hZt)3",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(0, 112, 192);\">Nosocomial infective endocarditis</span><div><div>Why is there&nbsp;<span style=\"color: rgb(64, 64, 64);\">Increasing\nincidence?</span></div>\n<div>•<span style=\"color: rgb(64, 64, 64);\">&gt;60 years</span></div>\n<div>•<span style=\"color: rgb(64, 64, 64);\">Often\nunderlying cardiac disease</span></div>\n<div>•<span style=\"color: rgb(64, 64, 64);\">Intravenous\nlines, invasive procedures</span></div>\n<div>•<span style=\"color: rgb(64, 64, 64);\">Increased\nincidence&nbsp;</span>{{c1::right}}<span style=\"color: rgb(64, 64, 64);\">-sided IE due to CVP lines and pulmonary artery catheters</span></div></div>",
+                                "increase heart surgery/chance of infection"
+                            ],
+                            "guid": "x/AM(yq{dF",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(0, 112, 192);\">IE Clinical features&nbsp;</span><div><div><span style=\"color: rgb(64, 64, 64);\">Osler nodes</span></div><div><div><span style=\"color: rgb(64, 64, 64);\">Conjunctival&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">petechiae</span><br></div><div><span style=\"color: rgb(64, 64, 64);\">Janeway</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;lesions</span><br></div></div><div><div><span style=\"color: rgb(64, 64, 64);\">Splinter haemorrhages</span></div></div><div><img src=\"paste-c48f9ab861ffc05b59e77e42a42f6cd8fa6dc990.jpg\"><span style=\"color: rgb(64, 64, 64);\"><br></span></div></div><div><br></div><div><b>Match these up</b></div><div><div><span style=\"color: rgb(64, 64, 64);\">Splinter haemorrhages</span></div><div><div><span style=\"color: rgb(64, 64, 64);\">Osler nodes</span></div></div><div><span style=\"color: rgb(64, 64, 64);\">Janeway</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;lesions&nbsp;</span></div><div><br></div></div><div><div><span style=\"color: rgb(157, 191, 190);\">&nbsp;</span>{{c1::<u><span style=\"color: rgb(64, 64, 64); font-weight: bold;\">Splinter </span></u><u><span style=\"color: rgb(64, 64, 64); font-weight: bold;\">haemorrhages </span></u>}}<span style=\"color: rgb(64, 64, 64);\">- </span><span style=\"color: rgb(64, 64, 64);\">m</span><span style=\"color: rgb(64, 64, 64);\">ay </span><span style=\"color: rgb(64, 64, 64);\">be due to capillary </span><span style=\"color: rgb(64, 64, 64);\">damage from septic emboli or circulating immune\ncomplexes</span></div>\n<div><span style=\"color: rgb(157, 191, 190);\">&nbsp;</span></div>\n<div><span style=\"color: rgb(157, 191, 190);\">&nbsp;</span>{{c1::<u><span style=\"color: rgb(64, 64, 64); font-weight: bold;\">Janeway </span></u><u><span style=\"color: rgb(64, 64, 64); font-weight: bold;\">lesions</span></u><span style=\"color: rgb(64, 64, 64);\"> </span>}}<span style=\"color: rgb(64, 64, 64);\">- </span><span style=\"color: rgb(64, 64, 64);\">painless macules on the palms and </span><span style=\"color: rgb(64, 64, 64);\">soles; may </span><span style=\"color: rgb(64, 64, 64);\">be due to\nseptic </span><span style=\"color: rgb(64, 64, 64);\">emboli</span></div>\n<div><span style=\"color: rgb(157, 191, 190);\">&nbsp;</span></div>\n<div>{{c1::<span style=\"color: rgb(157, 191, 190);\">&nbsp;</span><u><span style=\"color: rgb(64, 64, 64); font-weight: bold;\">Osler nodes </span></u>}}<span style=\"color: rgb(64, 64, 64);\">- red-purple</span><span style=\"color: rgb(64, 64, 64);\">, slightly\nraised, </span><span style=\"color: rgb(64, 64, 64); font-weight: bold;\">tender</span><span style=\"color: rgb(64, 64, 64);\"> subcutaneous </span><span style=\"color: rgb(64, 64, 64);\">nodules;\ntypically </span><span style=\"color: rgb(64, 64, 64);\">found in the\npulp spaces of the fingers and/or toes or </span><span style=\"color: rgb(64, 64, 64);\">thenar</span><span style=\"color: rgb(64, 64, 64);\"> and </span><span style=\"color: rgb(64, 64, 64);\">hypothenar</span><span style=\"color: rgb(64, 64, 64);\"> eminences of the </span><span style=\"color: rgb(64, 64, 64);\">hand; </span><span style=\"color: rgb(64, 64, 64);\">l</span><span style=\"color: rgb(64, 64, 64);\">ikely </span><span style=\"color: rgb(64, 64, 64);\">due to circulating </span><span style=\"color: rgb(64, 64, 64);\">immune complexes</span></div>\n<div><span style=\"color: rgb(157, 191, 190);\">&nbsp;</span></div></div><div><span style=\"color: rgb(157, 191, 190);\">What this called and what is it?</span></div><div><img src=\"paste-d0e862c6a5c926846b4e2fb477eeb7e32b2b1e57.jpg\"><span style=\"color: rgb(157, 191, 190);\"><br></span></div><div>{{c1::<div><span style=\"font-weight: bold;\">Roth spots:</span></div>\n<div>Retinal haemorrhages with small, clear\ncentres; secondary\nto immune complexes; only observed in approx 5% of patients</div>}}<br></div>",
+                                "<div><span style=\"color: rgb(157, 191, 190);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Splinter haemorrhages (A)</span></div>\n<div><span style=\"color: rgb(157, 191, 190);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Conjunctival </span><span style=\"color: rgb(64, 64, 64);\">petechiae</span><span style=\"color: rgb(64, 64, 64);\"> (B)</span></div>\n<div><span style=\"color: rgb(157, 191, 190);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Osler nodes (C)</span></div>\n<div><span style=\"color: rgb(157, 191, 190);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Janeway</span><span style=\"color: rgb(64, 64, 64);\"> lesions (D)</span></div><div><img src=\"paste-e9ffeaf448feae009feecd471e09a4ca9c1f9cef.jpg\"><span style=\"color: rgb(64, 64, 64);\"><br></span></div>"
+                            ],
+                            "guid": "QL#CD!On$#",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><span style=\"color: rgb(0, 112, 192);\">Duke’s Criteria </span><span style=\"color: rgb(0, 112, 192);\">for\n</span><span style=\"color: rgb(0, 112, 192);\">Diagnosis of Infective </span><span style=\"color: rgb(0, 112, 192);\">Endocarditis&nbsp;</span></div><div>{{c1::2}}<span style=\"color: rgb(64, 64, 64); font-weight: bold;\">&nbsp;major criteria or</span></div>\n<div>{{c1::1}}<span style=\"color: rgb(64, 64, 64); font-weight: bold;\">&nbsp;major and&nbsp;</span>{{c1::3}}<span style=\"color: rgb(64, 64, 64); font-weight: bold;\">&nbsp;minor criteria or</span></div>\n<div>{{c1::5}}<span style=\"color: rgb(64, 64, 64); font-weight: bold;\">&nbsp;minor criteria</span></div><div><span style=\"color: rgb(64, 64, 64); font-weight: bold;\"><br></span></div><div><span style=\"color: rgb(64, 64, 64); font-weight: bold;\">Major vs minor?</span></div><div><div>-<span style=\"color: rgb(64, 64, 64); font-weight: bold;\">Fever &gt;/=38</span><span style=\"color: rgb(64, 64, 64); font-weight: bold;\">C</span><span style=\"color: rgb(64, 64, 64); font-weight: 700;\">&nbsp;</span>{{c1::minor}}</div></div><div><div>-<span style=\"color: rgb(64, 64, 64); font-weight: bold;\">Positive echocardiogram</span><span style=\"color: rgb(64, 64, 64); font-weight: 700;\">&nbsp;</span>{{c1::major}}</div></div><div><div>-<span style=\"color: rgb(64, 64, 64); font-weight: bold;\">typical organisms for IE from 2 separate blood\ncultures</span><span style=\"color: rgb(64, 64, 64); font-weight: 700;\">&nbsp;</span>{{c1::major}}</div><div><span style=\"color: rgb(64, 64, 64); font-weight: 700;\">-Microbiological evidence</span><span style=\"color: rgb(64, 64, 64); font-weight: 700;\">&nbsp;</span>{{c1::minor}}<span style=\"color: rgb(64, 64, 64); font-weight: bold;\"><br></span></div>\n<div>-<span style=\"color: rgb(64, 64, 64); font-weight: bold;\">Persistently positive blood cultures</span><span style=\"color: rgb(64, 64, 64); font-weight: 700;\">&nbsp;</span>{{c1::major}}</div></div><div><span style=\"color: rgb(64, 64, 64); font-weight: bold;\">-Vascular phenomena</span><span style=\"color: rgb(64, 64, 64); font-weight: 700;\">&nbsp;</span>{{c1::minor}}<span style=\"color: rgb(64, 64, 64); font-weight: bold;\"><br></span></div><div><span style=\"color: rgb(64, 64, 64); font-weight: bold;\">-Immunological phenomena&nbsp;</span>{{c1::minor}}</div>",
+                                ""
+                            ],
+                            "guid": "jK.uxxfxnJ",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(0, 112, 192);\">Blood cultures</span><div>How many should be taken?</div><div>{{c1::<div><div>•<span style=\"color: rgb(64, 64, 64); font-weight: bold;\">&nbsp;</span><u><span style=\"color: rgb(64, 64, 64); font-weight: bold;\">Multiple</span></u><span style=\"color: rgb(64, 64, 64);\">&nbsp;(≥ 3) sets&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">of blood cultures</span></div></div><div></div><div>}}Should it be taken before&nbsp;<br></div></div><div>or after antimicrobial treatment?</div><div>{{c1::<div><div>•<span style=\"color: rgb(64, 64, 64);\">&nbsp;Prior to commencement of antimicrobial therapy</span></div></div><div></div><div>}}What is the incubation period?<br></div></div><div><div>{{c1::<div>•<span style=\"color: rgb(64, 64, 64);\"> </span><span style=\"color: rgb(64, 64, 64);\">Prolonged\nincubation (21 days rather than the usual 5 days) to increase chance of finding organism</span><br></div>\n<div></div>}}<br></div></div><div><br></div><div><span style=\"color: rgb(0, 112, 192);\">Echocardiography</span><br></div><div>Which is better for left and right heart valves?</div><div><div><span style=\"color: rgb(157, 191, 190);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Transthoracic echocardiography&nbsp;</span>{{c1::Right heart valves}}</div>\n<div><span style=\"color: rgb(157, 191, 190);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Transoesophageal</span><span style=\"color: rgb(64, 64, 64);\"> echocardiography&nbsp;</span>{{c1::Left heart valves}}</div></div>",
+                                "<img src=\"paste-e72620f39157c2010af29b60cf0e0d35cf70abf6.jpg\"><img src=\"paste-227165fed35d59c1bf72ea50c2bfb6041d6c72f0.jpg\">"
+                            ],
+                            "guid": "j=Sx7/JIYC",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Treatment</b><div>What is prefered treatment?</div><div>{{c1::<span style=\"color: rgb(64, 64, 64);\">beta-lactam\n+/- aminoglycoside (</span><span style=\"color: rgb(64, 64, 64);\">eg</span><span style=\"color: rgb(64, 64, 64);\">. gentamicin)</span>}}<br></div><div>If it's resistant?<br></div><div>{{c1::<span style=\"color: rgb(64, 64, 64);\">glycopeptide</span><span style=\"color: rgb(64, 64, 64);\"> (</span><span style=\"color: rgb(64, 64, 64);\">eg</span><span style=\"color: rgb(64, 64, 64);\">. vancomycin)\nis used, in conjunction with an aminoglycoside</span>}}</div>",
+                                ""
+                            ],
+                            "guid": "I5T`Fvn8(k",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        }
+                    ]
                 }
             ],
             "crowdanki_uuid": "e848dad6-7dce-11eb-a5b6-a0b2d6ecb02c",
@@ -463,7 +641,7 @@
                     "extendRev": 0,
                     "media_files": [],
                     "mid": 1603908832969,
-                    "name": "15/2 Measurement of Health and Disease",
+                    "name": "02/15 Measurement of Health and Disease",
                     "notes": [
                         {
                             "__type__": "Note",
@@ -596,7 +774,7 @@
                         "tmp3u3k9y23.png"
                     ],
                     "mid": 1603908832969,
-                    "name": "15/2 Healing & Repair",
+                    "name": "02/15 Healing & Repair",
                     "notes": [
                         {
                             "__type__": "Note",
@@ -988,7 +1166,7 @@
                         "paste-e300036caa858a269ccd29ca20376037a12d50cc.jpg"
                     ],
                     "mid": 1603908832965,
-                    "name": "17/2 Intro to Haem",
+                    "name": "02/17 Intro to Haem",
                     "notes": [
                         {
                             "__type__": "Note",
@@ -1186,7 +1364,7 @@
                         "paste-f947aec778ef457840fc6b393299257aa12c1c29.jpg"
                     ],
                     "mid": 1603908832969,
-                    "name": "18/2 Management of Vascular Thrombosis o'sullivan",
+                    "name": "02/18 Management of Vascular Thrombosis o'sullivan",
                     "notes": [
                         {
                             "__type__": "Note",
@@ -1233,735 +1411,6 @@
                 {
                     "__type__": "Deck",
                     "children": [],
-                    "crowdanki_uuid": "aefb7b36-7dce-11eb-b8be-a0b2d6ecb02c",
-                    "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
-                    "desc": "",
-                    "dyn": 0,
-                    "extendNew": 0,
-                    "extendRev": 0,
-                    "media_files": [
-                        "14818811c97043f492ed5a80ac5a86c4-ao-1-A.svg",
-                        "14818811c97043f492ed5a80ac5a86c4-ao-1-Q.svg",
-                        "14818811c97043f492ed5a80ac5a86c4-ao-2-A.svg",
-                        "14818811c97043f492ed5a80ac5a86c4-ao-2-Q.svg",
-                        "14818811c97043f492ed5a80ac5a86c4-ao-3-A.svg",
-                        "14818811c97043f492ed5a80ac5a86c4-ao-3-Q.svg",
-                        "14818811c97043f492ed5a80ac5a86c4-ao-O.svg",
-                        "4d6596af06154f83aca0b050818a77b8-ao-1-A.svg",
-                        "4d6596af06154f83aca0b050818a77b8-ao-1-Q.svg",
-                        "4d6596af06154f83aca0b050818a77b8-ao-O.svg",
-                        "504b40199e9b4621997a17938bf97d71-ao-1-A.svg",
-                        "504b40199e9b4621997a17938bf97d71-ao-1-Q.svg",
-                        "504b40199e9b4621997a17938bf97d71-ao-2-A.svg",
-                        "504b40199e9b4621997a17938bf97d71-ao-2-Q.svg",
-                        "504b40199e9b4621997a17938bf97d71-ao-3-A.svg",
-                        "504b40199e9b4621997a17938bf97d71-ao-3-Q.svg",
-                        "504b40199e9b4621997a17938bf97d71-ao-4-A.svg",
-                        "504b40199e9b4621997a17938bf97d71-ao-4-Q.svg",
-                        "504b40199e9b4621997a17938bf97d71-ao-5-A.svg",
-                        "504b40199e9b4621997a17938bf97d71-ao-5-Q.svg",
-                        "504b40199e9b4621997a17938bf97d71-ao-O.svg",
-                        "8095b0bed27a471f83ccb7c46f375724-ao-1-A.svg",
-                        "8095b0bed27a471f83ccb7c46f375724-ao-1-Q.svg",
-                        "8095b0bed27a471f83ccb7c46f375724-ao-2-A.svg",
-                        "8095b0bed27a471f83ccb7c46f375724-ao-2-Q.svg",
-                        "8095b0bed27a471f83ccb7c46f375724-ao-3-A.svg",
-                        "8095b0bed27a471f83ccb7c46f375724-ao-3-Q.svg",
-                        "8095b0bed27a471f83ccb7c46f375724-ao-4-A.svg",
-                        "8095b0bed27a471f83ccb7c46f375724-ao-4-Q.svg",
-                        "8095b0bed27a471f83ccb7c46f375724-ao-5-A.svg",
-                        "8095b0bed27a471f83ccb7c46f375724-ao-5-Q.svg",
-                        "8095b0bed27a471f83ccb7c46f375724-ao-6-A.svg",
-                        "8095b0bed27a471f83ccb7c46f375724-ao-6-Q.svg",
-                        "8095b0bed27a471f83ccb7c46f375724-ao-7-A.svg",
-                        "8095b0bed27a471f83ccb7c46f375724-ao-7-Q.svg",
-                        "8095b0bed27a471f83ccb7c46f375724-ao-O.svg",
-                        "86f9cbdbe56f472e9e91f43b9e53b6c3-ao-1-A.svg",
-                        "86f9cbdbe56f472e9e91f43b9e53b6c3-ao-1-Q.svg",
-                        "86f9cbdbe56f472e9e91f43b9e53b6c3-ao-2-A.svg",
-                        "86f9cbdbe56f472e9e91f43b9e53b6c3-ao-2-Q.svg",
-                        "86f9cbdbe56f472e9e91f43b9e53b6c3-ao-3-A.svg",
-                        "86f9cbdbe56f472e9e91f43b9e53b6c3-ao-3-Q.svg",
-                        "86f9cbdbe56f472e9e91f43b9e53b6c3-ao-4-A.svg",
-                        "86f9cbdbe56f472e9e91f43b9e53b6c3-ao-4-Q.svg",
-                        "86f9cbdbe56f472e9e91f43b9e53b6c3-ao-O.svg",
-                        "b6885278b23c493c81dbd0f24e59e517-ao-1-A.svg",
-                        "b6885278b23c493c81dbd0f24e59e517-ao-1-Q.svg",
-                        "b6885278b23c493c81dbd0f24e59e517-ao-2-A.svg",
-                        "b6885278b23c493c81dbd0f24e59e517-ao-2-Q.svg",
-                        "b6885278b23c493c81dbd0f24e59e517-ao-3-A.svg",
-                        "b6885278b23c493c81dbd0f24e59e517-ao-3-Q.svg",
-                        "b6885278b23c493c81dbd0f24e59e517-ao-O.svg",
-                        "d609dd014488452790354a805216174c-ao-1-A.svg",
-                        "d609dd014488452790354a805216174c-ao-1-Q.svg",
-                        "d609dd014488452790354a805216174c-ao-2-A.svg",
-                        "d609dd014488452790354a805216174c-ao-2-Q.svg",
-                        "d609dd014488452790354a805216174c-ao-O.svg",
-                        "paste-1a6627a8f918c45d710742219eceefff4ab44d6a.jpg",
-                        "paste-1bb7675e19b6703c73fe961afc0fd826a9a7eb14.jpg",
-                        "paste-2a167b35884124358e3fcab7c5c3c4601be716c1.jpg",
-                        "paste-483cb205228e199a0e8b7eada4e1bd38e439fc6c.jpg",
-                        "paste-516244f8cf564202eaa40184788e9809f823de54.jpg",
-                        "paste-6d58f41c957700bc5817d4842baf932c6e9b2704.jpg",
-                        "paste-762ea8404778a788ab5093b5860c92d7f4f83b49.jpg",
-                        "paste-8649cf69ee5c7cb3739111b09bf1d2221f356f91.jpg",
-                        "paste-9f0535ee350c4418fac6484d69552a274a950d47.jpg",
-                        "paste-a91b7d6da8e6a221e6035abbeb4c40fd20b3b60f.jpg",
-                        "paste-bc4246258af13027de483633cce68d030f3df4d7.jpg",
-                        "paste-da2486842ad9075abb232a5fde8abac5696477be.jpg",
-                        "paste-eb1b6be2ff63a26e27b89b695cc4638bdd22a21e.jpg",
-                        "paste-ff1d8cf77dfcae1946cebad0160fd254603fe166.jpg",
-                        "tmp1d0oe6m4.png",
-                        "tmp1fyj12bi.png",
-                        "tmp6ppluhto.png",
-                        "tmp93t9gtfl.png",
-                        "tmpjb1btnlh.png",
-                        "tmpx3vr6vmm.png",
-                        "tmpz9twksk2.png"
-                    ],
-                    "mid": 1603908832969,
-                    "name": "2/3 Dyslipidemia",
-                    "notes": [
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Fatty\nAcids<div><div>•May\nbe {{c1::esterified&nbsp;with glycerol}} to form triglycerides, or be non-esterified or free (NEFA or FFA)</div></div><div><div>•FFA\nliberated\nfrom {{c1::adipose}} tissue are transported mainly bound to {{c1::albumin}}, to the liver and\nmuscle where they are metabolised providing a significant portion of the energy\nrequirements of the body</div></div>",
-                                ""
-                            ],
-                            "guid": "Hb2DTt7.gy",
-                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<div>{{c1::Saturated\nfatty acid}}: Fatty\nacids which contain the maximum possible number of hydrogen atoms,&nbsp;</div><div>Give an example</div><div><br></div><div>Fats\ncontaining {{c1::Saturated fatty acid}}&nbsp;tend to be {{c1::solid}} at room temperature.&nbsp;<br></div>",
-                                "<img src=\"paste-483cb205228e199a0e8b7eada4e1bd38e439fc6c.jpg\"><div><div>each carbon in the chain has two hydrogen\natoms attached to it\nare\n\"<u>saturated</u>\"\nwith hydrogen atoms.</div></div>"
-                            ],
-                            "guid": "yGp2p<x$-X",
-                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Mono-unsaturated\nfatty acid:&nbsp;Contain a single carbon-to-carbon \"double\" bond. Tend to be {{c1::liquid}} at room temperature<span style=\"color: rgb(234, 234, 234);\">&nbsp;</span><div><font color=\"#eaeaea\"><br></font><div>Give an example, 2 cooking examples</div></div>",
-                                "<div><img src=\"paste-9f0535ee350c4418fac6484d69552a274a950d47.jpg\"><br></div>corn oil, sunflower oil<div><br></div><div><div>The\ndouble bond puts a \"kink\" in the chain which takes up more room than\na straight chained fatty acids.</div></div>"
-                            ],
-                            "guid": "bms5`&txbN",
-                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "{{c1::Poly-unsaturated\nfatty acid}}:&nbsp;&nbsp;Have\n&gt;1 double bond.<br>\nOmega-3\n(ω3) and omega-6 (ω6) fatty acids are examples<div>Give a plant based example</div>",
-                                "<img src=\"paste-ff1d8cf77dfcae1946cebad0160fd254603fe166.jpg\"><div><div>Linoleic\nacid is a key precursor to some prostaglandins, thromboxanes\nand leucotrienes.</div></div><div><div>Sunflower,\nsafflower, corn oil &amp; avocado are particularly rich in it.</div></div>"
-                            ],
-                            "guid": "gI<E9ZlKq+",
-                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Essential\nFatty Acids<div><div>{{c1::Alpha-linolenic acid, omega 3}} is also a precursor\nto prostaglandins, thromboxanes and leucotrienes.</div></div><div><br></div><div><div>Fish oil is rich in the an essential fatty acid {{c1::omega−3}} derivatives {{c1::EPA}} and {{c1::DHA}}</div><div><span style=\"color: white;\"></span></div></div>",
-                                "<img src=\"paste-da2486842ad9075abb232a5fde8abac5696477be.jpg\"><div><div>Green leaves and linseed oil are rich in\nit.</div></div>"
-                            ],
-                            "guid": "l-=JE2XmX",
-                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "{{c1::Trans-unsaturated\nfatty acids}}:&nbsp;Largely are product of hydrogenation of\nfats to produce foodstuff with a longer shelf-life.<div>The evidence suggests they may be harmful\nin relation to the risk of cardiovascular disease.</div>",
-                                "<img src=\"paste-a91b7d6da8e6a221e6035abbeb4c40fd20b3b60f.jpg\">"
-                            ],
-                            "guid": "gYuBOqVR[f",
-                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Triglycerides:three\nfatty acid molecules {{c1::esterified}} to a {{c1::glycerol}} molecule.<div><div><span style=\"color: rgb(153, 204, 255);\">•</span>They\nare transported from the {{c1::intestine}} and the liver in {{c1::lipoprotein}} particles</div></div><div><div><span style=\"color: rgb(153, 204, 255);\">•</span>{{c1::Plasma}}\ntriglyceride levels rise after a fatty meal and remain increased for several\nhours</div></div>",
-                                "<img src=\"paste-6d58f41c957700bc5817d4842baf932c6e9b2704.jpg\">"
-                            ],
-                            "guid": "iw;>0]ur2b",
-                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "{{c1::Cholesterol}}:&nbsp;precursor\nto many physiologically important compounds (bile acids, steroid hormones)",
-                                "<div><img src=\"paste-1a6627a8f918c45d710742219eceefff4ab44d6a.jpg\"><br></div><div>•About\n2/3’s of the plasma cholesterol is esterified with fatty acids to form\ncholesterol esters</div><div><div>•Important\ncomponent of lipoproteins</div></div>"
-                            ],
-                            "guid": "Fq,CV.`$qF",
-                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Phospholipids:&nbsp;Complex\nlipids, resembling triglycerides, but containing {{c1::phosphate}} and a {{c1::nitrogenous base}}&nbsp; in place of one fatty acid<div>Which part is hydrophilic?</div>",
-                                "<div><img src=\"paste-bc4246258af13027de483633cce68d030f3df4d7.jpg\"><br></div><div>•Important\ncomponents of cell membranes and lipoproteins, maintaining the solubility of\ntriglycerides and cholesterol</div><div><br></div><div>The nitrogen part is hydrophilic</div>"
-                            ],
-                            "guid": "kUkwt.=0{",
-                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Lipoproteins<div><span style=\"color: rgb(153, 204, 255);\">•</span>Plasma\nlipids are derived from food or are synthesized in the body</div><div><div><span style=\"color: rgb(153, 204, 255);\">•</span>As\nlipids are fairly insoluble in water they are carried in body fluids as soluble\nprotein complexes known as lipoproteins</div>\n<div>•They\nhave a core of insoluble {{c1::cholesterol esters}} and {{c1::triglycerides}} surrounded by\nproteins, phospholipids and free cholesterol with their {{c1::water}} soluble groups\nfacing outwards.</div></div><div><br></div><div>Classified\nby their {{c1::density}} which correlates directly with their {{c1::protein}} concentration and\ninversely with their {{c1::size}}<br></div><div><br></div><div>What do&nbsp;Chylomicrons do?</div><div>What do&nbsp;VLDLs do?<br></div>",
-                                "<img src=\"paste-2a167b35884124358e3fcab7c5c3c4601be716c1.jpg\"><div><br></div><div><div><span style=\"color: rgb(153, 204, 255);\">•</span>Chylomicrons&nbsp;transport\nexogenous lipid from the intestine to all cells</div></div><div><br></div><div><div><span style=\"color: rgb(153, 204, 255);\">•</span>VLDL\n(<span style=\"font-style: italic;\">very\nlow density lipoprotein</span>)&nbsp;transports\nendogenous lipid from the liver to cells</div></div>"
-                            ],
-                            "guid": "E4{{X%1.R$",
-                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<div><div>{{c1::HDL&nbsp;}}: involved in the transport of cholesterol\nfrom the cells to the liver, the main protein is apoA</div></div><div><br><div><div>{{c1::LDL}} formed from VLDL, transports cholesterol\nto cells, the main protein is apoB</div></div><div><br></div><div><br></div></div>",
-                                ""
-                            ],
-                            "guid": "j[*$F,=/~k",
-                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "8095b0bed27a471f83ccb7c46f375724-ao-1",
-                                "",
-                                "<img src=\"tmpjb1btnlh.png\" />",
-                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-1-Q.svg\" />",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-1-A.svg\" />",
-                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-O.svg\" />"
-                            ],
-                            "guid": "G(FMPpPG0v",
-                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "8095b0bed27a471f83ccb7c46f375724-ao-2",
-                                "",
-                                "<img src=\"tmpjb1btnlh.png\" />",
-                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-2-Q.svg\" />",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-2-A.svg\" />",
-                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-O.svg\" />"
-                            ],
-                            "guid": "Iu=yuK`T@6",
-                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "8095b0bed27a471f83ccb7c46f375724-ao-3",
-                                "",
-                                "<img src=\"tmpjb1btnlh.png\" />",
-                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-3-Q.svg\" />",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-3-A.svg\" />",
-                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-O.svg\" />"
-                            ],
-                            "guid": "uk]x!s#cb{",
-                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "8095b0bed27a471f83ccb7c46f375724-ao-4",
-                                "",
-                                "<img src=\"tmpjb1btnlh.png\" />",
-                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-4-Q.svg\" />",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-4-A.svg\" />",
-                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-O.svg\" />"
-                            ],
-                            "guid": "owOUX6C@&[",
-                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "8095b0bed27a471f83ccb7c46f375724-ao-5",
-                                "",
-                                "<img src=\"tmpjb1btnlh.png\" />",
-                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-5-Q.svg\" />",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-5-A.svg\" />",
-                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-O.svg\" />"
-                            ],
-                            "guid": "faw5jt4<M{",
-                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "8095b0bed27a471f83ccb7c46f375724-ao-6",
-                                "",
-                                "<img src=\"tmpjb1btnlh.png\" />",
-                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-6-Q.svg\" />",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-6-A.svg\" />",
-                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-O.svg\" />"
-                            ],
-                            "guid": "cUVwi]1/[o",
-                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "8095b0bed27a471f83ccb7c46f375724-ao-7",
-                                "",
-                                "<img src=\"tmpjb1btnlh.png\" />",
-                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-7-Q.svg\" />",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-7-A.svg\" />",
-                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-O.svg\" />"
-                            ],
-                            "guid": "P%z_8j}=)0",
-                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "86f9cbdbe56f472e9e91f43b9e53b6c3-ao-1",
-                                "",
-                                "<img src=\"tmp93t9gtfl.png\" />",
-                                "<img src=\"86f9cbdbe56f472e9e91f43b9e53b6c3-ao-1-Q.svg\" />",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "<img src=\"86f9cbdbe56f472e9e91f43b9e53b6c3-ao-1-A.svg\" />",
-                                "<img src=\"86f9cbdbe56f472e9e91f43b9e53b6c3-ao-O.svg\" />"
-                            ],
-                            "guid": "j`yMPJ/?6w",
-                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "86f9cbdbe56f472e9e91f43b9e53b6c3-ao-2",
-                                "",
-                                "<img src=\"tmp93t9gtfl.png\" />",
-                                "<img src=\"86f9cbdbe56f472e9e91f43b9e53b6c3-ao-2-Q.svg\" />",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "<img src=\"86f9cbdbe56f472e9e91f43b9e53b6c3-ao-2-A.svg\" />",
-                                "<img src=\"86f9cbdbe56f472e9e91f43b9e53b6c3-ao-O.svg\" />"
-                            ],
-                            "guid": "A[809q:,F4",
-                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "86f9cbdbe56f472e9e91f43b9e53b6c3-ao-3",
-                                "",
-                                "<img src=\"tmp93t9gtfl.png\" />",
-                                "<img src=\"86f9cbdbe56f472e9e91f43b9e53b6c3-ao-3-Q.svg\" />",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "<img src=\"86f9cbdbe56f472e9e91f43b9e53b6c3-ao-3-A.svg\" />",
-                                "<img src=\"86f9cbdbe56f472e9e91f43b9e53b6c3-ao-O.svg\" />"
-                            ],
-                            "guid": "A=E3yBZiiB",
-                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "86f9cbdbe56f472e9e91f43b9e53b6c3-ao-4",
-                                "",
-                                "<img src=\"tmp93t9gtfl.png\" />",
-                                "<img src=\"86f9cbdbe56f472e9e91f43b9e53b6c3-ao-4-Q.svg\" />",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "<img src=\"86f9cbdbe56f472e9e91f43b9e53b6c3-ao-4-A.svg\" />",
-                                "<img src=\"86f9cbdbe56f472e9e91f43b9e53b6c3-ao-O.svg\" />"
-                            ],
-                            "guid": "Lh)WK<$/V!",
-                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "504b40199e9b4621997a17938bf97d71-ao-1",
-                                "",
-                                "<img src=\"tmpz9twksk2.png\" />",
-                                "<img src=\"504b40199e9b4621997a17938bf97d71-ao-1-Q.svg\" />",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "<img src=\"504b40199e9b4621997a17938bf97d71-ao-1-A.svg\" />",
-                                "<img src=\"504b40199e9b4621997a17938bf97d71-ao-O.svg\" />"
-                            ],
-                            "guid": "v(Jtzu<?;i",
-                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "504b40199e9b4621997a17938bf97d71-ao-2",
-                                "",
-                                "<img src=\"tmpz9twksk2.png\" />",
-                                "<img src=\"504b40199e9b4621997a17938bf97d71-ao-2-Q.svg\" />",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "<img src=\"504b40199e9b4621997a17938bf97d71-ao-2-A.svg\" />",
-                                "<img src=\"504b40199e9b4621997a17938bf97d71-ao-O.svg\" />"
-                            ],
-                            "guid": "L/:Q?UDm1w",
-                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "504b40199e9b4621997a17938bf97d71-ao-3",
-                                "",
-                                "<img src=\"tmpz9twksk2.png\" />",
-                                "<img src=\"504b40199e9b4621997a17938bf97d71-ao-3-Q.svg\" />",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "<img src=\"504b40199e9b4621997a17938bf97d71-ao-3-A.svg\" />",
-                                "<img src=\"504b40199e9b4621997a17938bf97d71-ao-O.svg\" />"
-                            ],
-                            "guid": "OF*K+Gfg3u",
-                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "504b40199e9b4621997a17938bf97d71-ao-4",
-                                "",
-                                "<img src=\"tmpz9twksk2.png\" />",
-                                "<img src=\"504b40199e9b4621997a17938bf97d71-ao-4-Q.svg\" />",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "<img src=\"504b40199e9b4621997a17938bf97d71-ao-4-A.svg\" />",
-                                "<img src=\"504b40199e9b4621997a17938bf97d71-ao-O.svg\" />"
-                            ],
-                            "guid": "DcH|Wy+5LQ",
-                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "504b40199e9b4621997a17938bf97d71-ao-5",
-                                "",
-                                "<img src=\"tmpz9twksk2.png\" />",
-                                "<img src=\"504b40199e9b4621997a17938bf97d71-ao-5-Q.svg\" />",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "<img src=\"504b40199e9b4621997a17938bf97d71-ao-5-A.svg\" />",
-                                "<img src=\"504b40199e9b4621997a17938bf97d71-ao-O.svg\" />"
-                            ],
-                            "guid": "BPFQks0VqE",
-                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "14818811c97043f492ed5a80ac5a86c4-ao-1",
-                                "",
-                                "<img src=\"tmp6ppluhto.png\" />",
-                                "<img src=\"14818811c97043f492ed5a80ac5a86c4-ao-1-Q.svg\" />",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "<img src=\"14818811c97043f492ed5a80ac5a86c4-ao-1-A.svg\" />",
-                                "<img src=\"14818811c97043f492ed5a80ac5a86c4-ao-O.svg\" />"
-                            ],
-                            "guid": "B;`>kU]+F9",
-                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "14818811c97043f492ed5a80ac5a86c4-ao-2",
-                                "",
-                                "<img src=\"tmp6ppluhto.png\" />",
-                                "<img src=\"14818811c97043f492ed5a80ac5a86c4-ao-2-Q.svg\" />",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "<img src=\"14818811c97043f492ed5a80ac5a86c4-ao-2-A.svg\" />",
-                                "<img src=\"14818811c97043f492ed5a80ac5a86c4-ao-O.svg\" />"
-                            ],
-                            "guid": "Dq,w(Lls}N",
-                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "14818811c97043f492ed5a80ac5a86c4-ao-3",
-                                "",
-                                "<img src=\"tmp6ppluhto.png\" />",
-                                "<img src=\"14818811c97043f492ed5a80ac5a86c4-ao-3-Q.svg\" />",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "<img src=\"14818811c97043f492ed5a80ac5a86c4-ao-3-A.svg\" />",
-                                "<img src=\"14818811c97043f492ed5a80ac5a86c4-ao-O.svg\" />"
-                            ],
-                            "guid": "tq$e(:T~7;",
-                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<div>{{c1::Atherosclerosis}}:&nbsp;Disease\nof arteries, resulting in the formation of multiple plaques (AKA {{c1::atheromas}})\nwithin the arteries</div><div><br></div><div><div>Plaques</div><div>•pathological\naccumulation\nof cells or cell debris, which contain lipids (cholesterol &amp; fatty acids),\n{{c1::calcium}} &amp; fibrous connective tissue within the walls of arteries</div>\n<div>•The\ndebris accumulates between the endothelium and\nthe\n{{c1::smooth muscle wall (media)}}</div></div><div><br></div><div><div>{{c1::Atheromas}}\nreduce blood flow leading to:</div>\n<div>•{{c1::Coronary}}\nArtery Disease</div>\n<div>•{{c1::Cerebrovascular}}\nDisease</div>\n{{c1::Peripheral}}\nVascular Disease<br></div>",
-                                ""
-                            ],
-                            "guid": "H_hw.2F!kS",
-                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "b6885278b23c493c81dbd0f24e59e517-ao-1",
-                                "",
-                                "<img src=\"tmpx3vr6vmm.png\" />",
-                                "<img src=\"b6885278b23c493c81dbd0f24e59e517-ao-1-Q.svg\" />",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "<img src=\"b6885278b23c493c81dbd0f24e59e517-ao-1-A.svg\" />",
-                                "<img src=\"b6885278b23c493c81dbd0f24e59e517-ao-O.svg\" />"
-                            ],
-                            "guid": "wbN]9qPf?b",
-                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "b6885278b23c493c81dbd0f24e59e517-ao-2",
-                                "",
-                                "<img src=\"tmpx3vr6vmm.png\" />",
-                                "<img src=\"b6885278b23c493c81dbd0f24e59e517-ao-2-Q.svg\" />",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "<img src=\"b6885278b23c493c81dbd0f24e59e517-ao-2-A.svg\" />",
-                                "<img src=\"b6885278b23c493c81dbd0f24e59e517-ao-O.svg\" />"
-                            ],
-                            "guid": "lq$*#UI<29",
-                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "b6885278b23c493c81dbd0f24e59e517-ao-3",
-                                "",
-                                "<img src=\"tmpx3vr6vmm.png\" />",
-                                "<img src=\"b6885278b23c493c81dbd0f24e59e517-ao-3-Q.svg\" />",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "<img src=\"b6885278b23c493c81dbd0f24e59e517-ao-3-A.svg\" />",
-                                "<img src=\"b6885278b23c493c81dbd0f24e59e517-ao-O.svg\" />"
-                            ],
-                            "guid": "wFXEa$O3!V",
-                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "d609dd014488452790354a805216174c-ao-1",
-                                "",
-                                "<img src=\"tmp1d0oe6m4.png\" />",
-                                "<img src=\"d609dd014488452790354a805216174c-ao-1-Q.svg\" />",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "<img src=\"d609dd014488452790354a805216174c-ao-1-A.svg\" />",
-                                "<img src=\"d609dd014488452790354a805216174c-ao-O.svg\" />"
-                            ],
-                            "guid": "x|uHo@ppUi",
-                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "d609dd014488452790354a805216174c-ao-2",
-                                "",
-                                "<img src=\"tmp1d0oe6m4.png\" />",
-                                "<img src=\"d609dd014488452790354a805216174c-ao-2-Q.svg\" />",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "<img src=\"d609dd014488452790354a805216174c-ao-2-A.svg\" />",
-                                "<img src=\"d609dd014488452790354a805216174c-ao-O.svg\" />"
-                            ],
-                            "guid": "sw.Gs[H&IW",
-                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<div><b>Schema\nof Atherogenesis<br></b></div><div>•Minor endothelial damage, Name 4 causes {{c1::(turbulence, relative anoxia, hypertension,\noxidation or glycation)}}</div>\n<div>•{{c1::LDL}} particles cross the damaged\nendothelium</div>\n<div>•Circulating monocytes attracted by the damaged\nendothelium &amp; enter the {{c1::subendothelial}} space.</div>\n<div>•LDL particles in the artery wall\nare {{c1::oxidised}} by oxygen free radicals name 4 sources {{c1::(present in cigarette smoke, formed during\nglycation reactions, generated by\nmacrophages deliberately to kill bacteria or leaking from various oxidative\npathways)}}</div>\n<div>•Oxidised LDL is taken up rapidly\nby macrophages (AKA {{c1::foam cells}})</div>",
-                                "<span style=\"color: white;\">Schema\nof At</span><img src=\"paste-762ea8404778a788ab5093b5860c92d7f4f83b49.jpg\"><img src=\"paste-516244f8cf564202eaa40184788e9809f823de54.jpg\"><span style=\"color: white;\">herogenesis</span>"
-                            ],
-                            "guid": "h/29|iN($l",
-                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<div><b>Schema\nof Atherogenesis<br></b></div><div>•Collagen elaborated by\n{{c1::fibroblasts}} comes to overlie the foam cells, which undergo necrosis or\napoptosis</div>\n<div>•This results in the formation of\na pool of extracellular {{c1::cholesterol}} trapped beneath a {{c1::fibrous}} cap.</div>\n<div>•At the shoulder of the {{c1::atheromatous}} lesion active foam cell\nformation continues &amp; the lesion advances across the inner surface of the\nartery.</div>\n<div>•Plaques can either obstruct blood\nflow resulting in ischaemia to the peripheral tissue or rupture with thrombus\nformation at the site of {{c1::the cap}} leading to {{c1::peripheral}} infarction.</div>",
-                                "<img src=\"paste-8649cf69ee5c7cb3739111b09bf1d2221f356f91.jpg\">"
-                            ],
-                            "guid": "JzN2D%+&:!",
-                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<div>Secondary\nHyperlipidemias<br></div><div>{{c1::Endocrine}}</div>\n<div>•Diabetes\nmellitus, hypothyroidism, pituitary disease</div><div><br></div>\n<div>{{c1::Renal}}\ndisease</div>\n<div>•Nephrotic\nsyndrome, chronic renal failure</div><div><br></div>\n<div>Drugs</div>\n<div>•Β-blockers, thiazides, steroids, phenytoin, antiretrovirals, clozapine</div><div><br></div>\n<div>{{c1::Hepatic}}\ndisease</div>\n<div>•Cholestasis, hepatocellular disease, cholelithiasis</div><div><br></div>\n<div>{{c1::Immunoglobulin}}\nexcess</div>\n<div>•Myeloma, macroglobulinemia, SLE</div><div><br></div>\n<div>Hyperuricemia</div><div><br></div>\n<div>Nutritional</div>\n<div>•Obesity, alcohol, anorexia nervosa</div>",
-                                ""
-                            ],
-                            "guid": "*f]4c4?zj",
-                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<div><b>Familial\nHypercholesterolemia (FH)<br></b></div><div>{{c1::Single}} gene defect&nbsp;</div><div>Type A: affects {{c1::LDL}} receptor</div><div>Type B:&nbsp;Loss-of-function\nmutation of the {{c1::apolipoprotein B}} gene</div><div>Type C:&nbsp;Gain-of-function\n{{c1::PCSK9}} mutations&nbsp;</div><div><br></div><div>Prevalence</div>\n<div>•Most\nimportant syndrome leading to premature {{c1::CHD}}</div>\n<div>•Commonest\ngenetic\ndisease in Europe, 1 in {{c1::300}}</div><div><br></div>\n<div>Natural\nHistory</div>\n<div>•CHD\noccur\nbetween 25-50 in 50% of untreated males</div>\n<div>•50%\nof untreated men will\nhave died from IHD by 60</div>\n<div>•women\ngenerally have an onset about {{c1::10}} years after men</div><div><br></div><div><div>{{c1::PCSK9}}: Marks LDL receptor for degradation&nbsp;</div></div><div>Laboratory\nDiagnosis<br></div><div><div>•Average\nuntreated cholesterol ~ {{c1::9}} mmol/L</div>\n<div>•Usually\nrange from {{c1::7.5-14}} mmol/L</div></div><div><br></div><div>What is&nbsp;Xanthomata and where does it usually occur?</div><div><div>What is&nbsp;Xanthelasma&nbsp;and where does it occur?</div></div>",
-                                "<div>Xanthomata&nbsp;is a deposition of yellowish cholesterol-rich material<br></div><div>•commonly\nin tendons, usually only in adults</div>\n<div>•most\ncommonly in knuckles of Achilles tendons</div><div><img src=\"paste-eb1b6be2ff63a26e27b89b695cc4638bdd22a21e.jpg\"><br></div><div><em>Xanthelasma</em><span style=\"color: rgb(77, 81, 86);\">&nbsp;are cholesterol-filled plaques that usually appear on the eyelids.</span><br></div><div><img src=\"paste-1bb7675e19b6703c73fe961afc0fd826a9a7eb14.jpg\"><span style=\"color: rgb(77, 81, 86);\"><br></span></div>"
-                            ],
-                            "guid": "xuX{Rtjjp?",
-                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "4d6596af06154f83aca0b050818a77b8-ao-1",
-                                "",
-                                "<img src=\"tmp1fyj12bi.png\" />",
-                                "<img src=\"4d6596af06154f83aca0b050818a77b8-ao-1-Q.svg\" />",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                "<img src=\"4d6596af06154f83aca0b050818a77b8-ao-1-A.svg\" />",
-                                "<img src=\"4d6596af06154f83aca0b050818a77b8-ao-O.svg\" />"
-                            ],
-                            "guid": "P1VV1t7O#_",
-                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
-                            "tags": []
-                        }
-                    ]
-                },
-                {
-                    "__type__": "Deck",
-                    "children": [],
                     "crowdanki_uuid": "b1584696-7dce-11eb-a574-a0b2d6ecb02c",
                     "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
                     "desc": "",
@@ -1997,7 +1446,7 @@
                         "paste-f58c42dbfb39bbf57852ebbf9681d04f71480c4f.jpg",
                         "tmp4u6fq4ar.png"
                     ],
-                    "name": "20/2 Sepsis and shock",
+                    "name": "02/20 Sepsis and shock",
                     "notes": [
                         {
                             "__type__": "Note",
@@ -2261,7 +1710,7 @@
                         "paste-333ab1d051ad667bff24b8cfb5adb3aa13757370.jpg",
                         "tmpup463kof.png"
                     ],
-                    "name": "21/2 Blood Transfusion",
+                    "name": "02/21 Blood Transfusion",
                     "notes": [
                         {
                             "__type__": "Note",
@@ -2413,7 +1862,7 @@
                     "extendNew": 0,
                     "extendRev": 0,
                     "media_files": [],
-                    "name": "21/2 Hemostasisand Thrombosis",
+                    "name": "02/21 Hemostasisand Thrombosis",
                     "notes": [
                         {
                             "__type__": "Note",
@@ -2535,7 +1984,7 @@
                         "tmprmn8s8j1.png"
                     ],
                     "mid": 1603908832969,
-                    "name": "22/2 THROMBOSIS EMBOLISM INFARCTION",
+                    "name": "02/22 THROMBOSIS EMBOLISM INFARCTION",
                     "notes": [
                         {
                             "__type__": "Note",
@@ -3386,6 +2835,735 @@
                 {
                     "__type__": "Deck",
                     "children": [],
+                    "crowdanki_uuid": "aefb7b36-7dce-11eb-b8be-a0b2d6ecb02c",
+                    "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "14818811c97043f492ed5a80ac5a86c4-ao-1-A.svg",
+                        "14818811c97043f492ed5a80ac5a86c4-ao-1-Q.svg",
+                        "14818811c97043f492ed5a80ac5a86c4-ao-2-A.svg",
+                        "14818811c97043f492ed5a80ac5a86c4-ao-2-Q.svg",
+                        "14818811c97043f492ed5a80ac5a86c4-ao-3-A.svg",
+                        "14818811c97043f492ed5a80ac5a86c4-ao-3-Q.svg",
+                        "14818811c97043f492ed5a80ac5a86c4-ao-O.svg",
+                        "4d6596af06154f83aca0b050818a77b8-ao-1-A.svg",
+                        "4d6596af06154f83aca0b050818a77b8-ao-1-Q.svg",
+                        "4d6596af06154f83aca0b050818a77b8-ao-O.svg",
+                        "504b40199e9b4621997a17938bf97d71-ao-1-A.svg",
+                        "504b40199e9b4621997a17938bf97d71-ao-1-Q.svg",
+                        "504b40199e9b4621997a17938bf97d71-ao-2-A.svg",
+                        "504b40199e9b4621997a17938bf97d71-ao-2-Q.svg",
+                        "504b40199e9b4621997a17938bf97d71-ao-3-A.svg",
+                        "504b40199e9b4621997a17938bf97d71-ao-3-Q.svg",
+                        "504b40199e9b4621997a17938bf97d71-ao-4-A.svg",
+                        "504b40199e9b4621997a17938bf97d71-ao-4-Q.svg",
+                        "504b40199e9b4621997a17938bf97d71-ao-5-A.svg",
+                        "504b40199e9b4621997a17938bf97d71-ao-5-Q.svg",
+                        "504b40199e9b4621997a17938bf97d71-ao-O.svg",
+                        "8095b0bed27a471f83ccb7c46f375724-ao-1-A.svg",
+                        "8095b0bed27a471f83ccb7c46f375724-ao-1-Q.svg",
+                        "8095b0bed27a471f83ccb7c46f375724-ao-2-A.svg",
+                        "8095b0bed27a471f83ccb7c46f375724-ao-2-Q.svg",
+                        "8095b0bed27a471f83ccb7c46f375724-ao-3-A.svg",
+                        "8095b0bed27a471f83ccb7c46f375724-ao-3-Q.svg",
+                        "8095b0bed27a471f83ccb7c46f375724-ao-4-A.svg",
+                        "8095b0bed27a471f83ccb7c46f375724-ao-4-Q.svg",
+                        "8095b0bed27a471f83ccb7c46f375724-ao-5-A.svg",
+                        "8095b0bed27a471f83ccb7c46f375724-ao-5-Q.svg",
+                        "8095b0bed27a471f83ccb7c46f375724-ao-6-A.svg",
+                        "8095b0bed27a471f83ccb7c46f375724-ao-6-Q.svg",
+                        "8095b0bed27a471f83ccb7c46f375724-ao-7-A.svg",
+                        "8095b0bed27a471f83ccb7c46f375724-ao-7-Q.svg",
+                        "8095b0bed27a471f83ccb7c46f375724-ao-O.svg",
+                        "86f9cbdbe56f472e9e91f43b9e53b6c3-ao-1-A.svg",
+                        "86f9cbdbe56f472e9e91f43b9e53b6c3-ao-1-Q.svg",
+                        "86f9cbdbe56f472e9e91f43b9e53b6c3-ao-2-A.svg",
+                        "86f9cbdbe56f472e9e91f43b9e53b6c3-ao-2-Q.svg",
+                        "86f9cbdbe56f472e9e91f43b9e53b6c3-ao-3-A.svg",
+                        "86f9cbdbe56f472e9e91f43b9e53b6c3-ao-3-Q.svg",
+                        "86f9cbdbe56f472e9e91f43b9e53b6c3-ao-4-A.svg",
+                        "86f9cbdbe56f472e9e91f43b9e53b6c3-ao-4-Q.svg",
+                        "86f9cbdbe56f472e9e91f43b9e53b6c3-ao-O.svg",
+                        "b6885278b23c493c81dbd0f24e59e517-ao-1-A.svg",
+                        "b6885278b23c493c81dbd0f24e59e517-ao-1-Q.svg",
+                        "b6885278b23c493c81dbd0f24e59e517-ao-2-A.svg",
+                        "b6885278b23c493c81dbd0f24e59e517-ao-2-Q.svg",
+                        "b6885278b23c493c81dbd0f24e59e517-ao-3-A.svg",
+                        "b6885278b23c493c81dbd0f24e59e517-ao-3-Q.svg",
+                        "b6885278b23c493c81dbd0f24e59e517-ao-O.svg",
+                        "d609dd014488452790354a805216174c-ao-1-A.svg",
+                        "d609dd014488452790354a805216174c-ao-1-Q.svg",
+                        "d609dd014488452790354a805216174c-ao-2-A.svg",
+                        "d609dd014488452790354a805216174c-ao-2-Q.svg",
+                        "d609dd014488452790354a805216174c-ao-O.svg",
+                        "paste-1a6627a8f918c45d710742219eceefff4ab44d6a.jpg",
+                        "paste-1bb7675e19b6703c73fe961afc0fd826a9a7eb14.jpg",
+                        "paste-2a167b35884124358e3fcab7c5c3c4601be716c1.jpg",
+                        "paste-483cb205228e199a0e8b7eada4e1bd38e439fc6c.jpg",
+                        "paste-516244f8cf564202eaa40184788e9809f823de54.jpg",
+                        "paste-6d58f41c957700bc5817d4842baf932c6e9b2704.jpg",
+                        "paste-762ea8404778a788ab5093b5860c92d7f4f83b49.jpg",
+                        "paste-8649cf69ee5c7cb3739111b09bf1d2221f356f91.jpg",
+                        "paste-9f0535ee350c4418fac6484d69552a274a950d47.jpg",
+                        "paste-a91b7d6da8e6a221e6035abbeb4c40fd20b3b60f.jpg",
+                        "paste-bc4246258af13027de483633cce68d030f3df4d7.jpg",
+                        "paste-da2486842ad9075abb232a5fde8abac5696477be.jpg",
+                        "paste-eb1b6be2ff63a26e27b89b695cc4638bdd22a21e.jpg",
+                        "paste-ff1d8cf77dfcae1946cebad0160fd254603fe166.jpg",
+                        "tmp1d0oe6m4.png",
+                        "tmp1fyj12bi.png",
+                        "tmp6ppluhto.png",
+                        "tmp93t9gtfl.png",
+                        "tmpjb1btnlh.png",
+                        "tmpx3vr6vmm.png",
+                        "tmpz9twksk2.png"
+                    ],
+                    "mid": 1603908832969,
+                    "name": "03/02 Dyslipidemia",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Fatty\nAcids<div><div>•May\nbe {{c1::esterified&nbsp;with glycerol}} to form triglycerides, or be non-esterified or free (NEFA or FFA)</div></div><div><div>•FFA\nliberated\nfrom {{c1::adipose}} tissue are transported mainly bound to {{c1::albumin}}, to the liver and\nmuscle where they are metabolised providing a significant portion of the energy\nrequirements of the body</div></div>",
+                                ""
+                            ],
+                            "guid": "Hb2DTt7.gy",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>{{c1::Saturated\nfatty acid}}: Fatty\nacids which contain the maximum possible number of hydrogen atoms,&nbsp;</div><div>Give an example</div><div><br></div><div>Fats\ncontaining {{c1::Saturated fatty acid}}&nbsp;tend to be {{c1::solid}} at room temperature.&nbsp;<br></div>",
+                                "<img src=\"paste-483cb205228e199a0e8b7eada4e1bd38e439fc6c.jpg\"><div><div>each carbon in the chain has two hydrogen\natoms attached to it\nare\n\"<u>saturated</u>\"\nwith hydrogen atoms.</div></div>"
+                            ],
+                            "guid": "yGp2p<x$-X",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Mono-unsaturated\nfatty acid:&nbsp;Contain a single carbon-to-carbon \"double\" bond. Tend to be {{c1::liquid}} at room temperature<span style=\"color: rgb(234, 234, 234);\">&nbsp;</span><div><font color=\"#eaeaea\"><br></font><div>Give an example, 2 cooking examples</div></div>",
+                                "<div><img src=\"paste-9f0535ee350c4418fac6484d69552a274a950d47.jpg\"><br></div>corn oil, sunflower oil<div><br></div><div><div>The\ndouble bond puts a \"kink\" in the chain which takes up more room than\na straight chained fatty acids.</div></div>"
+                            ],
+                            "guid": "bms5`&txbN",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::Poly-unsaturated\nfatty acid}}:&nbsp;&nbsp;Have\n&gt;1 double bond.<br>\nOmega-3\n(ω3) and omega-6 (ω6) fatty acids are examples<div>Give a plant based example</div>",
+                                "<img src=\"paste-ff1d8cf77dfcae1946cebad0160fd254603fe166.jpg\"><div><div>Linoleic\nacid is a key precursor to some prostaglandins, thromboxanes\nand leucotrienes.</div></div><div><div>Sunflower,\nsafflower, corn oil &amp; avocado are particularly rich in it.</div></div>"
+                            ],
+                            "guid": "gI<E9ZlKq+",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Essential\nFatty Acids<div><div>{{c1::Alpha-linolenic acid, omega 3}} is also a precursor\nto prostaglandins, thromboxanes and leucotrienes.</div></div><div><br></div><div><div>Fish oil is rich in the an essential fatty acid {{c1::omega−3}} derivatives {{c1::EPA}} and {{c1::DHA}}</div><div><span style=\"color: white;\"></span></div></div>",
+                                "<img src=\"paste-da2486842ad9075abb232a5fde8abac5696477be.jpg\"><div><div>Green leaves and linseed oil are rich in\nit.</div></div>"
+                            ],
+                            "guid": "l-=JE2XmX",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::Trans-unsaturated\nfatty acids}}:&nbsp;Largely are product of hydrogenation of\nfats to produce foodstuff with a longer shelf-life.<div>The evidence suggests they may be harmful\nin relation to the risk of cardiovascular disease.</div>",
+                                "<img src=\"paste-a91b7d6da8e6a221e6035abbeb4c40fd20b3b60f.jpg\">"
+                            ],
+                            "guid": "gYuBOqVR[f",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Triglycerides:three\nfatty acid molecules {{c1::esterified}} to a {{c1::glycerol}} molecule.<div><div><span style=\"color: rgb(153, 204, 255);\">•</span>They\nare transported from the {{c1::intestine}} and the liver in {{c1::lipoprotein}} particles</div></div><div><div><span style=\"color: rgb(153, 204, 255);\">•</span>{{c1::Plasma}}\ntriglyceride levels rise after a fatty meal and remain increased for several\nhours</div></div>",
+                                "<img src=\"paste-6d58f41c957700bc5817d4842baf932c6e9b2704.jpg\">"
+                            ],
+                            "guid": "iw;>0]ur2b",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::Cholesterol}}:&nbsp;precursor\nto many physiologically important compounds (bile acids, steroid hormones)",
+                                "<div><img src=\"paste-1a6627a8f918c45d710742219eceefff4ab44d6a.jpg\"><br></div><div>•About\n2/3’s of the plasma cholesterol is esterified with fatty acids to form\ncholesterol esters</div><div><div>•Important\ncomponent of lipoproteins</div></div>"
+                            ],
+                            "guid": "Fq,CV.`$qF",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Phospholipids:&nbsp;Complex\nlipids, resembling triglycerides, but containing {{c1::phosphate}} and a {{c1::nitrogenous base}}&nbsp; in place of one fatty acid<div>Which part is hydrophilic?</div>",
+                                "<div><img src=\"paste-bc4246258af13027de483633cce68d030f3df4d7.jpg\"><br></div><div>•Important\ncomponents of cell membranes and lipoproteins, maintaining the solubility of\ntriglycerides and cholesterol</div><div><br></div><div>The nitrogen part is hydrophilic</div>"
+                            ],
+                            "guid": "kUkwt.=0{",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Lipoproteins<div><span style=\"color: rgb(153, 204, 255);\">•</span>Plasma\nlipids are derived from food or are synthesized in the body</div><div><div><span style=\"color: rgb(153, 204, 255);\">•</span>As\nlipids are fairly insoluble in water they are carried in body fluids as soluble\nprotein complexes known as lipoproteins</div>\n<div>•They\nhave a core of insoluble {{c1::cholesterol esters}} and {{c1::triglycerides}} surrounded by\nproteins, phospholipids and free cholesterol with their {{c1::water}} soluble groups\nfacing outwards.</div></div><div><br></div><div>Classified\nby their {{c1::density}} which correlates directly with their {{c1::protein}} concentration and\ninversely with their {{c1::size}}<br></div><div><br></div><div>What do&nbsp;Chylomicrons do?</div><div>What do&nbsp;VLDLs do?<br></div>",
+                                "<img src=\"paste-2a167b35884124358e3fcab7c5c3c4601be716c1.jpg\"><div><br></div><div><div><span style=\"color: rgb(153, 204, 255);\">•</span>Chylomicrons&nbsp;transport\nexogenous lipid from the intestine to all cells</div></div><div><br></div><div><div><span style=\"color: rgb(153, 204, 255);\">•</span>VLDL\n(<span style=\"font-style: italic;\">very\nlow density lipoprotein</span>)&nbsp;transports\nendogenous lipid from the liver to cells</div></div>"
+                            ],
+                            "guid": "E4{{X%1.R$",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><div>{{c1::HDL&nbsp;}}: involved in the transport of cholesterol\nfrom the cells to the liver, the main protein is apoA</div></div><div><br><div><div>{{c1::LDL}} formed from VLDL, transports cholesterol\nto cells, the main protein is apoB</div></div><div><br></div><div><br></div></div>",
+                                ""
+                            ],
+                            "guid": "j[*$F,=/~k",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "8095b0bed27a471f83ccb7c46f375724-ao-1",
+                                "",
+                                "<img src=\"tmpjb1btnlh.png\" />",
+                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-1-A.svg\" />",
+                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-O.svg\" />"
+                            ],
+                            "guid": "G(FMPpPG0v",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "8095b0bed27a471f83ccb7c46f375724-ao-2",
+                                "",
+                                "<img src=\"tmpjb1btnlh.png\" />",
+                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-2-A.svg\" />",
+                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-O.svg\" />"
+                            ],
+                            "guid": "Iu=yuK`T@6",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "8095b0bed27a471f83ccb7c46f375724-ao-3",
+                                "",
+                                "<img src=\"tmpjb1btnlh.png\" />",
+                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-3-A.svg\" />",
+                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-O.svg\" />"
+                            ],
+                            "guid": "uk]x!s#cb{",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "8095b0bed27a471f83ccb7c46f375724-ao-4",
+                                "",
+                                "<img src=\"tmpjb1btnlh.png\" />",
+                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-4-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-4-A.svg\" />",
+                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-O.svg\" />"
+                            ],
+                            "guid": "owOUX6C@&[",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "8095b0bed27a471f83ccb7c46f375724-ao-5",
+                                "",
+                                "<img src=\"tmpjb1btnlh.png\" />",
+                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-5-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-5-A.svg\" />",
+                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-O.svg\" />"
+                            ],
+                            "guid": "faw5jt4<M{",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "8095b0bed27a471f83ccb7c46f375724-ao-6",
+                                "",
+                                "<img src=\"tmpjb1btnlh.png\" />",
+                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-6-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-6-A.svg\" />",
+                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-O.svg\" />"
+                            ],
+                            "guid": "cUVwi]1/[o",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "8095b0bed27a471f83ccb7c46f375724-ao-7",
+                                "",
+                                "<img src=\"tmpjb1btnlh.png\" />",
+                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-7-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-7-A.svg\" />",
+                                "<img src=\"8095b0bed27a471f83ccb7c46f375724-ao-O.svg\" />"
+                            ],
+                            "guid": "P%z_8j}=)0",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "86f9cbdbe56f472e9e91f43b9e53b6c3-ao-1",
+                                "",
+                                "<img src=\"tmp93t9gtfl.png\" />",
+                                "<img src=\"86f9cbdbe56f472e9e91f43b9e53b6c3-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"86f9cbdbe56f472e9e91f43b9e53b6c3-ao-1-A.svg\" />",
+                                "<img src=\"86f9cbdbe56f472e9e91f43b9e53b6c3-ao-O.svg\" />"
+                            ],
+                            "guid": "j`yMPJ/?6w",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "86f9cbdbe56f472e9e91f43b9e53b6c3-ao-2",
+                                "",
+                                "<img src=\"tmp93t9gtfl.png\" />",
+                                "<img src=\"86f9cbdbe56f472e9e91f43b9e53b6c3-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"86f9cbdbe56f472e9e91f43b9e53b6c3-ao-2-A.svg\" />",
+                                "<img src=\"86f9cbdbe56f472e9e91f43b9e53b6c3-ao-O.svg\" />"
+                            ],
+                            "guid": "A[809q:,F4",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "86f9cbdbe56f472e9e91f43b9e53b6c3-ao-3",
+                                "",
+                                "<img src=\"tmp93t9gtfl.png\" />",
+                                "<img src=\"86f9cbdbe56f472e9e91f43b9e53b6c3-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"86f9cbdbe56f472e9e91f43b9e53b6c3-ao-3-A.svg\" />",
+                                "<img src=\"86f9cbdbe56f472e9e91f43b9e53b6c3-ao-O.svg\" />"
+                            ],
+                            "guid": "A=E3yBZiiB",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "86f9cbdbe56f472e9e91f43b9e53b6c3-ao-4",
+                                "",
+                                "<img src=\"tmp93t9gtfl.png\" />",
+                                "<img src=\"86f9cbdbe56f472e9e91f43b9e53b6c3-ao-4-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"86f9cbdbe56f472e9e91f43b9e53b6c3-ao-4-A.svg\" />",
+                                "<img src=\"86f9cbdbe56f472e9e91f43b9e53b6c3-ao-O.svg\" />"
+                            ],
+                            "guid": "Lh)WK<$/V!",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "504b40199e9b4621997a17938bf97d71-ao-1",
+                                "",
+                                "<img src=\"tmpz9twksk2.png\" />",
+                                "<img src=\"504b40199e9b4621997a17938bf97d71-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"504b40199e9b4621997a17938bf97d71-ao-1-A.svg\" />",
+                                "<img src=\"504b40199e9b4621997a17938bf97d71-ao-O.svg\" />"
+                            ],
+                            "guid": "v(Jtzu<?;i",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "504b40199e9b4621997a17938bf97d71-ao-2",
+                                "",
+                                "<img src=\"tmpz9twksk2.png\" />",
+                                "<img src=\"504b40199e9b4621997a17938bf97d71-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"504b40199e9b4621997a17938bf97d71-ao-2-A.svg\" />",
+                                "<img src=\"504b40199e9b4621997a17938bf97d71-ao-O.svg\" />"
+                            ],
+                            "guid": "L/:Q?UDm1w",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "504b40199e9b4621997a17938bf97d71-ao-3",
+                                "",
+                                "<img src=\"tmpz9twksk2.png\" />",
+                                "<img src=\"504b40199e9b4621997a17938bf97d71-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"504b40199e9b4621997a17938bf97d71-ao-3-A.svg\" />",
+                                "<img src=\"504b40199e9b4621997a17938bf97d71-ao-O.svg\" />"
+                            ],
+                            "guid": "OF*K+Gfg3u",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "504b40199e9b4621997a17938bf97d71-ao-4",
+                                "",
+                                "<img src=\"tmpz9twksk2.png\" />",
+                                "<img src=\"504b40199e9b4621997a17938bf97d71-ao-4-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"504b40199e9b4621997a17938bf97d71-ao-4-A.svg\" />",
+                                "<img src=\"504b40199e9b4621997a17938bf97d71-ao-O.svg\" />"
+                            ],
+                            "guid": "DcH|Wy+5LQ",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "504b40199e9b4621997a17938bf97d71-ao-5",
+                                "",
+                                "<img src=\"tmpz9twksk2.png\" />",
+                                "<img src=\"504b40199e9b4621997a17938bf97d71-ao-5-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"504b40199e9b4621997a17938bf97d71-ao-5-A.svg\" />",
+                                "<img src=\"504b40199e9b4621997a17938bf97d71-ao-O.svg\" />"
+                            ],
+                            "guid": "BPFQks0VqE",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "14818811c97043f492ed5a80ac5a86c4-ao-1",
+                                "",
+                                "<img src=\"tmp6ppluhto.png\" />",
+                                "<img src=\"14818811c97043f492ed5a80ac5a86c4-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"14818811c97043f492ed5a80ac5a86c4-ao-1-A.svg\" />",
+                                "<img src=\"14818811c97043f492ed5a80ac5a86c4-ao-O.svg\" />"
+                            ],
+                            "guid": "B;`>kU]+F9",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "14818811c97043f492ed5a80ac5a86c4-ao-2",
+                                "",
+                                "<img src=\"tmp6ppluhto.png\" />",
+                                "<img src=\"14818811c97043f492ed5a80ac5a86c4-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"14818811c97043f492ed5a80ac5a86c4-ao-2-A.svg\" />",
+                                "<img src=\"14818811c97043f492ed5a80ac5a86c4-ao-O.svg\" />"
+                            ],
+                            "guid": "Dq,w(Lls}N",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "14818811c97043f492ed5a80ac5a86c4-ao-3",
+                                "",
+                                "<img src=\"tmp6ppluhto.png\" />",
+                                "<img src=\"14818811c97043f492ed5a80ac5a86c4-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"14818811c97043f492ed5a80ac5a86c4-ao-3-A.svg\" />",
+                                "<img src=\"14818811c97043f492ed5a80ac5a86c4-ao-O.svg\" />"
+                            ],
+                            "guid": "tq$e(:T~7;",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>{{c1::Atherosclerosis}}:&nbsp;Disease\nof arteries, resulting in the formation of multiple plaques (AKA {{c1::atheromas}})\nwithin the arteries</div><div><br></div><div><div>Plaques</div><div>•pathological\naccumulation\nof cells or cell debris, which contain lipids (cholesterol &amp; fatty acids),\n{{c1::calcium}} &amp; fibrous connective tissue within the walls of arteries</div>\n<div>•The\ndebris accumulates between the endothelium and\nthe\n{{c1::smooth muscle wall (media)}}</div></div><div><br></div><div><div>{{c1::Atheromas}}\nreduce blood flow leading to:</div>\n<div>•{{c1::Coronary}}\nArtery Disease</div>\n<div>•{{c1::Cerebrovascular}}\nDisease</div>\n{{c1::Peripheral}}\nVascular Disease<br></div>",
+                                ""
+                            ],
+                            "guid": "H_hw.2F!kS",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "b6885278b23c493c81dbd0f24e59e517-ao-1",
+                                "",
+                                "<img src=\"tmpx3vr6vmm.png\" />",
+                                "<img src=\"b6885278b23c493c81dbd0f24e59e517-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"b6885278b23c493c81dbd0f24e59e517-ao-1-A.svg\" />",
+                                "<img src=\"b6885278b23c493c81dbd0f24e59e517-ao-O.svg\" />"
+                            ],
+                            "guid": "wbN]9qPf?b",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "b6885278b23c493c81dbd0f24e59e517-ao-2",
+                                "",
+                                "<img src=\"tmpx3vr6vmm.png\" />",
+                                "<img src=\"b6885278b23c493c81dbd0f24e59e517-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"b6885278b23c493c81dbd0f24e59e517-ao-2-A.svg\" />",
+                                "<img src=\"b6885278b23c493c81dbd0f24e59e517-ao-O.svg\" />"
+                            ],
+                            "guid": "lq$*#UI<29",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "b6885278b23c493c81dbd0f24e59e517-ao-3",
+                                "",
+                                "<img src=\"tmpx3vr6vmm.png\" />",
+                                "<img src=\"b6885278b23c493c81dbd0f24e59e517-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"b6885278b23c493c81dbd0f24e59e517-ao-3-A.svg\" />",
+                                "<img src=\"b6885278b23c493c81dbd0f24e59e517-ao-O.svg\" />"
+                            ],
+                            "guid": "wFXEa$O3!V",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "d609dd014488452790354a805216174c-ao-1",
+                                "",
+                                "<img src=\"tmp1d0oe6m4.png\" />",
+                                "<img src=\"d609dd014488452790354a805216174c-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"d609dd014488452790354a805216174c-ao-1-A.svg\" />",
+                                "<img src=\"d609dd014488452790354a805216174c-ao-O.svg\" />"
+                            ],
+                            "guid": "x|uHo@ppUi",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "d609dd014488452790354a805216174c-ao-2",
+                                "",
+                                "<img src=\"tmp1d0oe6m4.png\" />",
+                                "<img src=\"d609dd014488452790354a805216174c-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"d609dd014488452790354a805216174c-ao-2-A.svg\" />",
+                                "<img src=\"d609dd014488452790354a805216174c-ao-O.svg\" />"
+                            ],
+                            "guid": "sw.Gs[H&IW",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Schema\nof Atherogenesis<br></b></div><div>•Minor endothelial damage, Name 4 causes {{c1::(turbulence, relative anoxia, hypertension,\noxidation or glycation)}}</div>\n<div>•{{c1::LDL}} particles cross the damaged\nendothelium</div>\n<div>•Circulating monocytes attracted by the damaged\nendothelium &amp; enter the {{c1::subendothelial}} space.</div>\n<div>•LDL particles in the artery wall\nare {{c1::oxidised}} by oxygen free radicals name 4 sources {{c1::(present in cigarette smoke, formed during\nglycation reactions, generated by\nmacrophages deliberately to kill bacteria or leaking from various oxidative\npathways)}}</div>\n<div>•Oxidised LDL is taken up rapidly\nby macrophages (AKA {{c1::foam cells}})</div>",
+                                "<span style=\"color: white;\">Schema\nof At</span><img src=\"paste-762ea8404778a788ab5093b5860c92d7f4f83b49.jpg\"><img src=\"paste-516244f8cf564202eaa40184788e9809f823de54.jpg\"><span style=\"color: white;\">herogenesis</span>"
+                            ],
+                            "guid": "h/29|iN($l",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Schema\nof Atherogenesis<br></b></div><div>•Collagen elaborated by\n{{c1::fibroblasts}} comes to overlie the foam cells, which undergo necrosis or\napoptosis</div>\n<div>•This results in the formation of\na pool of extracellular {{c1::cholesterol}} trapped beneath a {{c1::fibrous}} cap.</div>\n<div>•At the shoulder of the {{c1::atheromatous}} lesion active foam cell\nformation continues &amp; the lesion advances across the inner surface of the\nartery.</div>\n<div>•Plaques can either obstruct blood\nflow resulting in ischaemia to the peripheral tissue or rupture with thrombus\nformation at the site of {{c1::the cap}} leading to {{c1::peripheral}} infarction.</div>",
+                                "<img src=\"paste-8649cf69ee5c7cb3739111b09bf1d2221f356f91.jpg\">"
+                            ],
+                            "guid": "JzN2D%+&:!",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>Secondary\nHyperlipidemias<br></div><div>{{c1::Endocrine}}</div>\n<div>•Diabetes\nmellitus, hypothyroidism, pituitary disease</div><div><br></div>\n<div>{{c1::Renal}}\ndisease</div>\n<div>•Nephrotic\nsyndrome, chronic renal failure</div><div><br></div>\n<div>Drugs</div>\n<div>•Β-blockers, thiazides, steroids, phenytoin, antiretrovirals, clozapine</div><div><br></div>\n<div>{{c1::Hepatic}}\ndisease</div>\n<div>•Cholestasis, hepatocellular disease, cholelithiasis</div><div><br></div>\n<div>{{c1::Immunoglobulin}}\nexcess</div>\n<div>•Myeloma, macroglobulinemia, SLE</div><div><br></div>\n<div>Hyperuricemia</div><div><br></div>\n<div>Nutritional</div>\n<div>•Obesity, alcohol, anorexia nervosa</div>",
+                                ""
+                            ],
+                            "guid": "*f]4c4?zj",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Familial\nHypercholesterolemia (FH)<br></b></div><div>{{c1::Single}} gene defect&nbsp;</div><div>Type A: affects {{c1::LDL}} receptor</div><div>Type B:&nbsp;Loss-of-function\nmutation of the {{c1::apolipoprotein B}} gene</div><div>Type C:&nbsp;Gain-of-function\n{{c1::PCSK9}} mutations&nbsp;</div><div><br></div><div>Prevalence</div>\n<div>•Most\nimportant syndrome leading to premature {{c1::CHD}}</div>\n<div>•Commonest\ngenetic\ndisease in Europe, 1 in {{c1::300}}</div><div><br></div>\n<div>Natural\nHistory</div>\n<div>•CHD\noccur\nbetween 25-50 in 50% of untreated males</div>\n<div>•50%\nof untreated men will\nhave died from IHD by 60</div>\n<div>•women\ngenerally have an onset about {{c1::10}} years after men</div><div><br></div><div><div>{{c1::PCSK9}}: Marks LDL receptor for degradation&nbsp;</div></div><div>Laboratory\nDiagnosis<br></div><div><div>•Average\nuntreated cholesterol ~ {{c1::9}} mmol/L</div>\n<div>•Usually\nrange from {{c1::7.5-14}} mmol/L</div></div><div><br></div><div>What is&nbsp;Xanthomata and where does it usually occur?</div><div><div>What is&nbsp;Xanthelasma&nbsp;and where does it occur?</div></div>",
+                                "<div>Xanthomata&nbsp;is a deposition of yellowish cholesterol-rich material<br></div><div>•commonly\nin tendons, usually only in adults</div>\n<div>•most\ncommonly in knuckles of Achilles tendons</div><div><img src=\"paste-eb1b6be2ff63a26e27b89b695cc4638bdd22a21e.jpg\"><br></div><div><em>Xanthelasma</em><span style=\"color: rgb(77, 81, 86);\">&nbsp;are cholesterol-filled plaques that usually appear on the eyelids.</span><br></div><div><img src=\"paste-1bb7675e19b6703c73fe961afc0fd826a9a7eb14.jpg\"><span style=\"color: rgb(77, 81, 86);\"><br></span></div>"
+                            ],
+                            "guid": "xuX{Rtjjp?",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "4d6596af06154f83aca0b050818a77b8-ao-1",
+                                "",
+                                "<img src=\"tmp1fyj12bi.png\" />",
+                                "<img src=\"4d6596af06154f83aca0b050818a77b8-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"4d6596af06154f83aca0b050818a77b8-ao-1-A.svg\" />",
+                                "<img src=\"4d6596af06154f83aca0b050818a77b8-ao-O.svg\" />"
+                            ],
+                            "guid": "P1VV1t7O#_",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
                     "crowdanki_uuid": "36a58b6d-81a3-11eb-b705-ff74353d551e",
                     "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
                     "desc": "",
@@ -3411,7 +3589,7 @@
                         "paste-ea396a94785c42720c3719fdc2ee55bb5059af03.jpg",
                         "paste-f6b498ec5d4ff965094df36b64be29ea9f197c78.jpg"
                     ],
-                    "name": "7/3 CARDIOMYOPATHY, MYOCARDITIS, PERICARDITIS, HEART FAILURE",
+                    "name": "03/07 CARDIOMYOPATHY, MYOCARDITIS, PERICARDITIS, HEART FAILURE",
                     "notes": [
                         {
                             "__type__": "Note",
@@ -3629,7 +3807,7 @@
                         "paste-dbe8e42a1ddec5493898b3a1d6aa518087db8c3c.jpg",
                         "tmppulnyt11.png"
                     ],
-                    "name": "8/3 Atherosclerosis and MI Dr Sine Phelan",
+                    "name": "03/08 Atherosclerosis and MI Dr Sine Phelan",
                     "notes": [
                         {
                             "__type__": "Note",
@@ -3878,7 +4056,7 @@
                         "paste-e65cec8530885266d77a449f36834819757e423e.jpg",
                         "paste-f2ac6cc0d66be151fb88b799011580c531d114cf.jpg"
                     ],
-                    "name": "8/3 Sudden Unexpected Cardiac Death in Adults",
+                    "name": "03/08 Sudden Unexpected Cardiac Death in Adults",
                     "notes": [
                         {
                             "__type__": "Note",
@@ -3931,6 +4109,219 @@
                             "tags": []
                         }
                     ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "1c486268-872b-11eb-bd3b-ff74353d551e",
+                    "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "d7c8a0e9c0e74ce584c3bb5e0bc17739-ao-1-A.svg",
+                        "d7c8a0e9c0e74ce584c3bb5e0bc17739-ao-1-Q.svg",
+                        "d7c8a0e9c0e74ce584c3bb5e0bc17739-ao-2-A.svg",
+                        "d7c8a0e9c0e74ce584c3bb5e0bc17739-ao-2-Q.svg",
+                        "d7c8a0e9c0e74ce584c3bb5e0bc17739-ao-3-A.svg",
+                        "d7c8a0e9c0e74ce584c3bb5e0bc17739-ao-3-Q.svg",
+                        "d7c8a0e9c0e74ce584c3bb5e0bc17739-ao-O.svg",
+                        "paste-0da7cc0329958267f1a10378a9846dc467fd93d6.jpg",
+                        "paste-1156a72a6856e741a4eb16016a49d0ff4d38cba6.jpg",
+                        "paste-30618163565fc1eaef887964954f598694d20ff0.jpg",
+                        "paste-5e43db219627f46a09d71041e336722c68198fe8.jpg",
+                        "paste-67eddd18afef1738664059f2311c559c7c336bb9.jpg",
+                        "paste-6f136fd98dbd0dc280eacc31631c9c8d6ec5eb8a.jpg",
+                        "paste-7cb371892db0dc88865a8f011b00388411a1508d.jpg",
+                        "paste-8145e64a065ae03e68d2c17a42e88fe368987173.jpg",
+                        "paste-ac9ae3c2215919d10c40ec958adaaf23626f2eb2.jpg",
+                        "paste-b1f4528f75cb3a6eb2170d68235d93c3135323bf.jpg",
+                        "paste-b67211a71761d5f13109548b79d14c7a1962452a.jpg",
+                        "paste-f8807b0d12e536acba8dc1eb525965c3fa8f1a19.jpg",
+                        "paste-fde8279271c7f6201b333219717111c85e8c3a2d.jpg",
+                        "tmphie6gd7d.png"
+                    ],
+                    "name": "03/16 Hypertension",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(192, 0, 0);\">Hypertension</span><div><div><font color=\"#990000\">-</font>Defined as BP &gt;{{c1::140/90}} mmHg</div>\n<div></div>\n<div><font color=\"#990000\">-</font>Affects {{c1::25}}% of general population</div>\n<div><font color=\"#990000\">-</font>Usually {{c1::asymptomatic}} </div>\n<div></div>\n<div><font color=\"#990000\">-</font>{{c1::2nd}}&nbsp;major risk factor for ill health and premature death in\nEurope</div>\n<div><span style=\"font-style: italic;\">(WHO\nand World Bank ‘Burden of Disease’ study)</span></div></div>",
+                                "<img src=\"paste-ac9ae3c2215919d10c40ec958adaaf23626f2eb2.jpg\">"
+                            ],
+                            "guid": "GaF2jf;fpJ",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "d7c8a0e9c0e74ce584c3bb5e0bc17739-ao-1",
+                                "",
+                                "<img src=\"tmphie6gd7d.png\" />",
+                                "<img src=\"d7c8a0e9c0e74ce584c3bb5e0bc17739-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"d7c8a0e9c0e74ce584c3bb5e0bc17739-ao-1-A.svg\" />",
+                                "<img src=\"d7c8a0e9c0e74ce584c3bb5e0bc17739-ao-O.svg\" />"
+                            ],
+                            "guid": "orWgal3a^R",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "d7c8a0e9c0e74ce584c3bb5e0bc17739-ao-2",
+                                "",
+                                "<img src=\"tmphie6gd7d.png\" />",
+                                "<img src=\"d7c8a0e9c0e74ce584c3bb5e0bc17739-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"d7c8a0e9c0e74ce584c3bb5e0bc17739-ao-2-A.svg\" />",
+                                "<img src=\"d7c8a0e9c0e74ce584c3bb5e0bc17739-ao-O.svg\" />"
+                            ],
+                            "guid": "yIZkL7$MTb",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "d7c8a0e9c0e74ce584c3bb5e0bc17739-ao-3",
+                                "",
+                                "<img src=\"tmphie6gd7d.png\" />",
+                                "<img src=\"d7c8a0e9c0e74ce584c3bb5e0bc17739-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"d7c8a0e9c0e74ce584c3bb5e0bc17739-ao-3-A.svg\" />",
+                                "<img src=\"d7c8a0e9c0e74ce584c3bb5e0bc17739-ao-O.svg\" />"
+                            ],
+                            "guid": "U[!ua2Pkh",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><span style=\"color: rgb(192, 0, 0);\">Secondary\nHypertension (</span>{{c1::5}}<span style=\"color: rgb(192, 0, 0);\">% of cases)</span><span style=\"color: rgb(153, 0, 0);\"><br></span></div><div><span style=\"color: rgb(153, 0, 0);\">q</span>Primary hyperaldosteronism ({{c1::Conn’s}} syndrome)</div>\n<div><span style=\"color: rgb(153, 0, 0);\">q</span>{{c1::Thyro}}toxicosis</div>\n<div><span style=\"color: rgb(153, 0, 0);\">q</span>Pregnancy (pre-eclampsia)</div>\n<div><span style=\"color: rgb(153, 0, 0);\">q</span>Coarctation\nof the aorta</div>\n<div><span style=\"color: rgb(153, 0, 0);\">q</span>Drug-induced</div><div><div><span style=\"color: rgb(153, 0, 0);\">q</span>{{c1::Renal}}\nparenchymal\ndisease</div>\n<div><span style=\"color: rgb(153, 0, 0);\">q</span>Reno-vascular\nhypertension </div>\n<div><span style=\"color: rgb(102, 102, 153);\">Ø</span>renal artery stenosis</div>\n<div><span style=\"color: rgb(153, 153, 0);\">n</span>e.g.\nd/t Atheroma</div>\n<div><span style=\"color: rgb(153, 153, 0);\">n</span>Causes\nischaemia of ipsilateral\nkidney</div>\n<div><span style=\"color: rgb(153, 153, 0);\">n</span>Renin-angiotensin\nsystem {{c1::activated}}</div>\n<div><span style=\"color: rgb(153, 153, 0);\">n</span>Hypertensive\nchanges in contra-lateral kidney&nbsp;</div></div><div><br></div><div><span style=\"color: rgb(192, 0, 0);\">When\nto Suspect Secondary<br>\nHypertension (give at least 3 examples)?</span><br></div><div>{{c1::<div><span style=\"color: rgb(153, 0, 0);\">n</span>Younger patient</div>\n<div><span style=\"color: rgb(153, 0, 0);\">n</span>Suggestive physical findings</div>\n<div><span style=\"color: rgb(153, 0, 0);\">n</span>Often causes marked elevation of blood\npressure</div>\n<div><span style=\"color: rgb(153, 0, 0);\">n</span>Can cause a sudden onset or worsening of\nhypertension</div>\n<div><span style=\"color: rgb(153, 0, 0);\">n</span>Poor response to drug therapy</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "ntG%64z0di",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Why is Left verntricle hypertrophy (LVH) not commonly diagnosed?<div>{{c1::Asymptomatic}}<br></div><div><br></div><div>What are some effects of LVH?</div><div>{{c1::<div>general failure all round</div><div><div><span style=\"color: rgb(153, 0, 0);\">n</span>Diastolic dysfunction</div>\n<div><span style=\"color: rgb(153, 0, 0);\">n</span>Myocardial ischaemia (MI)</div>\n<div><span style=\"color: rgb(153, 0, 0);\">n</span>Fatal arrhythmias </div>\n<div><span style=\"color: rgb(153, 0, 0);\">n</span>Atrial fibrillation</div>\n<div><span style=\"color: rgb(153, 0, 0);\">n</span>LV dilation</div>\n<div><span style=\"color: rgb(153, 0, 0);\">n</span>Heart failure</div></div>}}<br></div><div><br></div><div>What is this and where is it?</div><div><img src=\"paste-30618163565fc1eaef887964954f598694d20ff0.jpg\"><br></div>",
+                                "@ the aorta juct up from the heart, Tear\nin intima extends into but not through the media.<div><img src=\"paste-5e43db219627f46a09d71041e336722c68198fe8.jpg\"><br></div><div><div><span style=\"font-weight: bold;\">Severe\ncentral chest pain radiating to back</span></div>\n<div><span style=\"font-weight: bold;\">Sudden\ncentral chest pain in hypertensive: dissection (other </span><span style=\"font-weight: bold;\">casuse</span><span style=\"font-weight: bold;\"> MI; unstable angina etc)</span></div>\n<div></div>\n<div>Between\nand along laminar planes of media</div>\n<div></div>\n<div><span style=\"font-weight: bold;\">Proximal\nlesions into pericardial sac or thorax; distal to take </span><span style=\"font-weight: bold;\">off of</span><span style=\"font-weight: bold;\"> great vessels /subclavian artery\nrupture into abdominal cavity</span></div>\n<div><span style=\"font-weight: bold;\">Most\nproximal</span></div>\n<div>Outcome:</div>\n<div>Rupture\ninto pericardial, pleural or peritoneal cavities</div>\n<div>Retrograde\nextension to aortic root</div>\n<div>Extension\ninto vessels arising from aorta</div>\n<div>Re-enter\naorta distally (double barrel)</div></div>"
+                            ],
+                            "guid": "gDaLxjCH$6",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(138, 0, 0);\">Aortic\nDissection</span><div><div><span style=\"color: rgb(153, 0, 0);\">n</span>{{c1::40}}-{{c1::60}}\nyears, M{{c1::&gt;}}F</div>\n<div><span style=\"color: rgb(153, 0, 0);\">n</span>Severe\ncentral chest pain</div>\n<div><span style=\"color: rgb(153, 0, 0);\">n</span>{{c1::90}}%\nassociated with hypertension </div>\n<div><span style=\"color: rgb(102, 102, 153);\">n</span>HTN plays a role in dissection and\npropagation </div>\n<div><span style=\"color: rgb(153, 0, 0);\">n</span>Underlying\nconnective tissue abnormality in younger pts</div>\n<div><span style=\"color: rgb(102, 102, 153);\">n</span>{{c1:Marfans}}\nor variant</div>\n<div><span style=\"color: rgb(153, 0, 0);\">n</span>Also\ncan be Iatrogenic or rarely in pregnancy</div></div><div><br></div><div>What is a&nbsp;cardiac tamponade?&nbsp;<span style=\"color: rgb(32, 33, 36);\">&nbsp; &nbsp;</span>{{c1::<span style=\"color: rgb(32, 33, 36);\">condition in which blood or fluids fill the space between the sac that encases the&nbsp;</span><b>heart</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;and the&nbsp;</span><b>heart</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;muscle. This places extreme pressure on your&nbsp;</span><b>heart</b><span style=\"color: rgb(32, 33, 36);\">. The pressure prevents the&nbsp;</span><b>heart's</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;ventricles from expanding fully and keeps your&nbsp;</span><b>heart</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;from functioning properly.</span>}}</div>",
+                                "<img src=\"paste-f8807b0d12e536acba8dc1eb525965c3fa8f1a19.jpg\">"
+                            ],
+                            "guid": "sgU*oiq}sy",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(138, 0, 0);\">Hypertensive\nKidney Disease (</span><span style=\"color: rgb(138, 0, 0);\">Arterio-nephrosclerosis)</span><div><div><span style=\"color: rgb(153, 0, 0);\">n</span>Predominantly\ndue to {{c1::small vessel disease SVD}}</div>\n<div><span style=\"color: rgb(153, 0, 0);\">n</span>{{c1::Afferent}}\narteriole and small arteries most susceptible</div>\n<div><span style=\"color: rgb(153, 0, 0);\">n</span>{{c1::Hyaline}}\narteriolosclerosis of\narterioles</div>\n<div><span style=\"color: rgb(153, 0, 0);\">n</span>Larger\narteries show muscular {{c1::thickening}}</div>\n<div><span style=\"color: rgb(153, 0, 0);\">n</span>Result\nin ischaemic\natrophy</div></div><div><div><span style=\"color: rgb(153, 0, 0);\">n</span>Usually {{c1::clinically silent}}</div>\n<div><span style=\"color: rgb(153, 0, 0);\">n</span>Can\ncause {{c1::protein}}uria</div></div><div><br></div><div><img src=\"paste-b1f4528f75cb3a6eb2170d68235d93c3135323bf.jpg\"><br></div><div>in the circlish region, what is it and what should it be?</div>",
+                                "It should be a clear patent lumen but it is instead \"glassy\"<div><br></div><div><img src=\"paste-b67211a71761d5f13109548b79d14c7a1962452a.jpg\"><br></div>"
+                            ],
+                            "guid": "m8n(k/mZR;",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(138, 0, 0);\">Hypertension\nand the Brain</span><div><span style=\"color: rgb(138, 0, 0); font-weight: bold;\">which vessels are most susceptible to effects of hypertension?</span><span style=\"color: rgb(138, 0, 0);\"><br></span></div><div>{{c1::<div><span style=\"color: rgb(102, 102, 153);\">n</span>End\narteries</div>\n<div><span style=\"color: rgb(102, 102, 153);\">n</span>No\ncollaterals</div>\n<div><span style=\"color: rgb(102, 102, 153);\">n</span>No\npressure reduction system</div>\n<div><span style=\"color: rgb(102, 102, 153);\">n</span>Supply\ncritical areas</div><div><img src=\"paste-7cb371892db0dc88865a8f011b00388411a1508d.jpg\"><br></div>}}<br></div>",
+                                "<div><span style=\"color: rgb(153, 0, 0);\">n</span>Effects\nprimarily due to small vessel disease</div>\n<div><span style=\"color: rgb(153, 0, 0);\">n</span>Often\ncomplicated by atherosclerotic disease</div>"
+                            ],
+                            "guid": "tcRik~qBNz",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(153, 0, 0);\">Hypertensive\nCerebral Haemorrhage</span><div><img src=\"paste-6f136fd98dbd0dc280eacc31631c9c8d6ec5eb8a.jpg\"><div><img src=\"paste-fde8279271c7f6201b333219717111c85e8c3a2d.jpg\"><br></div><div>What is right histologyy slide called?</div><div>{{c1::<div>Vessels &lt; 300μm weakened&nbsp;</div><div>become hyper-curved</div><div><span style=\"font-style: italic;\">aka&nbsp;</span>Charcot Bouchard ‘aneurysms’</div>}}</div></div><div><br></div><div><div><span style=\"color: rgb(153, 0, 0);\">n</span>{{c1::50}}% of spontaneous cerebral haemorrhage</div>\n<div><span style=\"color: rgb(153, 0, 0);\">n</span>Haemorrhage ruptures into {{c1::ventricles/subarachnoid}}&nbsp;space</div>\n<div><span style=\"color: rgb(153, 0, 0);\">n</span>Outcome\ndepends on site (2):</div>\n<div>{{c1::<div><span style=\"color: rgb(102, 102, 153);\">n</span>Large\nbleed in cerebrum can cause raised ICP with herniation</div>\n<div><span style=\"color: rgb(102, 102, 153);\">n</span>Cerebellar\nand pontine haemorrhage&nbsp; - small bleed\ncan be fatal</div>}}<br></div></div>",
+                                "<div>Vessels\naffected by hyaline arteriolar sclerosis are liable to rupture as they are weak<br></div>"
+                            ],
+                            "guid": "s`m)|@l2iR",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(138, 0, 0);\">Cerebral\nInfarction</span><div><img src=\"paste-8145e64a065ae03e68d2c17a42e88fe368987173.jpg\"><br></div><div>Name 4 places it can occur in the brain.</div><div><div>{{c1::<div>Basal\nganglia,&nbsp;</div><div>thalamus,&nbsp;</div><div>internal capsule,</div><div>subcortical white matter, </div>\n<div>Pons\n</div>\nCerebellum}}<br></div></div><div><br></div><div>Small susceptible arterioles: {{c1::hyaline}} ateriolosclerosis, complicated by {{c1::atheroma}}&nbsp;<br></div>",
+                                ""
+                            ],
+                            "guid": "j_r6F]`-A?",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><span style=\"color: rgb(138, 0, 0);\">Hypertensive\nCNS Clinical Syndromes</span><span style=\"color: rgb(153, 0, 0);\"><br></span></div><div><span style=\"color: rgb(153, 0, 0);\">n</span>{{c1::Multi-infarct dementia}}</div>\n<div><span style=\"color: rgb(102, 102, 153);\">n</span>Develops over months, stepwise\nprogression</div>\n<div><span style=\"color: rgb(102, 102, 153);\">n</span>Distinctive {{c1::gait}} abnormalities;\npseudobulbar signs often with focal neurological deficit</div>\n<div><span style=\"color: rgb(102, 102, 153);\">n</span>Multi-focal\nvascular disease of grey and white matter</div><div><br></div>\n<div></div>\n<div><span style=\"color: rgb(153, 0, 0);\">n</span>{{c1::Binswanger Encephalopathy}}</div>\n<div><span style=\"color: rgb(102, 102, 153);\">n</span>Loss\nof memory and intellectual function </div>\n<div><span style=\"color: rgb(102, 102, 153);\">n</span>Multi-focal\nvascular disease of sub-cortical white matter</div>",
+                                ""
+                            ],
+                            "guid": "r*?9*fszBa",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(138, 0, 0);\">Cerebral SVD&nbsp;</span><div><div><span style=\"color: rgb(153, 0, 0);\">n</span>Umbrella term for SVD caused by a group\nof related pathological processes</div>\n<div><span style=\"color: rgb(153, 0, 0);\">n</span>Risk factors: {{c1::Hypertension}}, smoking, age,\nmale gender</div>\n<div><span style=\"color: rgb(153, 0, 0);\">n</span>{{c1::Hyaline}} arteriosclerosis, atherosoclerosis, emboli predominantly affecting perforating arterioles</div>\n<div><span style=\"color: rgb(153, 0, 0);\">n</span>Spectrum of neurological manifestations\nfrom minor cognitive impairment to stroke</div></div>",
+                                "small vessel disease"
+                            ],
+                            "guid": "zxO4B*H;LO",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><img src=\"paste-0da7cc0329958267f1a10378a9846dc467fd93d6.jpg\"><br></div>Name 4 anomalies present",
+                                "<div>White\nmatter hyper-intensities</div>\n<div>Micro-bleeds</div>\n<div>Lacunes</div>\n<div>Visible\nperi-vascular spaces</div>"
+                            ],
+                            "guid": "w`Y~9LF5iq",
+                            "note_model_uuid": "afe9e61b-7dce-11eb-8b6f-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(138, 0, 0);\">‘Malignant’\nHypertension</span><div><img src=\"paste-1156a72a6856e741a4eb16016a49d0ff4d38cba6.jpg\"><span style=\"color: rgb(138, 0, 0);\"><br></span></div><div>what is this, type of vessel, damage done? {{c1::</div><div>Fibrinoid necrosis in arterioles,&nbsp;Rapid onset of ischaemia ±\n&nbsp;infarction&nbsp;</div><div></div>}}<div>wall is made of {{c1::Fibrin\nand fibrinogen}}</div><div>Lumen made of {{c1::thrombus}}</div><div><br></div><div><img src=\"paste-67eddd18afef1738664059f2311c559c7c336bb9.jpg\"><br></div><div><div>{{c1::Myo-intima}}l hypertrophy and hyperplasia, like onion</div></div><div><br></div><div><div><span style=\"color: rgb(153, 0, 0);\">n</span>Hyperplastic arteriolo-sclerosis\nin small interlobular arteries and larger\narterioles</div></div><div><br></div><div><br></div><div><div><span style=\"color: rgb(153, 0, 0);\">n</span><span style=\"font-style: italic;\">De novo</span> or in existing hypertension</div>\n<div><span style=\"color: rgb(153, 0, 0);\">n</span>BP {{c1::200/130}}mm/Hg</div>\n<div><span style=\"color: rgb(153, 0, 0);\">n</span><span style=\"color: rgb(138, 0, 0);\">Medical emergency</span></div>\n<div><span style=\"color: rgb(153, 0, 0);\">n</span>Mechanism unclear but involves severe\ninsult to vessels in kidney</div>\n<div><span style=\"color: rgb(153, 0, 0);\">n</span>Results in dramatic activation of {{c1::renin\nangiotensin}} system which exacerbates ischaemia</div>\n<div><span style=\"color: rgb(153, 0, 0);\">n</span>Kidney renal failure ensues&nbsp; without treatment</div>\n<div><span style=\"color: rgb(102, 102, 153);\">n</span>Results in diffuse or segmantal\nischaemia of {{c1::glomeruli}}</div>\n<div><span style=\"color: rgb(102, 102, 153);\">n</span>Kidney appears ‘flea bitten’ </div>\nEye\n(retinopathy), also\nCNS, heart<br></div>",
+                                ""
+                            ],
+                            "guid": "e~Ld-!wFej",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        }
+                    ]
                 }
             ],
             "crowdanki_uuid": "e84a6187-7dce-11eb-8db4-a0b2d6ecb02c",
@@ -3972,7 +4363,7 @@
                         "tmpqcs7olkb.png"
                     ],
                     "mid": 1603908832965,
-                    "name": "18/2 Hypertension mechanisms",
+                    "name": "02/18 Hypertension mechanisms",
                     "notes": [
                         {
                             "__type__": "Note",
@@ -4128,7 +4519,7 @@
                         "paste-9b974a8d4a6ae4281ca260b8204d1269a260c813.jpg",
                         "tmp_4e566h2.png"
                     ],
-                    "name": "21/2 Systemic Hypertension",
+                    "name": "02/21 Systemic Hypertension",
                     "notes": [
                         {
                             "__type__": "Note",
@@ -4239,7 +4630,7 @@
                         "tmpdu2_1jvz.png",
                         "tmpx10m8x4z.png"
                     ],
-                    "name": "3/3 vasodilation",
+                    "name": "03/03 vasodilation",
                     "notes": [
                         {
                             "__type__": "Note",
@@ -4828,58 +5219,6 @@
     "note_models": [
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
-            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "name": "Text",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "name": "Back Extra",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Cloze",
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{cloze:Text}}<br>\n{{Back Extra}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Cloze",
-                    "ord": 0,
-                    "qfmt": "{{cloze:Text}}"
-                }
-            ],
-            "type": 1
-        },
-        {
-            "__type__": "NoteModel",
             "crowdanki_uuid": "afe9e61b-7dce-11eb-8b6f-a0b2d6ecb02c",
             "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
             "flds": [
@@ -5056,6 +5395,58 @@
         },
         {
             "__type__": "NoteModel",
+            "crowdanki_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Back Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1
+        },
+        {
+            "__type__": "NoteModel",
             "crowdanki_uuid": "afe9bf1a-7dce-11eb-a6e1-a0b2d6ecb02c",
             "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.small {\n font-size: 15px;\n}\n\ntable, td, th {\n border-collapse: collapse;\n padding: 5px;\n}\n\ntable {\n display: inline-block;\n text-align: left;\n}\n\n.correct {\n\tbackground-color: lime;\n}\n\n.nightMode .correct {\n\tbackground-color: #009900;\n}\n\n.wrong {\n\tbackground-color: OrangeRed;\n}\n\n.hidden {\n  /*\n  This block is from Glutanimate's Cloze Overlapper card template.\n  The Cloze Overlapper card template is licensed under the CC BY-SA 4.0\n  license (https://creativecommons.org/licenses/by-sa/4.0/).\n  */\n  /* guarantees a consistent width across front and back */\n  font-weight: bold;\n  display: block;\n  line-height:0;\n  height: 0;\n  overflow: hidden;\n  visibility: hidden;\n}",
             "flds": [
@@ -5211,7 +5602,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Basic (and reversed card)",
+            "name": "Basic (and reversed card)-defa1",
             "req": [
                 [
                     0,
