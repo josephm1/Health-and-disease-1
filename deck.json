@@ -462,6 +462,7 @@
                         "paste-e9ffeaf448feae009feecd471e09a4ca9c1f9cef.jpg",
                         "paste-ece39613dd42a14b8e18e2b96bf834781b9e824f.jpg"
                     ],
+                    "mid": 1603908832969,
                     "name": "03/16 Infective endocarditis",
                     "notes": [
                         {
@@ -615,6 +616,19 @@
                             "tags": []
                         }
                     ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "e6917adc-8da1-11eb-bc8a-f519ebe31366",
+                    "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "03/18 Device related infection",
+                    "notes": []
                 }
             ],
             "crowdanki_uuid": "e848dad6-7dce-11eb-a5b6-a0b2d6ecb02c",
@@ -4322,6 +4336,629 @@
                             "tags": []
                         }
                     ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "e69f5e5a-8da1-11eb-9dd9-f519ebe31366",
+                    "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-05cd5304ed4cda08e89c0bdc83b14ce07d088a67.jpg",
+                        "paste-06d73ae73b168511e27b663ba4fb470c77a2c4a7.jpg",
+                        "paste-181800e0a3a7031bd16e4db32f6c404a1bfa24c7.jpg",
+                        "paste-21e74e4c106d098c0353d1b7f7aa4437ededc9bf.jpg",
+                        "paste-2e25849f97813d49ba43afb6a38c592feb3e3cb6.jpg",
+                        "paste-2f92de6fda8c1590a2c90206094cc22118c8a51a.jpg",
+                        "paste-3080e6b0e7ad2893be3dbc05bba8fc2911ae52d5.jpg",
+                        "paste-30c71e78132c95f71a7886f69e3940e0a5494892.jpg",
+                        "paste-5b641ea927a4cc00cce7ce879292550d561d0518.jpg",
+                        "paste-5f1b79699d939db9a6bafa13c525e66fa8896db4.jpg",
+                        "paste-79de7152693072991719af55c4decd86c236f724.jpg",
+                        "paste-8b3133860e5f734a337ed9b75e91015165d7ab47.jpg",
+                        "paste-962d1aeba5ea9d5521bca2bfbbbcc7fbd6312099.jpg",
+                        "paste-b7992300c2c7fef98d955ce09a6c02a365000709.jpg",
+                        "paste-bf9f9092bdfc55578b66607147b4373edbbb8442.jpg",
+                        "paste-c08910b069f1aa623e65f5dbafa00245513326f4.jpg",
+                        "paste-c9662c7935ae68c356f1e0782053b759f4e6c209.jpg",
+                        "paste-cc393ad0041402d9ea5bd11e63a4559e01c7b26f.jpg",
+                        "paste-d7858f524be4963daab9ae70c34e00370cb78f1c.jpg",
+                        "paste-db6eede4aadf386ac2e2dc16b9a63e69c6efc063.jpg",
+                        "paste-e6e06da9b55200139a134f3025e2eb3a2487cb92.jpg",
+                        "paste-f433e4f6768911fc41676aed8748fcaca9ce9cac.jpg",
+                        "paste-f9abdea43ddb31e459c8aaa7da02567df230c6ac.jpg",
+                        "paste-f9db514d4c15a47f39fd6d93fd6900642507712c.jpg"
+                    ],
+                    "name": "03/16 Valvular disease",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What are these?<div>1.</div><div><img src=\"paste-cc393ad0041402d9ea5bd11e63a4559e01c7b26f.jpg\"></div><div>2.</div><div><img src=\"paste-b7992300c2c7fef98d955ce09a6c02a365000709.jpg\"><br></div><div>3.</div><div><img src=\"paste-79de7152693072991719af55c4decd86c236f724.jpg\"><br></div><div>4. affected valve, muscle, condition that causes it</div><div><img src=\"paste-21e74e4c106d098c0353d1b7f7aa4437ededc9bf.jpg\"><br></div><div>5.</div><div><img src=\"paste-2e25849f97813d49ba43afb6a38c592feb3e3cb6.jpg\"><br></div><div>6.</div><div><img src=\"paste-db6eede4aadf386ac2e2dc16b9a63e69c6efc063.jpg\"><br></div>",
+                                "1. Normal aortic valve<div>2. Normal mitral/bicuspid valve</div><div>3. Mitral stenosis</div><div>4. Mitral, papillary muscle rupture, MI</div><div>5. aortic stenosis</div><div>6. perforated aortic cusp</div><div><br></div><div><img src=\"paste-181800e0a3a7031bd16e4db32f6c404a1bfa24c7.jpg\"><br></div>"
+                            ],
+                            "guid": "E7)9pnvx~]",
+                            "note_model_uuid": "afe9e61b-7dce-11eb-8b6f-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><u>Mitral</u></b><div><b><u>Stenosis<br></u></b><div>Give 2 rheumatic<b>&nbsp;</b>and<b>&nbsp;</b>Non-rheumatic causes<br></div><div>{{c1::<div>rheumatic fever</div><div>rheumatoid arthiritis&nbsp;</div><div>systemic lupus erythematosus&nbsp;</div><div>infantile endomyocardial fibrosis</div>}}<br></div><div><br></div><div><div>Stenosis increases {{c1::pressure}} in the left {{c1::atrium}} -&gt;</div></div><div>moves via {{c1::pulmonary}} vein -&gt;</div><div><div>{{c1::Pulmonary}} Congestion/Oedema -&gt;</div></div><div>&nbsp;to the {{c1::pulmonary}} artery -&gt;&nbsp;</div><div>{{c1::right}} ventrilce failure and hypertrophy<br></div><div><br></div><div>Over time the {{c1::left atrium}} dilates due to the increased {{c1::pressure}}</div></div><div><br></div><div><b><u>Incompetence</u></b></div><div>3 places damage can occur to cause this</div><div>{{c1::<div><span style=\"color: rgb(211, 72, 23);\"></span>Papillary Muscle Damage</div>\n<div><span style=\"color: rgb(211, 72, 23);\"></span>Lesions of Cusps</div>\n<div><span style=\"color: rgb(211, 72, 23);\"></span>Lesions of Valve Ring</div><div></div>}}<br></div><div><br></div><div>Name these types of causes</div><div><img src=\"paste-f9db514d4c15a47f39fd6d93fd6900642507712c.jpg\"><br></div><div>A. {{c1::lesion of cusp}}</div><div>B. {{c1::lesion of valve ring}}</div><div><br></div><div>What is this called (right)?</div><div><img src=\"paste-e6e06da9b55200139a134f3025e2eb3a2487cb92.jpg\"><br></div><div>{{c1::Floppy mitral valve syndrome}}</div><div><br></div><div>Incompetence, t/f?</div><div><div><font color=\"#9b2d1f\">-</font>Decreased volume load {{c1::f}}</div><div><font color=\"#9b2d1f\">-</font>Lower\nexercise tolerance {{c1::t}}</div>\n<div><font color=\"#9b2d1f\">-</font>Progressive\nright ventricular failure {{c1::f}}</div>\n-Rapid\nleft atrial failure {{c1::f}}<br></div><div><br></div><div><div>{{c1::<div><div><font color=\"#9b2d1f\">-</font>Increased volume load&nbsp;</div></div><div><div><font color=\"#9b2d1f\">-</font>Progressive left ventricular failure&nbsp;</div><div>-Rapid left ventricular failure</div></div>}}<br></div></div><div><div><br></div></div>",
+                                "<img src=\"paste-f433e4f6768911fc41676aed8748fcaca9ce9cac.jpg\"><div>for pulmonary congestion<br><div><img src=\"paste-3080e6b0e7ad2893be3dbc05bba8fc2911ae52d5.jpg\"><br></div><div><img src=\"paste-d7858f524be4963daab9ae70c34e00370cb78f1c.jpg\"><br></div></div>"
+                            ],
+                            "guid": "rJU21P)[a#",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(105, 100, 100);\"><b><u>Aortic</u></b></span><div><span style=\"color: rgb(105, 100, 100);\">Stenosis</span><span style=\"color: rgb(105, 100, 100);\"><b><u><br></u></b></span></div><div><span style=\"color: rgb(105, 100, 100);\"><br></span></div><div><span style=\"color: rgb(105, 100, 100);\">Give 3 causes</span></div><div>{{c1::<div><span style=\"color: rgb(211, 72, 23);\"></span>Calcific Aortic Stenosis</div>\n<div><span style=\"color: rgb(211, 72, 23);\"></span>Calcific <b>Bicuspid</b> Aortic Stenosis</div>\n<div><span style=\"color: rgb(211, 72, 23);\"></span>Rheumatic</div>\n<div><span style=\"color: rgb(211, 72, 23);\"></span>Senile Aortic Stenosis</div>\n<div><span style=\"color: rgb(211, 72, 23);\"></span>Familial Hyperlipidaemia</div>\n<div><span style=\"color: rgb(211, 72, 23);\"></span>Mixed</div>}}<br></div><div><br></div><div>Which of these images is more unusual and why?</div><div>{{c1::Bicuspid}}</div><div><img src=\"paste-bf9f9092bdfc55578b66607147b4373edbbb8442.jpg\"><br></div><div><br></div><div>Results t/f?</div><div><div><span style=\"color: rgb(211, 72, 23);\"></span>Decreased pressure load {{c1::f}}</div>\n<div><span style=\"color: rgb(211, 72, 23);\"></span>Angina {{c1::t}}</div>\n<div><span style=\"color: rgb(211, 72, 23);\"></span>Breathlessness {{c1::f}}</div>\n<div><span style=\"color: rgb(211, 72, 23);\"></span>Sudden death {{c1::t}}</div>\n<div><span style=\"color: rgb(211, 72, 23);\"></span>Right ventricular failure {{c1::f}}</div></div><div><br></div><div>{{c1::<div><span style=\"color: rgb(211, 72, 23);\"></span>Raised pressure load</div>\n<div><span style=\"color: rgb(211, 72, 23);\"></span>Angina</div>\n<div><span style=\"color: rgb(211, 72, 23);\"></span>Fainting</div>\n<div><span style=\"color: rgb(211, 72, 23);\"></span>Sudden death</div>\n<div><span style=\"color: rgb(211, 72, 23);\"></span>Left ventricular failure</div>}}<br></div><div><br></div><div><span style=\"color: rgb(105, 100, 100);\"><b><u>Incompetence</u></b></span><br></div><div><img src=\"paste-962d1aeba5ea9d5521bca2bfbbbcc7fbd6312099.jpg\"><span style=\"color: rgb(105, 100, 100);\"><b><u><br></u></b></span></div><div><br></div><div>Results</div><div><div><span style=\"color: rgb(211, 72, 23);\"></span>{{c1::Raised}} pulse pressure&nbsp;</div>\n<div><span style=\"color: rgb(211, 72, 23);\"></span>{{c1::Left}} ventricular hypertrophy</div>\n<div><span style=\"color: rgb(211, 72, 23);\"></span>Angina</div></div><div><br></div><div>What is a collapsing pulse?</div><div>{{c1::<div><b>collapsing pulse</b><span style=\"color: rgb(32, 33, 36);\">, is the medical sign (seen in aortic regurgitation) which describes a&nbsp;</span><b>pulse</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;that is bounding and forceful, rapidly increasing and subsequently&nbsp;</span><b>collapsing</b><span style=\"color: rgb(32, 33, 36);\">, as if it were the sound of a waterhammer that was causing the&nbsp;</span><b>pulse</b><span style=\"color: rgb(32, 33, 36);\">.</span><br></div><div><img src=\"paste-06d73ae73b168511e27b663ba4fb470c77a2c4a7.jpg\"></div>}}<br></div>",
+                                "<img src=\"paste-c08910b069f1aa623e65f5dbafa00245513326f4.jpg\">"
+                            ],
+                            "guid": "Q9rz[S/@4T",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(105, 100, 100);\"><b>Tricuspid</b></span><div><span style=\"color: rgb(105, 100, 100);\">Stenosis</span></div><div><img src=\"paste-30c71e78132c95f71a7886f69e3940e0a5494892.jpg\"><span style=\"color: rgb(105, 100, 100);\"><br></span></div><div>it's rare<br></div><div><br></div><div><span style=\"color: rgb(105, 100, 100);\">Incompetence</span><br></div><div><img src=\"paste-5f1b79699d939db9a6bafa13c525e66fa8896db4.jpg\"><span style=\"color: rgb(105, 100, 100);\"><br></span></div><div><div>leads to {{c1::right}} heart failure</div><div>Usually due to {{c1::right}} ventricular dilation</div></div>",
+                                ""
+                            ],
+                            "guid": "QBj>PWD{#=",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><u><span style=\"color: rgb(105, 100, 100);\">Pulmonary</span></u></b><div><b><u><span style=\"color: rgb(105, 100, 100);\">Stenosis</span></u></b></div><div><img src=\"paste-8b3133860e5f734a337ed9b75e91015165d7ab47.jpg\"><b><u><span style=\"color: rgb(105, 100, 100);\"><br></span></u></b></div><div><div><span style=\"color: rgb(211, 72, 23);\"></span>Usual cause {{c1::congenital}}</div>\n<div><span style=\"color: rgb(211, 72, 23);\"></span>{{c1::Right}} sided heart failure</div></div><div><br></div><div><span style=\"color: rgb(105, 100, 100);\"><b><u>Incompetence</u></b></span><br></div><div><img src=\"paste-5b641ea927a4cc00cce7ce879292550d561d0518.jpg\"><span style=\"color: rgb(105, 100, 100);\"><b><u><br></u></b></span></div><div>Give a cause. {{c1::pulmonary\nhypertension}}</div>",
+                                ""
+                            ],
+                            "guid": "E#x6COz5zt",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(105, 100, 100);\">Rheumatic Fever</span><div><div><span style=\"color: rgb(211, 72, 23);\"></span>Acute febrile illness</div>\n<div><span style=\"color: rgb(211, 72, 23);\"></span>5-15 years</div>\n<div><span style=\"color: rgb(211, 72, 23);\"></span>Group A, B-haemolytic {{c1::strepto}}coccus</div>\n<div><span style=\"color: rgb(211, 72, 23);\"></span>2-6 weeks: heart, joints, skin, basal\nganglia, other tissues</div>\n<div><span style=\"color: rgb(211, 72, 23);\"></span>Cytotoxic antibodies: {{c1::M}} protein of strep</div></div><div><br></div><div>&nbsp;What is this called?</div><div><img src=\"paste-2f92de6fda8c1590a2c90206094cc22118c8a51a.jpg\"><br></div><div><div>{{c1::<span style=\"color: rgb(105, 100, 100);\">Aschoff Nodule,&nbsp;</span>They are pathognomic foci of fibrinoid necrosis found in many sites, most often the myocardium. Initially they are surrounded by lymphocytes, macrophages, and a few plasma cells, but they are slowly replaced by a fibrous scar. Aschoff bodies are found in all the three layers of the heart, least chance in the pericardium.}}<br></div><br></div><div>RF is diagnosed using {{c1::Jones}} criteria<br></div>",
+                                "<img src=\"paste-f9abdea43ddb31e459c8aaa7da02567df230c6ac.jpg\"><div><img src=\"paste-05cd5304ed4cda08e89c0bdc83b14ce07d088a67.jpg\"><br></div><div><img src=\"paste-c9662c7935ae68c356f1e0782053b759f4e6c209.jpg\"><br></div><div><br></div>"
+                            ],
+                            "guid": "A<H>=<.>vU",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "e6a02262-8da1-11eb-8c0e-f519ebe31366",
+                    "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-346ae2fee61d606395ade5c51a5c42435638740b.jpg",
+                        "paste-39e2f8e53991b088ecfffc3e2b959bf4bd5808e1.jpg",
+                        "paste-40f82f991e6fcd48e5411591ac4281e3ebd3b45c.jpg",
+                        "paste-616a04cfc3c8679d5232683509fd1da0b6024ad9.jpg",
+                        "paste-68e6ec4922e1dacef9ab403e97499897c93c3b6c.jpg",
+                        "paste-825ad808a73355967b218a0fdd2f2c968caf38d7.jpg",
+                        "paste-8554f0671144f934f2c851b4e82cb9c0097f5b5d.jpg",
+                        "paste-88e0f605a3bed512c928eba5a6dcb9e05a014e1b.jpg",
+                        "paste-9426dfc5a7181fb29f76ea9311f9652508f6c3da.jpg",
+                        "paste-96e3ebf2305d029f41274042b89c522b5e3aa7f2.jpg",
+                        "paste-d9d2fc9e943228c64f301708d3a7aaefb9da95b3.jpg",
+                        "paste-dfcba1d1c1ddf47b1f5056f24d1f9d5a5f8a6347.jpg",
+                        "paste-eb2d89f1490730e23ddafce34d3fa00c46647d8c.jpg",
+                        "paste-f8dd87fbdf618a3fb7f11841a2dc87b21ba3987f.jpg",
+                        "paste-fbde7e7be9c1fb9166cdde49ec4cc0dd36c3ec4f.jpg"
+                    ],
+                    "name": "03/17 Clinical Pathology of Aneurysms",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What\nis an Aneurysm (4 key words)? {{c1::<b>Localised Abnormal Permanent Dilatation</b> Of\na blood vessel (Or\nthe heart) Gr.\n<span style=\"font-style: italic;\">aneurusma</span> =\n“widening”}}<div><br></div><div>True\nor False?<br></div><div>surrounded\nby complete vessel wall; all layers affected {{c1::<span style=\"font-weight: bold;\">True</span> aneurysm –eg, congenital, atherosclerotic, syphilitic}}<br></div><div><br></div><div>extravascular\nhaematoma which communicates with intravascular space {{c1::<span style=\"font-weight: bold;\">False</span> aneurysm (‘pseudoaneurysm’) –e.g., anastomotic leak between vascular\ngraft and native artery}}<br></div>",
+                                "<img src=\"paste-825ad808a73355967b218a0fdd2f2c968caf38d7.jpg\"><div>Pseudoaneurysm\nof Left Ventricle<br></div><div><img src=\"paste-346ae2fee61d606395ade5c51a5c42435638740b.jpg\"><br></div>"
+                            ],
+                            "guid": "Q^IX~%*jae",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Name 3 types of aneurysm<div>{{c1::Saccular, fusiform, mycotic}}</div><div><br></div><div>Which is present with infections? {{c1::Mycotic}}</div><div><br></div><div>What type is this? {{c1::Mycotic}}</div><div><img src=\"paste-8554f0671144f934f2c851b4e82cb9c0097f5b5d.jpg\"><br></div>",
+                                "<img src=\"paste-88e0f605a3bed512c928eba5a6dcb9e05a014e1b.jpg\"><div>Saccular also called berry cause it looks like one</div>"
+                            ],
+                            "guid": "u`%C:i{<U`",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Match these up:<div><div>•Atherosclerosis&nbsp;</div>\n<div>•Cystic\nmedial degeneration</div>\n<div>•Kawasaki\nsyndrome&nbsp;</div>\n<div>•Polyarteritis nodosa</div>\n<div>•Trauma</div></div><div><br></div><div>arteriovenous\naneurysms<br></div><div>coronary\nartery aneurysms<br></div><div>congenital<br></div><div>intrarenal\naneurysms<br></div><div>medial e.g. abdominal aortic aneurysm</div>",
+                                "<div>•Atherosclerosis\n– medial destruction</div>\n<div>–Most common in abdominal aorta</div>\n<div>•Cystic\nmedial degeneration (congenital)</div>\n<div>•Kawasaki\nsyndrome (coronary artery aneurysms)</div>\n<div>•Polyarteritis nodosa\n(intrarenal aneurysms)</div>\n<div>•Trauma\n(arteriovenous aneurysms)</div>"
+                            ],
+                            "guid": "HBf<h|$t-`",
+                            "note_model_uuid": "afe9e61b-7dce-11eb-8b6f-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Abdominal\nAortic Aneurysm, t/f?<div><div>•Most\nare asymptomatic until rupture {{c1::t}}</div>\n<div>•Mostly\nsupra-renal {{c1::f infra-renal}}</div><div><br></div>\n•diameter of aneurysm {{c1::1.5}} times expected diameter or {{c1::30}}mm +<br></div><div><br></div><div>Give 2 causes that are Connective\ntissue disorders, Infection + 1 Inflammatory\ndiseases, most frequent cause</div>",
+                                "<div>•Atherosclerosis -most freq</div>\n<div>•Trauma</div>\n<div>•Infection: brucellosis, salmonellosis, TB</div>\n<div>•Inflammatory diseases: Takayasu’s\narteritis</div>\n<div>•Connective tissue disorders: Marfan,\nEhlers-Danlos <font color=\"#ff0000\">type\nIV</font></div>\n<div>•Risk factors: Smoking\n(´4), male, age, hypertension, COPD,\nhyperlipidaemia, family history</div>"
+                            ],
+                            "guid": "O1eR,F1-}J",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>Pathophysiology<br></div><div>•Loss of {{c1::elastic}} fibres</div>\n<div>•Reduction of aortic {{c1::media}}</div>\n<div>•{{c1::Collagen}} degradation (types {{c1::I}} and {{c1::III}})</div>\n<div>•Imbalance between <font color=\"#ff0000\">proteolytic</font>\nenzymes ({{c1::matrix metalloproteinases}}) and\n{{c1::antiproteases}}</div>\n<div>•{{c1::↓}} density of smooth muscle cells in {{c1::media}}</div>\n<div>•{{c1::Mural}} thrombus formation → <font color=\"#ff0000\">local hypoxia</font>\n→ <font color=\"#ff0000\">medial neovascularisation</font> and {{c1::inflammation}}</div>",
+                                ""
+                            ],
+                            "guid": "xVOhRPkA*@",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Complications</b><br></div>How can AAA cause&nbsp;<div>“blue toe syndrome”<br><div>Ureterohydronephrosis?</div><div><br><div><div>{{c1::<div>•Distal embolisation&nbsp;- peripheral occulsion “blue toe syndrome”</div>\n<div>•Ureterohydronephrosis - pressure on the ureter goes back into kidney -&gt; renal failure</div><div></div>}}<br></div><div><br></div>\n<div>•Rupture , t/f?</div>\n<div>–Sudden onset <font color=\"#ff0000\">mid-thoracic/flank pain</font> {{c1::f <font color=\"#ff0000\">mid-abdomen/flank\npain</font>}}</div>\n<div>–May radiate into <font color=\"#ff0000\">scrotum</font> in male {{c1::t}}</div>\n<div>–Hypovolaemic\nshock {{c1::t}}</div>\n<div>–<font color=\"#ff0000\">Intraperitoneal</font> more often fatal than\n<font color=\"#ff0000\">retroperitoneal</font> {{c1::t}}</div>\n<div>–<font color=\"#ff0000\">Aortoduodenal</font>\nfistula causing haematemesis common {{c1::f it's rare}}</div></div></div></div>",
+                                "<div>Blue\nToe Syndrome<br></div><img src=\"paste-f8dd87fbdf618a3fb7f11841a2dc87b21ba3987f.jpg\">"
+                            ],
+                            "guid": "f`jk70nP<L",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Risk\nof Rupture</b><div><div>•Risk increases with diameter</div>\n<div>•Law of {{c1::Laplace}}</div>\n<div>•Surveillance of AAAs <span style=\"font-weight: bold;\">&lt;&nbsp;</span>{{c1::5.5}}<span style=\"font-weight: bold;\">cm</span></div>\n<div>•{{c1::5}}% elective repair mortality<br></div></div><div><br></div><div><div>What % of patients survive ruptured AAAs?</div><div>{{c1::18%}}<br></div></div><div><br></div><div>Name 5 places the rupture can go.</div><div>{{c1::<div><span style=\"font-weight: bold;\">1: Intraperitoneal.&nbsp;</span></div><div><span style=\"font-weight: bold;\">2:\nRetroperitoneal.&nbsp;</span></div><div><span style=\"font-weight: bold;\">3: Rupture of retroperitoneal sac.&nbsp;</span></div><div><span style=\"font-weight: bold;\">4. Duodenum.&nbsp;</span></div><div><span style=\"font-weight: bold;\">5. IVC</span></div>}}<br></div>",
+                                "<img src=\"paste-fbde7e7be9c1fb9166cdde49ec4cc0dd36c3ec4f.jpg\"><div><br></div><div>For repair</div><div><img src=\"paste-9426dfc5a7181fb29f76ea9311f9652508f6c3da.jpg\"><br></div><div><img src=\"paste-616a04cfc3c8679d5232683509fd1da0b6024ad9.jpg\"><br></div>"
+                            ],
+                            "guid": "t`-y-ST2CZ",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Aortic\nDissection</b><div><div>•Dissection\nof blood along layers of {{c1::aortic media}}</div>\n<div>•Formation\nof blood-filled {{c1::false}} lumen</div>\n<div>•Rupture\nleads to massive haemorrhage</div>\n<div>•3\ncases per 100,000 per year</div>\n<div>•20%\ndie before reaching hospital; 30% die during hospital admission</div>\n<div>•Peak\nfrequency 0800h-0900h and in winter</div></div><div><br></div><div><b>Pathophysiology</b><br></div><div><div>•Most (<font color=\"#ff0000\">&gt;80%</font>) develop without\npre-existing thoracic aortic aneurysm</div>\n<div>•<span style=\"font-weight: bold;\">Risk factors</span>:\nhypertension, old age, atherosclerosis, previous cardiovascular surgery, {{c1::Marfan}}’s\nsyndrome, {{c1::Ehlers-Danlos type\nIV}} (type), {{c1::Turner}}’s syndrome (webbed neck), {{c1::bicuspid}} aortic valve (1% of population), {{c1::Takayasu}}’s arteritis,\nfamilial (19%), pregnancy</div>\n<div>•<span style=\"font-weight: bold;\">Marfan’s</span><span style=\"font-weight: bold;\">\nsyndrome</span>:\nmutations in gene for {{c1::fibrillin 1}}</div></div>",
+                                "<img src=\"paste-d9d2fc9e943228c64f301708d3a7aaefb9da95b3.jpg\">"
+                            ],
+                            "guid": "j/,rCB;3@)",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Histology</b><div>What is this? {{c1::Cystic medial degeneration}}<div><img src=\"paste-96e3ebf2305d029f41274042b89c522b5e3aa7f2.jpg\"><b><br></b></div></div><div><div>•{{c1::↓}} vascular smooth muscle cells</div>\n<div>•{{c1::Mucoid}} deposition</div>\n<div>•{{c1::Elastin}} deficiency</div>\n<div>•{{c1::Elastin}} fragmentation</div>\n<div>•Haemorrhage <u>between&nbsp;</u>{{c1::<font color=\"#ff0000\">middle</font>}}<u>&nbsp;and&nbsp;</u>{{c1::<font color=\"#ff0000\">outer</font> ⅓}}<u>&nbsp;</u>of\n<font color=\"#ff0000\">media</font></div></div>",
+                                ""
+                            ],
+                            "guid": "mdQgu~__~Q",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Sequence\nof Events<br></b></div><div>Step 1</div>\n<div>•Atherosclerotic {{c1::ulcer}}</div>\n<div>•Tear in damaged {{c1::intima}} (media, intima, externa)</div><div><br></div>\n<div>Step 2</div>\n<div>•Disruption of {{c1::vasa vasorum}}</div>\n<div>•{{c1::Intramural}} haematoma</div>\n<div>•Rupture of haematoma into {{c1::aortic lumen}}</div>\n<div><br></div><div>Step 3</div><div>Which direction can blood travel in the dissection?</div>\n<div>{{c1::•Blood can travel along dissection path, <span style=\"language:en-IE;font-weight:bold\">anterogradely and </span><span style=\"language:en-IE;font-weight:bold\">retrogradely</span><span style=\"language:en-IE;font-weight:bold\">, or both</span>, before re-entering arterial lumen}}<br></div>",
+                                "vasa vasorum&nbsp;<span style=\"color: rgb(32, 33, 36);\">is a network of small blood vessels that supply the walls of large blood vessels, such as elastic arteries (e.g., the aorta) and large veins (e.g., the venae cavae).</span><div><span style=\"color: rgb(32, 33, 36);\"><br></span></div><div><img src=\"paste-39e2f8e53991b088ecfffc3e2b959bf4bd5808e1.jpg\"><span style=\"color: rgb(32, 33, 36);\"><br></span></div>"
+                            ],
+                            "guid": "y>s`Bzh2%#",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Diagnosis</b>, t/f?<div><div>•Unequal lower limb pulses {{c1::f <font color=\"#ff0000\">upper limb</font>}}</div>\n<div>•New <font color=\"#ff0000\">pulmonary regurgitation murmur</font>&nbsp;{{c1::f <font color=\"#ff0000\">aortic\nregurgitation murmur</font>}}</div>\n<div>•Features of a connective tissue disease {{c1::t}}</div>\n<div>•Chest radiograph: <font color=\"#ff0000\">shrunken mediastinum</font>&nbsp;{{c1::f <font color=\"#ff0000\">widened\nmediastinum</font>}}</div>\n<div>•<font color=\"#ff0000\">Trans-oesophageal</font> echocardiogram {{c1::t}}</div>\n<div>•CT angiogram {{c1::t (good at excluding if low\npre-test probability)}}</div>\n<div>•MRI {{c1::t (more sensitive if high pre-test\nprobability)}}</div></div><div>•ECG: depressed <font color=\"#ff0000\">ST interval</font> {{c1::f made up myself}}<br></div>",
+                                ""
+                            ],
+                            "guid": "c`vye%cWU/",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Cerebral\nAneurysm</b><div><div>•<span style=\"font-weight: bold;\">~</span>{{c1::3}}<span style=\"font-weight: bold;\">%</span> prevalence in adult population</div>\n<div>•Up to <font color=\"#ff0000\">80</font>% never rupture</div>\n<div>•Mostly sporadic</div>\n<div>•Multiple in <span style=\"font-weight: bold;\">20-30%</span></div>\n<div>•Give 3 Associations (diseases):&nbsp;</div><div>{{c1::<div>autosomal\ndominant polycystic kidney disease (PKD),&nbsp;</div><div>fibromuscular\ndysplasia esp. in women,</div><div>Marfan’s,&nbsp;</div><div>Ehlers-Danlos type\nIV</div>}}</div></div>",
+                                "•Screen with MRA if <font color=\"#ff0000\">2 immediate relatives with intracranial aneurysm</font>s, or all patients with adult PCKD<div><img src=\"paste-68e6ec4922e1dacef9ab403e97499897c93c3b6c.jpg\"><br></div>"
+                            ],
+                            "guid": "bu9[&a3JO^",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Natural\nHistory<br></b></div><div>•Mass effect: cranial nerve palsies,\nbrainstem compression</div>\n<div>•Rapid onset of {{c1::oculomotor&nbsp; (<span style=\"font-style: italic;\">ptosis,\neye looks down and out, dilated pupil</span>)}}&nbsp;nerve palsy due to enlarging aneurysm of {{c1::<font color=\"#ff0000\">posterior\ncommunicating</font>}} artery</div>\n<div>•{{c1::2-4}}% re-bleed within first 24hrs; <font color=\"#ff0000\">20</font>%\nbleed again within first {{c1::2 weeks}}</div>\n<div>•Rupture associated with straining or\nsexual orgasm (<span style=\"font-style: italic;\">coital </span><span style=\"font-style: italic;\">cephalalgia</span>)</div>",
+                                "<img src=\"paste-40f82f991e6fcd48e5411591ac4281e3ebd3b45c.jpg\">"
+                            ],
+                            "guid": "n-]/t~*Ox?",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Subarachnoid\nHaemorrhage</b><div><div>•Incidence: 1 per 10,000 per year</div>\n<div>•Men {{c1::&lt; (2x more common in women)}} Women&nbsp;</div>\n<div>•Peak incidence: 55-60 yrs</div>\n<div>•Causes 5-15% of cases of {{c1::stroke}}</div>\n<div>•45% 30-day mortality</div>\n<div>•Risk factors: {{c1::hyper}}tension, smoking, {{c1::low}}\nBMI</div>\n<div>•Thunderclap headache, nuchal rigidity</div>\n<div>•{{c1::10}}% die before reaching medical attention</div>\n<div>•Diagnosis: CT Head {{c1::without}} <font color=\"#ff0000\">contrast</font> or\n{{c1::lumbar}} (c,t,l,sc) puncture (xantochromia\nafter 12 hrs)</div>\n<div>•Complications: {{c1::meningeal}} fibrosis →\nhydro{{c1::cephalus}}, brainstem vasospasm, “cardiac stun”</div></div>",
+                                "<img src=\"paste-eb2d89f1490730e23ddafce34d3fa00c46647d8c.jpg\">"
+                            ],
+                            "guid": "qG9SJ)D17P",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Syphilitic\n(Luetic)\nAneurysm</b><div><div>•{{c1::Endarteritis}}\nobliterans of vasa vasorum of\naortic {{c1::adventitia}} → ischaemia of {{c1::media}} → inflammation → {{c1::dilatation}} (constrict/dilate?)</div>\n<div>•Usually\ninvolve {{c1::arch of}} aorta</div>\n<div>•Mediastinal\n{{c1::compression}}</div>\n<div>•Respiratory\n{{c1::obstruction}}</div>\n<div>•Dysphagia</div>\n<div>•Hoarseness</div>\n<div>•Aortic\n{{c1::regurgitation}}</div>\n<div>•Rupture</div></div><div><br></div><div><b>Ventricular\nAneurysms</b><br></div><div><div>•Late complication of myocardial\ninfarction</div>\n<div>•Mostly large {{c1::transmural}}, {{c1::anteroseptal}} (supra/infra/antero/retro, septal,mural,atrial,ventricular)&nbsp;\ninfarcts</div>\n<div>•Area of thin {{c1::collagenous}} tissue </div>\n<div>•Bulges paradoxically during {{c1::systole}}&nbsp;</div>\n<div>•Complications:</div>\n<div>–Thromboembolism</div>\n<div>–Arrhythmias</div>\n<div>–Cardiac failure</div>\n<div>–Rupture is rare</div></div><div><img src=\"paste-dfcba1d1c1ddf47b1f5056f24d1f9d5a5f8a6347.jpg\"><br></div>",
+                                ""
+                            ],
+                            "guid": "BMy[5#b{^h",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "e6a0e5b9-8da1-11eb-9ddb-f519ebe31366",
+                    "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-68d1fb78a7a9439c205e1aa56f9443f1b41d71da.jpg",
+                        "paste-e1a190286ba3ce119bba31b69985a1e7dfdadc2a.jpg"
+                    ],
+                    "name": "03/18 GRANULOMATOUS LUNG DISEASES",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>{{c1::Granuloma}}: is special form of\nchronic inflammation which is characterised by focal&nbsp; collection of {{c1::epithelioid}} cells with or\nwithout <b>multinucleated giant</b> cells and <b>lymphocytes</b></div><div><br></div>\n<div>§Presence of granuloma is\npathological</div><div><br></div>\n<div>§{{c1::Tuberculosis}} should be excluded in\nall cases of granuloma especially in the lung</div><div><br></div><div><img src=\"paste-e1a190286ba3ce119bba31b69985a1e7dfdadc2a.jpg\"><br></div><div>Name 2 features present</div>",
+                                "<div>2 giant cells, lympohcytes (neutrophils)</div>"
+                            ],
+                            "guid": "PGWtIEs7;<",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><span style=\"color: rgb(183, 231, 255);\">Pathgenesis\nof granuloma</span></div><div>§Epithelioid cells are modefied\nmacrophages by the effect of {{c1::T-Helper}} cell which secrete {{c1::Interferone gamma}}.</div>\n<div>§Fusion of {{c1::epitheloid}} cells form the\nmultinucleated giant cells</div>\n<div>§Healing of granuloma is by fibrosis\ndue to secretion of {{c1::FGF}} and {{c1::TGF}} by activated macrophages and epithelioid cells</div><div><br></div><div><span style=\"color: rgb(183, 231, 255);\">Diseases\ncausing granuloma</span><br></div><div><div>§{{c1::Tubercul}}osis common</div><div>§{{c1::Sarcoid}}osis common</div>\n<div>§Crohn’s disease</div>\n<div>§Foreign body reaction</div>\n<div>§Other infections : leprosy ,fungal\ninfection , cat scratch disease , bilharzia , syphilis……..</div>\n<div>§Immunological : rheumatoid\narthritis ,{{c1::Aschoff}}’s nodule in rheumatic fever</div></div><div><br></div><div>Why not HIV?</div>",
+                                "FGF= fibroblast growth factor<div>TGF= Transforming Growth Factor</div><div><br></div><div>HIV -&gt; t-cells go to shit</div>"
+                            ],
+                            "guid": "c`ki#(,p]S",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><span style=\"color: rgb(183, 231, 255);\">Tuberculosis&nbsp;</span><br></div><div><div>§Tuberculosis (TB) is the world's leading infectious killer of young and middle-aged adults, causing&nbsp;<b>26</b>&nbsp;percent of avoidable deaths in the developing world .</div><div><br></div><div>§TB is a highly infectious&nbsp;<b>airborne</b>&nbsp;disease caused by {{c1::Mycobacterium tuberculosis}} .</div><div>§Crowded homes and congregate settings (such as shelters, hospitals, and prisons) tend to foster transmission</div><div><br></div><div>§Although pulmonary TB is the most common form, the disease can affect&nbsp;<b>virtually any organ</b>&nbsp;(for example, lymph&nbsp;nodes,bones, brain, and genitals).&nbsp;</div></div><div><br></div><div><div>§Pulmonary TB is caused by inhalation of air-droplet from infected patient. From the primary lesion in the lung through blood stream it can spread to all organs in the body</div><div><br></div>-Gastrointestinal TB is caused by drinking unpasteurized milk contaminated by {{c1::mycobacteria bovis}}. This is very rare in developed countries</div><div><br></div><div><b>Name 3 stages\nof TB<br></b></div><div><div>{{c1::<div><div>§Primary tuberculosis (Ghon focus\nand Ghon complex).</div>\n<div>§Secondary tuberculosis</div>\n<div>§Miliary pulmonary and systemic TB</div></div><div></div>}}<br></div></div><div><br></div><div><span style=\"color: rgb(183, 231, 255);\">SYMPTOMS, T/F?</span><br></div><div><div>§Haematemesis<span style=\"color: rgb(77, 81, 86);\">&nbsp;</span>{{c1::<span style=\"color: rgb(77, 81, 86);\">F&nbsp;</span><span style=\"color: rgb(77, 81, 86);\">Haematemesis - vomiting of blood from the gastrointestinal (GI) tract.&nbsp;</span><em>Haemoptysis</em><span style=\"color: rgb(77, 81, 86);\">&nbsp;is the coughing of blood originating from the respiratory tract below the level of the larynx.</span>}}</div>\n<div>§Weight loss ,general weakness ,low\ngrade fever {{c1::T}}</div>\n<div>§Cardiac failure {{c1::F Respiratory failure}}</div>\n<div>§Clubbing of fingers {{c1::T}}</div>\n<div>§Chest CT {{c1::F x ray}}</div>\n<div>§Skin test ( mantoux test )</div></div><div><br></div><div>What is mantoux test?</div>",
+                                "<img src=\"paste-68d1fb78a7a9439c205e1aa56f9443f1b41d71da.jpg\"><div><span style=\"color: rgb(32, 33, 36);\">The&nbsp;</span><b>Mantoux test</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;</span><span style=\"color: rgb(32, 33, 36);\">is a tool for screening for tuberculosis (TB) and for tuberculosis diagnosis.</span><br></div>"
+                            ],
+                            "guid": "t`?K~lRjO=",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b style=\"\">Sarcoidosis</b><div>is\na disease due to inflammation. It can appear in almost any body organ, but most\noften starts in the <b>lungs</b> or <b>lymph nodes</b>.&nbsp;<span style=\"color: rgb(183, 231, 255);\"><b><br></b></span></div><div><br></div><div><div>§{{c1::70}}%\ncomplete remission</div>\n<div>§{{c1::20}}%\nloss of lung function</div>\n<div>§{{c1::10}}%\nmay die of cardiac or CNS involvement&nbsp;</div></div>",
+                                ""
+                            ],
+                            "guid": "H{=>v#=xEt",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "e6a1820e-8da1-11eb-bb01-f519ebe31366",
+                    "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-012c0658e52da0acb9339042ec4f89f52d7a4485.jpg",
+                        "paste-13c30cca717572b1c9f9673d5ea2c69936fbdeda.jpg",
+                        "paste-14b34c53a37d55c1e2dffc06420037d433c0c17d.jpg",
+                        "paste-2865cdb209363300b436577a09475592f5348569.jpg",
+                        "paste-609d878de323b94bcf49408a3ec792432327f799.jpg",
+                        "paste-8b8654a2d79747f058741c7c9cd7b5bf5cf9b980.jpg",
+                        "paste-9492ef1e808479590c976544ff2a15f6ab366ba9.jpg",
+                        "paste-a658db191852486aacfa707941edd45dcdc0f754.jpg",
+                        "paste-abea389862d3a917bdf5971d5217172228e623d4.jpg",
+                        "paste-ba7d0119e88e3948bb5a4b081c9df50b317ebab9.jpg",
+                        "paste-c349b7d1377cfba7f79777a904f5f3fc68b24f6b.jpg",
+                        "paste-d25b59406b9e9abe6668441b318d888a4407e4ee.jpg",
+                        "paste-d42fe76e90de023946436a7af29f6d3127381070.jpg"
+                    ],
+                    "name": "03/19  Chronic Obstructive PulmonaryDisease",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>COPD: is a disease state characterised by decreased airflow that is not {{c1::fully\nreversible}}.</div>\n<div><br></div>\n<div>It encompasses two clinical entities:</div>\n<div><font color=\"#669999\">-</font>{{c1::Chronic\nbronchitis}} – large airway inflammation</div>\n<div><font color=\"#669999\">-</font>{{c1::Emphysema}}\n– disease of distal airways</div><div><br></div><div><div><font color=\"#330066\">-</font>Smokers have a {{c1::20-25}}% chance of\ndeveloping COPD.</div></div><div><br></div><div><span style=\"color: rgb(51, 0, 102); font-weight: bold;\">Risk\nFactors for COPD</span><br></div><div><div><u><span style=\"font-weight: bold;\">Host\nfactors</span></u></div>\n<div></div>\n<div><font color=\"#330066\">-</font>Disordered lung development</div>\n<div><font color=\"#330066\">-</font>Asthma and airway hyper-responsiveness</div>\n<div><font color=\"#330066\">-</font>{{c1::Alpha-1-antitrypsin}} deficiency</div></div><div><br></div><div><div><u><span style=\"font-weight: bold;\">Environmental\nfactors</span></u></div>\n<div></div>\n<div><font color=\"#330066\">-</font>Tobacco smoke</div>\n<div><font color=\"#330066\">-</font>Air pollution</div>\n<div><font color=\"#330066\">-</font>Occupational dusts/chemicals</div>\n<div><font color=\"#330066\">-</font>Childhood infections</div>\n<div><font color=\"#330066\">-</font>Lower socioeconomic status</div></div>",
+                                ""
+                            ],
+                            "guid": "hFG@.[:g[U",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(51, 0, 102); font-weight: bold;\">Diagnosis\nof COPD</span><div><div><font color=\"#330066\">-</font>Consider in patients with cough, sputum\nproduction, or dyspnoea +/- risk factors.</div>\n<div><br></div>\n<div><font color=\"#330066\">-</font>Confirmed by {{c1::<font color=\"#ff0000\">spirometry</font>}}.</div>\n<div><br></div>\n<div><font color=\"#330066\">-</font>FEV1/FVC\n&lt;{{c1::70}}% (normal 70-80%) + post-bronchodilator FEV1 &lt;{{c1::80}}%\nof predicted value.</div>\n<div><br></div>\n<div><span style=\"color: rgb(51, 0, 102);\">-</span>Abnormal flow-volume loop.</div></div><div><br></div><div>What's FVC? {{c1::<b>Forced vital capacity</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;(</span><b>FVC</b><span style=\"color: rgb(32, 33, 36);\">) is the total amount of air exhaled during the FEV test.</span>}}</div><div><span style=\"color: rgb(51, 0, 102); font-weight: bold;\">What is the Classification\nof Severity based on?&nbsp;</span>{{c1::FEV1 of predicted value}}<br></div>",
+                                "<img src=\"paste-d25b59406b9e9abe6668441b318d888a4407e4ee.jpg\">"
+                            ],
+                            "guid": "dsR]/rj>d3",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(51, 0, 102); font-weight: bold;\">Respiratory\nFailure</span><div><span style=\"color: rgb(51, 0, 102); font-weight: bold;\"><br></span></div><div><div><font color=\"#330066\">-</font>Results\nwhen gas exchange is inadequate, resulting in hypoxia, with PaO2 <span style=\"font-weight: bold;\">&lt;</span>{{c1::8}}<span style=\"font-weight: bold;\">kPa</span>.</div>\n<div><br></div>\n<div><font color=\"#330066\">-</font><span style=\"font-weight: bold;\">Type\n1</span>: Hypoxia with {{c1::normal/low PaCO2}}.</div>\n<div><span style=\"color: rgb(102, 153, 153);\">l</span>Give 1 cause {{c1::Caused by ventilation/perfusion mismatch,\ne.g., life-threatening asthma; emphysema.}}</div><div><br></div><div><font color=\"#330066\">-</font><span style=\"font-weight: bold;\">Type\n2</span>: Hypoxia with {{c1::hypercapnia\n(PaCO2 &gt;6.5kPa).}}</div>\n<div><font color=\"#669999\">- 1 cause?&nbsp;</font>{{c1::</div><div>Caused by alveolar hypoventilation, e.g.,\nchronic bronchitis.</div>\n<div></div>}}</div><div><br></div><div><br></div><div>Why Oxygen therapy must be&nbsp;<span style=\"font-style: italic;\">controlled</span>&nbsp;in type 2?<br>\n<div><font color=\"#330066\">-</font>{{c1::Oxygen\ntherapy must be <span style=\"font-style: italic;\">controlled</span> in type 2 respiratory failure, due to\nthe risk of further hypercapnia if the hypoxic drive to ventilation is\nabolished by excessive oxygen.}}</div></div>",
+                                ""
+                            ],
+                            "guid": "zS`v+!H_Ju",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(51, 0, 102); font-weight: bold;\">Chronic\nBronchitis</span><div><span style=\"color: rgb(51, 0, 102); font-weight: bold;\"><br></span></div><div><div><font color=\"#330066\">-</font>Persistent cough with sputum production\nfor at least {{c1::3 months}}<span style=\"font-weight: bold;\">&nbsp;</span>in ≥ {{c1::2}} consecutive years</div>\n<div><font color=\"#330066\">-</font>Presents\nwith exertional\ndyspnoea\nand frequent respiratory tract infections</div>\n<div><font color=\"#330066\">-</font>Most\nfrequent in middle-aged men</div>\n<div><font color=\"#330066\">-</font>Higher\nincidence in urban dwellers</div>\n<div><font color=\"#330066\">-</font>May\ncoexist with {{c1::emphysema}}</div></div><div><br></div><div><span style=\"color: rgb(51, 0, 102); font-weight: bold;\">Pathogenesis</span><br></div><div><div><span style=\"color: rgb(51, 0, 102);\">l</span>Chronic irritation by inhaled substances</div>\n<div><span style=\"color: rgb(51, 0, 102);\">l</span>{{c1::Hyper}}secretion of mucus in large airways</div>\n<div><span style=\"color: rgb(51, 0, 102);\">l</span>{{c1::Submucosal}}\ngland hypertrophy</div>\n<div><span style=\"color: rgb(51, 0, 102);\">l</span>Increase in {{c1::goblet}} cells in small airways</div>\n<div><span style=\"color: rgb(51, 0, 102);\">l</span>Excessive mucus →\nairway obstruction</div></div><div><br></div><div><span style=\"color: rgb(51, 0, 102); font-weight: bold;\">Morphology</span><br></div><div><div><u><span style=\"font-weight: bold;\">Histology</span></u></div>\n<div><span style=\"color: rgb(51, 0, 102);\">l</span>Chronic inflammatory infiltrate in {{c1::submucosa}}</div>\n<div><span style=\"color: rgb(51, 0, 102);\">l</span>Hypertrophy of {{c1::submucosal}}\nsmooth muscle</div>\n<div><span style=\"color: rgb(51, 0, 102);\">l</span>Hyperplasia of {{c1::submucosal}}\nglands of trachea/bronchi → excess {{c1::mucus}}</div>\n<div>-{{c1::Increased}}&nbsp;<u>Reid index</u>(&gt;0.4)</div>\n<div><span style=\"color: rgb(51, 0, 102);\">l</span>{{c1::Squamous}}\nmetaplasia\nand dysplasia of epithelium</div>\n<div><span style=\"color: rgb(51, 0, 102);\">l</span>Loss of {{c1::ciliary}} activity</div>\nNarrowing of {{c1::bronchioles}}<span style=\"color: rgb(51, 0, 102); font-weight: bold;\"><br></span></div><div><br></div><div>What's Reid index? {{c1::Reid\nIndex :\nthickness of wall between epithelium and cartilagemucus glands : thickness of wall between epithelium and\ncartilage}}</div><div><img src=\"paste-14b34c53a37d55c1e2dffc06420037d433c0c17d.jpg\"><br></div><div>Label red green and blue</div>",
+                                "red: epithelium<div>green: submucosal glands</div><div>blue:cartilage</div><div>this shows reid index</div><div><br></div><div><img src=\"paste-ba7d0119e88e3948bb5a4b081c9df50b317ebab9.jpg\"><br></div><div><img src=\"paste-c349b7d1377cfba7f79777a904f5f3fc68b24f6b.jpg\"><br></div><div>A= clear</div><div>B+c = mucus</div><div>D= inflammation/muscle thickening</div>"
+                            ],
+                            "guid": "IbeYOz.tUM",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(51, 0, 102); font-weight: bold;\">Chronic\nBronchitis<br>\nComplications</span><div><div><span style=\"color: rgb(51, 0, 102);\">l</span>↓PaO2 ↑PaCO2\n….Type\n{{c1::2}} respiratory failure</div>\n<div><br></div>\n<div><span style=\"color: rgb(51, 0, 102);\">l</span>Respiratory\ntract infections, why? {{c1::increase of mucus, obstructive}}</div>\n<div><br></div>\n<div><span style=\"color: rgb(51, 0, 102);\">l</span>Pulmonary\nhypertension → {{c1::Cor pulmonale}}, why? {{c1::</div><div>increase mucus + cilia not working -&gt; not clearing out infections</div>\n<div></div>}}</div><div><br>\n<div><span style=\"color: rgb(51, 0, 102);\">l</span>Atypical\nmetaplasia\n/ dysplasia of respiratory epithelium → Bronchogenic\ncarcinoma, why? {{c1::exposure to smoke cell type will change to be more durable}}</div></div>",
+                                ""
+                            ],
+                            "guid": "OzO6^xJ.y:",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(51, 0, 102); font-weight: bold;\">Emphysema</span><div><div><span style=\"color: rgb(51, 0, 102);\">l</span>Abnormal permanent enlargement of the\nairspaces {{c1::distal}}<u>&nbsp;to the <font color=\"#ff0000\">terminal</font> <font color=\"#ff0000\">bronchiole</font></u>,\naccompanied by destruction of their walls</div></div><div><br></div><div><div><span style=\"color: rgb(51, 0, 102);\">l</span>Presents with progressive dyspnoea,\nreduced exercise tolerance, wheeze and weight loss</div><div><br></div>\n<div><span style=\"color: rgb(51, 0, 102);\">l</span>Signs of {{c1::\"barrel chest\" hyper}}inflated lungs</div>\n<div><span style=\"color: rgb(51, 0, 102);\">l</span>Loss of {{c1::elastic}} support →\nAirways collapse on {{c1::ex}}piration → Obstructive pattern on {{c1::spirometry}}</div>\n<div><span style=\"color: rgb(51, 0, 102);\">l</span>{{c1::Respiratory\nacidosis}} (metabolic/resp, alka/acidosis)</div>\n<div><span style=\"color: rgb(51, 0, 102);\">l</span>Pneumothorax\n(blebs; bullae)</div>\n<div><span style=\"color: rgb(51, 0, 102);\">l</span>Cor\npulmonale\n(rarely)</div></div><div><br></div><div>What position do patients sit in?</div><div>Why do they purse their lips?</div>",
+                                "<div>blebs = pocket of air</div><div><br></div><div>tripod position</div><div>prevents airway collapse</div><img src=\"paste-012c0658e52da0acb9339042ec4f89f52d7a4485.jpg\">"
+                            ],
+                            "guid": "g:$9?PPmeZ",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(51, 0, 102); font-weight: bold;\">Emphysema<br>\nPathogenesis</span><div><div><span style=\"color: rgb(51, 0, 102);\">l</span>Protease-antiprotease hypothesis</div>\n<div><span style=\"color: rgb(51, 0, 102);\">l</span>Homozygous <font color=\"#ff0000\">alpha-1-antitrypsin</font> deficiency\nis associated with {{c1::panlobular}}<u>&nbsp;emphysema</u>, especially in smokers</div>\n<div><span style=\"color: rgb(51, 0, 102);\">l</span>Smoking stimulates release of {{c1::elastase}}\nfrom <font color=\"#ff0000\">neutrophils</font></div>\n<div><span style=\"color: rgb(51, 0, 102);\">l</span>Emphysema results from the destructive\neffect of high protease ({{c1::elastase}}) activity in patients with low <font color=\"#ff0000\">antiprotease</font>\nactivity</div></div><div><br></div><div>Name 4 Emphysema Subtypes.</div>",
+                                "<div><img src=\"paste-9492ef1e808479590c976544ff2a15f6ab366ba9.jpg\"><br></div><img src=\"paste-609d878de323b94bcf49408a3ec792432327f799.jpg\">"
+                            ],
+                            "guid": "GBbKol7~rp",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><span style=\"color: rgb(51, 0, 102); font-weight: bold;\">Emphysema<br>\nMorphology</span><span style=\"color: rgb(51, 0, 102);\"><br></span></div><div><font color=\"#330066\">-</font>{{c1::Panlobular}}:\nresp. bronchiole → terminal {{c1::alveoli}}.&nbsp;</div><div>Which is more affected upper or lower lobes?{{c1::</div><div><span style=\"font-weight: bold;\">Lower</span>\n&gt; Upper lobes</div><div></div>}}\n<div><font color=\"#330066\">-</font>{{c1::Centrilobular}}\n→ respiratory bronchioles. Which is more affected upper or lower lobes?{{c1::</div><div><span style=\"font-weight: bold;\">Upper</span> &gt; Lower</div><div></div>}}\n<div><font color=\"#330066\">-</font>{{c1::Paraseptal}}\n→ distal <font color=\"#ff0000\">acinus</font>.&nbsp;</div><div>Which is more affected upper or lower lobes?{{c1::<span style=\"font-weight: bold;\">Upper</span>\n&gt; Lower}}</div><div><br></div>\n<div><font color=\"#330066\">-</font>{{c1::Irregular}}\n→ associated with <font color=\"#ff0000\">scarring</font>, e.g., Tuberculosis</div><div><br></div><div><br></div><div><div><u><span style=\"font-weight: bold;\">Histology</span></u></div>\n<div></div>\n<div><font color=\"#330066\">-</font>Destruction\nof {{c1::septal}}\nwalls</div>\n<div><font color=\"#330066\">-</font>Fusion\nof adjacent {{c1::alveoli}}</div>\n<div><font color=\"#330066\">-</font>Blebs\n/ bullae</div>\n<div><font color=\"#330066\">-</font>Compressed\n{{c1::blood}} vessels</div></div>",
+                                "<img src=\"paste-a658db191852486aacfa707941edd45dcdc0f754.jpg\"><div>Left= Blebs&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Right=alveolar destruction</div><div><br></div><div><img src=\"paste-d42fe76e90de023946436a7af29f6d3127381070.jpg\"><br></div><div>Green= enlarged alveoli due to destroyed wall, more easily collapse</div><div>Right= Bleb, but not too sure didn't mention it</div>"
+                            ],
+                            "guid": "yNo`E_1p75",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(51, 0, 102); font-weight: bold;\">Bronchiectasis</span><div><div><font color=\"#330066\">-</font>A <span style=\"font-weight: bold;\">chronic\n<font color=\"#ff0000\">inflammation</font> </span>of the bronchi and bronchioles associated\nwith <font color=\"#ff0000\">abnormal</font> <font color=\"#ff0000\">permanent</font>&nbsp;{{c1::dilation}}&nbsp;of these airways</div><div><br></div>\n<div><font color=\"#330066\">-</font>Presents with cough, productive of large\namounts of foul-smelling, purulent sputum, haemoptysis and clubbing</div><div><br></div>\n<div><font color=\"#330066\">-</font>Pooled secretions in {{c1::lower}} lobes →\nrespiratory tract {{c1::infections}}</div></div><div><br></div><div>What is haemoptysis?</div><div><br></div><div><div><font color=\"#330066\">-</font><span style=\"font-weight: bold;\">Bronchial\nobstruction</span></div>\n<div>&nbsp; Tumour,\nforeign bodies, mucous impaction</div>\n<div>&nbsp; Asthma\n/ Chronic bronchitis</div>\n<div><font color=\"#330066\">-</font><span style=\"font-weight: bold;\">Infection</span></div>\n<div>&nbsp; <font color=\"#ff0000\">Tuberculosis</font>, {{c1::Staphylo}}<span style=\"font-style: italic;\">coccus&nbsp;</span>{{c1::aureus}}, ABPA*, &nbsp; Measles,\nPertussis</div>\n<div><font color=\"#330066\">-</font><span style=\"font-weight: bold;\">Congenital</span></div>\n<div>&nbsp; Congenital bronchiectasis,\n<font color=\"#ff0000\">Cystic fibrosis</font>, Immunodeficiency, Kartagener’s\nsyndrome</div>\n<div></div>\n<div><br></div><div>What is Kartagener’s&nbsp;syndrome?</div><div>What chromosome is affected in CF?</div><div><br></div><div><div><font color=\"#330066\">-</font>Bronchial obstruction →\n<span style=\"font-weight: bold;\"><font color=\"#ff0000\">Atelectasis</font></span></div>\n<div><font color=\"#330066\">-</font>{{c1::Dilatation}} (constrict/dilate)&nbsp;of walls of patent airways</div>\n<div><font color=\"#330066\">-</font><span style=\"font-weight: bold;\">Infection</span>\n→ Bronchial wall inflammation → weakened walls → further {{c1::dilation}}</div></div><div><br></div><div>What is&nbsp;<span style=\"color: rgb(255, 0, 0); font-weight: 700;\">Atelectasis?</span></div>\n<div></div></div>",
+                                "haemoptysis&nbsp;<span style=\"color: rgb(77, 81, 86);\">= the coughing of blood originating from the respiratory tract below the level of the larynx.</span><div><span style=\"color: rgb(255, 0, 0); font-weight: 700;\">Atelectasis= collapse of lung</span><br></div><div><div><b>Kartagener's</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;syndrome is a rare, autosomal recessive genetic ciliary disorder comprising the triad of situs inversus, chronic sinusitis, and bronchiectasis.&nbsp;</span>absent <font color=\"#ff0000\">dynein\narms</font> in cilia → lack of ciliary activity<span style=\"color: rgb(77, 81, 86);\"><br></span></div><div><span style=\"color: rgb(32, 33, 36);\"><br></span></div><div>ABPA = Allergic&nbsp;bronchopulmonary&nbsp;aspergillosis<span style=\"color: rgb(77, 81, 86);\"><br></span></div></div><div><br></div><div><img src=\"paste-8b8654a2d79747f058741c7c9cd7b5bf5cf9b980.jpg\"><br></div>"
+                            ],
+                            "guid": "M6l1&4#Nmz",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(51, 0, 102); font-weight: bold;\">Bronchiectasis<br>\nMorphology</span><div><div><u><span style=\"font-weight: bold;\">Gross</span></u></div>\n<div></div>\n<div><span style=\"color: rgb(51, 0, 102);\">l</span>Usually\nboth {{c1::lower}}&nbsp;lobes</div>\n<div><span style=\"color: rgb(51, 0, 102);\">l</span>May\nbe localised</div>\n<div><font color=\"#ff0000\">lDilated</font>\nairways</div>\n<div><span style=\"color: rgb(51, 0, 102);\">l</span>{{c1::Cystic}}\npattern on cut surface of lungs</div></div><div><br></div><div><div><u><span style=\"font-weight: bold;\">Histology</span></u></div>\n<div></div>\n<div><span style=\"color: rgb(51, 0, 102);\">l</span>Acute\nand chronic inflammation</div>\n<div><span style=\"color: rgb(51, 0, 102);\">l</span>{{c1::Desquamation}}\nof epithelium</div>\n<div><span style=\"color: rgb(51, 0, 102);\">l</span>Necrotising {{c1::ulceration}}</div>\n<div><span style=\"color: rgb(51, 0, 102);\">l</span>{{c1::Squamous}} metaplasia</div>\n<div><span style=\"color: rgb(51, 0, 102);\">l</span>Necrosis\n→\nlung {{c1::abscess}}</div>\n<div><font color=\"#ff0000\">lFibrosis</font></div></div><div><img src=\"paste-13c30cca717572b1c9f9673d5ea2c69936fbdeda.jpg\"><font color=\"#ff0000\"><br></font></div><div>Name 2 abnormalities. {{c1::Heart on right side, dilated airways}}</div><div><img src=\"paste-abea389862d3a917bdf5971d5217172228e623d4.jpg\"><br></div><div>What's this? {{c1::airway filled with pus/abcess}}</div>",
+                                "<img src=\"paste-2865cdb209363300b436577a09475592f5348569.jpg\"><div>looks a bit manky</div>"
+                            ],
+                            "guid": "qVn*v8A{]]",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "e6a26c33-8da1-11eb-b5e7-f519ebe31366",
+                    "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-2b291c9cf52acf7c34df3f3b17dc1fd2ba409180.jpg",
+                        "paste-2c7cba12679b65b9eb5bda3b3ee02143a902ee59.jpg",
+                        "paste-65e099bc570b40cf555e4a3b8ebb35e773c84d77.jpg",
+                        "paste-67cc8051804c995d18fbc94934ee1f93fb90c4bd.jpg",
+                        "paste-723bab76899dee5457a3094d917002a14bfd724b.jpg",
+                        "paste-7435f085d48862171808892ff42081a739f7bac5.jpg",
+                        "paste-8474b9de33da91c3892a02b4d52a1e20b50f888b.jpg",
+                        "paste-a52c651ac5aed09498779e4099e00050bbf7b738.jpg",
+                        "paste-b62018639e365d0c932b53261fac56051d467252.jpg",
+                        "paste-b663389272c618c3d3159468efa6f28906ba223a.jpg",
+                        "paste-d917ce5a23cd985d00579216e1a3f91af5952d0b.jpg",
+                        "paste-df43ef9cbb7a911b21a65ad5b55aba95bdcad84d.jpg",
+                        "paste-e650ae28a742e96f6da3a11c07a95a79de22a35a.jpg",
+                        "paste-f2687c4fd60ee0074fd015e83003d175560e142c.jpg"
+                    ],
+                    "name": "03/22 Pneumonia Dr. Walsh",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Name 4&nbsp;Categories of Pneumonia.<div>{{c1::<div>Community-acquired (CAP),&nbsp;</div><div>Hospital-acquired (HAP),&nbsp;</div><div>Ventilator-associated pneumonia (VAP),&nbsp;</div><div>Aspiration pneumonia</div>}}<br></div><div>Give the differences between them.</div>",
+                                "Community-acquired (CAP): Acute infection of lung tissue in patient who acquired it in the community or <font color=\"#ff0000\">within 48</font> hours of\nhospitalisation<div><br></div><div>Hospital-acquired (HAP)\n¢ Acute infection of lung tissue in a patient is in hospital, <font color=\"#ff0000\">after 48 hours</font> of hospitalisation<br></div><div><br></div><div>Ventilator-associated pneumonia (VAP) acute infection of lung tissue that develops in a patient who is <font color=\"#ff0000\">intubated and ventilated</font> in the ICU<br></div><div><br></div><div>Aspiration pneumonia\n¢ Acute infection of lung tissue in a patient who has <font color=\"#ff0000\">a risk of aspirating. </font>such as altered mental state, post stroke (impaired swallow), alcoholism, seizure disorder etc<br></div>"
+                            ],
+                            "guid": "u(?5Acajhj",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Case History<br></b></div>* 68-year-old man&nbsp;<div>¢ Active smoker, 20 cigarettes per day&nbsp;</div><div>¢ Brought in by ambulance from home&nbsp;</div><div><b><u>Presenting Complaint</u></b></div><div>* Confusion&nbsp;</div><div>¢ Weakness&nbsp;</div><div>¢ Shortness of breath&nbsp;<br></div><div>¢ Productive cough&nbsp;</div><div>¢ Rigors&nbsp;</div><div><b><u>On examination</u></b></div><div>¢ Temp 39°C&nbsp;</div><div>* RR 22&nbsp;</div><div>¢ dullness in right axilla&nbsp;</div><div>¢ bronchial breathing right mid zone</div><div><br></div><div>What is the most likely diagnosis?&nbsp;{{c1::Community\nacquired\npneumonia}}<br></div><div>What test will you order next?<br></div><div>¢ CT scan of brain&nbsp;</div><div>¢ CT scan of thorax&nbsp;</div><div>¢ CT scan of thorax, abdomen and pelvis&nbsp;</div><div>¢ X-ray of chest (Cxr)&nbsp;</div><div>¢ X-ray of abdomen (PFA, plain film of abdomen)<br></div><div><br></div><div>{{c1::X-ray of\nchest\n(Cxr)}}<br></div>",
+                                "<img src=\"paste-b663389272c618c3d3159468efa6f28906ba223a.jpg\"><div>Opaque shadow <font color=\"#ff0000\">RML</font> with <font color=\"#ff0000\">indistinct</font>\nborders\nand air <font color=\"#ff0000\">bronchograms</font> obscuring right\nheart border<br></div>"
+                            ],
+                            "guid": "ysD:b??RrH",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "CURB-65 score: used to assess pneumonia severity, where to treat the patient, risk of\nmortality<div>What are the criteria?</div><div>{{c1::<div>5 criteria</div><div>¢ Confusion&nbsp;&nbsp;</div><div>¢\nUrea &gt;7mmol/L</div><div>-Respiratory&nbsp; &gt;30/min</div><div>-BP &lt;90&nbsp; systolic\nrate\nor&nbsp; 60mmHg diastolic&nbsp;</div><div>-Age &gt;65</div>}}<br></div><div><br></div><div>CURB score of {{c1::2}} or more indicates\nmoderate — high severity &amp; patient\nshould be admitted to hospital<br></div><div><br></div><div>All of the following are typical SYMPTOMS of pepnenianese\npneumonia EXCEPT:<br></div><div>Cough</div><div>Fever</div><div>Chest pain</div><div>Syncope</div><div>Sputum production</div><div><br></div><div>{{c1::Syncope,&nbsp;<span style=\"color: rgb(32, 33, 36);\">is the medical term for fainting or passing out.</span>}}<br></div>",
+                                "<img src=\"paste-f2687c4fd60ee0074fd015e83003d175560e142c.jpg\"><div><br></div><div><img src=\"paste-67cc8051804c995d18fbc94934ee1f93fb90c4bd.jpg\"><br></div>"
+                            ],
+                            "guid": "LiM^Wfb#+O",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>Which of the following signs can occur in pneumonia? (3 out of 6 are correct)<br></div><div><br></div>Reduced chest expansion<div>Increased chest expansion</div><div>Reduced vocal resonance</div><div>Increased vocal resonance</div><div>Bronchial breathing</div><div>Wheeze</div><div><br></div><div>{{c1::</div><div>Correct:<br><div>Reduced chest expansion<br></div><div><div>Increased vocal resonance</div><div>Bronchial breathing</div></div>}}<br></div><div><br></div><div>Signs of pneumonia</div><div>Increase/decreased?</div><div>temp {{c1::I Fever}}</div><div>HR {{c1::I Tachycardia}}</div><div>RR {{c1::I Tachypnoea}}</div><div>BP {{c1::D hypotension}}</div><div>Chest {{c1::Expansion D&nbsp;}}</div><div>tactile vocal fremitus and vocal resonance&nbsp; {{c1::I}}<br></div><div><div>Alveolar breathing {{c1::made up}}</div></div><div>Bronchial breathing {{c1::I}}<br></div><div>and possible signs of a pleural effusion<br></div><div><br></div><div>what is tactile vocal fremitus?</div><div>{{c1::<b>Tactile fremitus</b><span style=\"color: rgb(32, 33, 36);\">, also known as&nbsp;</span><b>tactile vocal fremitus</b><span style=\"color: rgb(32, 33, 36);\">, refers to the vibration of the chest wall that results from sound vibrations created by speech or other&nbsp;</span><b>vocal</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;sounds. When a person speaks, airflow from the lungs causes the&nbsp;</span><b>vocal</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;cords in the larynx to vibrate.</span>}}<br></div><div><br></div><div><br></div><div>What is\n<b>consolidation</b>?<br></div><div>{{c1::<div>Exudative solidification of the lung\ntissue<br></div><div></div>}}<br></div><div><br></div><div>How does this relate to the physical\nfindings on examination of the patient?</div><div>{{c1::<br></div><div><div>Increased transmission of sounds\nfrom <font color=\"#ff0000\">upper</font> airways&nbsp;</div><div>¢ Increased tactile vocal fremitus and\nvocal resonance&nbsp;</div><div>¢ <font color=\"#ff0000\">Bronchial</font> breathing&nbsp;</div><div>¢ Crackles</div>}}<br></div><div><br></div><div>What is an Air bronchogram?<br></div><div>{{c1::<b>Air bronchogram</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;refers to the phenomenon of&nbsp;</span><b>air</b><span style=\"color: rgb(32, 33, 36);\">-filled bronchi (dark) being made visible by the opacification of surrounding alveoli (grey/white). It is almost always caused by a pathologic airspace/alveolar process, in which something other than&nbsp;</span><b>air</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;fills the alveoli.</span>}}<br></div><div><br></div><div>Note observations of this x-ray&nbsp; (which lobe affected, which thoracic zone)</div><div><img src=\"paste-2b291c9cf52acf7c34df3f3b17dc1fd2ba409180.jpg\"><br></div>",
+                                "<img src=\"paste-df43ef9cbb7a911b21a65ad5b55aba95bdcad84d.jpg\"><div>white=consolidation</div><div><br></div><div><div><img src=\"paste-2c7cba12679b65b9eb5bda3b3ee02143a902ee59.jpg\"><br></div></div><div><br></div><div><img src=\"paste-2b291c9cf52acf7c34df3f3b17dc1fd2ba409180.jpg\"><br></div><div>-Opacification in left lower zone&nbsp;</div><div>-Cannot see left diaphragm\nclearly — so Opacity is in left\nlower lobe<br></div><div>-Air bronchograms: can see the\nair-filled bronchi coursing\nthrough the density<br></div>"
+                            ],
+                            "guid": "uh-:b|MnR[",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>{{c1::Lobar}} Pneumonia: Acute infection of part of / entire lobe&nbsp;</div><div>¢ Exudate spreads through {{c1::pores of Kohn}}&nbsp;</div><div>¢ Usually caused by {{c1::Strept}}ococcus {{c1::pneumoniae}}&nbsp;</div><div>e Less common in era of early {{c1::antibiotics}}&nbsp;</div><div>¢ May overlap with <font color=\"#ff0000\">bronchopneumonia</font></div><div><font color=\"#ff0000\"><br></font></div><div><img src=\"paste-a52c651ac5aed09498779e4099e00050bbf7b738.jpg\"><font color=\"#ff0000\"><br></font></div><div>What type of pneumonia is this?</div><div>{{c1::Right upper lobe (RUL) pneumonia}}<br></div>",
+                                ""
+                            ],
+                            "guid": "gT6;.YA>R@",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Bronchopneumonia</b><div>¢ Patchy consolidation of the lung&nbsp;&nbsp;</div><div>¢ Extension of pre-existing acute {{c1::bronchitis&nbsp;}}</div><div>¢ More common in {{c1::infants and elderly}} (2 age groups)</div><div>¢ Frequent terminal event in patients with <font color=\"#ff0000\">heart failure / metastatic\ncancer</font><b><br></b></div>",
+                                "<img src=\"paste-65e099bc570b40cf555e4a3b8ebb35e773c84d77.jpg\">"
+                            ],
+                            "guid": "H5EzGV/OE2",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>Which is&nbsp;<b>Bronchopneumonia vs&nbsp;</b><b>Lobar Pneumonia?</b></div>-Congestion&nbsp;<div>¢ Acute suppurative&nbsp;<div>¢ Red hepatisation inflammation&nbsp;</div><div>° Grey hepatisation&nbsp;</div><div>¢ Neutrophil-rich exudate&nbsp;</div><div>¢ Resolution&nbsp;</div><div>* Patchy&nbsp;</div><div>¢ Pleuritis&nbsp;</div><div>¢ Frequently bilateral&nbsp;</div><div>¢ Fibrous pleural thickening&nbsp;</div><div>¢ Multilobar\n° esp. basal</div></div>",
+                                "<div><b>Bronchopneumonia<br></b></div><div>¢ Acute suppurative&nbsp;<br></div><div>¢ Neutrophil-rich exudate<br></div><div>* Patchy<br></div><div>¢ Frequently bilateral<br></div><div>¢ Multilobar esp. basal<br></div><div><br></div><div><b>Lobar Pneumonia<br></b></div>Congestion&nbsp;<div>¢ Red hepatisation inflammation&nbsp;</div><div>° Grey hepatisation&nbsp;&nbsp;</div><div>¢ Resolution&nbsp;&nbsp;</div><div>¢ Pleuritis&nbsp;</div><div>¢ Fibrous pleural thickening&nbsp;</div>"
+                            ],
+                            "guid": "p6_%rITqvZ",
+                            "note_model_uuid": "afe9e61b-7dce-11eb-8b6f-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Pathogenesis of pneumonia<div><br></div><div>The {{c1::lower}} <font color=\"#ff0000\">respiratory tract</font> is not sterile, and it always is exposed to\nenvironmental pathogens&nbsp;</div><div><br></div><div>Tiny particles (including bacteria), {{c1::1- 5}}um in diameter, are deposited in <font color=\"#ff0000\">alveoli</font>&nbsp;</div><div>Reduced patient resistance</div><div>Name breach of normal defence mechanisms&nbsp; (2/4)</div><div>{{c1::<div>¢ Nasal clearance&nbsp;</div><div>¢ Tracheobronchial clearance&nbsp;</div><div>¢ Alveolar macrophages&nbsp;</div><div>¢ Regional lymph nodes</div>}}<br></div><div><br></div><div><b>Neutrophils<br></b></div><div>Effector cells of {{c1::innate}} immunity&nbsp;</div><div>Kill microbes using phagocytosis&nbsp;</div><div>Kill microbes using NETs</div><div><br></div><div>What are NETs? {{c1::neutrophil extracellular traps}}</div><div><br></div><div>{{c1::Generate}} immune mediators to direct immune responses&nbsp;</div><div>Influence other cells of <font color=\"#ff0000\">innate</font> &amp; <font color=\"#ff0000\">adaptive</font> immunity&nbsp;</div><div><br></div><div>Damage tissues with products such as {{c1::proteases &amp; ROS&nbsp;}} (2)</div><div>Injure cells &amp; digest matrix</div>",
+                                "<img src=\"paste-e650ae28a742e96f6da3a11c07a95a79de22a35a.jpg\"><div><img src=\"paste-723bab76899dee5457a3094d917002a14bfd724b.jpg\"><br></div>"
+                            ],
+                            "guid": "e9@:VH~~&x",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Risk factors for developing pneumonia<br></b></div>Loss of {{c1::cough}} reflex -&gt; aspiration pneumonia<div>Injury to {{c1::mucociliary}} escalator<br></div><div>Impaired alveolar {{c1::macrophages}}<br></div><div>Pulmonary {{c1::Oedema}}<br></div><div><font color=\"#ff0000\">Immunocompromised</font> individual<br></div><div>Malnutrition<br></div><div>Accumulation of <font color=\"#ff0000\">secretions</font><br></div><div><br></div><div>All of the following organisms are common causes of CAP EXCEPT:<br></div><div>chlamydia<span style=\"color: rgb(32, 33, 36);\">&nbsp;pneumoniae</span><br></div><div>staphylococcus aureus<span style=\"color: rgb(32, 33, 36);\"><br></span></div><div>haemophilus influenzae<span style=\"color: rgb(32, 33, 36);\"><br></span></div><div>streptococcus pneumoniae<br></div><div>mycoplasma pneumoniae<br></div><div><br></div><div>{{c1::staphylococcus aureus}}</div><div><br></div><div>Which CAP is linked with alcoholism?</div><div>{{c1::Klebsiella pneumoniae}}<br></div><div><br></div><div>Name 2 HAP:</div><div>{{c1::<div>S.aures (MSSA, MRSA)</div><div>Pseudomonas aeruginosa<br></div><div>E.coli &amp; other enteric gram negatives &lt;= Ventilator VAP too</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "DG21SRt;I8",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Legionnaires disease<br></b></div>What&nbsp;<span style=\"color: rgb(32, 33, 36);\">bacterium</span>&nbsp;causes it? {{c1::Legionella pneumophila}}<div>¢ Headache, muscle pains, fever&nbsp;</div><div>¢ Cough, SOB, chest pain,&nbsp;</div><div>Give 2 Gl symptoms {{c1::diarrhoea, vomiting}}</div><div>¢ {{c1::Inhalation}} of bacteria {{c1::from water or\nsoil}}&nbsp;</div><div>¢ {{c1::Stagnant}} water in {{c1::ventilation systems}}&nbsp;</div>",
+                                ""
+                            ],
+                            "guid": "ne2#$IO=Wz",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Symptoms</b>:&nbsp;<div>¢ Cough&nbsp;</div><div>¢ Foul-smelling <font color=\"#ff0000\">sputum</font>&nbsp;</div><div>¢ <font color=\"#ff0000\">Weight loss</font>&nbsp;</div><div>¢ Malaise&nbsp;</div><div><br><div><b>Signs</b>:&nbsp;</div><div>e <font color=\"#ff0000\">Fever</font>&nbsp;</div><div>¢ <font color=\"#ff0000\">Clubbing</font>&nbsp;</div><div><br></div><div><b>Aetiology</b>:&nbsp;</div><div>¢ <font color=\"#ff0000\">Streptococci</font>&nbsp;</div><div>¢ Klebsiella&nbsp;</div><div>¢ <font color=\"#ff0000\">Staphylococcus aureus</font>&nbsp;</div><div>¢ Mixed organisms common&nbsp;</div><div>¢ Anaerobes (e.g. Bacteroides)</div></div><div><br></div><div><img src=\"paste-d917ce5a23cd985d00579216e1a3f91af5952d0b.jpg\"><br></div><div><br></div><div>What is it?&nbsp;{{c1::Lung abscess}}</div>",
+                                ""
+                            ],
+                            "guid": "hQJqvI@N*=",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Morphology of lung abscess</b><div><b>Microscopic<br></b><div>¢ Suppurative destruction of lung {{c1::parenchyma}}&nbsp;&nbsp;</div><div>* {{c1::Central}}&nbsp;cavity&nbsp;&nbsp;<br></div><div>¢ Fibrous wall<b><br></b></div><div><br></div><div><b>Gross</b></div><div>-May form large <font color=\"#ff0000\">cavities</font></div><div>¢ Single/multiple<br></div><div><div>¢ Aspiration more common in {{c1::Right}} lung</div></div></div>",
+                                "<img src=\"paste-7435f085d48862171808892ff42081a739f7bac5.jpg\">"
+                            ],
+                            "guid": "Z)85?:hd<",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "COVID-19 pneumonia, what is the common pattern seen on imaging?<div>Lobar consolidation</div><div>Bilateral peripheral consolidation</div><div>Normal X-ray</div><div>Pleural effusions</div><div>Lung abscess</div><div><br></div><div><div>{{c1::<div>Bilateral peripheral consolidation</div>}}<br></div></div><div><br></div><div>Covid-19 pneumonia autopsy findings<br></div><div>Name 3&nbsp;Macroscopic&nbsp;</div><div>{{c1::<div>* congested and edematous lungs&nbsp;</div><div>° patchy involvement&nbsp;</div><div>° areas of diffuse consolidation</div>}}<br></div><div><br></div><div><img src=\"paste-b62018639e365d0c932b53261fac56051d467252.jpg\"><br></div><div>(1) Pheumocytes frequently appeared atypical, enlarged, and sometimes multinucleated&nbsp;<br></div><div><div>(2) Typical features of DAD&nbsp;</div></div><div>(3) Some pneumocytes had multinucleated syncytial features &amp; basophilic intracytoplasmic inclusions<br></div><div><div>(4) type 2 alveolar cell hyperplasia&nbsp;<br></div></div><div><br></div><div>What's DAD? {{c1::diffuse alveolar damage}}</div>",
+                                "<img src=\"paste-8474b9de33da91c3892a02b4d52a1e20b50f888b.jpg\"><div><div><img src=\"paste-b62018639e365d0c932b53261fac56051d467252.jpg\"><br></div><div>(a) Typical features of DAD&nbsp;</div><div>(b) type 2 alveolar cell hyperplasia&nbsp;</div><div>(c) Pheumocytes frequently appeared atypical, enlarged, and sometimes multinucleated&nbsp;</div><div>(d) Some pneumocytes had multinucleated syncytial features &amp; basophilic intracytoplasmic inclusions</div></div>"
+                            ],
+                            "guid": "ujSRi[f*#.",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        }
+                    ]
                 }
             ],
             "crowdanki_uuid": "e84a6187-7dce-11eb-8db4-a0b2d6ecb02c",
@@ -5147,6 +5784,458 @@
                                 ""
                             ],
                             "guid": "hP%Fz+B,=T",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "e6a68b2d-8da1-11eb-b4d1-f519ebe31366",
+                    "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-17edfbd7da629b844b557f55d946d155b171a6fe.jpg",
+                        "paste-4bb938e47e81ad24cd7fbad2f04aeebcddd65216.jpg",
+                        "paste-6eb19ad550d21e73ddd75bdb00edb7d9da74aa0b.jpg",
+                        "paste-91bf486cc6bc298427431047185823aa41034770.jpg",
+                        "paste-94d0098bd7e53169d9b77f41cb0b0cf6ca9e3d56.jpg",
+                        "paste-b81c93fad6962fe55817c66ed4778e67fb01c4b0.jpg",
+                        "paste-e9fc4c45328c9f65dab7dde262eda9b4398c88cd.jpg"
+                    ],
+                    "name": "03/05 Chronic heart failure",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>What is Heart Failure?<br></div>{{c1::Decrease in Cardiac Output such\nthat normal tissue perfusion\ncannot be maintained}}<div><br></div><div>CO = {{c1::Stroke Volume X Heart Rate}}</div><div><br></div><div><div>What is Afterload?</div></div><div>{{c1::Workload of the heart..\nPressure against which the heart pumps..\nFactor of pressure in aorta or PR}}<br></div><div><br></div><div>What 2 systems are activated in compensated heart failure? {{c1::SNS (symph.) + RAAS (renin-angio)&nbsp;<img src=\"paste-b81c93fad6962fe55817c66ed4778e67fb01c4b0.jpg\"><img src=\"paste-17edfbd7da629b844b557f55d946d155b171a6fe.jpg\">}}</div><div><br></div><div>What is bad about compensated heart failure?</div><div>{{c1::<div>CO cannot return to critical level to perfuse the kidney,&nbsp;Progressive renal failure..&nbsp;</div><div>Pulmonary Oedema ⬌ ⇩ Oxygenation of Blood&nbsp;</div><div>Progressive peripheral oedema\nDeath</div><div><img src=\"paste-94d0098bd7e53169d9b77f41cb0b0cf6ca9e3d56.jpg\"><br></div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "P1k|E~K;HL",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Management of Heart Failure<div>What are the 3 concepts for managment + give 2 actions required to achieve it?</div><div>{{c1::<div>1. <font color=\"#ff0000\">Maximise</font> the preload -&gt;&nbsp;⇧ Venous Return; ⇩ Volume</div><div>2. <font color=\"#ff0000\">Reduce</font> the afterload -&gt; ⇩ PR; ⇩ Volume</div><div>3. Support <font color=\"#ff0000\">contractility</font> -&gt;&nbsp;Maximise MLC / Actin Interactions</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "J:|}~jJhh,",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Match these up (some may belong to 2 groups):<div>1. Maximise the preload</div><div>2. Reduce the afterload</div><div>3. Support contractility<br></div><div><br></div><div>Loop&nbsp;Diuretics</div><div><div>ACEi / ARB</div><div>Diuretics<br></div><div><div><div><div>Calcium Sensitisers</div></div></div></div><div><div>Vasodilators&nbsp;</div><div>β-Blockers&nbsp;</div><div><div>Adrenergics<br></div></div></div></div>",
+                                "1.&nbsp;Loop <font color=\"#ff0000\">Diuretics</font>, <font color=\"#ff0000\">Vasodilators</font>, <font color=\"#ff0000\">β-Blockers</font><div><br></div><div>2.&nbsp;<font color=\"#ff0000\">β-Blockers</font>, ACEi / ARB, <font color=\"#ff0000\">Vasodilators</font>, <font color=\"#ff0000\">Diuretics</font></div><div><br></div><div>3.&nbsp;Adrenergics, Calcium Sensitisers</div>"
+                            ],
+                            "guid": "nu^{tjs%}]",
+                            "note_model_uuid": "afe9e61b-7dce-11eb-8b6f-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Match these:<div>Compensated Heart Failure</div><div>Decompensated Heart Failure<br></div><div><div>Cardiogenic Shock<br></div></div><div><br></div><div><div>Immediate inotropic +/- chrontropic support</div><div>Maximise cardiac contractility and cardiac output</div><div><div>Reduce the afterload</div></div><div>Treat the cause</div><div><div>Reduce the afterload</div><div>Reduce (or optimize) the preload</div></div><div>Optimise the preload<br></div></div>",
+                                "<div>Compensated Heart Failure<br></div><div>Treat the cause</div><div>Reduce the afterload</div><div><br></div><div>Decompensated Heart Failure<br></div><div>Reduce the afterload</div><div>Reduce (or optimize) the preload<br></div><div><br></div><div>Cardiogenic Shock<br></div><div>Immediate inotropic +/- chrontropic support</div><div>Maximise cardiac contractility and cardiac output</div><div>Optimise the preload</div>"
+                            ],
+                            "guid": "jW(Pk3nw*~",
+                            "note_model_uuid": "afe9e61b-7dce-11eb-8b6f-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Match these:<div>1.Treat Structural\nHeart Damage<br></div><div>2.Treat the\nSymptoms<br></div><div><br></div><div><div>ACEi / ARB&nbsp;</div></div><div>Diuretics&nbsp;</div><div><div>MR Antagonists&nbsp;<br></div><div>β-Blockers</div></div><div>Vasodilators<br></div><div><br></div><div>I.AHA/ACCF</div><div>II.NYHA<br></div>",
+                                "<b>Treat Structural Heart Damage<br></b><div>ACEi / ARB&nbsp;</div><div>MR Antagonists&nbsp;</div><div>β-Blockers<br></div><div><br></div><div><b>Treat the Symptoms<br></b></div><div>Diuretics<br></div><div>Vasodilators<br></div><div><br></div><div><img src=\"paste-4bb938e47e81ad24cd7fbad2f04aeebcddd65216.jpg\"><br></div>"
+                            ],
+                            "guid": "stgl$DiAX}",
+                            "note_model_uuid": "afe9e61b-7dce-11eb-8b6f-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "If immediate activation of the sympathetic nervous system helps restore Cardiac Output, why is chronic activation bad?&nbsp;{{c1::Chronic activation promotes cardiac remodelling and leads to decompensated failure}}<div><br><div>What is the principally expressed adrenoceptor in cardiac muscle? {{c1::β1}}<br></div></div><div><br></div><div>^ antagonists</div><div>Negative {{c1::ion}}otropic and {{c1::chron}}otropic effects<br></div><div>- used in combination with {{c1::diuretics}} and {{c1::ACEi/ARB}}<br></div><div>Give 3 drug names of it (5) {{c1::-olol&nbsp;</div><div>1. <font color=\"#ff0000\">Bisprolol</font>&nbsp;</div><div>2. <font color=\"#ff0000\">Metoprolol</font>&nbsp;</div><div>3. <font color=\"#ff0000\">Carvedilol</font>&nbsp;</div><div>4. Atenolol&nbsp;</div><div>5. Propranolol}}</div><div><br></div><div>Contraindicated in what condition? {{c1::acute pulmonary oedema}}<br></div><div><br></div><div>How, t/f?</div><div>1. Reduce diastolic filling time f</div><div>2. Prevent fatal arrhythmia t</div><div>3. Increase cardiac remodelling f</div><div>4. Increase PR and RAAS activation f<br></div><div><br></div><div>{{c1::<div>1. Promote diastolic filling time</div><div>2. Prevent fatal arrhythmias</div><div>3. Prevent cardiac remodelling</div><div>4. Reduce PR and RAAS activation</div>}}<br></div><div><br></div><div>{{c1::Well}}-absorbed orally</div><div>Peak concs after {{c1::1-3}} hrs</div><div>Sustained release preparations available&nbsp;</div><div>{{c1::Extensive}} 1st pass metabolism, bioavailability ~{{c1::30}}%<br></div><div><br></div><div>Give 3 adverse events (7):</div><div>{{c1::<div>1. Bradycardia&nbsp;</div><div>2. Postural hypotension&nbsp;</div><div>3. Lethargy&nbsp;</div><div>4. Erectile dysfunction&nbsp;</div><div>5. Brochospasm - CI asthma&nbsp;</div><div>6. Pulmonary Oedema&nbsp;</div><div>7. AKI In combination with ACEi / ARB and NSAIDs</div>}}<br></div>",
+                                "<b>Chronotropic</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;effects (from chrono-, meaning time, and tropos, \"a turn\") are those that change the heart rate</span>"
+                            ],
+                            "guid": "w/B&5Q%6p_",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ACE Inhibitors&nbsp;<span style=\"color: rgb(255, 0, 0);\">-prils</span><br><div>1. Mild {{c1::diuretic}} effects&nbsp;</div><div>2. Inhibit {{c1::aldosterone}} release&nbsp;</div><div>3. Directly prevent excessive vaso{{c1::constriction}}&nbsp;</div><div>4. {{c1::Prevent}} cardiac remodelling<br></div><div><br></div><div>Reduce hospitalisations - <font color=\"#ff0000\">30 - 40</font>%&nbsp;</div><div>Reduce mortality - <font color=\"#ff0000\">20 - 30</font>%…&nbsp;</div><div>Class effect - evidence to support all major ACEi</div><div>Start at low doses and titrate upwards..&nbsp;</div><div>Should be prescribed for {{c1::all}} heart failure<br></div><div><br></div><div>Match these:</div><div><font color=\"#ff0000\">-prils</font></div><div>1. Captopril&nbsp;</div><div><div>2. Enalapril&nbsp;</div><div><div>3. Lisinopril&nbsp;</div><div>4. Ramipril&nbsp;</div><div>5. Perindopril&nbsp;</div><br></div><br><div><div>Prodrug - Ester moiety cleaved in liver&nbsp;<br></div><div>(Active drug Ramiprilat)&nbsp;</div><div>50 - 60% Oral Bioavailability (Reduced by food) Triphasic Elimination: 2-4h, 9-18h,&nbsp;</div><div>&gt;50h Daily dose 1.25 - 20 mg</div></div><div><div><br></div><div>Lysine derivative of Enalaprilat&nbsp;<br></div><div>T1/2: 12h&nbsp;</div><div>∼30% Oral Bioavailability (Not reduced by food)</div><div>&gt;99% Renal Clearance Daily dose 5 - 40 mg&nbsp;</div></div><div><br></div><div><div>T1/2: 2h&nbsp;</div><div>75% Oral Bioavailability&nbsp;</div><div>&gt;99% Renal Clearance&nbsp;</div><div>Daily dose 6.25 - 450 mg</div></div><div><br></div><div>Pro-drug converted to perindoprilat&nbsp;<br></div><div>T1/2: 12h&nbsp;</div><div>75% Oral Bioavailability (Not reduced by food) Hepatic metabolism - Esterases&nbsp;</div><div>&gt;99% Renal Clearance&nbsp;</div><div>Biphasic Elimination: 3-10h, 30-120h&nbsp;</div><div>Daily dose 2.5 - 15 mg</div></div><div><br></div><div><div>Prodrug T1/2: 1.5h&nbsp;<br></div><div>(Active drug Enalaprilat T1/2: 11h)&nbsp;</div><div>&gt;60% Oral Bioavailability (Not reduced by food)</div><div>&gt;99% Renal Clearance&nbsp;</div><div>Daily dose 2.5 - 40 mg&nbsp;</div></div>",
+                                "1. Captopril&nbsp;<div>T1/2: 2h&nbsp;</div><div>75% Oral Bioavailability&nbsp;</div><div>&gt;99% Renal Clearance&nbsp;</div><div>Daily dose 6.25 - 450 mg&nbsp;<div><br></div><div>2. Enalapril&nbsp;</div><div>Prodrug T1/2: 1.5h&nbsp;</div><div>(Active drug Enalaprilat T1/2: 11h)&nbsp;</div><div>&gt;60% Oral Bioavailability\n<font color=\"#ff0000\">(Not reduced by food)</font></div><div>&gt;99% Renal Clearance&nbsp;</div><div>Daily dose 2.5 - 40 mg&nbsp;</div><div><br></div><div>3. Lisinopril&nbsp;</div><div>Lysine derivative of Enalaprilat&nbsp;</div><div>T1/2: 12h&nbsp;</div><div>∼30% Oral Bioavailability\n<font color=\"#ff0000\">(Not reduced by food)</font></div><div>&gt;99% Renal Clearance\nDaily dose 5 - 40 mg&nbsp;</div><div><br></div><div>4. Ramipril&nbsp;</div><div>Prodrug - <font color=\"#ff0000\">Ester moiety cleaved in liver</font>&nbsp;</div><div>(Active drug Ramiprilat)&nbsp;</div><div>50 - 60% Oral Bioavailability\n<font color=\"#ff0000\">(Reduced by food)</font>\n<font color=\"#ff0000\">Triphasic</font> Elimination: 2-4h, 9-18h,&nbsp;</div><div>&gt;50h\nDaily dose 1.25 - 20 mg</div></div><div><br></div><div>5. Perindopril&nbsp;</div><div>Pro-drug converted to perindoprilat&nbsp;</div><div>T1/2: 12h&nbsp;</div><div>75% Oral Bioavailability\n<font color=\"#ff0000\">(Not reduced by food)</font>\nHepatic metabolism - <font color=\"#ff0000\">Esterases</font>&nbsp;</div><div>&gt;99% Renal Clearance&nbsp;</div><div><font color=\"#ff0000\">Biphasic</font> Elimination: 3-10h, 30-120h&nbsp;</div><div>Daily dose 2.5 - 15 mg<br></div>"
+                            ],
+                            "guid": "RgoGPd_8C%",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Loop Diuretics<div>{{c1::REDUCE}} BLOOD VOLUME WITHOUT APPRECIABLE EFFECT ON BP<br></div><div><br></div><div>EFFECT OCCURS {{c1::BEFORE}} (after/before) THE JUXTAGLOMERULAR APPARATUS<br></div><div><br></div><div>Where does it act?&nbsp;{{c1::Thick ascending\nloop of Henle}}</div><div><br></div><div>Is this location hyper- or hypo-osmotic? {{c1::hypo}}</div><div><br></div><div>Inhibits the&nbsp;{{c1::Na/K/Cl}} (3 elements) Symporter</div><div><br></div><div>Give 3 adverse effects (5).</div><div>{{c1::<div>1. Risk of dehydration&nbsp;</div><div>2. Hypokalaemia&nbsp;</div><div>3. Hypocalcaemia&nbsp;</div><div>4. Hypomagnesaemia&nbsp;</div><div>5. Hyponatraemia is rare due to distal tubular compensation&nbsp;</div><div><font color=\"#ff0000\">loss of salts</font></div>}}<br></div><div><br></div><div>PROXIMAL ACTION MEANS THAT THEY ACTIVATE THE RAAS THROUGH {{c1::GXTA}}\nCOMPLEMENTED BY β-BLOCKERS, ACEI/ARB, SPIRONOLACTONE<br></div>",
+                                "<img src=\"paste-e9fc4c45328c9f65dab7dde262eda9b4398c88cd.jpg\">"
+                            ],
+                            "guid": "EFWlo(V[2]",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Loop Diuretics<br></b></div>Name these:<div>{{c1::FRUSEMIDE}}<br><div>&nbsp;≈ <font color=\"#ff0000\">60</font>% Oral Bioavailability&nbsp;</div><div>T1/2 = <font color=\"#ff0000\">1.5h</font>&nbsp;</div><div>Excretion: 65% Renal; 35% Biliary&nbsp;</div><div>Extensively bound to plasma proteins and excreted into {{c1::PCT}} through organic acid\ntransport system&nbsp;</div><div><br></div>{{c1::BUMETANIDE }}<div>≈ <font color=\"#ff0000\">80</font>% Oral Bioavailability&nbsp;</div><div>T1/2 = <font color=\"#ff0000\">50</font> min&nbsp;</div><div>Excretion: 62% Renal; 38% Biliary<br></div></div>",
+                                ""
+                            ],
+                            "guid": "EDi,u5i64C",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Mineralocorticoid Antagonists</b><div>Name 2&nbsp;{{c1:: -one Spironolactone &amp; Eplerenone}}</div><div><br></div><div>Aldosterone (MR agonist)</div><div>Promotes {{c1::Basolateral}} (side of membrane)&nbsp;<font color=\"#ff0000\">Na / K</font> ATPase production&nbsp;</div><div>Protein product of aldosterone (<font color=\"#ff0000\">AIP</font>) - stimulates <font color=\"#ff0000\">Apical</font> {{c1::Na}} channel opening</div><div><br></div><div>Promotes {{c1::Na + H2O}}&nbsp; (2) reabsorption and {{c1::K}} excretion<br></div><div><br></div>",
+                                "<img src=\"paste-6eb19ad550d21e73ddd75bdb00edb7d9da74aa0b.jpg\">"
+                            ],
+                            "guid": "L@h}of5$fp",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b><u>Mineralocorticoid Antagonists<br></u></b></div><div><b>Spironolactone</b></div><div>T1/2: 1.5h&nbsp;<br></div><div>First -pass metabolism in liver ➔ {{c1::Canrenone}}&nbsp;(T1/2: 16.5h)&nbsp;<br></div><div>Dosed 2x daily</div><div><br></div><div><div><b>Eplerenone</b></div></div><div>T1/2: 5h&nbsp;</div><div>Metabolised in liver by {{c1::<font color=\"#ff0000\">CYP3A4, some anti epileptic drugs use this</font>}}<br></div><div><br></div><div>Give 3 broad side effects (5):&nbsp;</div><div>{{c1::Main SE relates to life-threatening hyperkalaemia\nAndrogen receptor antagonists - Gynecomastia, ED`\nGastric bleeding - CI Peptic Ulcer Disease\nRarely - CNS adverse effects - Drowsiness, Ataxia, Lethargy\nInhibitors of CYP3A4 increase serum concentrations of eplerenone}}<br></div><div><br></div><div>Reduction in mortailty by 35%&nbsp;</div><div>21% fewer sudden cardiac deaths</div><div>15% decrease in hospitalisation&nbsp;<br></div><div>Symptomatic improvement…<br></div>",
+                                ""
+                            ],
+                            "guid": "P(}6~H2blw",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "THESE IS LITTLE OR ANY ROLE FOR {{c1::CARDIAC\nGLYCOSIDES}} IN THE MANAGEMENT OF HEART\nFAILURE, (used in the past)<div><br></div><div><b>Neprilysin Inhibitors<br></b></div><div>Specifically inhibit the chronic maladaptive effects of the {{c1::RAAS}}<br></div><div>Usually combined with an ARB as “single pill”, dual therapy<br></div><div><br></div><div>Contraindicated in combination with {{c1::ACEi}} - Cause angioedema and\nincreased mortality<br></div>",
+                                "<img src=\"paste-91bf486cc6bc298427431047185823aa41034770.jpg\">"
+                            ],
+                            "guid": "lVig1Q208!",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "e6a77517-8da1-11eb-a6fe-f519ebe31366",
+                    "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-18ac3dc5dae64b858a6f555b2a9c9a9f42ad323a.jpg",
+                        "paste-74d7f9dca006be767b6c0d55a8bf40aed1de2100.jpg",
+                        "paste-bc5bf792b5234d419ce6ee3100e2fae0df5bd735.jpg",
+                        "paste-ddc1dced8d657034d9da819adffe2d4a12c869bc.jpg",
+                        "paste-ec932d3bac4be1b398bc61e1bd6f9c8eaa900a8e.jpg"
+                    ],
+                    "mid": 1603908832969,
+                    "name": "03/12 Cardiogenic shock",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Vasodilators - Nitrates</b><div>↓ Renal Perfusion driving Fluid {{c1::Retention}}&nbsp;increasing preload beyond maximal efficiency<b><br></b></div><div><br></div><div>Effective therapy must aim to {{c1::drop}} the preload and afterload<br></div><div><br></div><div>In combination with {{c1::ACEi}}, {{c1::ARB}}, and diuretics provide effective therapy<br></div><div><br></div><div>2 examples:</div><div>{{c1::<div>Sodium Nitroprusside (light sensitive, breaks to cynaide) - Intravenous Preparation<br></div><div>GTN - Administered subcutaneously via transdermal patch</div>}}<br></div>",
+                                "Vasodilators reduce peripheral resistance and promote venodilatation -&gt; ↓Afterload and ↓Preload<div><img src=\"paste-18ac3dc5dae64b858a6f555b2a9c9a9f42ad323a.jpg\"><br></div>"
+                            ],
+                            "guid": "i=]S?k2d16",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::Cardiogenic Shock}}:&nbsp;ACUTE PUMP FAILURE WITHOUT ABILITY TO COMPENSATE<div><br></div><div>Severe acute pulmonary oedema - “Flash” pulmonary oedema&nbsp;</div><div>Oliguria and renal failure&nbsp;</div><div>Massive fluid overload&nbsp;</div><div>Complete tissue underperfusion</div><div>Mortality of 80%<br></div><div><br></div><div>MUST URGENTLY REDUCE BLOOD VOLUME USING {{c1::LOOP DIURETICS}}<br></div><div>PROVIDE {{c1::INOTROPIC}} SUPPORT TO CARDIAC MUSCLE<br></div><div><br></div><div>What is the only indication of <font color=\"#ff0000\">Inotropes?</font></div><div>{{c1::Cardiogenic shock, increase contractility, increases mortality in chronic stable heart failure}}<br></div>",
+                                ""
+                            ],
+                            "guid": "lV>_mX+9_7",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Inotropes - Calcium Channel Sensitisers and Sympathomimetics</b><div><b><br></b><div>INCREASE CARDIAC <font color=\"#ff0000\">CONTRACTILITY</font> BY INCREASING <font color=\"#ff0000\">SENSITIVITY</font> TO CA<b><br></b></div><div><br></div><div>Cardiac contractility largely dependent upon intracellular Ca&nbsp;</div><div>-&gt;Driven by <font color=\"#ff0000\">L-Type</font> {{c1::Ca2}}+ channel and {{c1::RyR2}}</div><div>-&gt;Dependent on transmembrane Na channel</div><div><br></div><div>{{c1::PKA}} activation through Gs increases cardiac contractility&nbsp;</div><div>Different downstream effector mechanism to vascular SM<br></div><div><br><div><img src=\"paste-bc5bf792b5234d419ce6ee3100e2fae0df5bd735.jpg\"><b><br></b></div></div></div>",
+                                ""
+                            ],
+                            "guid": "Dy@/o(.P*9",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><u>β- Agonists / <font color=\"#ff0000\">Sympathomimetics</font></u></b><div>FEW AGENTS ARE EFFECTIVE</div><div>Name 2, which is prefered and why?</div><div>{{c1::<div>1. Dopamine&nbsp;</div><div>2. Dobutamine, is prefered,&nbsp;</div><div>-Stimulates D1&nbsp;&nbsp;</div><div>-β1 in heart and β2 receptors in vasculature&nbsp;</div><div>-Little effect on <font color=\"#ff0000\">α </font>AR unlike dopamine</div>}}<br></div><div><br></div><div>Improve cardiac contractility and CO while decreasing after load</div><div>Must be given by <font color=\"#ff0000\">slow</font> {{c1::IV infusion}}&nbsp;</div><div>Tolerance after {{c1::4}} days&nbsp;</div><div>Limited therapeutic efficacy beyond this time<br></div>",
+                                "<img src=\"paste-ddc1dced8d657034d9da819adffe2d4a12c869bc.jpg\">"
+                            ],
+                            "guid": "bxxoGL$9=$",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><u>Dopamine</u></b>&nbsp;(versus Dobutamine)<div><br><div><b>Low dose&nbsp;</b><div>Improves contractility ({{c1::D1}}R) and reduces afterload ({{c1::D2}}R)&nbsp;</div><div>Preference for renal vascular bed&nbsp;</div><div>Useful in <font color=\"#ff0000\">diuretic</font> {{c1::refractory}} fluid <font color=\"#ff0000\">overload</font></div></div></div><div><font color=\"#ff0000\"><br></font></div><div><b>High dose&nbsp;</b></div><div>Improves contractility ({{c1::D1}}R)&nbsp;</div><div>Stimulates peripheral {{c1::α A}}R - Increasing afterload<font color=\"#ff0000\"><br></font></div>",
+                                "<b>Only useful at low dose</b><div><b>*not in slides, thrown in @ end<br></b><div><img src=\"paste-ec932d3bac4be1b398bc61e1bd6f9c8eaa900a8e.jpg\"><b><br></b></div><div><img src=\"paste-74d7f9dca006be767b6c0d55a8bf40aed1de2100.jpg\"><br></div></div>"
+                            ],
+                            "guid": "o{&I8-}qKl",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "e6a81166-8da1-11eb-8e44-f519ebe31366",
+                    "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "7164d65c9a914a8d89398b6e1ba8a083-ao-1-A.svg",
+                        "7164d65c9a914a8d89398b6e1ba8a083-ao-1-Q.svg",
+                        "7164d65c9a914a8d89398b6e1ba8a083-ao-2-A.svg",
+                        "7164d65c9a914a8d89398b6e1ba8a083-ao-2-Q.svg",
+                        "7164d65c9a914a8d89398b6e1ba8a083-ao-3-A.svg",
+                        "7164d65c9a914a8d89398b6e1ba8a083-ao-3-Q.svg",
+                        "7164d65c9a914a8d89398b6e1ba8a083-ao-O.svg",
+                        "9ea0a7b0e59a4661adc44ca0ad084ce1-ao-1-A.svg",
+                        "9ea0a7b0e59a4661adc44ca0ad084ce1-ao-1-Q.svg",
+                        "9ea0a7b0e59a4661adc44ca0ad084ce1-ao-2-A.svg",
+                        "9ea0a7b0e59a4661adc44ca0ad084ce1-ao-2-Q.svg",
+                        "9ea0a7b0e59a4661adc44ca0ad084ce1-ao-3-A.svg",
+                        "9ea0a7b0e59a4661adc44ca0ad084ce1-ao-3-Q.svg",
+                        "9ea0a7b0e59a4661adc44ca0ad084ce1-ao-4-A.svg",
+                        "9ea0a7b0e59a4661adc44ca0ad084ce1-ao-4-Q.svg",
+                        "9ea0a7b0e59a4661adc44ca0ad084ce1-ao-O.svg",
+                        "paste-812ff010c2a5f6dd6521439187a9a869df576868.jpg",
+                        "paste-e385393c0ba8de5b3f2c331f6903d5f79fce78e8.jpg",
+                        "paste-f4fa052551ceef756e2d053b88aab8c5bbc8ea72.jpg",
+                        "tmp1m863rl2.png",
+                        "tmpujv498a_.png"
+                    ],
+                    "name": "03/20 Angina Pectoris & Myocardial Infarction",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "9ea0a7b0e59a4661adc44ca0ad084ce1-ao-1",
+                                "",
+                                "<img src=\"tmp1m863rl2.png\" />",
+                                "<img src=\"9ea0a7b0e59a4661adc44ca0ad084ce1-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"9ea0a7b0e59a4661adc44ca0ad084ce1-ao-1-A.svg\" />",
+                                "<img src=\"9ea0a7b0e59a4661adc44ca0ad084ce1-ao-O.svg\" />"
+                            ],
+                            "guid": "EN1Y(aZDdA",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "9ea0a7b0e59a4661adc44ca0ad084ce1-ao-2",
+                                "",
+                                "<img src=\"tmp1m863rl2.png\" />",
+                                "<img src=\"9ea0a7b0e59a4661adc44ca0ad084ce1-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"9ea0a7b0e59a4661adc44ca0ad084ce1-ao-2-A.svg\" />",
+                                "<img src=\"9ea0a7b0e59a4661adc44ca0ad084ce1-ao-O.svg\" />"
+                            ],
+                            "guid": "w,=j0VHD&c",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "9ea0a7b0e59a4661adc44ca0ad084ce1-ao-3",
+                                "",
+                                "<img src=\"tmp1m863rl2.png\" />",
+                                "<img src=\"9ea0a7b0e59a4661adc44ca0ad084ce1-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"9ea0a7b0e59a4661adc44ca0ad084ce1-ao-3-A.svg\" />",
+                                "<img src=\"9ea0a7b0e59a4661adc44ca0ad084ce1-ao-O.svg\" />"
+                            ],
+                            "guid": "zz~F,&;3>t",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "9ea0a7b0e59a4661adc44ca0ad084ce1-ao-4",
+                                "",
+                                "<img src=\"tmp1m863rl2.png\" />",
+                                "<img src=\"9ea0a7b0e59a4661adc44ca0ad084ce1-ao-4-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"9ea0a7b0e59a4661adc44ca0ad084ce1-ao-4-A.svg\" />",
+                                "<img src=\"9ea0a7b0e59a4661adc44ca0ad084ce1-ao-O.svg\" />"
+                            ],
+                            "guid": "ftCDS<p9cm",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What's the difference between&nbsp;Stable Angina, Unstable Angina and Myocardial Infarction?<div>{{c1::</div><div><img src=\"paste-812ff010c2a5f6dd6521439187a9a869df576868.jpg\">}}<br></div>",
+                                ""
+                            ],
+                            "guid": "b_`a=7^L^L",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Treatment Principles&nbsp;</b><div><b>Treatment of Ischaemia</b>&nbsp;</div><div>{{c1::Vasodilators}} ➔ ↑ O2 Availability&nbsp;&nbsp;</div><div><div>Anti-{{c1::hypertensives}} ➔ ↓ Afterload ➔ ↓ O2 Consumption&nbsp;</div><div><font color=\"#ff0000\">β- Blockers</font> ➔ {{c1::↓}} Heart Rate ➔ ↓ O2 Consumption<br></div></div><div><br></div><div><b>Management of Atherosclerosis / Plaque Stabilisation</b>&nbsp;</div><div>Statins / <font color=\"#ff0000\">HMG-CoA Reductase</font> Inhibitors&nbsp;</div><div><br></div><div><b>Prevention of Thrombosis<br></b></div><div>Anti-{{c1::platelet}} agents&nbsp;</div><div>Anti-coagulants&nbsp;</div><div><b><br></b></div><div><b>Treatment of Acute Thrombosis</b>&nbsp;</div><div>Fibrinolysis&nbsp;</div><div>Coronary {{c1::angioplasty}} - coated stents</div>",
+                                ""
+                            ],
+                            "guid": "B!J`c(uXHr",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Treatment of Ischaemia&nbsp;</b><div>Minimise Oxygen Demand vs. Maximise Oxygen Supply, Which is which?<b><br></b></div><div><div>Ca2+ Ch Blockers&nbsp;<br></div><div>Nitrates&nbsp;</div><div>ACEi/ARB<br></div><div>Anti-Platelets<br></div><div>Statins</div></div><div><div>β Blockers&nbsp;&nbsp;</div><div><br></div></div><div><br></div><div>What is the Mainstay Therapy and what does it do?<br></div><div>{{c1::<div><font color=\"#ff0000\">Organic Nitrates</font></div><div>-Dilate the coronary vasculature and myocardial microvasculature&nbsp;</div><div>-Reduce preload and afterload&nbsp;</div><div>-Improve oxygen delivery while minimising oxygen consumption</div>}}<br></div>",
+                                "<b>Minimise Oxygen Demand</b><div>β Blockers -&gt; Heart Rate&nbsp; &nbsp;</div><div><font color=\"#ff0000\">Ca2+ Ch Blockers -&gt;&nbsp;</font>Contractility</div><div><font color=\"#ff0000\">Nitrates</font>&nbsp;-&gt; Preload</div><div>ACEi/ARB -&gt; Afterload</div><div><b><br></b></div><div><b>Maximise Oxygen Supply</b><br></div><div><font color=\"#ff0000\">Ca2+ Ch Blockers -&gt;&nbsp;</font>Coronary Flow</div><div><font color=\"#ff0000\">Nitrates</font>&nbsp;</div><div><br></div><div>Anti-Platelets -&gt; Regional\nMyocardial Flow<br></div><div>Statins<br></div>"
+                            ],
+                            "guid": "CY$A%PLQh$",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "7164d65c9a914a8d89398b6e1ba8a083-ao-1",
+                                "",
+                                "<img src=\"tmpujv498a_.png\" />",
+                                "<img src=\"7164d65c9a914a8d89398b6e1ba8a083-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"7164d65c9a914a8d89398b6e1ba8a083-ao-1-A.svg\" />",
+                                "<img src=\"7164d65c9a914a8d89398b6e1ba8a083-ao-O.svg\" />"
+                            ],
+                            "guid": "f!mJ5^zJ|B",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "7164d65c9a914a8d89398b6e1ba8a083-ao-2",
+                                "",
+                                "<img src=\"tmpujv498a_.png\" />",
+                                "<img src=\"7164d65c9a914a8d89398b6e1ba8a083-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"7164d65c9a914a8d89398b6e1ba8a083-ao-2-A.svg\" />",
+                                "<img src=\"7164d65c9a914a8d89398b6e1ba8a083-ao-O.svg\" />"
+                            ],
+                            "guid": "C?Zc1?SNcP",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "7164d65c9a914a8d89398b6e1ba8a083-ao-3",
+                                "",
+                                "<img src=\"tmpujv498a_.png\" />",
+                                "<img src=\"7164d65c9a914a8d89398b6e1ba8a083-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"7164d65c9a914a8d89398b6e1ba8a083-ao-3-A.svg\" />",
+                                "<img src=\"7164d65c9a914a8d89398b6e1ba8a083-ao-O.svg\" />"
+                            ],
+                            "guid": "zBk`]>>dO*",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Organic Nitrates</b><div><font color=\"#ff0000\">Sublingual</font> Spray PRN&nbsp;</div><div>Immediate short-term (T1/2 <font color=\"#ff0000\">30 mins</font>) symptom relief<b><br></b></div><div>Name it. {{c1::</div><div>Glyceryl Trinitrate</div><div></div>}}<div><br></div><div>Match these up.</div><div><div><b>Transdermal GTN&nbsp;</b></div><div><b>Isosorbide Mononitrate +&nbsp;Isosorbide Dinitrate</b></div></div><div><div><b>Intravenous GTN<br></b></div><div><b><br></b></div>Immediate antianginal effect&nbsp;<div>T1/2 30 seconds</div><div><br></div><div><div>Delayed antianginal effect&nbsp;<br></div><div>T1/2 4 - 6 hours</div></div><div><br></div><div>Immediate antianginal effect<br></div><div>Treatment periods up to 15 hours<br></div><div><br></div></div><div>THERPEUTIC EFFICACY OFFSET BY REFLEX TACHYCARDIA - {{c1::β-BLOCKERS}}<br></div>",
+                                "<div><b>Intravenous GTN<br></b></div>Immediate antianginal effect&nbsp;<div>T1/2 30 seconds</div><div><br></div><div><b>Transdermal GTN&nbsp;</b></div><div>Immediate antianginal effect<br></div><div>Treatment periods up to 15 hours<br></div><div><br></div><div><b>Isosorbide Mononitrate +&nbsp;Isosorbide Dinitrate</b><br></div><div>Delayed antianginal effect&nbsp;</div><div>T1/2 4 - 6 hours<b><br></b></div>"
+                            ],
+                            "guid": "zFw3GQzXHI",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "β-BLOCKERS<div>Optimise oxygen consumption by controlling <font color=\"#ff0000\">SNS</font> overdrive&nbsp;</div><div><br></div><div>Main cardiac adrenoreceptor is <font color=\"#ff0000\">β1</font> Adrenoreceptor:&nbsp;</div><div>1. G{{c1::s}} Coupled to AC&nbsp;</div><div>2. Stimulates {{c1::PKC}}, PL and Voltage Dependent {{c1::Ca2+}} channel&nbsp;</div><div>3. Promotes positive chronotropic effect&nbsp;</div><div><br></div><div>β1 Selective Blockade:&nbsp;</div><div>1. {{c1::Reduce}} workload of the heart&nbsp;</div><div>2. {{c1::Prolong}} diastolic filling time&nbsp;</div><div>3. Promote {{c1::coronary arterial}} filling time&nbsp;</div><div>4. Improve blood supply to {{c1::myocardium}}<br></div><div><br></div><div>Counteract the reflex {{c1::tachycardia}} induced by nitrates</div><div>-Provide therapeutic synergism</div><div><br></div><div>Reduce the myocardial workload<br></div><div>-Through {{c1::negative}} chronotropic effect</div><div>-Reduce afterload through {{c1::RAAS}}</div><div><br></div><div>Give 2 reasons for caution</div><div>{{c1::<div>-When MI affecting the SA, AV\nnode affecting cardiac\nconduction</div><div>-When patient has large anterior\nMI affecting CO</div>}}<br></div>",
+                                "<img src=\"paste-f4fa052551ceef756e2d053b88aab8c5bbc8ea72.jpg\">"
+                            ],
+                            "guid": "L#<U-K.a*=",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ACE Inhibitors / ARBs<div>INDIRECT EFFECT TO REDUCE MYOCARDIAL ISCHAEMIA&nbsp;</div><div>↓ Cardiac workload&nbsp;</div><div>↓ {{c1::After}}load<br></div><div>Optimise {{c1::pre}}load through minimally {{c1::diuretic}} effect<br></div><div><br></div><div>PARTICULARLY USEFUL WHEN {{c1::LV}} DYSFUNCTION&nbsp;</div><div>Reduce heart failure associated mortality<br></div><div><br></div><div>Usually Used in Combination with <font color=\"#ff0000\">Nitrates</font> and <font color=\"#ff0000\">β-blockers</font><br></div>",
+                                ""
+                            ],
+                            "guid": "ekZlr;7kY)",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Dihydropyridine L-Type Calcium Channel Antagonists</b><div>Bind the {{c1::pore}}-forming {{c1::α}}-subunit of the L-type Ca channel<br></div><div>Selective effect on {{c1::vascular}} smooth muscle<br></div><div>Inhibits <font color=\"#ff0000\">calcium dependent</font> {{c1::calmodulin}}<br></div><div><br></div><div>Vascular Relaxation -&gt;{{c1::&nbsp;CAROTID BARORECEPTOR}}\nREFLEX -&gt; SNS ACTIVATION<br></div><div><br></div><div>T/F?</div><div>1. Orally active {{c1::T}}</div><div>2. Low first-pass metabolism {{c1::f}}</div><div>3. High bioavailability ~20% {{c1::f it is 20%}}</div><div>4. Low plasma protein binding {{c1::f}}</div><div>5. Extensive hepatic metabolism {{c1::t}}</div><div>6. Long T1/2 {{c1::t}}</div><div><br></div><div>Which is which</div><div>NON-DIHYDROPYRIDINE L-TYPE CALCIUM CHANNEL BLOCKERS or<br></div><div>DIHYDROPYRIDINE L-TYPE CALCIUM CHANNEL BLOCKERS?<br></div><div><br></div><div>{{c1::NON-DIHYDROPYRIDINE L-TYPE CALCIUM CHANNEL BLOCKERS }}</div><div>Act directly on the conduction system of heart&nbsp;</div><div><font color=\"#ff0000\">Slow</font> conduction at <font color=\"#ff0000\">AV </font>node&nbsp;</div><div>Reduce heart rate and cardiac workload&nbsp;</div><div>Improved <font color=\"#ff0000\">diastolic filling time&nbsp;</font></div><div>Useful when <font color=\"#ff0000\">β blockers contraindicated</font> or not tolerate<br></div><div><br></div><div>{{c1::DIHYDROPYRIDINE L-TYPE CALCIUM CHANNEL BLOCKERS}}<br></div><div><font color=\"#ff0000\">More selective</font> action on vasculature&nbsp;&nbsp;</div><div>Potent <font color=\"#ff0000\">vasodilators</font>&nbsp;</div><div>Useful for <font color=\"#ff0000\">coronary vasospasm</font> in response to MI</div><div>Also reduce cardiac workload by ↓ afterload<br></div><div><br></div>",
+                                "<img src=\"paste-e385393c0ba8de5b3f2c331f6903d5f79fce78e8.jpg\">"
+                            ],
+                            "guid": "G2y$KTJ?1r",
                             "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
                             "tags": []
                         }
