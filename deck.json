@@ -626,9 +626,412 @@
                     "dyn": 0,
                     "extendNew": 0,
                     "extendRev": 0,
-                    "media_files": [],
+                    "media_files": [
+                        "paste-0a684e5972dd932631d07f6b04e599e2a8059159.jpg",
+                        "paste-0fe2d1a74aa46c101228d044ac03e3fa6a3c68f3.jpg",
+                        "paste-16af9b9e4fec3a4a6ee6740e9e65313a9a384973.jpg",
+                        "paste-23239c467be38a15667c9f5526b51926c4882028.jpg",
+                        "paste-3142ec64acf498cc92be2016a3345dd69ec45f27.jpg",
+                        "paste-39678ebc9ca8cbcac3b27b4088fc2dadfb24648e.jpg",
+                        "paste-54b6c0c80317b6dfaae7ed952ca36f83165e2eea.jpg",
+                        "paste-59d1acf78295f73754efe71c2902438f9b4bf51e.jpg",
+                        "paste-fcda880395962faffd922db906bbe54224a77541.jpg"
+                    ],
+                    "mid": 1603908832969,
                     "name": "03/18 Device related infection",
-                    "notes": []
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(51, 51, 204);\">Minor breaches in our defence</span><div><div><font color=\"#e48312\">-</font><span style=\"color: rgb(64, 64, 64);\">Usually caused by our (low virulence) normal flora</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">-</span><span style=\"color: rgb(64, 64, 64);\">Usually present in </span><font color=\"#ff0000\">low</font><span style=\"color: rgb(64, 64, 64);\"> numbers</span></div>\n<div></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span></div><div><span style=\"color: rgb(64, 64, 64);\">-Many bacteria do not easily attach to healthy\nendothelium or other tissues due to&nbsp;</span>{{c1::shear&nbsp;<span style=\"color: rgb(64, 64, 64);\">(</span><span style=\"color: rgb(64, 64, 64);\">ie</span><span style=\"color: rgb(64, 64, 64);\">. flow)</span>}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;forces </span><span style=\"color: rgb(64, 64, 64);\">&nbsp;&amp;&nbsp;</span>{{c1::surface}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;properties</span></div></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Cleared from the circulation by macrophages in (3)&nbsp;</span>{{c1::spleen,\nliver &amp; lymph nodes}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;(mononuclear phagocytic system</span><span style=\"color: rgb(64, 64, 64);\">)</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Circulating&nbsp;</span>{{c1::white}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;cells, antibodies and&nbsp;</span>{{c1::complement}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;factors</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><font color=\"#ff0000\">Antimicrobial</font><span style=\"color: rgb(64, 64, 64);\"> therapy (if given)</span></div></div>",
+                                ""
+                            ],
+                            "guid": "lY/%Q}3K;G",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><span style=\"color: rgb(51, 51, 204);\">Challenges\nwith biomedical devices</span><span style=\"color: rgb(228, 131, 18);\"><br></span></div><div><span style=\"color: rgb(228, 131, 18);\">§</span>Break\nin the physical defence (‘short-cut’ into deeper sites);</div>\n<div><span style=\"color: rgb(228, 131, 18);\">§</span>Ideal\nsurfaces for bacterial attachment, colonisation and proliferation</div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span>{{c1::Vascular}}<span style=\"color: rgb(51, 51, 204);\">&nbsp;catheters -&gt;</span><span style=\"color: rgb(51, 51, 204);\">&nbsp;bloodstream</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span>{{c1::Urinary}}<span style=\"color: rgb(51, 51, 204);\">&nbsp;catheters -&gt;</span><span style=\"color: rgb(51, 51, 204);\">&nbsp;bladder</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span>{{c1::Endotracheal intubation}}<span style=\"color: rgb(51, 51, 204);\">&nbsp;-&gt;</span><span style=\"color: rgb(51, 51, 204);\">&nbsp;lungs</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">§</span>Subsequent\nbiofilm production</div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(51, 51, 204);\">Protection from immune system\n(white cells, antibodies, complement system) and from antimicrobial agents</span></div><div><br></div><div>What is biofilm?</div>",
+                                "<b>Biofilm formation</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;</span><div><img src=\"paste-fcda880395962faffd922db906bbe54224a77541.jpg\"><font color=\"#202124\"><br></font><div><span style=\"color: rgb(32, 33, 36);\">a process whereby microorganisms irreversibly attach to and grow on a surface and produce extracellular polymers that facilitate attachment and matrix&nbsp;</span><b>formation</b><span style=\"color: rgb(32, 33, 36);\">, resulting in an alteration in the phenotype of the organisms with respect to growth rate and gene transcription.</span></div></div>"
+                            ],
+                            "guid": "bL>}h6KTGT",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b><span style=\"color: rgb(51, 51, 204);\">Prevention of </span><span style=\"color: rgb(51, 51, 204);\">early-onset infections </span><span style=\"color: rgb(51, 51, 204);\">in such devices</span></b></div><div><span style=\"color: rgb(51, 51, 204);\">Pre- / </span><span style=\"color: rgb(51, 51, 204);\">Peri</span><span style=\"color: rgb(51, 51, 204);\">-operative measures:</span></div>\n<div>{{c1::Skin}}\npreparation</div>\n<div>{{c1::Sterile}} equipment</div>\n<div><font color=\"#ff0000\">Surgical</font>\ntechnique;\nOperating environment</div>\n<div>{{c1::Antimicrobial}}\nprophylaxis</div><div><br></div>\n<div></div>\n<div><span style=\"color: rgb(51, 51, 204);\">Post-operative measures:</span></div>\n<div><font color=\"#ff0000\">Hand</font>\nhygiene; optimal wound management;</div>\n<div><font color=\"#ff0000\">Nutritional</font>\nsupport, glycaemic control, etc.</div><div><br></div><div><b><span style=\"color: rgb(51, 51, 204);\">Prevention of </span><span style=\"color: rgb(51, 51, 204);\">late-onset </span><span style=\"color: rgb(51, 51, 204);\">infections in such devices</span></b><br></div><div><div><font color=\"#e48312\">-</font><span style=\"color: rgb(64, 64, 64);\">Minimise risk of&nbsp;</span>{{c1::bactaeremia}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">eg</span><span style=\"color: rgb(64, 64, 64);\">. avoidance of high-risk activities if possible </span><span style=\"color: rgb(64, 64, 64);\">eg</span><span style=\"color: rgb(64, 64, 64);\">.\nbody-piercing, </span><span style=\"color: rgb(64, 64, 64);\">tattoing</span><span style=\"color: rgb(64, 64, 64);\">, etc.</span></div>\n<div><span style=\"color: rgb(64, 64, 64);\">-Prompt </span><font color=\"#ff0000\">treatment</font><span style=\"color: rgb(64, 64, 64);\"> of any infections</span></div>\n<div><font color=\"#e48312\">-</font><span style=\"color: rgb(64, 64, 64);\">Optimising </span><font color=\"#ff0000\">general health</font><span style=\"color: rgb(64, 64, 64);\">: nutrition, exercise, BMI,\noral hygiene, management of underlying conditions, etc.</span></div></div>",
+                                ""
+                            ],
+                            "guid": "i1QlyU6{}]",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(51, 51, 204);\"><b>Vascular catheter-related infections</b></span><div><font color=\"#3333cc\"><b><br></b></font></div><div><span style=\"color: rgb(51, 51, 204);\">Types of </span><span style=\"color: rgb(51, 51, 204);\">CVCs</span><font color=\"#3333cc\"><b><br></b></font></div><div><div><span style=\"color: rgb(0, 0, 153);\">Short-term (&lt; 10 Days):</span></div>\n<div><span style=\"color: rgb(64, 64, 64);\">&nbsp; - Inserted with&nbsp;</span>{{c1::needle}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;puncture</span></div>\n<div><span style=\"color: rgb(64, 64, 64);\">&nbsp; - Centrally inserted or</span></div>\n<div><span style=\"color: rgb(64, 64, 64);\">&nbsp; - Peripherally inserted (PICC</span><span style=\"color: rgb(64, 64, 64);\">)</span></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div>\n<div><span style=\"color: rgb(0, 0, 153);\">Long-term (Months/Years):</span></div>\n<div><span style=\"color: rgb(64, 64, 64);\">&nbsp; - Inserted&nbsp;</span>{{c1::surgically}}</div>\n<div><span style=\"color: rgb(64, 64, 64);\">&nbsp; - Tunnelled CVC (</span><span style=\"color: rgb(64, 64, 64);\">eg</span><span style=\"color: rgb(64, 64, 64);\">. </span><font color=\"#ff0000\">Hickman</font><span style=\"color: rgb(64, 64, 64);\">) or</span></div>\n<div><span style=\"color: rgb(64, 64, 64);\">&nbsp; - Totally implantable CVC </span><span style=\"color: rgb(64, 64, 64);\">(</span><span style=\"color: rgb(64, 64, 64);\">eg</span><span style=\"color: rgb(64, 64, 64);\">. </span><font color=\"#ff0000\">Portocath</font><span style=\"color: rgb(64, 64, 64);\">)</span></div></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><font color=\"#3333cc\"><b>Mix and Match</b></font><div><span style=\"color: rgb(51, 51, 204);\">Peripheral vascular catheters (cannula)</span><span style=\"color: rgb(51, 51, 204);\"><b><br></b></span></div><div><span style=\"color: rgb(51, 51, 204);\">Totally implantable CVC</span><br></div><div><span style=\"color: rgb(51, 51, 204);\">Tunnelled CVC</span><br></div><div><div><span style=\"color: rgb(51, 51, 204);\">Central vascular catheters (CVC)</span></div></div><div><span style=\"color: rgb(51, 51, 204);\"><br></span></div><div>{{c1::<span style=\"color: rgb(51, 51, 204);\">Peripheral vascular catheters (cannula)</span>}}<div><div><span style=\"color: rgb(64, 64, 64);\">Easy &amp;\nsafe to insert</span></div></div></div><div>\n<div><span style=\"color: rgb(64, 64, 64);\">Generally low\nrisk of serious infection</span></div></div><div><div><span style=\"color: rgb(64, 64, 64);\">Consider\nchanging every </span></div>\n<div><span style=\"color: rgb(64, 64, 64);\">48 – 72 hours</span></div>\n<div></div>\n<div><span style=\"color: rgb(64, 64, 64);\">Not suitable\nfor some drugs</span></div></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><div>{{c1::<span style=\"color: rgb(51, 51, 204);\">Central vascular catheters (CVC)</span>}}</div></div><div><div><span style=\"color: rgb(64, 64, 64);\">Secure,\npain-free access</span></div>\n<div></div>\n<div><span style=\"color: rgb(64, 64, 64);\">Ability to\ninfuse large volumes of fluids relatively rapidly</span></div>\n<div></div>\n<div><span style=\"color: rgb(64, 64, 64);\">Infusion of\nirritant medications</span></div></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div>{{c1::<div><span style=\"color: rgb(51, 51, 204);\">Totally implantable CVC</span><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><br></div><div><img src=\"paste-54b6c0c80317b6dfaae7ed952ca36f83165e2eea.jpg\"><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><img src=\"paste-23239c467be38a15667c9f5526b51926c4882028.jpg\"></div>}}<br></div><div><div><span style=\"color: rgb(64, 64, 64);\">Surgically\nimplanted</span></div>\n<div><span style=\"color: rgb(64, 64, 64);\">Subcutaneous\nport or reservoir</span></div>\n<div><span style=\"color: rgb(64, 64, 64);\">Accessed by a\nneedle through intact skin</span></div></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div>{{c1::<div><span style=\"color: rgb(51, 51, 204);\">Tunnelled CVC</span><br></div><div><img src=\"paste-59d1acf78295f73754efe71c2902438f9b4bf51e.jpg\"></div>}}<br></div><div><span style=\"color: rgb(64, 64, 64);\">Surgically\nimplanted</span><br></div><div><div><span style=\"color: rgb(64, 64, 64);\">Dacron cuff\njust inside the exit site</span><span style=\"color: rgb(64, 64, 64);\"><br></span></div></div><div>\n<div></div>\n<div><span style=\"color: rgb(64, 64, 64);\">For patients\nrequiring chemotherapy, haemodialysis, home-infusion therapy</span></div></div></div>",
+                                "<div><div><div><font color=\"#ff0000\">Non-tunnelled&nbsp;CVC (Short-term)<br></font></div><div><img src=\"paste-3142ec64acf498cc92be2016a3345dd69ec45f27.jpg\"><br></div></div><div><br></div><div><font color=\"#ff0000\">Peripherally Inserted Central&nbsp;Catheter (PICC)<br></font></div><div><img src=\"paste-0fe2d1a74aa46c101228d044ac03e3fa6a3c68f3.jpg\"></div></div>"
+                            ],
+                            "guid": "E/~Eak0qRs",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(51, 51, 204);\">Aetiology of CR-BSI</span><div><div><span style=\"color: rgb(0, 0, 153);\">Name 2 Common:</span></div>\n<div>{{c1::<div><span style=\"color: rgb(192, 0, 0);\">Coagulase-negative staphylococci</span></div>\n<div><span style=\"color: rgb(192, 0, 0); font-style: italic;\">Staphylococcus </span><span style=\"color: rgb(192, 0, 0); font-style: italic;\">aureus</span></div>}}<br></div>\n<div></div>\n<div><span style=\"color: rgb(0, 0, 153);\">Others:</span></div>\n<div><span style=\"color: rgb(64, 64, 64);\">Gram-</span>{{c1::negative}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;</span><font color=\"#ff0000\">bacilli</font></div>\n<div><span style=\"font-style: italic;\"><font color=\"#ff0000\">Enterococcus</font></span><span style=\"color: rgb(64, 64, 64);\"> spp.</span></div>\n<div>{{c1::Candida}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;spp. (yeasts)</span></div>\n<div><span style=\"color: rgb(64, 64, 64);\">Other\norganisms</span></div></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><span style=\"color: rgb(51, 51, 204);\">Diagnosis of CR-BSI&nbsp;</span><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><div><u><span style=\"color: rgb(0, 0, 153);\">Clinical </span></u><u><span style=\"color: rgb(0, 0, 153);\">Diagnosis</span></u></div>\n<div><span style=\"color: rgb(64, 64, 64);\">Fever +/-\nChills,</span></div><div><span style=\"color: rgb(64, 64, 64);\">&nbsp;Rigors;&nbsp;</span></div><div><span style=\"color: rgb(64, 64, 64);\">Sepsis<br>\n(Symptoms of CR-BSI often non-specific)</span></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div>\n<div></div>\n<div><span style=\"color: rgb(64, 64, 64);\">Exit site may\n</span><font color=\"#ff0000\">not</font><span style=\"color: rgb(64, 64, 64);\"> be inflamed</span></div>\n<div></div>\n<div><br></div></div><div>Therefore -&gt;</div><div><div><span style=\"color: rgb(228, 131, 18);\">1.</span><span style=\"color: rgb(64, 64, 64);\">Blood cultures\n(to prove BSI)</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">2.</span><span style=\"color: rgb(64, 64, 64);\">To prove&nbsp;</span>{{c1::catheter}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;as the source:</span></div>\n<div><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span></div>\n<div><span style=\"color: rgb(64, 64, 64);\">A)\nDifferential time to positivity:</span></div>\n<div><span style=\"color: rgb(64, 64, 64);\">(</span><span style=\"color: rgb(64, 64, 64);\">Blood cultures\ntaken from </span><font color=\"#ff0000\">CVC</font><span style=\"color: rgb(64, 64, 64);\"> flagging positive at least&nbsp;</span>{{c1::2}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;hours earlier than the blood\ncultures taken </span><font color=\"#ff0000\">peripherally</font><span style=\"color: rgb(64, 64, 64);\">)</span></div>\n<div><span style=\"color: rgb(64, 64, 64);\">OR</span></div>\n<div><span style=\"color: rgb(64, 64, 64);\">B) Culture of\nthe&nbsp;</span>{{c1::CVC tip}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;(if CVC is removed): Significant growth of the same organism</span></div></div>",
+                                "<div><span style=\"color: rgb(32, 33, 36);\">Catheter-related bloodstream infection (</span><b>CRBSI</b><span style=\"color: rgb(32, 33, 36);\">)</span><br></div><img src=\"paste-16af9b9e4fec3a4a6ee6740e9e65313a9a384973.jpg\">"
+                            ],
+                            "guid": "L)ZNH[=.`*",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(51, 51, 204);\">Treatment\nof CR-BSI</span><div><span style=\"color: rgb(51, 51, 204);\">&nbsp;-</span><span style=\"color: rgb(64, 64, 64);\">Treatment\ntargeting&nbsp;</span><font color=\"#ff0000\">staphylococci</font><span style=\"color: rgb(64, 64, 64);\">:</span></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div>\n<div></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;-</span><span style=\"color: rgb(64, 64, 64);\">Anti-staphylococcal </span><font color=\"#ff0000\">beta-lactams</font><span style=\"color: rgb(64, 64, 64);\">:</span></div><div><span style=\"color: rgb(64, 64, 64);\">Name 2/4</span></div>\n<div>{{c1::<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Meticillin</span><span style=\"color: rgb(64, 64, 64);\">, </span><span style=\"color: rgb(64, 64, 64);\">oxacillin</span><span style=\"color: rgb(64, 64, 64);\">, </span><font color=\"#ff0000\">flucloxacillin, nafcillin</font></div>\n<div></div>}}<br></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;-</span><span style=\"color: rgb(64, 64, 64);\">What about </span><span style=\"color: rgb(64, 64, 64);\">meticillin</span><span style=\"color: rgb(64, 64, 64);\">-resistant staphylococci?</span></div><div><span style=\"color: rgb(64, 64, 64);\">Name 2</span></div>\n<div>{{c1::<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Meticillin</span><span style=\"color: rgb(64, 64, 64);\">-R </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">Staphylococcus\n</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">aureus</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\"> </span><span style=\"color: rgb(64, 64, 64);\">(MRSA)</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Many </span><span style=\"color: rgb(64, 64, 64);\">coagulase</span><span style=\"color: rgb(64, 64, 64);\">-negative\nstaphylococci (</span><span style=\"color: rgb(64, 64, 64);\">CoNS</span><span style=\"color: rgb(64, 64, 64);\">) are also </span><span style=\"color: rgb(64, 64, 64);\">meticillin</span><span style=\"color: rgb(64, 64, 64);\">-resistant</span></div>}}<br></div><div><br></div><div><div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Glycopeptides </span><span style=\"color: rgb(64, 64, 64);\">eg</span><span style=\"color: rgb(64, 64, 64);\">.&nbsp;</span>{{c1::vancomycin}}</div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Administered&nbsp;</span>{{c1::intravenously}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;for CR-BSI</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Active against&nbsp;</span>{{c1::MRSA}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;and&nbsp;</span>{{c1::meticillin}}<span style=\"color: rgb(64, 64, 64);\">-resistant </span><span style=\"color: rgb(64, 64, 64);\">CoNS</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Both </span><font color=\"#ff0000\">beta-lactams</font><span style=\"color: rgb(64, 64, 64);\"> and </span><font color=\"#ff0000\">glycopeptides</font><span style=\"color: rgb(64, 64, 64);\"> work by disrupting </span><font color=\"#ff0000\">bacterial cell\nwall</font><span style=\"color: rgb(64, 64, 64);\"> (</span>{{c1::peptidoglycan}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;layer)\nsynthesis or integrity</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">NB: glycopeptides cannot penetrate outer membrane of\nGram-</span>{{c1::negative (<span style=\"color: rgb(64, 64, 64);\">ie</span><span style=\"color: rgb(64, 64, 64);\">. not active against Gram-</span><span style=\"color: rgb(64, 64, 64);\">neg</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;bacteria</span>)}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;organisms,&nbsp;</span></div></div>",
+                                "<img src=\"paste-0a684e5972dd932631d07f6b04e599e2a8059159.jpg\">"
+                            ],
+                            "guid": "s^8l9_BPok",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(51, 51, 204);\">Case\nhistory</span><div><div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">46-year-old man sustained multiple injuries in a road\ntraffic accident. He spent 8 days in the surgical ICU, and required surgery and\ntransfusion of several units of packed red blood cells.</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">In the early morning he developed&nbsp;</span></div><div><span style=\"color: rgb(64, 64, 64);\">a fever</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;of </span><font color=\"#ff0000\">39.6</font><span style=\"color: rgb(64, 64, 64);\">°C.&nbsp;</span></div><div><span style=\"color: rgb(64, 64, 64);\">His pulse was </span><font color=\"#ff0000\">110</font><span style=\"color: rgb(64, 64, 64);\"> beats per minute;&nbsp;</span></div><div><font color=\"#ff0000\">blood pressure 113/56 mm Hg</font><span style=\"color: rgb(64, 64, 64);\">;&nbsp;</span></div><div><span style=\"color: rgb(64, 64, 64);\">and his\nrespiratory rate was </span><font color=\"#ff0000\">20 breaths/minute</font><span style=\"color: rgb(64, 64, 64);\">.&nbsp;</span></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><span style=\"color: rgb(64, 64, 64);\">His lungs were clear bilaterally; and\nhis abdomen soft &amp; non-tender. A right internal jugular CVC was in place\nwith no erythema at the exit site.&nbsp;</span></div></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">His white blood cell (WBC) count had increased to\n15.8. A portable chest x-ray showed no infiltrate. Two sets of blood cultures\nwere drawn and the patient was started empirically on </span><font color=\"#ff0000\">piperacillin/tazobactam</font><span style=\"color: rgb(64, 64, 64);\"> by the\nphysician. The laboratory notified the clinician that both sets of blood\ncultures flagged positive for </span><font color=\"#ff0000\">Gram-positive cocci</font><span style=\"color: rgb(64, 64, 64);\">:</span></div></div><div><div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Via CVC lumen:\npositive after 7 hrs of incubation</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Via peripheral\nvein: positive after 12 hrs of </span><span style=\"color: rgb(64, 64, 64);\">incubation</span></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div>\n<div><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">What else would you like to know from the laboratory?</span></div></div><div><div><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Are the Gram-positive cocci in </span><font color=\"#ff0000\">clusters or in chains</font><span style=\"color: rgb(64, 64, 64);\">.</span></div></div><div><div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">What changes, if any, would you make now?</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Consider addition of </span><font color=\"#ff0000\">glycopeptide</font></div></div><div><font color=\"#ff0000\"><br></font></div><div><div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">The patient was started on </span><font color=\"#ff0000\">vancomycin</font><span style=\"color: rgb(64, 64, 64);\"> 1 g IV every 12\nhours, and a second set of blood cultures was drawn. Overnight he had another\ntemperature spike to 38.6°C, and the next morning his WBC count rose to 16.5.\nHis follow-up blood cultures also flagged positive for gram-</span><font color=\"#ff0000\">positive</font><span style=\"color: rgb(64, 64, 64);\"> cocci in\n</span><font color=\"#ff0000\">clusters</font><span style=\"color: rgb(64, 64, 64);\">. The organism from his first set of cultures was identified as </span><font color=\"#ff0000\"><span style=\"font-style: italic;\">S. </span><span style=\"font-style: italic;\">aureus</span></font><span style=\"color: rgb(64, 64, 64);\">.\nSusceptibilities were pending.</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">What else, if any, would you do now?</span></div>\n<div><font color=\"#ff0000\">&nbsp;Removal of the CVC</font></div></div><div><font color=\"#ff0000\"><br></font></div><div><div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">The patient's CVC was removed and the tip of the\ncatheter was sent for a semi-quantitative culture. Over the next 24 hours he </span><span style=\"color: rgb(64, 64, 64);\">defervesced</span><span style=\"color: rgb(64, 64, 64);\">. The\nsusceptibility results of </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">S. aureus</span><span style=\"color: rgb(64, 64, 64);\"> blood isolate\nwere as follow:</span></div>\n<div><font color=\"#ff0000\">◦Oxacillin-sensitive; Vancomycin-sensitive. </font></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">The catheter tip was also culture-positive for </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">S. aureus</span><span style=\"color: rgb(64, 64, 64);\">.</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">What changes, if any, would you make now?</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Change Rx to IV </span><font color=\"#ff0000\">flucloxacillin</font><span style=\"color: rgb(64, 64, 64);\"> (or </span><span style=\"color: rgb(64, 64, 64);\">nafcillin</span><span style=\"color: rgb(64, 64, 64);\">)</span></div></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">What other investigations would you consider?</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><font color=\"#ff0000\">Echocardiography</font><span style=\"color: rgb(64, 64, 64);\"> to rule out complication of\nendocarditis&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">(In some\nstudies, up to 10% of </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">S. aureus </span><span style=\"color: rgb(64, 64, 64);\">bacteraemia cases were complicated by endocarditis)</span></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div>\n<div><span style=\"color: rgb(64, 64, 64);\">Repeat blood cultures to ensure the\nelimination of </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">S. aureus </span><span style=\"color: rgb(64, 64, 64);\">from the bloodstream</span></div>\n<div><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span></div><div><span style=\"color: rgb(64, 64, 64);\">Monitor the patient to rule out complications\narising from the bloodstream infection</span></div></div>",
+                                "<img src=\"paste-39678ebc9ca8cbcac3b27b4088fc2dadfb24648e.jpg\">"
+                            ],
+                            "guid": "vw.uS[~/RK",
+                            "note_model_uuid": "afe9e61b-7dce-11eb-8b6f-a0b2d6ecb02c",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "0b86db1e-948a-11eb-852b-92bb668014f1",
+                    "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "1ca67b3dee17472bbb5ec50c1b480e4b-ao-1-A.svg",
+                        "1ca67b3dee17472bbb5ec50c1b480e4b-ao-1-Q.svg",
+                        "1ca67b3dee17472bbb5ec50c1b480e4b-ao-2-A.svg",
+                        "1ca67b3dee17472bbb5ec50c1b480e4b-ao-2-Q.svg",
+                        "1ca67b3dee17472bbb5ec50c1b480e4b-ao-3-A.svg",
+                        "1ca67b3dee17472bbb5ec50c1b480e4b-ao-3-Q.svg",
+                        "1ca67b3dee17472bbb5ec50c1b480e4b-ao-4-A.svg",
+                        "1ca67b3dee17472bbb5ec50c1b480e4b-ao-4-Q.svg",
+                        "1ca67b3dee17472bbb5ec50c1b480e4b-ao-5-A.svg",
+                        "1ca67b3dee17472bbb5ec50c1b480e4b-ao-5-Q.svg",
+                        "1ca67b3dee17472bbb5ec50c1b480e4b-ao-O.svg",
+                        "paste-485f7d8217b3ee2a4d50157443f63e0a036f4d65.jpg",
+                        "paste-8c0751aaec1e5b7c81e6c775c824b8a74b8ed7e0.jpg",
+                        "paste-94d488e8618f252f2da1ad97440213cb847dd186.jpg",
+                        "paste-9873d2b00d7282bdfb4bc76b22ed7929f1a0c740.jpg",
+                        "paste-a41d39480b2e243715117cd9026c441de1c01d59.jpg",
+                        "paste-b8c9b10ccff923e74d7f051ed71bd3762171d387.jpg",
+                        "paste-eba771a7d8bdbd3b925be0c3fd9ff565aa43764d.jpg",
+                        "paste-eeec9ab58f3a0bfa830401e6166ad9a78c802f44.jpg",
+                        "tmpmmvkfnnc.png"
+                    ],
+                    "name": "03/28 Bloodborne Viruses",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Bloodborne\nviruses</b><div><div><span style=\"color: rgb(95, 165, 52);\">•</span>viruses\ntransmitted through contact\nwith infected blood and\nbody fluids</div>\n<div><br></div><div><font color=\"#5fa534\">Give 3 examples of virus</font></div>\n<div>{{c1::<div><span style=\"color: rgb(95, 165, 52);\">•</span>Hepatitis\nB virus (HBV) </div>\n<div><span style=\"color: rgb(95, 165, 52);\">•</span>Hepatitis\nC virus (HCV)</div>\nHuman\nimmunodeficiency virus (HIV)&nbsp;}}</div></div><div><br></div><div><div><font color=\"#5fa534\">Give 3 examples of transmission</font></div><div>{{c1::<div>Exposure\nto blood</div>\n<div><span style=\"color: rgb(95, 165, 52);\">•</span><span style=\"font-weight: bold;\">Injection </span><span style=\"font-weight: bold;\">d</span><span style=\"font-weight: bold;\">rug\nuse</span></div>\n<div><span style=\"color: rgb(95, 165, 52);\">•</span><span style=\"font-weight: bold;\">Vertical transmission</span></div>\n<div><span style=\"color: rgb(95, 165, 52);\">•</span>Needlestick\ninjuries (eg.\nhealthcare settings)</div>\n<div><span style=\"color: rgb(95, 165, 52);\">•</span>Blood transfusion (rare nowadays)</div>\n<div><br></div><div>Exposure\nto bodily fluids</div>\n<div><span style=\"color: rgb(95, 165, 52);\">•</span><span style=\"font-weight: bold;\">Unprotected </span><span style=\"font-weight: bold;\">s</span><span style=\"font-weight: bold;\">exual\nexposure</span></div>}}<br></div></div>",
+                                ""
+                            ],
+                            "guid": "b_[eZ7j~lB",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Hepatitis\nB virus (HBV)</b><div><div>{{c1::250}} million chronic infections</div>\n<div>{{c1::600,000}} deaths/yr</div>\n<div>{{c1::30}}%\nglobal population infected at some time</div></div><div><br></div><div><div><span style=\"color: rgb(95, 165, 52);\">§</span>Incubation period average {{c1::2-3 (6 weeks to 6 months)}}&nbsp;months&nbsp;</div>\n<div><span style=\"color: rgb(95, 165, 52);\">§</span>{{c1::50-100}}\ntimes more infectious than HIV</div></div><div><br></div><div><div>What type of cells does it affect?</div><div>Name 3 products.</div></div><div><br></div><div>What % of people develop hepatic carcinoma from chronic hepatitis?</div>",
+                                "<img src=\"paste-485f7d8217b3ee2a4d50157443f63e0a036f4d65.jpg\"><div>HB surface antigen</div><div>HBV copies</div><div>HB e antigen</div><div><br></div><div><img src=\"paste-b8c9b10ccff923e74d7f051ed71bd3762171d387.jpg\"><br></div>"
+                            ],
+                            "guid": "lv#BP~0fgL",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Acute\nHepatitis B</b><div><div>First\nsymptoms appear 3-4 days before {{c1::jaundice}}:</div>\n<div><span style=\"color: rgb(95, 165, 52);\">•</span>Weakness,\nmalaise, anorexia</div>\n<div><span style=\"color: rgb(95, 165, 52);\">•</span><font color=\"#ff0000\">Right\nupper</font> abdominal pain/discomfort</div>\n<div><span style=\"color: rgb(95, 165, 52);\">•</span>Low-grade\nfever and “Flu-like” symptoms</div></div><div><br></div><div><div>Icteric\nphase {{c1::(Jaundice)}}</div>\n<div><span style=\"color: rgb(95, 165, 52);\">•</span>Dark\n{{c1::urine}}</div>\n<div><span style=\"color: rgb(95, 165, 52);\">•</span>Later\npale {{c1::stools}}</div>\n<div><span style=\"color: rgb(95, 165, 52);\">•</span><font color=\"#ff0000\">Yellowish</font>\ncoloration of&nbsp; </div>\n<div>&nbsp;&nbsp;&nbsp; -\nmucous membrane</div>\n<div>&nbsp;&nbsp;&nbsp; - conjunctiva</div>\n<div>&nbsp;&nbsp;&nbsp; - sclera </div>\n&nbsp;&nbsp;&nbsp; - skin<br></div><div><br></div><div><b>Progression\nto Chronic Infection<br></b></div><div><div><span style=\"color: rgb(95, 165, 52);\">§</span>Chronic\ninfection: linked to age at\ninfection/immune response</div>\n<div><span style=\"color: rgb(95, 165, 52);\">§</span>{{c1::80-90}}%\nof cases infected during infancy</div>\n<div><span style=\"color: rgb(95, 165, 52);\">§</span>30-50%\nof cases infected at 1-5 yrs&nbsp; </div>\n<div><span style=\"color: rgb(95, 165, 52);\">§</span>1%-10%\nof cases infected at &gt; 5 yrs</div></div><div><br></div><div><div><span style=\"color: rgb(95, 165, 52);\">§</span>{{c1::20-40}}%\nof chronically infected cases develop <u><span style=\"font-weight: bold;\">progressive</span></u>\ndisease</div></div><div><div><span style=\"color: rgb(95, 165, 52);\">§</span>Premature mortality from cirrhosis and hepatocellular\ncarcinoma (HCC)</div>\n<div><span style=\"color: rgb(95, 165, 52);\">§</span>Worldwide HBV infection accounts for {{c1::30}}%\nof all cases of cirrhosis and &gt;{{c1::50}}% of all HCC cases</div></div><div><br></div><div><b>Serological<br></b></div><div><div><span style=\"color: rgb(95, 165, 52);\">•</span>Hepatitis B {{c1::surface antigen}}: associated with viral replication</div>\n<div><span style=\"color: rgb(95, 165, 52);\">•</span>Hepatitis\nB {{c1::e antigen}}: associated with <span style=\"font-weight: bold;\">high-level</span>\nviral replication</div>\n<div><span style=\"color: rgb(95, 165, 52);\">•</span>Hepatitis\nB {{c1::core antibody}}: marker of exposure to HBV; presence of IgM subtype is\nindicative of recent infection.&nbsp;</div><div><br></div><div>{{c1::Core antibody}} is <font color=\"#ff0000\">not</font> a useful marker of immune\nstatus</div></div>",
+                                "<div>Inverse\nrelationships between:</div>\n<div><span style=\"color: rgb(95, 165, 52);\">•</span>HepB\nsurface antigen vs surface antibody</div>\n<div><span style=\"color: rgb(95, 165, 52);\">•</span>HepB e\nantigen vs e antibody</div><div><img src=\"paste-9873d2b00d7282bdfb4bc76b22ed7929f1a0c740.jpg\"><br></div><div><img src=\"paste-8c0751aaec1e5b7c81e6c775c824b8a74b8ed7e0.jpg\"><br></div>"
+                            ],
+                            "guid": "kX*/Vn{k8q",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "1ca67b3dee17472bbb5ec50c1b480e4b-ao-1",
+                                "",
+                                "<img src=\"tmpmmvkfnnc.png\" />",
+                                "<img src=\"1ca67b3dee17472bbb5ec50c1b480e4b-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"1ca67b3dee17472bbb5ec50c1b480e4b-ao-1-A.svg\" />",
+                                "<img src=\"1ca67b3dee17472bbb5ec50c1b480e4b-ao-O.svg\" />"
+                            ],
+                            "guid": "z[]]U(<sC]",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "1ca67b3dee17472bbb5ec50c1b480e4b-ao-2",
+                                "",
+                                "<img src=\"tmpmmvkfnnc.png\" />",
+                                "<img src=\"1ca67b3dee17472bbb5ec50c1b480e4b-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"1ca67b3dee17472bbb5ec50c1b480e4b-ao-2-A.svg\" />",
+                                "<img src=\"1ca67b3dee17472bbb5ec50c1b480e4b-ao-O.svg\" />"
+                            ],
+                            "guid": "<`7z(vjeH",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "1ca67b3dee17472bbb5ec50c1b480e4b-ao-3",
+                                "",
+                                "<img src=\"tmpmmvkfnnc.png\" />",
+                                "<img src=\"1ca67b3dee17472bbb5ec50c1b480e4b-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"1ca67b3dee17472bbb5ec50c1b480e4b-ao-3-A.svg\" />",
+                                "<img src=\"1ca67b3dee17472bbb5ec50c1b480e4b-ao-O.svg\" />"
+                            ],
+                            "guid": "m1SuCx;}L[",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "1ca67b3dee17472bbb5ec50c1b480e4b-ao-4",
+                                "",
+                                "<img src=\"tmpmmvkfnnc.png\" />",
+                                "<img src=\"1ca67b3dee17472bbb5ec50c1b480e4b-ao-4-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"1ca67b3dee17472bbb5ec50c1b480e4b-ao-4-A.svg\" />",
+                                "<img src=\"1ca67b3dee17472bbb5ec50c1b480e4b-ao-O.svg\" />"
+                            ],
+                            "guid": "oR%;;:]Pg5",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "1ca67b3dee17472bbb5ec50c1b480e4b-ao-5",
+                                "",
+                                "<img src=\"tmpmmvkfnnc.png\" />",
+                                "<img src=\"1ca67b3dee17472bbb5ec50c1b480e4b-ao-5-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"1ca67b3dee17472bbb5ec50c1b480e4b-ao-5-A.svg\" />",
+                                "<img src=\"1ca67b3dee17472bbb5ec50c1b480e4b-ao-O.svg\" />"
+                            ],
+                            "guid": "rRuL/qVSP1",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Management\nof Acute Hepatitis B<br></b></div>Which is the odd one out?<div><div><span style=\"color: rgb(95, 165, 52);\">§</span>Supportive therapy</div><div><span style=\"color: rgb(95, 165, 52);\">§A</span>ntivirals given</div>\n<div><span style=\"color: rgb(95, 165, 52);\">§</span>Check\nclotting, electrolytes</div>\n<div><span style=\"color: rgb(95, 165, 52);\">§</span>Counselling&nbsp;<br></div>\n<div><span style=\"color: rgb(95, 165, 52);\">§</span>Screen\nfor other bloodborne\nviruses, STIs</div>\n<div><br></div></div><div>{{c1::Antivirals are not given}}<br></div><div><br></div><div><b>Goals\nof Therapy for Chronic Hepatitis B</b><br></div><div><div>Achieved\nby reducing HBV DNA levels </div>\n<div><span style=\"color: rgb(143, 198, 57);\">§</span>Rx to\nsuppress HBV {{c1::replication}} +\nbiochemical remission and prevention further liver injury</div>\n<div><span style=\"color: rgb(143, 198, 57);\">§</span>Ideally\nclear <font color=\"#ff0000\">HBsAg</font>, or\nat least seroconvert from {{c1::HBeAg}} from positive to negative</div></div><div><br></div><div>Give 3&nbsp;Treatment\noptions</div>\n<div>{{c1::<div><span style=\"color: rgb(95, 165, 52);\">•</span>Interferon alpha</div>\n<div><span style=\"color: rgb(95, 165, 52);\">•</span>Nucleoside analogues eg.\nentecavir, tenofivir</div>\n<div><span style=\"color: rgb(95, 165, 52);\">•</span>Lamivudine – drug resistance issues</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "PcToH>K9`U",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Hepatitis\nC virus (HCV)</b><div><div><span style=\"color: rgb(143, 198, 57);\">•</span><span style=\"color: rgb(69, 69, 69);\">&nbsp;</span>{{c1::Flav}}<span style=\"color: rgb(69, 69, 69);\">ivirus</span><span style=\"color: rgb(69, 69, 69);\">,&nbsp;</span>{{c1::Hepac}}<span style=\"color: rgb(69, 69, 69);\">ivirus</span></div>\n<div><span style=\"color: rgb(143, 198, 57);\">•</span><span style=\"color: rgb(69, 69, 69);\">\nPositive&nbsp;</span>{{c1::single}}<span style=\"color: rgb(69, 69, 69);\">-stranded&nbsp;</span>{{c1::R}}<span style=\"color: rgb(69, 69, 69);\">NA, enveloped</span></div>\n<div><span style=\"color: rgb(143, 198, 57);\">•</span><span style=\"color: rgb(69, 69, 69);\">\n</span><span style=\"color: rgb(69, 69, 69);\">Different major genotypes: 1 to 6</span></div>\n<div><span style=\"color: rgb(69, 69, 69);\">Varying\ngeographical distributions:</span></div><div><span style=\"color: rgb(69, 69, 69);\">Give most common in US, europe, south africa.</span></div>\n<div>{{c1::<span style=\"color: rgb(143, 198, 57);\">•</span><span style=\"color: rgb(69, 69, 69);\">Genotypes 1-3 prevalent in Western\ncountries: genotype 1 prevalent in US; genotypes </span><font color=\"#ff0000\">2 &amp; 3 more prevalent in\nEurope</font><span style=\"color: rgb(69, 69, 69);\">; genotypes 3 &amp; 6 common in East &amp; South Asia; genotype 4 in\nNorth, Central and West Africa; genotype 5 in South Africa</span>}}<br></div>\n<div><span style=\"color: rgb(143, 198, 57);\">•</span><span style=\"color: rgb(69, 69, 69);\"> </span><span style=\"color: rgb(69, 69, 69);\">May\ninfluence choice of treatment regimens</span></div></div><div><span style=\"color: rgb(69, 69, 69);\"><br></span></div><div><span style=\"color: rgb(69, 69, 69);\">What happens to the virus directly after entry to the cell?</span></div><div><span style=\"color: rgb(69, 69, 69);\"><br></span></div><div><span style=\"color: rgb(69, 69, 69);\">Which is a sign of a resolved infection?</span></div><div><div><span style=\"color: rgb(95, 165, 52);\">•</span>Anti-HCV\nantibody-negative</div><div><span style=\"color: rgb(95, 165, 52);\">•</span>Antibody-negative; RNA/Antigen detected<br></div><div><span style=\"color: rgb(95, 165, 52);\">•</span>Antibody-positive; RNA/Antigen not detected<br></div>\n<div><span style=\"color: rgb(95, 165, 52);\">•</span>Antibody-positive;\nRNA/Antigen detected</div></div>",
+                                "<img src=\"paste-a41d39480b2e243715117cd9026c441de1c01d59.jpg\"><div><img src=\"paste-eba771a7d8bdbd3b925be0c3fd9ff565aa43764d.jpg\"><br></div><div><img src=\"paste-94d488e8618f252f2da1ad97440213cb847dd186.jpg\"><br></div><div><div><span style=\"color: rgb(95, 165, 52);\">•</span>Anti-HCV\nantibody-negative: no HCV infection</div>\n<div><span style=\"color: rgb(95, 165, 52);\">•</span>Antibody-positive;\nRNA/Antigen not detected: resolved infection</div>\n<div><span style=\"color: rgb(95, 165, 52);\">•</span>Antibody-positive;\nRNA/Antigen detected: active infection</div></div>"
+                            ],
+                            "guid": "p>[,x4.Dcr",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Management\nof Chronic Hepatitis C<span style=\"color: rgb(143, 198, 57);\"><br></span></b></div><div><span style=\"color: rgb(143, 198, 57);\">§</span>Evaluation:\nsymptoms, LFTs, liver biopsy, etc.</div>\n<div><span style=\"color: rgb(143, 198, 57);\">§</span>Hepatitis\nA and B vaccinations</div>\n<div><span style=\"color: rgb(143, 198, 57);\">§</span>Antiviral\ntherapy</div><div><span style=\"color: rgb(143, 198, 57);\">§</span>Supportive measures</div>\n<div><br></div><div>Which is the odd one out?</div><div>{{c1::Supportive measures is the least right, it's in acute but I added it here}}<br></div><div><br></div><div>Name 3 DAA regimens ({{c1::Direct acting antiviral}})</div><div>{{c1::<div><div>Ledipasvir-sofosbuvir</div><div>glecaprevir-pibrentasvir</div><div>elbasivir-grazoprevir</div><div>paritaprevir-ritonavir-ombitsavir</div></div><div>also sometimes</div><div><div><font color=\"#ff0000\">Ribavirin</font>-containing regimens</div>\n<div><font color=\"#ff0000\">Interferon</font>-containing regimens</div></div>}}<br></div><div><br></div><div>What is the Transmission\nrisk from infected patients to HCWs following needlestick\ninjuries of HIV, HCV, HBV?</div><div>{{c1::<img src=\"paste-eeec9ab58f3a0bfa830401e6166ad9a78c802f44.jpg\">}}<br></div>",
+                                "<div>Goal is to clear HCV&nbsp;RNA - sustained&nbsp;virological&nbsp;response (SVR) is associated with greatly reduced progression to cirrhosis</div><div><span style=\"color: rgb(143, 198, 57);\">§</span>SVR is&nbsp;undetectable HCV&nbsp;RNA&nbsp;<font color=\"#ff0000\">12 weeks</font>&nbsp;after&nbsp;completion of Rx: &gt;95% chance of long-term cure</div><div><span style=\"color: rgb(143, 198, 57);\">§</span>5&nbsp;yr&nbsp;rate cirrhosis with SVR 0% vs 13% without</div>"
+                            ],
+                            "guid": "BJb)bpdOa]",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "0b87ebf4-948a-11eb-87c9-92bb668014f1",
+                    "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-02447129e81504ed3ccddfeec1d4b8e7339f361c.jpg",
+                        "paste-07257bb99c0fd9b79b88473c24640d9c4dff6e37.jpg",
+                        "paste-3b2ab7c7c2f39a965033e8bb0fc8c00c4273a8cc.jpg",
+                        "paste-3c1d17485abf0a3da236f2bf2746c29f2048ecd7.jpg",
+                        "paste-650f1b540110a51d9d35e3facacc2528c4a0e844.jpg",
+                        "paste-6fcd6d9fb818094207a1deac95f0b192667227d9.jpg",
+                        "paste-75d46dea64e36d7130ae13163889ec74809da89e.jpg",
+                        "paste-7be142f6a7aa1d0a9a5a7eec8b717f262eea76e4.jpg",
+                        "paste-832e9d1c8f4ea4ccc72ef285af60999d4c63f73f.jpg",
+                        "paste-9d8ce11ee9f3556688729e1c29394552a4aa3be3.jpg",
+                        "paste-a71d74097258762a09117c0b46dba1d4b79de17b.jpg",
+                        "paste-b0b47b879dcd4f0da61c873c88300c9f13fc9c9c.jpg",
+                        "paste-bde2e22dadd6e07761d6b3380230d9dd0f9b7561.jpg",
+                        "paste-e005cb69526246a7b387c093068bda589611dfdb.jpg",
+                        "paste-fc0ca9a88ec83849a818ca3d3f9451199ba883c3.jpg",
+                        "paste-ff502cfdcabc023a7532aafc3b34ce3d84e97b28.jpg"
+                    ],
+                    "name": "03/31 Principles underlying vaccination",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>DEFENCE AGAINST INFECTION</b><div>What is the 1\nst LINE + give 4/8 examples&nbsp; - {{c1::Physical and chemical barriers}}&nbsp;</div><div>{{c1::<div>Skin (sebum, renewal)&nbsp;</div><div>Sphincters (interference = risk)&nbsp;</div><div>Mucous membranes (renewal)&nbsp;</div><div>Respiratory cilia (sweeping, cough reflex)&nbsp;</div><div>Irrigation, disinfection (urine, tears)</div><div><font color=\"#ff0000\">Lysozymes</font>&nbsp;</div><div>Gastric pH,&nbsp;</div><div>Vaginal pH&nbsp;</div><div>Normal flora – colonisation resistance</div>}}<br></div><div><br></div><div>2nd LINE = {{c1::INNATE}} IMMUNE SYSTEM&nbsp;</div><div><br></div><div>3rd LINE = {{c1::ADAPTIVE}} IMMUNE SYSTEM<br></div><div><br></div><div>Give 5/11 organs of the immune system.</div><div><br></div><div>What is the progenitor of a mast cell?</div><div>What is the progenitor of a plasma cell?<br></div><div>What is the product of a megakaryocyte?<br></div>",
+                                "<img src=\"paste-650f1b540110a51d9d35e3facacc2528c4a0e844.jpg\"><div><img src=\"paste-bde2e22dadd6e07761d6b3380230d9dd0f9b7561.jpg\"><br></div>"
+                            ],
+                            "guid": "un`PI=y8;I",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>INNATE IMMUNE RESPONE</b><div>Give its 5 components.</div><div>{{c1::<div>Neutrophils&nbsp;</div><div>Monocyte/macrophage&nbsp;</div><div>Dendritic cells&nbsp;</div><div>Natural killer cells&nbsp;&nbsp;</div><div><font color=\"#ff0000\">Complement</font> proteins</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "s}SxmQu-LN",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>Giev the names for the description</div><div><br></div><div>{{c1::NEUTROPHILS}}<br></div><div>FUNCTION = PHAGOCYTOSIS</div><div>SUPEROXIDE MEDIATED KILLING\n(OR NOT)&nbsp;</div><div>Formed in Bone Marrow&nbsp;</div><div>Circulate for a short time in blood</div><div>Abundant: 50-70% of WBC<br></div><div><br></div>{{c1::<div>MONOCYTE/MACROPHAGE<br></div><div></div><div>}}Phagocytosis/killing<br></div><div>2ndary Antigen Processing/presentation<br></div><div><br></div>{{c1::<div>DENDRITIC CELL<br></div><div></div><div>}}Lives in lymp nodes<br></div><div>Specialised ANTIGEN PROCESSING/PRESENTATION<br></div><div><br></div>{{c1::<div>NATURAL KILLER CELLS<br></div><div></div><div>}}Releases perforins<br></div><div>Targets non MHC presenting cells</div><div>Kills tumours</div>",
+                                "<img src=\"paste-a71d74097258762a09117c0b46dba1d4b79de17b.jpg\">"
+                            ],
+                            "guid": "JAMo91#7os",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>PATTERN RECOGNITION RECEPTORS (PRRs) - (TOLL-LIKE RECEPTORS)</b><div>Expressed on (3 cells){{c1::macrophages, dendritic cells &amp; lymphocytes}}&nbsp;</div><div>Also on myeloid and some other cell types&nbsp;</div><div>React with a limited range of highly conserved microbial structures&nbsp;</div><div>Trigger innate response to infection through complex signal transduction pathways<b><br></b></div><div><br></div><div>Name 1 gram + and gram - it reacts with&nbsp;</div>",
+                                "<img src=\"paste-9d8ce11ee9f3556688729e1c29394552a4aa3be3.jpg\">"
+                            ],
+                            "guid": "q#Qk.T/g,j",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>COMPLEMENT SYSTEM</b><div>• <font color=\"#ff0000\">Plasma proteins</font> - enhance (complement) immunity&nbsp;</div><div>• Circulate in blood and come into effect when cascade\nactivated&nbsp;</div><div><br></div><div>Results in:&nbsp;</div><div>• <font color=\"#ff0000\">Opsonisation</font> + phagocyte activation (C{{c1::3b}})&nbsp;</div><div>• Cell <font color=\"#ff0000\">lysis</font> ({{c1::MAC}})&nbsp;</div><div>• <font color=\"#ff0000\">Chemotaxis</font> of neutrophils and macrophages (C{{c1::5}})&nbsp;</div><div>• Activate <font color=\"#ff0000\">mast cells</font> and <font color=\"#ff0000\">basophils</font> (C{{c1::3a}}, C{{c1::4a}}, C{{c1::5a}}) –\ninflammation (histamine, serotonin)<b><br></b></div><div><br></div><div>What are 2 complement activation cascade pathways?</div><div>What is c3 role in the MAC</div>",
+                                "<img src=\"paste-ff502cfdcabc023a7532aafc3b34ce3d84e97b28.jpg\"><div><img src=\"paste-7be142f6a7aa1d0a9a5a7eec8b717f262eea76e4.jpg\"><br></div>"
+                            ],
+                            "guid": "|KIZvnX~C",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>ADAPTIVE IMMUNITY</b><div>{{c1::B}} CELL&nbsp;</div><div>Bone marrow&nbsp;</div><div>Humoral\nAntibody-driven&nbsp;</div><div>looks for surface Ig<b><br></b></div><div><br></div><div>{{c1::T}} Cell</div><div>Thymus&nbsp;</div><div>Cell-mediated Cytotoxic&nbsp;</div><div>CD3&nbsp;</div><div>TCR ({{c1::T-cell receptor}})<br></div>",
+                                "<img src=\"paste-75d46dea64e36d7130ae13163889ec74809da89e.jpg\">"
+                            ],
+                            "guid": "fa5HQM]}M*",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Antibody</b><div><br></div><div>Fab COMPONENT\n({{c1::Antigen}} binding fragment)&nbsp;</div><div><img src=\"paste-3b2ab7c7c2f39a965033e8bb0fc8c00c4273a8cc.jpg\"><br></div><div>Fc COMPONENT\n(Fragment Crystallizable)\nInteracts with cell surface receptors\nor {{c1::complement}}<b><br></b></div><div><br></div><div>5&nbsp;TYPES OF ANTIBODY (Isotypes) (but we don't count D cause no info on it)</div><div>IgM&nbsp;</div><div>IgG (subtypes 1 to 4)&nbsp;</div><div>IgA&nbsp;</div><div>IgE&nbsp;</div><div>IgD<br></div><div><br></div><div>Which is/are monomer, dimer and pentamer</div><div>{{c1::</div><div><img src=\"paste-3c1d17485abf0a3da236f2bf2746c29f2048ecd7.jpg\">}}<br></div>",
+                                "<img src=\"paste-fc0ca9a88ec83849a818ca3d3f9451199ba883c3.jpg\"><div>Cinderella – The <font color=\"#ff0000\">Antigen</font>&nbsp;</div><div>Her Foot – The <font color=\"#ff0000\">Epitope</font>&nbsp;</div><div>The Slipper – The <font color=\"#ff0000\">Fab Component</font>&nbsp;</div><div>The Prince – <font color=\"#ff0000\">Fc Component</font><br></div>"
+                            ],
+                            "guid": "OBRrr8sfDj",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>B CELL</b><div>Naïve B cell have {{c1::surface Ig}}</div><div><br></div><div>Binds to antigen&nbsp;<br></div><div>Internalises antigen&nbsp;</div><div>Activation (with/without <font color=\"#ff0000\">Helper T cell</font>)&nbsp;</div><div><br></div><div>Proliferation &amp; differentiation:&nbsp;</div><div>{{c1::Plasma}} cell – secretes specific Ig&nbsp;</div><div>{{c1::Memory}}-B cells – adaptive immunity<b><br></b></div><div><br></div><div>T cell {{c1::independent}}&nbsp;</div><div>(Polysaccharide capsule)&nbsp;</div><div>Short lived immunity&nbsp;</div><div><br></div><div>T cell {{c1::dependent}}&nbsp;</div><div>(Many carbohydrates &amp; proteins)&nbsp;</div><div>Isotype switching – long lived immunity<br></div><div><span style=\"color: rgb(255, 0, 0);\">&nbsp;you want this for vaccines it lasts longer</span><br></div>",
+                                "<img src=\"paste-b0b47b879dcd4f0da61c873c88300c9f13fc9c9c.jpg\">"
+                            ],
+                            "guid": "h7Su?A4LEQ",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>PATTERN OF ANTIBODY RESPONSE</b><div>Primary response (peaks {{c1::5-10}} d):&nbsp;</div><div>• <font color=\"#ff0000\">B-cells</font> initially secrete Ig{{c1::M}}&nbsp;</div><div>• Isotype switching (T-cell {{c1::dependent}}) –\nMemory cells proliferate - Ig{{c1::G}}\n(sometimes others)&nbsp;</div><div><br></div><div>• Secondary response (peaks {{c1::1-3}} d):&nbsp;</div><div>• <font color=\"#ff0000\">Anamnestic</font> response – more antibodies\nmade faster, longer&nbsp;</div><div>• Affinity maturation – “fine tuned” sIg&nbsp;</div><div>• Greater avidity<b><br></b></div>",
+                                "<img src=\"paste-02447129e81504ed3ccddfeec1d4b8e7339f361c.jpg\">"
+                            ],
+                            "guid": "d(*BvTKbKf",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>T LYMPHOCYTES</b><div>CD{{c1::4}} helper T-cells</div><div>CD{{c1::8}} suppressor/cytotoxic T-cells<b><br></b></div><div><br></div><div>Which are cell mediated or antibody mediated?</div><div>TNFα<br></div><div>IL-1</div><div>IL-4</div><div>IL-5<br></div><div>IL-6<br></div><div>IL-10<br></div><div><br></div><div>{{c1::<div><font color=\"#ff0000\">Th1</font> – cell mediated (IL-1 TNFα, IL-6)<br></div><div><font color=\"#ff0000\">Th2</font> – antibody mediated (IL-4,IL-5, IL10)</div>}}<br></div><div><br></div><div><b>T CELL RECEPTORS (TCR)</b><br></div><div>RECOGNITION MOLECULE&nbsp;</div><div>Reacts to “{{c1::peptide}}+<font color=\"#ff0000\">MHC</font>”&nbsp;</div><div>Not to whole antigen alone<b><br></b></div><div><br></div><div><b>MAJOR HISTOCOMPATIBILITY (MHC) MOLECULES</b><br></div><div>Different MHC molecules bind to sets of peptide\nantigens with same general characteristics&nbsp;</div><div>• {{c1::Less}} (more/less)specific binding than TCR or Ig&nbsp;</div><div>• Present these digested peptide antigens to {{c1::T}} cells&nbsp;</div><div><br></div><div>• 2 Major subtypes:&nbsp;</div><div>• MHC I (Class I HLA – A,B,C) Self – all cells&nbsp;</div><div>• MHC II (Class II HLA – DR, DQ) Non-Self – Give 3/4 examples</div><div>{{c1::APCs\nand B-cells, activated T-cells and NK cells}}</div><div><br></div><div>How does the antigen get in to the cell for B-cells vs Macrophages?</div><div><br></div><div>How does class I MHC differ?</div>",
+                                "<img src=\"paste-e005cb69526246a7b387c093068bda589611dfdb.jpg\"><div>If the Prince was a T cell…\nTCR would be the glass slipper\nCinderella would be the antigen presenting cell\nHer foot would be the MHC + peptide antigen<br></div><div><img src=\"paste-07257bb99c0fd9b79b88473c24640d9c4dff6e37.jpg\"><br></div><div><img src=\"paste-832e9d1c8f4ea4ccc72ef285af60999d4c63f73f.jpg\"><br></div><div><img src=\"paste-6fcd6d9fb818094207a1deac95f0b192667227d9.jpg\"><br></div>"
+                            ],
+                            "guid": "J^t){e7Vth",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        }
+                    ]
                 }
             ],
             "crowdanki_uuid": "e848dad6-7dce-11eb-a5b6-a0b2d6ecb02c",
@@ -4626,7 +5029,13 @@
                     "extendNew": 0,
                     "extendRev": 0,
                     "media_files": [
+                        "paste-2ade8486561f09d5fba2e8968319497d8d68faa2.jpg",
                         "paste-68d1fb78a7a9439c205e1aa56f9443f1b41d71da.jpg",
+                        "paste-85b8b6a9c6e0d99223d8932b6b5acc149df7d943.jpg",
+                        "paste-9b091a1ec5a4193820f54b0dc84f476a7918ecac.jpg",
+                        "paste-acca74f8ff474001496df010794d286e0df7587a.jpg",
+                        "paste-c432f4d7177d7892433109c56295503bbf7d49cd.jpg",
+                        "paste-d6f3a3d4df23bdba92130f8bf3173a80ca0dd1c8.jpg",
                         "paste-e1a190286ba3ce119bba31b69985a1e7dfdadc2a.jpg"
                     ],
                     "name": "03/18 GRANULOMATOUS LUNG DISEASES",
@@ -4664,10 +5073,20 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<b style=\"\">Sarcoidosis</b><div>is\na disease due to inflammation. It can appear in almost any body organ, but most\noften starts in the <b>lungs</b> or <b>lymph nodes</b>.&nbsp;<span style=\"color: rgb(183, 231, 255);\"><b><br></b></span></div><div><br></div><div><div>§{{c1::70}}%\ncomplete remission</div>\n<div>§{{c1::20}}%\nloss of lung function</div>\n<div>§{{c1::10}}%\nmay die of cardiac or CNS involvement&nbsp;</div></div>",
-                                ""
+                                "<b style=\"\">Sarcoidosis</b><div>is\na disease due to inflammation. It can appear in almost any body organ, but most\noften starts in the <b>lungs</b> or <b>lymph nodes</b>.&nbsp;<span style=\"color: rgb(183, 231, 255);\"><b><br></b></span></div><div><br></div><div><div>§Asymptomatic\n. Unexpected finding on routine chest film as {{c1::hilar lymphadenopathy.}}</div>\n<div>§Cough, chest pain, haemoptysis</div>\n<div>§Fever, weight loss and night sweats</div></div><div><br></div><div>With steroid therapy</div><div><div>§{{c1::70}}%\ncomplete remission</div>\n<div>§{{c1::20}}%\nloss of lung function</div>\n<div>§{{c1::10}}%\nmay die of cardiac or CNS involvement&nbsp;</div></div>",
+                                "<span style=\"color: rgb(77, 81, 86);\">Bilateral hilar lymphadenopathy is a bilateral enlargement of the lymph nodes of pulmonary hila. It is a radiographic term for the enlargement of mediastinal lymph nodes and is most commonly identified by a chest x-ray</span>"
                             ],
                             "guid": "H{=>v#=xEt",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>What's visible in these pictures?</div><div><img src=\"paste-acca74f8ff474001496df010794d286e0df7587a.jpg\"><br></div><div><img src=\"paste-9b091a1ec5a4193820f54b0dc84f476a7918ecac.jpg\"><br></div><div><div>{{c1::<b>Ghon's complex</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;is a lesion seen in the lung that is caused by tuberculosis. The lesions consist of a&nbsp;</span><b>Ghon</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;focus along with pulmonary lymphadenopathy within a nearby pulmonary lymph node.</span>}}<br></div></div><div><br></div><div>What type of cell is this?</div><img src=\"paste-2ade8486561f09d5fba2e8968319497d8d68faa2.jpg\"><div>{{c1::<div><b>Langhans&nbsp;<a href=\"https://en.wikipedia.org/wiki/Giant_cell\">giant cells</a></b>&nbsp;are large cells found in&nbsp;<a href=\"https://en.wikipedia.org/wiki/Granulomatous\">granulomatous</a>&nbsp;conditions.</div><div>They are formed by the fusion of&nbsp;<a href=\"https://en.wikipedia.org/wiki/Epithelioid_cell\">epithelioid cells</a>&nbsp;(<a href=\"https://en.wikipedia.org/wiki/Macrophage\">macrophages</a>), and contain&nbsp;<a href=\"https://en.wikipedia.org/wiki/Cell_nucleus\">nuclei</a>&nbsp;arranged in a horseshoe-shaped pattern in the cell periphery.</div>}}<br></div><div><br></div><div>Which is miliary TB or secondary TB?</div><div><img src=\"paste-d6f3a3d4df23bdba92130f8bf3173a80ca0dd1c8.jpg\"><br></div><div>{{c1::secondary TB}}</div><div><br></div><div><img src=\"paste-c432f4d7177d7892433109c56295503bbf7d49cd.jpg\"><br></div><div>{{c1::miliary TB}}<br></div><div><br></div><div><img src=\"paste-85b8b6a9c6e0d99223d8932b6b5acc149df7d943.jpg\"><br></div><div>{{c1::secondary TB}}<br></div>",
+                                ""
+                            ],
+                            "guid": "FTX[bQ*_5q",
                             "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
                             "tags": []
                         }
@@ -4861,7 +5280,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<div>Which of the following signs can occur in pneumonia? (3 out of 6 are correct)<br></div><div><br></div>Reduced chest expansion<div>Increased chest expansion</div><div>Reduced vocal resonance</div><div>Increased vocal resonance</div><div>Bronchial breathing</div><div>Wheeze</div><div><br></div><div>{{c1::</div><div>Correct:<br><div>Reduced chest expansion<br></div><div><div>Increased vocal resonance</div><div>Bronchial breathing</div></div>}}<br></div><div><br></div><div>Signs of pneumonia</div><div>Increase/decreased?</div><div>temp {{c1::I Fever}}</div><div>HR {{c1::I Tachycardia}}</div><div>RR {{c1::I Tachypnoea}}</div><div>BP {{c1::D hypotension}}</div><div>Chest {{c1::Expansion D&nbsp;}}</div><div>tactile vocal fremitus and vocal resonance&nbsp; {{c1::I}}<br></div><div><div>Alveolar breathing {{c1::made up}}</div></div><div>Bronchial breathing {{c1::I}}<br></div><div>and possible signs of a pleural effusion<br></div><div><br></div><div>what is tactile vocal fremitus?</div><div>{{c1::<b>Tactile fremitus</b><span style=\"color: rgb(32, 33, 36);\">, also known as&nbsp;</span><b>tactile vocal fremitus</b><span style=\"color: rgb(32, 33, 36);\">, refers to the vibration of the chest wall that results from sound vibrations created by speech or other&nbsp;</span><b>vocal</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;sounds. When a person speaks, airflow from the lungs causes the&nbsp;</span><b>vocal</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;cords in the larynx to vibrate.</span>}}<br></div><div><br></div><div><br></div><div>What is\n<b>consolidation</b>?<br></div><div>{{c1::<div>Exudative solidification of the lung\ntissue<br></div><div></div>}}<br></div><div><br></div><div>How does this relate to the physical\nfindings on examination of the patient?</div><div>{{c1::<br></div><div><div>Increased transmission of sounds\nfrom <font color=\"#ff0000\">upper</font> airways&nbsp;</div><div>¢ Increased tactile vocal fremitus and\nvocal resonance&nbsp;</div><div>¢ <font color=\"#ff0000\">Bronchial</font> breathing&nbsp;</div><div>¢ Crackles</div>}}<br></div><div><br></div><div>What is an Air bronchogram?<br></div><div>{{c1::<b>Air bronchogram</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;refers to the phenomenon of&nbsp;</span><b>air</b><span style=\"color: rgb(32, 33, 36);\">-filled bronchi (dark) being made visible by the opacification of surrounding alveoli (grey/white). It is almost always caused by a pathologic airspace/alveolar process, in which something other than&nbsp;</span><b>air</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;fills the alveoli.</span>}}<br></div><div><br></div><div>Note observations of this x-ray&nbsp; (which lobe affected, which thoracic zone)</div><div><img src=\"paste-2b291c9cf52acf7c34df3f3b17dc1fd2ba409180.jpg\"><br></div>",
+                                "<div>Which of the following signs can occur in pneumonia? (3 out of 6 are correct)<br></div><div><br></div>Reduced chest expansion<div>Increased chest expansion</div><div>Reduced vocal resonance</div><div>Increased vocal resonance</div><div>Bronchial breathing</div><div>Wheeze</div><div><br></div><div>{{c1::</div><div>Correct:<br><div>Reduced chest expansion<br></div><div><div>Increased vocal resonance</div><div>Bronchial breathing</div></div>}}<br></div><div><br></div><div>Signs of pneumonia</div><div>Increase/decreased?</div><div>temp {{c1::I Fever}}</div><div>HR {{c1::I Tachycardia}}</div><div>RR {{c1::I Tachypnoea}}</div><div>BP {{c1::D hypotension}}</div><div>Chest Expansion {{c1:: D&nbsp;}}</div><div>tactile vocal fremitus and vocal resonance&nbsp; {{c1::I}}<br></div><div><div>Alveolar breathing {{c1::made up}}</div></div><div>Bronchial breathing {{c1::I}}<br></div><div>and possible signs of a pleural effusion<br></div><div><br></div><div>what is tactile vocal fremitus?</div><div>{{c1::<b>Tactile fremitus</b><span style=\"color: rgb(32, 33, 36);\">, also known as&nbsp;</span><b>tactile vocal fremitus</b><span style=\"color: rgb(32, 33, 36);\">, refers to the vibration of the chest wall that results from sound vibrations created by speech or other&nbsp;</span><b>vocal</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;sounds. When a person speaks, airflow from the lungs causes the&nbsp;</span><b>vocal</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;cords in the larynx to vibrate.</span>}}<br></div><div><br></div><div><br></div><div>What is\n<b>consolidation</b>?<br></div><div>{{c1::<div>Exudative solidification of the lung\ntissue<br></div><div></div>}}<br></div><div><br></div><div>How does this relate to the physical\nfindings on examination of the patient?</div><div>{{c1::<br></div><div><div>Increased transmission of sounds\nfrom <font color=\"#ff0000\">upper</font> airways&nbsp;</div><div>¢ Increased tactile vocal fremitus and\nvocal resonance&nbsp;</div><div>¢ <font color=\"#ff0000\">Bronchial</font> breathing&nbsp;</div><div>¢ Crackles</div>}}<br></div><div><br></div><div>What is an Air bronchogram?<br></div><div>{{c1::<b>Air bronchogram</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;refers to the phenomenon of&nbsp;</span><b>air</b><span style=\"color: rgb(32, 33, 36);\">-filled bronchi (dark) being made visible by the opacification of surrounding alveoli (grey/white). It is almost always caused by a pathologic airspace/alveolar process, in which something other than&nbsp;</span><b>air</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;fills the alveoli.</span>}}<br></div><div><br></div><div>Note observations of this x-ray&nbsp; (which lobe affected, which thoracic zone)</div><div><img src=\"paste-2b291c9cf52acf7c34df3f3b17dc1fd2ba409180.jpg\"><br></div>",
                                 "<img src=\"paste-df43ef9cbb7a911b21a65ad5b55aba95bdcad84d.jpg\"><div>white=consolidation</div><div><br></div><div><div><img src=\"paste-2c7cba12679b65b9eb5bda3b3ee02143a902ee59.jpg\"><br></div></div><div><br></div><div><img src=\"paste-2b291c9cf52acf7c34df3f3b17dc1fd2ba409180.jpg\"><br></div><div>-Opacification in left lower zone&nbsp;</div><div>-Cannot see left diaphragm\nclearly — so Opacity is in left\nlower lobe<br></div><div>-Air bronchograms: can see the\nair-filled bronchi coursing\nthrough the density<br></div>"
                             ],
                             "guid": "uh-:b|MnR[",
@@ -4955,6 +5374,416 @@
                                 "<img src=\"paste-8474b9de33da91c3892a02b4d52a1e20b50f888b.jpg\"><div><div><img src=\"paste-b62018639e365d0c932b53261fac56051d467252.jpg\"><br></div><div>(a) Typical features of DAD&nbsp;</div><div>(b) type 2 alveolar cell hyperplasia&nbsp;</div><div>(c) Pheumocytes frequently appeared atypical, enlarged, and sometimes multinucleated&nbsp;</div><div>(d) Some pneumocytes had multinucleated syncytial features &amp; basophilic intracytoplasmic inclusions</div></div>"
                             ],
                             "guid": "ujSRi[f*#.",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "0b99a0e0-948a-11eb-b77d-92bb668014f1",
+                    "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "2743f3133ab747dc817bc8d9960789b1-ao-1-A.svg",
+                        "2743f3133ab747dc817bc8d9960789b1-ao-1-Q.svg",
+                        "2743f3133ab747dc817bc8d9960789b1-ao-2-A.svg",
+                        "2743f3133ab747dc817bc8d9960789b1-ao-2-Q.svg",
+                        "2743f3133ab747dc817bc8d9960789b1-ao-3-A.svg",
+                        "2743f3133ab747dc817bc8d9960789b1-ao-3-Q.svg",
+                        "2743f3133ab747dc817bc8d9960789b1-ao-4-A.svg",
+                        "2743f3133ab747dc817bc8d9960789b1-ao-4-Q.svg",
+                        "2743f3133ab747dc817bc8d9960789b1-ao-5-A.svg",
+                        "2743f3133ab747dc817bc8d9960789b1-ao-5-Q.svg",
+                        "2743f3133ab747dc817bc8d9960789b1-ao-O.svg",
+                        "paste-3082e57dbb7c17a066b93e642ccf731567376623.jpg",
+                        "paste-392779ee63dd5628f05cf390007284c5383016b6.jpg",
+                        "paste-5c877e87634badba486dac1d234baf412e889b2e.jpg",
+                        "paste-612decae398c9ad09373a7d9302e46ea0f8a96ed.jpg",
+                        "paste-62d32f3ccda420fe6d40b1346db9b598fe799adb.jpg",
+                        "paste-72d151d3be78df220b0267fff493dfcd1a960d2a.jpg",
+                        "paste-7ce4cd8aca1c6b92dc7b3549f3a081dc4d89bac0.jpg",
+                        "paste-91390e9623dd80dedfc2006c45db904803d1387a.jpg",
+                        "paste-98b5397eeee9bda376d6dc4ee194dc38f5f37119.jpg",
+                        "paste-9f161bbc8005030ebbc26884c5abe5918d0ba4fb.jpg",
+                        "paste-a8e098697875a39a70ca270efb7e716add38b25d.jpg",
+                        "paste-afe16b5cbe45999675db8def1a84dc54b39fe549.jpg",
+                        "paste-bad5b3c3f22bfb6edfc782d1217b8f6d7f8f0517.jpg",
+                        "paste-e5240c7d68c3dfcb715c8f805b4c8045053d2fce.jpg",
+                        "paste-f04a4adce5efd711c0070f1275f88b6e4af6bce6.jpg",
+                        "paste-f1106cfb50adc1af4839c11fe3007c9c6fec5e4c.jpg",
+                        "paste-f8dfb49c2eb7cdc65c3e909f3b724ec5a7f7f839.jpg",
+                        "paste-f95343c4006adc4a45a9d1d57d016d8871602485.jpg",
+                        "paste-fdc69b28fd94c510a83051b7c3fec7fd177f9683.jpg",
+                        "tmp4cw3_n2z.png"
+                    ],
+                    "name": "03/27 Asthma and Allergic Disorders",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Asthma<br></b></div><div>•Complex\nInflammatory Process</div>\n<div>•Multiple\ninflammatory cells, Name 4</div>\n<div>{{c1::<div>–Eosinophils</div>\n<div>–Neutrophils</div>\n<div>–CD4 T Cells</div>\n<div>–Mast cells</div>}}<br></div>\n<div>•&gt;\n100 inflammatory mediators and gene products</div><div><br></div><div><div>•<font color=\"#ff0000\">Large</font> airway inflammation</div>\n<div>–Predominantly {{c1::submucosal}}</div>\n<div>•<font color=\"#ff0000\">Small</font> airway inflammation</div>\n<div>–Predominantly outside {{c1::airway smooth}}\nmuscle</div></div><div><br></div><div>What ILs are produced by; eosinophil, basophil, mast cell?</div><div>What IL do Treg cells produce?</div><div>What ILs are produced by Th17?</div><div>Compare the inflammation of Type 2 and non-type 2 asthma?</div>",
+                                "<img src=\"paste-e5240c7d68c3dfcb715c8f805b4c8045053d2fce.jpg\"><div><img src=\"paste-f95343c4006adc4a45a9d1d57d016d8871602485.jpg\"><br></div><div><img src=\"paste-fdc69b28fd94c510a83051b7c3fec7fd177f9683.jpg\"><br></div><div><img src=\"paste-91390e9623dd80dedfc2006c45db904803d1387a.jpg\"><br></div><div><img src=\"paste-392779ee63dd5628f05cf390007284c5383016b6.jpg\"><br></div>"
+                            ],
+                            "guid": "oUiGaD-k24",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "2743f3133ab747dc817bc8d9960789b1-ao-1",
+                                "",
+                                "<img src=\"tmp4cw3_n2z.png\" />",
+                                "<img src=\"2743f3133ab747dc817bc8d9960789b1-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"2743f3133ab747dc817bc8d9960789b1-ao-1-A.svg\" />",
+                                "<img src=\"2743f3133ab747dc817bc8d9960789b1-ao-O.svg\" />"
+                            ],
+                            "guid": "tE;>kPl+Zr",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "2743f3133ab747dc817bc8d9960789b1-ao-2",
+                                "",
+                                "<img src=\"tmp4cw3_n2z.png\" />",
+                                "<img src=\"2743f3133ab747dc817bc8d9960789b1-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"2743f3133ab747dc817bc8d9960789b1-ao-2-A.svg\" />",
+                                "<img src=\"2743f3133ab747dc817bc8d9960789b1-ao-O.svg\" />"
+                            ],
+                            "guid": "Gt8=gSS_go",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "2743f3133ab747dc817bc8d9960789b1-ao-3",
+                                "",
+                                "<img src=\"tmp4cw3_n2z.png\" />",
+                                "<img src=\"2743f3133ab747dc817bc8d9960789b1-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"2743f3133ab747dc817bc8d9960789b1-ao-3-A.svg\" />",
+                                "<img src=\"2743f3133ab747dc817bc8d9960789b1-ao-O.svg\" />"
+                            ],
+                            "guid": "fkphIW/tsE",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "2743f3133ab747dc817bc8d9960789b1-ao-4",
+                                "",
+                                "<img src=\"tmp4cw3_n2z.png\" />",
+                                "<img src=\"2743f3133ab747dc817bc8d9960789b1-ao-4-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"2743f3133ab747dc817bc8d9960789b1-ao-4-A.svg\" />",
+                                "<img src=\"2743f3133ab747dc817bc8d9960789b1-ao-O.svg\" />"
+                            ],
+                            "guid": "gZnX}Bmj-D",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "2743f3133ab747dc817bc8d9960789b1-ao-5",
+                                "",
+                                "<img src=\"tmp4cw3_n2z.png\" />",
+                                "<img src=\"2743f3133ab747dc817bc8d9960789b1-ao-5-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"2743f3133ab747dc817bc8d9960789b1-ao-5-A.svg\" />",
+                                "<img src=\"2743f3133ab747dc817bc8d9960789b1-ao-O.svg\" />"
+                            ],
+                            "guid": "BMn5X6fk8+",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Airway\nRemodelling after persistent inflammation, T/F?</b><div><div>•Epithelial Changes {{c1::T}}<br></div>\n<div>•Goblet cell hypertrophy {{c1::F hyperplasia}}</div>\n<div>•Ischemia {{c1::F Angiogenesis}}</div>\n<div>•Fibroblast accumulation {{c1::T}}</div>\n<div>•Reticular basement membrane thickening {{c1::T}}</div></div><div><br></div><div>Name these</div><div><img src=\"paste-3082e57dbb7c17a066b93e642ccf731567376623.jpg\"><br></div><div><img src=\"paste-72d151d3be78df220b0267fff493dfcd1a960d2a.jpg\"><br></div>",
+                                "<img src=\"paste-62d32f3ccda420fe6d40b1346db9b598fe799adb.jpg\">"
+                            ],
+                            "guid": "y4H0MnT-Yg",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Th2\nhigh phenotype</b><div><div><span style=\"font-weight: bold;\"><u>Early onset allergic</u></span></div></div><div><div>•Early onset, mild to severe</div>\n<div>•Allergic symptoms and other diseases</div>\n<div>•Thick {{c1::subepithelial}} basement membrane,\nspecific IgE, Th2 <font color=\"#ff0000\">cytokines</font></div>\n<div>•{{c1::Steroid}} responsive, <font color=\"#ff0000\">Th2 targeted</font></div></div><div><font color=\"#ff0000\"><br></font></div><div><div><span style=\"font-weight: bold;\"><u>Late onset eosinophilic</u></span></div></div><div><div>•<font color=\"#ff0000\">Adult</font> onset, often severe</div>\n<div></div>\n<div>•<font color=\"#ff0000\">Sinusitis</font>, less allergic</div>\n<div>•{{c1::Steroid}} refractory, {{c1::eosin}}ophilia,\ninterleukin {{c1::5}}</div>\n<div></div>\n<div>•Responsive to antibody to IL{{c1::5}} and\n{{c1::cysteinyl leukotriene}} modifiers, Steroid refractory</div></div><div><br></div><div><b>Th2\nlow phenotype<br></b></div><div><div><span style=\"font-weight: bold;\"><u>Neutrophilic</u></span></div></div><div><div>•<font color=\"#ff0000\">Adult</font> onset</div>\n<div>•Low {{c1::FEV1}}, more air trapping</div>\n<div>•Sputum neutrophilia, Th{{c1::17}} pathways, IL-{{c1::8}}</div>\n<div>•Possibly responds to <font color=\"#ff0000\">macrolide</font>\n{{c1::antibiotics}}</div></div>",
+                                ""
+                            ],
+                            "guid": "n0ogIUpI<i",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>IgE and asthma</b><div><div>•{{c1::Fc}} part of IgE binds to IgE receptor</div>\n<div>–High affinity FceR{{c1::I}}</div>\n<div>–Low affinity FceR{{c1::II}}</div>\n<div>•IgE\nmediated cascade is biphasic </div>\n<div>–Early (&lt; {{c1::1}} hours) &amp; Late\n({{c1::4-24}} hours)</div>\n<div>•Via FceRI\nand FceRII</div></div><div><br></div><div><div>•Early : <font color=\"#ff0000\">Mast cel</font>l {{c1::degranulation}}</div>\n<div>•Late: less well understood</div>\n<div>–<font color=\"#ff0000\">Eosinophils</font> play role</div>\n<div>•Cytoplasmic granules </div>\n<div>•{{c1::Cytokine}} release</div>\n<div>•Synthesis and release of {{c1::lipid}}\n<font color=\"#ff0000\">mediators</font></div></div><div><font color=\"#ff0000\"><br></font></div><div><div>•Role\nof FceRII\nnot well understood</div>\n<div>–Expressed on <font color=\"#ff0000\">asthmatic airway smooth\nmuscle</font></div>\n<div>•FceRI\nrole in <font color=\"#ff0000\">IgE mediated allergen</font> presentation on APC\n(dendritic cells)</div>\n<div>•Allergen\npresentation to {{c1::T}} cells enhanced by IgE-FceRI\ncomplexes</div>\n<div>•Th{{c1::2}}\ncell mediated response</div></div>",
+                                "e=epislon<div>APC=antigen presenting cells</div>"
+                            ],
+                            "guid": "P]KjtA*u;a",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Omalizumab</b><div><div>•95%\nhumanised monoclonal Ab</div>\n<div>•Binds\nto Fc portion of IgE</div>\n<div>•Formation\nof soluble immune complexes – cleared by RE system</div>\n<div>•Same\nbinding site that <font color=\"#ff0000\">IgE</font> uses to attach to <font color=\"#ff0000\">FceRI</font> </div>\n<div>•Cannot\ncross-link cell surface expressed IgE</div>\n<div>• {{c1::de}}crease Free IgE available </div>\n<div>•Cell\nbound IgE {{c1::de}}creased</div></div><div><div>•{{c1::de}}creased&nbsp;FceRI\non <font color=\"#ff0000\">mast cells, basophils, eosinophils DC</font></div>\n<div>•{{c1::de}}creased Airway <font color=\"#ff0000\">eosinophils, mast cells,\nbasophils, T and B cells</font></div>\n<div>•Inconsistent effects on airway\nhyperresponsiveness</div></div>",
+                                "RE=&nbsp;<span style=\"color: rgb(32, 33, 36);\">reticuloendothelial&nbsp;</span><b>system</b><div><img src=\"paste-612decae398c9ad09373a7d9302e46ea0f8a96ed.jpg\"><b><br></b></div>"
+                            ],
+                            "guid": "xc4X,69)Jx",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Mepolizumab</b><div>Targets IL-{{c1::5}}</div><div>Name 3 cells that are directly affected {{c1::th2, tc2, mast and eosinophils}}<br><div><div>•Reduces sputum and blood eosinophils</div>\n<div>•Reduces asthma exacerbations</div>\n<div>–If eosinophil count &gt;{{c1::0.15}} : 52%\nreduction</div>\n<div>–If eosinophil count &gt;{{c1::0.50}}: 70%\nreduction</div></div><div><br></div></div>",
+                                "<img src=\"paste-bad5b3c3f22bfb6edfc782d1217b8f6d7f8f0517.jpg\">"
+                            ],
+                            "guid": "bi-(Y3@:Jw",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Dupilumab</b><div><div>•Anti-IL{{c1::4}} <font color=\"#ff0000\">receptor alpha antibody</font></div>\n<div>•Blocks signalling of IL{{c1::4}} and IL{{c1::13}}</div>\n<div>•Effective in treatment of</div>\n<div>–Asthma</div>\n<div>–Atopic dermatitis</div>\n<div>–<font color=\"#ff0000\">Rhinosinusitis with nasal polyps</font></div></div><div><div>•Fewer exacerbations</div>\n<div>•Improvements in Quality of Life</div>\n<div>•Improved <font color=\"#ff0000\">FEV1</font></div>\n<div>•Reduced {{c1::steroid}} use</div>\n<div>•Most improvement seen in patients with\nevidence of T2 biomarkers</div>\n<div>•Reduced steroid use and nasal polyp\nsurgery in Chronic Rhinosinusitis with nasal polyps</div></div><div><br></div><div>Name the cells it directly affects 3/6</div>",
+                                "<img src=\"paste-f1106cfb50adc1af4839c11fe3007c9c6fec5e4c.jpg\"><div><div>Potential\nsites of action of Dupilumab in inhibiting allergic inflammation. Dupilumab can\nact to inhibit TH2 cell differentiation, the transformation of Treg cells into\nex‐Treg cells in the context of allergic inflammation, and IgE\nproduction by B cells, driven by T follicular helper (TFH)‐ derived IL‐4. It\ncan also prevent IL‐4‐related vascular endothelium dysfunction. Furthermore, it\ncan inhibit ILC2 induction via eosinophils and basophils</div></div>"
+                            ],
+                            "guid": "A[/#?Lo>sw",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Aspirin-exacerbated\nrespiratory disease (AERD)</b><div><div>•Prevalence\nin asthmatics</div>\n<div>–2-11% in surveys</div>\n<div>–21% using aspirin challenge</div>\n<div>•Older\nonset</div>\n<div>–15-40 (average 29-34)</div>\n<div>•Presents</div>\n<div>–In established <font color=\"#ff0000\">allergic rhinitis /asthma</font></div>\n<div>–<font color=\"#ff0000\">de novo</font></div></div><div><div>•Presentation</div>\n<div>–<font color=\"#ff0000\">Nasal</font> congestion</div>\n<div>–Hyposmia /anosmia</div>\n<div>–Chronic rhinitis progresses to:</div>\n<div>–{{c1::Chronic Hyperplastic Eosinophilic Sinusits}}&nbsp;(CHES)&nbsp; with <font color=\"#ff0000\">nasal polyposis</font></div></div><div><br></div><div><b>Pathogenesis\nof AERD<br></b></div><div><div>•­{{c1::In}}creased eosinophils and mast cells compared with asthma</div>\n<div>•Activation\nof <font color=\"#ff0000\">eosinophils</font> and mast <font color=\"#ff0000\">cells</font></div>\n<div>•­ {{c1::In}}creased proinflamatory cytokines from epithelial and {{c1::Th2}} cells</div>\n<div>–IL-{{c1::3}}, IL-{{c1::4}}, IL-{{c1::5}}, IL-{{c1::13}}, GM-CSF, eotaxin</div>\n<div>•<font color=\"#ff0000\">LTB4 LTC4\nLTD4\nLTE4\n</font>production (leukotriene)</div>\n<div>•­ Increased {{c1::cysLT1}}&nbsp;receptors</div>\n<div>• {{c1::De}}creased Lipoxins, what are they ?{{c1::(anti-inflammatory antagonists of LTs)}}</div></div><div><div>•­ {{c1::In}}creased <font color=\"#ff0000\">PGD2</font> synthesis\nand secretion</div>\n<div>–Vasodilation</div>\n<div>–Bronchoconstriction</div>\n<div>•Under synthesis of <font color=\"#ff0000\">PGE2</font> or its EP2 or EP3\nreceptors</div>\n<div>– Decreased&nbsp;ability to block LT synthesis or stabilise {{c1::mast}} cells</div></div><div><br></div><div>Give 1 solution for this (aspirin allergy).</div>",
+                                "<img src=\"paste-a8e098697875a39a70ca270efb7e716add38b25d.jpg\"><div><img src=\"paste-98b5397eeee9bda376d6dc4ee194dc38f5f37119.jpg\"><br></div><div>Paradoxically give them aspirin 300mg daily dose so they get used to it</div><div><br></div><div><br></div><div><div>Summary: In eisosanoid\nfamily</div>\n<div></div>\n<div>1.Overstimulation of Inflammation</div>\n<div>2.Underproduction of countermeasures</div></div>"
+                            ],
+                            "guid": "N^,rt9FCS#",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Allergy:\nClinical Features<br></b></div><div>•Angioedema</div>\n<div>–Throat swelling / Constriction of throat</div>\n<div>–Difficulty swallowing</div>\n<div>–Difficulty speaking</div>\n<div>–Tongue swelling</div>\n<div>•Urticaria- rash</div>\n<div>•Asthma</div>\n<div>–Wheeze, SOB, Chest tightness</div>\n<div>•{{c1::Rhinoconjunctiv}}itis</div>\n<div>•Vomiting</div>\n<div>•Collapse\n/ Hypotension</div><div><br></div><div>For drug allergy which is</div><div>IgE mediated and Not&nbsp;IgE&nbsp;mediated&nbsp;:&nbsp;</div><div><br></div><div>-penicillins, general anaesthetics, latex</div>\n<div>–Aspirin / NSAIDS / Opiates</div><div><br></div><div>\n<div>{{c1::<div>–IgE mediated : penicillins, general anaesthetics, latex</div>\nNot IgE mediated : Aspirin / NSAIDS / Opiates}}<br></div></div>",
+                                ""
+                            ],
+                            "guid": "Ad%$c-P~A`",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Causes\nof Angioedema<br></b></div><div>•Drugs\n</div>\n<div>–<font color=\"#ff0000\">ACE inhibitors</font></div>\n<div>–<font color=\"#ff0000\">Aspirin / NSAIDS / Radiocontrast</font></div>\n<div>•Allergic\n- IgE mediated</div>\n<div>•<font color=\"#ff0000\">C1\nesterase</font> inhibitor deficiency</div>\n<div>–Low {{c1::C4}} (complement)</div>\n<div>•Idiopathic</div>\n<div>•In\nassociation with Urticaria</div>\n<div>–Autoimmune (e.g. SLE)&nbsp;&nbsp;</div><div><br></div><div><b>Causes\nof Urticaria</b><br></div><div><div>•Acute\n: </div>\n<div>–{{c1::IgE}} mediated /Allergic</div>\n<div>–Scombroid fish poisoning</div>\n<div>–Infection (viral)</div>\n<div>–Idiopathic</div>\n<div>•Chronic\n/ Recurrent</div>\n<div>–{{c1::Rarely IgE}}&nbsp;mediated </div>\n<div>–Physical Urticarias</div>\n<div>•Dermatographism, Cold, Sunlight, Exercise, Acquagenic</div>\n<div>–Idiopathic (? Autoimmune)</div>\n<div>–Thyroid disease</div>\n<div>–Urticarial vasculitis: </div>\n<div>•residual pigmentation/bruising;\npersisting lesions; </div>\n<div>–Occasionally part of connective tissue\ndisease</div></div><div><br></div><div><b>Investigations</b><br></div><div><div>•Acute\nUrticaria / Angioedema / Anaphylaxis</div>\n<div>–Specific {{c1::IgE}} </div>\n<div>–Only request if there is a <span style=\"font-weight: bold;\">history</span> of <font color=\"#ff0000\">immediate preceding allergen\ntrigger</font></div>\n<div>–NOT a screening test</div>\n<div>–Must specify allergen. </div>\n<div>•RAST Inappropriate, why? {{c1::might be technically allergic but not actually}}</div>\n<div>•RAST to common allergens Inappropriate</div>\n<div>–Avoid Multiple Requests</div>\n<div>–Specific IgE not available for contact dermatitis\n(Patch testing appropriate)</div>\n<div>–Total IgE not helpful – it is only useful as an\nadjunct to interpreting specific IgE</div></div>",
+                                ""
+                            ],
+                            "guid": "P2XzRxBM~&",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Serum\nTryptase</b><div><div><div>•134\nkD Tetrameric <font color=\"#ff0000\">serine protease</font> present\npredominantly in {{c1::mast}} cells.</div>\n<div>–a Tryptase {{c1::proform}}</div>\n<div>–b Tryptase {{c1::activated form and\nconcentrated in <font color=\"#ff0000\">secretory granules</font>}}</div>\n<div>•Significant\nquantities of b\nTryptase released\ninto circulation with peak 15 mins-2 hours post anaphylaxis</div>\n<div>•Assay\nmeasures total tryptase (a+b)</div>\n<div>•Specific\nfor <font color=\"#ff0000\">Mast Cell</font> {{c1::degranulation}}</div>\n<div>•Does\n<font color=\"#ff0000\">not</font> distinguish between IgE mediated and non IgE\nmediated / direct mast cell degranulation</div></div><div><br></div><div>•Timing\nof Sample Important</div>\n<div>–Time after reaction: {{c1::15}} minutes</div>\n<div>–Time 2 ({{c1::1-3}}) hours (Peak)</div>\n<div>•Declines slowly over {{c1::3-6}} hours</div>\n<div>–Time 24 hours (baseline)</div>\n<div>•Biological\nhalf life {{c1::2}} hours</div>\n<div>•Baseline\nsample to exclude {{c1::<font color=\"#ff0000\">Mastocytosis</font>}}</div>\n<div>–Persistently elevated levels of <font color=\"#ff0000\">tryptase proforms</font></div></div>",
+                                ""
+                            ],
+                            "guid": "jiUlp^#S~T",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>ImmunoCAP <font color=\"#ff0000\">250</font>&nbsp;</b><div><div>•High throughput ({{c1::250}} tests/day (7hrs))</div></div><div><br></div><div><b>Assay</b></div><div><div>•{{c1::Solid}} phase (state ofmatter)</div>\n<div>•Extract mixture absorbed onto\n{{c1::nitrocellulose}} polymer sponge </div>\n<div>•Maximum&nbsp;surface area, <font color=\"#ff0000\">allows</font> for excess of antigen</div>\n<div>•<font color=\"#ff0000\">CAP</font> is the reaction well</div>\n<div>•End-point {{c1::fluorenzyme}} immuno assay</div></div><div><br></div><div><b>Test\nPrinciple</b><br></div><div><div>•Allergen is <font color=\"#ff0000\">bound</font> to the ImmunoCAP</div>\n<div>•Add patient serum</div>\n<div>•Patient <font color=\"#ff0000\">sIgE</font> binds to bound allergen&nbsp;</div></div><div><div>•Wash Step removes any {{c1::non-bound}} sIgE</div>\n<div><br></div>\n<div>•<font color=\"#ff0000\">Enzyme</font>-labelled <font color=\"#ff0000\">anti-human IgE\nantibodies</font> are added.</div>\n<div>•Incubation step</div>\n<div>•Complex formed&nbsp;</div></div><div><br></div><div><div>•Wash step – removes any unbound enzyme\nlabelled {{c1::anti-IgE}}</div>\n<div>•Developing reagent added – <font color=\"#ff0000\">substrate</font> for\nthe enzyme.</div>\n<div>•Incubation step</div></div><div><br></div><div><div>•Stop solution is added </div>\n<div></div>\n<div>•The fluorescence of the eluate is\nmeasured.&nbsp;</div></div><div>{{c1::<div><img src=\"paste-7ce4cd8aca1c6b92dc7b3549f3a081dc4d89bac0.jpg\"><br></div><div><img src=\"paste-afe16b5cbe45999675db8def1a84dc54b39fe549.jpg\"><br></div><div><img src=\"paste-f04a4adce5efd711c0070f1275f88b6e4af6bce6.jpg\"></div>}}<br></div><div><br></div><div><div><font color=\"#808080\">-</font>The greater\nthe\nfluorescence, the more specific IgE is\npresent in the sample i.e. Fluorescence directly proportional to level of {{c1::sIgE}}.</div>\n<div></div>\n<div><font color=\"#808080\">-</font>Create\ncalibration curve to determine patient results.</div></div><div><br></div><div>Name allergen code for drugs, occupational and animal skin.</div><div>{{c1::<div>•f - foods</div>\n<div>•d - dust mites </div>\n<div>•g - grasses </div>\n<div><font color=\"#ff0000\">•e - animals epithelium </font></div>\n<div><font color=\"#ff0000\">•k - occupational </font></div>\n<div><font color=\"#ff0000\">•c - drugs </font></div>\n<div>•m - moulds </div>\n<div>•i\n- insects </div>\n<div>•t - tree pollens</div>\n<div>•w - weed pollens</div>}}<br></div>",
+                                "<div>•Random access, continuous flow analyser </div>\n<div>•Walk\naway, automated analyser </div>\n<div>•Automated\nbarcode reading of samples and carriers - positive identification to minimise\nerrors<br></div>\n<div>•By-directional\ninterface with laboratory information system (LIS)</div><div><img src=\"paste-f8dfb49c2eb7cdc65c3e909f3b724ec5a7f7f839.jpg\"><br></div>"
+                            ],
+                            "guid": "x[Hjq#RXTl",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>ImmunoCAP <font color=\"#ff0000\">ISAC</font></b><div><div>•Immuno\nSolid-phase Allergen Chip</div>\n<div>•Biochip technology Solid phase allergen\nchip</div>\n<div>•Up to {{c1::40}} allergen components per chip</div>\n<div>•{{c1::20}}μl serum required per chip</div>\n<div>•Only equipment needed – reader</div></div><div><br></div><div>Not being in galway + more expensive</div><div>{{c1::</div><div><img src=\"paste-5c877e87634badba486dac1d234baf412e889b2e.jpg\">}}</div>",
+                                ""
+                            ],
+                            "guid": "i|6_Z;s[l)",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Flow\nCytometry in Allergy Diagnosis</b><div><div><u><b><font color=\"#ff0000\">CD63</font></b></u></div>\n<div>–Anchored to {{c1::basophil}} granule\nmembrane</div>\n<div>–Also expressed by some activated\n{{c1::leucocytes}} and platelets</div>\n<div>–Exposure to outside of cell\nreflects {{c1::degranulation}}</div></div><div><br></div><div><div><b><u><font color=\"#ff0000\">CD203c</font></u></b></div>\n<div>–Surface antigen</div>\n<div>–On {{c1::bas}}ophils/{{c1::mast}} cells</div>\n<div>–{{c1::Up}}regulated after allergen specific\nstimulation</div></div><div><br></div><div><div>{{c1::Cd63}}\nis found on the <font color=\"#ff0000\">inner membrane</font> of basophils, upon activation the granules fuse\nwith the cell memebrane with\nexpression of {{c1::CD63}} on the surface.</div><div><br></div>\n<div>{{c1::Cd203c}}\nis expressed constitutively on the {{c1::surface}} of basophils, with increased\nexpression upon activation of {{c1::basophils}}.</div></div>",
+                                "<div><img src=\"paste-9f161bbc8005030ebbc26884c5abe5918d0ba4fb.jpg\"><br></div><div>•Basophil activation tests (BAT).</div>\n<div>•Upon activation increased expression of\ncell surface markers – CD63 and CD203c.</div>\n<div>•Problems</div>\n<div>–few circulating basophils, gating\nfor 10-15mins</div>\n<div>•Use in drug allergy, latex, bee venoms -\ndifficult to manufacture.&nbsp;</div>"
+                            ],
+                            "guid": "P.MrCG6%t1",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "0b9a8b4e-948a-11eb-9513-92bb668014f1",
+                    "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-09016e98e3431953666a325b3ab81a7c9690dd99.jpg",
+                        "paste-2e2a1574160594f93d87623f87c4e3fa896d1091.jpg",
+                        "paste-37bf03b96d1bab1e97ec71dd4139e28631f0fffc.jpg",
+                        "paste-46f06ccf8061cd8707b8bd41647f5fcb200c52e4.jpg",
+                        "paste-56cecd0a9a7193da2a565da7a7bcc0f11cdc1583.jpg",
+                        "paste-91708d842ac080cc9e9e5f845d571726a159ebba.jpg",
+                        "paste-9d23b4a8ca82ea8aca74ac0fc398f7c8c7c2f02d.jpg",
+                        "paste-bd2baffff289ede7cfb5f79c49e6d4827da87f0d.jpg",
+                        "paste-bda3993cb51e6ecc04cce64450f87071f7f57053.jpg",
+                        "paste-bfce643996f0f8c122ee0f7a91398c53ee7c2e94.jpg",
+                        "paste-c5d2817ddb77c2a20ef95f93936bf80d7532987e.jpg",
+                        "paste-c9e4813e2d6b56452f93ec717fecb50d88b21dcc.jpg",
+                        "paste-e2eed461413919f8667565090f6338f359c94e4b.jpg",
+                        "paste-e8098ec2eb7e2fa2831c522d7ed5061789eefedd.jpg"
+                    ],
+                    "name": "03/29 Disorders of cell growth",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Cellular Adaptations:&nbsp;</b><font color=\"#ff0000\">Reversible</font> changes in size, number,\nphenotype, metabolic activity, or functions of cells\nin response to change in their environment<div><br></div><div>Give 2 types.&nbsp;</div><div>{{c1::<div>1- <font color=\"#ff0000\">physiologic</font> (response to normal stimulation by\nhormones or endogenous chemical mediators)&nbsp;</div><div>2- <font color=\"#ff0000\">pathologic</font> (response to stresses to escape\ninjury)</div><div></div>}}<br></div><div><br></div><div>Give 4 forms&nbsp;{{c1::hypertrophy, hyperplasia, atrophy,\nmetaplasia}}</div>",
+                                "<img src=\"paste-56cecd0a9a7193da2a565da7a7bcc0f11cdc1583.jpg\">"
+                            ],
+                            "guid": "vff${[&6pz",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Hypertrophy</b><div>Give Definition</div><div>&nbsp;{{c1::increase in the size of cells &gt; increase in\nthe size of the organ (with increased functional\ncapacity) ie No new cells, just larger cells}}</div><div><br></div><div>Give 2&nbsp;physiologic causes.</div><div>{{c1::<div>-Increased functional\ndemand\nSkeletal muscles\nheart</div><div>-Specitic hormonal\nstimulation\nPregnant uterus\n(estrogen stimulates s.m.\nhypertrophy &amp; hyperplasia)</div>}}<br></div><div><br></div><div>Give 3&nbsp;pathologic types and causes.</div><div>{{c1::<div><font color=\"#ff0000\">Adaptive hypertrophy</font>\n(wall of hollow muscular\norgans)&nbsp;</div><div>-Stomach in case of pyloric\nobstruction&nbsp;</div><div>-Left ventricle in case of\naortic valve disease or\nhypertension&nbsp;</div><div>-Urinary bladder in case of\nurethral stricture<br></div><div><br></div><div><font color=\"#ff0000\">Compensatory hypertrophy</font>:\nIn paired organs as in kidney</div><div>-when one kidney is absent or\nremoved surgically, the other\nkidney is enlarged in size<br></div><div><br></div><div><font color=\"#ff0000\">Hormonal hypertrophy</font>:\neg: excessive growth hormone\nleads to gigantism or acromegaly</div>}}<br></div>",
+                                "<img src=\"paste-2e2a1574160594f93d87623f87c4e3fa896d1091.jpg\">"
+                            ],
+                            "guid": "wR+(zy1K5>",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Atrophy</b><div>Give Definition {{c1::<font color=\"#ff0000\">shrinkage</font> in the size of cell by loss of cell\n<font color=\"#ff0000\">substance</font>. When a sufficient number of cells involved,\nthe entire tissue/organ diminishes\n\nin size.}}<b><br></b></div><div><br></div><div>Give 3&nbsp;Physiological causes.</div><div>{{c1::<div>-Atrophy of thymus gland after puberty &amp;\n<font color=\"#ff0000\">thyroglossal</font> duct after birth (involution)&nbsp;</div><div>-Decreased workload “disuse”:\nimmobilized limb to permit healing of\nfracture&nbsp;</div><div>-Loss of<font color=\"#ff0000\"> hormone stimulation</font>: atrophy of\novaries &amp; uterus after menopause</div>}}<br></div><div><br></div><div>Give 2&nbsp;Pathological causes.</div><div>{{c1::<div>-Loss of innervation.&nbsp;</div><div>-Starvation (lack of\nfood &amp; its\nabsorption) &amp;\nmalnutrition.</div>}}<br></div>",
+                                "<img src=\"paste-c9e4813e2d6b56452f93ec717fecb50d88b21dcc.jpg\"><img src=\"paste-e8098ec2eb7e2fa2831c522d7ed5061789eefedd.jpg\">"
+                            ],
+                            "guid": "tpF55sUXri",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Hyperplasia</b><div>Define.&nbsp;{{c1::increase in the number of cells -&gt; increase in the size of the organ.}}</div><div><br></div><div>It may occur with hypertrophy &amp; often in\nresponse to the same stimull.<br></div><div><br></div><div>Give 2&nbsp;physiologic causes.</div><div>{{c1::<div>-Hormonal (glandular epithelium of female\nbreast at puberty &amp; pregnancy)&nbsp;</div><div>-Compensatory (when a portion of tissue is\nresected or diseased, eg. Liver)</div>}}<br></div><div><br></div><div><div>Give 2&nbsp;Pathologic causes.</div>{{c1::<div><b>Excessive hormonal or\ngrowth factor stimulation</b></div><div>-Endometrial\nhyperplasia: due to\nloss of balance between\nestrogen &amp; progesterone\nhormones. This results\nIn abnormal menstrual\nbleeding</div><div>-Thyroid gland: due to\nincreased thyroid\nStimulating hormone (TSH)\nin thyrotoxicosis.&nbsp;</div><div>- Adrenal gland: due to\nadreno-corticotropic\nhormone (ACTH) in\nCushing’s syndrome.<br></div><div><br></div><div>Hyperplasia is an important response of CT\ncells in <font color=\"#ff0000\">wound healing</font>. Growth factors are\nproduced by WBCs responding to injury &amp; by\ncells in ECM.<br></div><div><br></div><div>Hyperplasia due to <font color=\"#ff0000\">viral infection</font>. e.g.. HPV\nthat causes skin warts &amp; squamous cell\npapilloma of m.m. Here, growth factors may\nbe produced by virus or by infected cells.</div>}}<br></div><div><br></div><div>How does it Differ From Neoplasia?<br></div><div>{{c1::<div>It occurs in tissue made up of <font color=\"#ff0000\">labile or stable</font> cells that have the\npower of regeneration under normal or pathologic conditions.&nbsp;</div><div>• Occurs in response to a <font color=\"#ff0000\">stimulus</font>, disappears when the stimulus\nwhen it is removed.&nbsp;</div><div>• Usually performs a <font color=\"#ff0000\">function</font>.&nbsp;</div><div>• It is a <font color=\"#ff0000\">reversible non-neoplastic</font> process.</div>}}<br></div>",
+                                "<img src=\"paste-bda3993cb51e6ecc04cce64450f87071f7f57053.jpg\">"
+                            ],
+                            "guid": "pXv|sw]BU>",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Metaplasia<br></b><div>• Metaplasia is a reversible change in which one {{c1::<font color=\"#ff0000\">differentiated cell type</font> (epithelial or mesenchymal)}}&nbsp;is <font color=\"#ff0000\">replaced</font> by another cell type.&nbsp;</div><div>• Adaptive substitution of cells that are sensitive to\nstress by cell types better able to withstand the\nadverse environment.&nbsp;</div><div>• The most common epithelial metaplasia is {{c1::COLUMNAR-&gt; SQUAMOUS}}: respiratory tract in\nresponse to chronic irritation.<b><br></b></div>",
+                                "<div>Other common metaplasia</div>– COLUMNAR -&gt; SQUAMOUS\n(Respiratory tract)&nbsp;<div>– SQUAMOUS -&gt; COLUMNAR\n(Barrets esophagus)&nbsp;</div><div>– FIBROUS -&gt; BONE</div>"
+                            ],
+                            "guid": "d;sr@36G6f",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Dysplasia</b><div>Literally means disordered growth- denotes a loss\nof architectural organization and a loss of cell\nuniformity in {{c1::epithelium}}<b><br></b></div><div><br></div><div>• Ranges from mild dysplasia to severe ({{c1::carcinoma in situ}})&nbsp;</div><div>• No invasion of {{c1::basement membrane}}.&nbsp;</div><div><br></div><div>• {{c1::Pleomorphism}} of cells (variation in size and\nshape).&nbsp;</div><div>• {{c1::Hyperchromatic}} nuclei with increased <font color=\"#ff0000\">nucleocytoplasmic</font> <font color=\"#ff0000\">ratio</font> and increased <font color=\"#ff0000\">mitotic</font> activity.&nbsp;</div><div>• Loss of {{c1::polarity (orientation)}} of cells.&nbsp;</div><div>• Mild and moderate degrees of dysplasia are\n<font color=\"#ff0000\">reversible</font> when the evoking stimulus is removed.\nHowever, severe degree is considered <font color=\"#ff0000\">pre-invasive\nmalignancy.</font><br></div>",
+                                "<img src=\"paste-e2eed461413919f8667565090f6338f359c94e4b.jpg\"><div><div>• Partial loss of differentiation.&nbsp;</div><div>• Disordered maturation with impaired function.&nbsp;</div></div><div>• It represents reaction to underlying inflammation or to chronic irritation.<br></div>"
+                            ],
+                            "guid": "m@;y42]weg",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "{{c1::<b>Neoplasm</b>}}: <font color=\"#ff0000\">clonal neoplastic</font> cells surrounded by\nsupporting <font color=\"#ff0000\">stroma</font>: blood vessels, connective tissue\nand inflammatory cells<div><br></div><div>Give 2 types&nbsp;</div><div>{{c1::<div>1) Benign: localized and amenable to surgical\nremoval; patient usually survives&nbsp;</div><div>2) Malignant: invasive tumor capable of\ndestroying structures and spread to distant\nsites (<font color=\"#ff0000\">metastasis</font>); may result in early death\nof the patient</div>}}</div>",
+                                ""
+                            ],
+                            "guid": "9qtn@}@g}",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Neoplasm</b><div>Which is benign or malignant?</div><div><div>Melanoma<br></div><div>Lymphoma</div><div>Sarcoma</div></div><div>Polyp<br></div><div>Cystadenoma<br></div><div>Chondroma<br></div><div>Leiomyoma<br></div><div><div>Adenoma<br></div><div>Carcinoma<br></div><div><div>lipoma<br></div><div>Fibroma<br></div><div>Hemangioma<br></div><div>Meningioma</div></div><div>Papilloma</div></div><div><br></div><div><b>Functional characteristics, t/f?&nbsp;</b></div><div>• Malignant tumors are more likely to function {{c1::f it's benign}}</div><div>• Epithelial tumors can produce surfactant {{c1::f it's mucin}}&nbsp;</div><div>• Hormonal production can be unregulated -\ninappropriate production of hormones by\ndifferent type of cells {{c1::T}}</div><div>• Well-differentiated tumors contain cells that\nresemble the normal cells of origin {{c1::T}}<br></div><div>• Usually has normal receptor and antigenic expression\n(+intracellular signaling molecule) {{c1::F no abnormal}}<br></div><div><br></div><div><b>Tumour Metastases</b><br></div><div>Name 3 methods of spread</div><div>{{c1::<div>1) seeding of body cavities&nbsp;</div><div>2) lymphatic spread&nbsp;</div><div>3) hematogenous spread.</div>}}<br></div>",
+                                "<div><b>Benign<br></b></div><div><b><u>Epithelial</u></b><br></div>– Adenoma: benign <font color=\"#ff0000\">epithelial</font> <font color=\"#ff0000\">glandular</font> tumour in\nlining of glands or ducts&nbsp;<div>– Papilloma: benign <font color=\"#ff0000\">surface</font> (warty projection)\nepithelial tumours&nbsp;</div><div>– Polyp: benign tumour (adenoma) projecting\nover <font color=\"#ff0000\">mucosal</font> surface&nbsp;</div><div>– Cystadenoma: benign <font color=\"#ff0000\">epithelial</font> tumour forming\nhollow <font color=\"#ff0000\">cystic mass</font></div><div><font color=\"#ff0000\"><br></font></div><div><b><u>Mesenchymal</u></b>&nbsp;</div><div>– Chondroma: benign <font color=\"#ff0000\">cartilaginous</font> tumor&nbsp;</div><div>– Leiomyoma: benign <font color=\"#ff0000\">smooth muscle</font> tumor&nbsp;</div><div>– lipoma: benign tumor of <font color=\"#ff0000\">fat</font>&nbsp;</div><div>– Fibroma: benign tumor of <font color=\"#ff0000\">fibrous </font>tissue&nbsp;</div><div><br></div><div><b><u>Endothelial</u></b>&nbsp;</div><div>- Hemangioma/Lymphangioma :<font color=\"#ff0000\">Blood/Lymph</font> vessels&nbsp;</div><div>- Meningioma: <font color=\"#ff0000\">Brain </font>coverings<font color=\"#ff0000\"><br></font></div><div><br></div><div><b>Malignant</b><br></div><div>• Sarcoma (<font color=\"#ff0000\">mesenchymal</font> derivation: fibrosarcoma,\nchondrosarcoma)&nbsp;</div><div>• Carcinoma (<font color=\"#ff0000\">epithelial</font> derivation:\nadenocarcinoma, squamous cell carcinoma) e.g.</div><div>- Squamous&nbsp;</div><div>- Adeno&nbsp;</div><div>- Transitional (urinary tract epith)</div><div>&nbsp;</div><div>• <font color=\"#ff0000\">Lymphoma/leukemia</font>&nbsp;</div><div>• Melanoma tumours of <font color=\"#ff0000\">melanocytes</font><b><br></b></div>"
+                            ],
+                            "guid": "E(8*Dr^`F.",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Differentiation</b><div>• <font color=\"#ff0000\">Benign</font> tumors are composed of <font color=\"#ff0000\">well differentiated</font> cells.&nbsp;</div><div>• <font color=\"#ff0000\">Malignant</font> tumors are characterised by a\n<font color=\"#ff0000\">wide range</font> of cellular differentiation.&nbsp;</div><div>• {{c1::Anaplasia}} is poor differentiation and is a\nfeature of malignant tumors.\n-cellular pleomorphism, hyperchromatic\nnuclei, aneuploidy, high N:C ratio, giant cells,\nbizarre nuclei<b><br></b></div>",
+                                "<img src=\"paste-bd2baffff289ede7cfb5f79c49e6d4827da87f0d.jpg\"><img src=\"paste-9d23b4a8ca82ea8aca74ac0fc398f7c8c7c2f02d.jpg\">"
+                            ],
+                            "guid": "J0|(_MjBhg",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Clinical Stage\nand Grade</b><div>Stage and grade determine prognosis<b><br></b></div><div>Which is which?</div>{{c1::<div><b>Grading</b><br></div><div></div><div>}}• Degree of <font color=\"#ff0000\">differentiation</font> exhibited by cells&nbsp;<br></div><div>• How closely cells resemble normal tissue\nstructure<br></div><div><br></div><div>{{c1::Staging}}<br></div><div>• Based upon the size and extent of metastatic\nspread of the lesion&nbsp;</div><div>• <font color=\"#ff0000\">Tumor-node-metastasis</font> (TNM) system used\nfor most cancers<br></div><div><br></div><div>What does TNM measure?</div><div>{{c1::<div>• Size, in cm, of the tumor (T)&nbsp;</div><div>• Involvement of lymph nodes (N)&nbsp;</div><div>• Presence or absence of distant metastasis (M)</div>}}</div>",
+                                "Staging reflects the clinical extent of the tumor&nbsp;<div>• Grading a tumor reflects its histologic subtype&nbsp;</div><div>• Of the two, <font color=\"#ff0000\">staging</font> is the <font color=\"#ff0000\">primary</font> indicator of\nprognosis</div><div><img src=\"paste-37bf03b96d1bab1e97ec71dd4139e28631f0fffc.jpg\"><br></div><div><img src=\"paste-c5d2817ddb77c2a20ef95f93936bf80d7532987e.jpg\"><br></div><div><img src=\"paste-09016e98e3431953666a325b3ab81a7c9690dd99.jpg\"><br></div><div><img src=\"paste-bfce643996f0f8c122ee0f7a91398c53ee7c2e94.jpg\"><br></div><div><img src=\"paste-91708d842ac080cc9e9e5f845d571726a159ebba.jpg\"><br></div><div><img src=\"paste-46f06ccf8061cd8707b8bd41647f5fcb200c52e4.jpg\"><br></div>"
+                            ],
+                            "guid": "CSHk=el2WM",
                             "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
                             "tags": []
                         }
@@ -6236,6 +7065,144 @@
                                 "<img src=\"paste-e385393c0ba8de5b3f2c331f6903d5f79fce78e8.jpg\">"
                             ],
                             "guid": "G2y$KTJ?1r",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "0b9fe2ce-948a-11eb-bf55-92bb668014f1",
+                    "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-07a55e39c99d01973b96982f508bc09d38daa426.jpg",
+                        "paste-16c4e2ce9bbf472bc44e331d76b62e60454e263a.jpg",
+                        "paste-4189c5be24f30b1b6d0ed51a1e9658c92f605dbb.jpg",
+                        "paste-43fd0de7181a722715d30126336e8d7312fb1396.jpg",
+                        "paste-7624710064230178b760121692abab058cb7a0d7.jpg",
+                        "paste-811cf7701ed21d70ecc16f304fdfe172eac6f449.jpg",
+                        "paste-871365be274ed501cd8cb23a5bb9ae82a5fae2b4.jpg",
+                        "paste-88e71708de2946e90264149e312d4e80aeee58fe.jpg",
+                        "paste-8ad4d46143a8abe404431003694831a07c889b3e.jpg",
+                        "paste-b2cad2e19e32c6e8e337d32f7b94bbab594bcf30.jpg",
+                        "paste-bada5ba5b67f2e284a4a4d305868827057240b75.jpg",
+                        "paste-c288d968d0611d3b2007234b2cee4a870826e454.jpg",
+                        "paste-f74c652cb9d5f183ed856165aea36127bebb5fee.jpg"
+                    ],
+                    "name": "03/21 Lipid Lowering Agents",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Coronary Plaque<br></b></div>{{c1::Progressive}} Plaque causes Luminal Occlusion<div><br></div><div>Plaque {{c1::Rupture}} causes&nbsp;Thrombosis causes&nbsp;ACS / MI<br></div><div><br></div><div><b>Lipid / Cholesterol Transportation System<br></b></div><div>What is the most common apolipoprotein? {{c1::ApoB100}}</div><div><br></div><div>Name 5/5 lipoproteins.</div><div>{{c1::<div>Chylomicrons&nbsp;</div><div>VLDL&nbsp;</div><div>LDL&nbsp;</div><div>IDL (intermediate)</div><div>HDL</div>}}<br></div><div><br></div><div>Where is the free cholesterol, cholesterol esters and triglycerides?</div>",
+                                "<img src=\"paste-43fd0de7181a722715d30126336e8d7312fb1396.jpg\"><div><img src=\"paste-811cf7701ed21d70ecc16f304fdfe172eac6f449.jpg\"><br></div><div><font color=\"#ff0000\">ApoB100</font> is most harmful, common</div><div><font color=\"#ff0000\">ApoA</font> is best cleans up well, on HDL&nbsp;</div>"
+                            ],
+                            "guid": "C3MIqXcvpC",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Complex System Under Hepatic Regulation</b><div>Where is fat taken up? {{c1::Intestine}}&nbsp;</div><div>What is dominant apolipoprotein in chylomicrons? {{c1::B-48}}</div><div>What converts chylomicrons and what is the product? {{c1::lipoprotein lipase+chylomicron remnant}}</div><div>Which organ takes it up and receptor? {{c1::Liver LRP-1}}</div><div>VLDL -&gt; {{c1::I}}DL -&gt; {{c1::L}}DL&nbsp;</div>",
+                                "<img src=\"paste-bada5ba5b67f2e284a4a4d305868827057240b75.jpg\">"
+                            ],
+                            "guid": "Q0zf?2m>&i",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Atherosclerotic Plaque Formation</b></div><div>What causes endothelial activation?</div><div>{{c1::Apolipoprotein B, Apo-B Lp}}</div><img src=\"paste-16c4e2ce9bbf472bc44e331d76b62e60454e263a.jpg\"><div>What does CCL-2 do? {{c1::causes circulating monocyte to enter subendothelial space.}}</div><div>What cell changes LDL to HDL, name it's 3 intracellular steps?{{c1::<img src=\"paste-c288d968d0611d3b2007234b2cee4a870826e454.jpg\">}}</div><div>What happens if this fails (name receptor, steps)?</div><div>{{c1::<div>recp= CD36</div><div>CE: cholesterol esterification</div><div><img src=\"paste-7624710064230178b760121692abab058cb7a0d7.jpg\"></div>}}<br></div><div><br></div><div>What do foam cells form, release and cause? {{c1::</div><div>form= atheroscelrotic plaque</div><div>release= cytokines</div><div>cause= monocytosis + more endothelial activation (circular)</div><div><img src=\"paste-88e71708de2946e90264149e312d4e80aeee58fe.jpg\"></div>}}",
+                                ""
+                            ],
+                            "guid": "ocxaL1SR{U",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Reverse Cholesterol Transportation<br></b></div>Name 3 receptors that efflux cholesterol out of the cell. {{c1::ABCG SR-B1 ABCA}}<div><br><div>Which of these (1) Lipoprotein is taken up by the liver?</div><div>ApoA1<br></div><div>Pre-βHDL</div><div>HDL1<br></div><div><div><div>HDL2</div><div><div>HDL3</div><div><br></div></div></div></div><div>{{c1::HDL3}}</div></div>",
+                                "<img src=\"paste-07a55e39c99d01973b96982f508bc09d38daa426.jpg\">"
+                            ],
+                            "guid": "baQ*N[.4ih",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>LDLc Reduction&nbsp;</b></div><div><br></div><div>Definitively associated with mortality benefit in <font color=\"#ff0000\">IHD</font>&nbsp;</div><div>Absolute risk reduction {{c1::2.0 - 3.0}}&nbsp;</div><div><br></div><div>Significant benefit for <font color=\"#ff0000\">MI</font> and death associated with <font color=\"#ff0000\">CHD</font>&nbsp;<br></div><div><div>Absolute risk reduction {{c1::3.0 - 30.0&nbsp;}}</div><br></div><div>Similar benefit in primary and secondary prevention</div>",
+                                "However Statins have more evidence"
+                            ],
+                            "guid": "L,*VJ+uD3G",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Lipoprotein Lowering Therapies</b><div>Name the 6 classes&nbsp;</div>{{c1::<div><font color=\"#ff0000\">HMG CoA Reductase Inhibitors - Statins&nbsp;</font></div><div><div></div></div><div>}}<font color=\"#ff0000\">↓ LDLc</font>; ↔︎ Triglycerides&nbsp;<br></div><div><div>Mortality and morbidity benefit</div><div>Plaque stabilisation</div><div>Plaque regression&nbsp;</div></div><div><br></div>{{c1::<div><font color=\"#ff0000\">Fibrates</font>&nbsp;</div><div></div><div>}}<font color=\"#ff0000\">↓ Triglycerides</font>; ↔︎<font color=\"#ff0000\">↓ LDLc&nbsp;</font></div><div>Useful in the treatment of severe or familial hypertriglyceridaemias&nbsp;<br></div><div>Mechanism of action unclear<br></div><div><br></div>{{c1::<div><font color=\"#ff0000\">Ezetimibe&nbsp;</font></div><div></div><div>}}<br></div><div><font color=\"#ff0000\">↓ LDLc</font>; ↔︎ Triglycerides&nbsp;</div><div>Inhibits GI absorption of cholesterol but not TG (<font color=\"#ff0000\">NPC1L1</font>)&nbsp;<br></div><div><br></div>{{c1::<div><font color=\"#ff0000\">Bile Acid Sequestrants&nbsp;<br></font></div><div>}}{{c1::<br></div><div><font color=\"#ff0000\">PCSK-9 Inhibitors&nbsp;</font></div><div></div><div>}}</div><div>{{c1::<font color=\"#ff0000\">Nicotinic Acid</font>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "s#WTrUD9/Y",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>HMG-CoA Reductase Inhibitors - Statins<br></b></div><div><b><br></b></div><div>What do statins inhibit, how do they work, is a direct or indirect effect?</div><div>{{c1::<div>Indirect effect,</div>By Inhibiting hepatocellular cholesterol biosynthesis&nbsp;<div>-&gt; ↑ Hepatic LDL-R expression&nbsp;</div><div>Significant reductions in circulating LDLc i.e extracellular cholesterol is mopped up</div>}}<br></div><div><br></div><div>Name 3/6 statins.</div><div>{{c1::<div><font color=\"#ff0000\">Atorvastatin 40/80mg</font><br></div><div>Fluvastatin<br></div><div>Lovastatin<br></div><div>Pravastatin<br></div><div><font color=\"#ff0000\">Rosuvastatin 10/20mg</font><br></div><div><font color=\"#ff0000\">Simvastatin - Not used as much</font></div>}}<br></div><div><br></div><div><b>Pharmacokinetics<br></b></div><div><font color=\"#ff0000\">Orally</font> absorbed&nbsp;</div><div>First pass hepatic absorption via organic {{c1::an}}ion transporter&nbsp;</div><div>Systemic availability variable - &gt;{{c1::95}}% <font color=\"#ff0000\">protein bound</font>&nbsp;</div><div>T1/2: {{c1::1 - 4}} hours (most)&nbsp;&nbsp;</div><div>&nbsp;T1/2: 20 hours (2 statins) {{c1::Atorvastatin &amp; Rosouvastatin}}<br></div><div><br></div><div><b>Adverse Effects</b><br></div><div>-{{c1::Myopathy}} -Associated with a rise in creatinine kinase</div><div>-Rarely - Rhabdomyolysis<br></div><div>-Transaminitis&nbsp; Worse with atorvastatin, lovastatin and simvastatin&nbsp;</div><div>Metabolised by hepatic {{c1::CYP3A4}} - inhibited by several agents</div><div><br></div><div>All statins are contraindicated in {{c1::pregnancy}}<br></div>",
+                                "<img src=\"paste-f74c652cb9d5f183ed856165aea36127bebb5fee.jpg\"><div>3-Hydroxy-3-methylglutaryl coenzyme A (<font color=\"#ff0000\">HMG-CoA) reductase</font> is the rate-limiting enzyme regulating cholesterol biosynthesis. The enzyme is <font color=\"#ff0000\">downregulated</font> by <font color=\"#ff0000\">excess</font> cholesterol in the cell.<b><br></b></div><div><br></div><div><b>Rhabdomyolysis</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;is a serious syndrome due to a direct or indirect muscle injury. It results from the death of muscle fibers and release of their contents into the bloodstream. This can lead to serious complications such as renal (kidney) failure. This means the kidneys cannot remove waste and concentrated urine.</span><br></div><div><span style=\"color: rgb(32, 33, 36);\"><br></span></div><div><div><div><b>Myopathy</b>&nbsp;is a general term referring to any disease that affects the muscles that control voluntary movement in the body. Patients experience muscle weakness due to a dysfunction of the muscle fibers.</div></div><div><div><br></div></div></div>"
+                            ],
+                            "guid": "EcgwzJh_/F",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Fibrates</b><div>Give 1 drug.&nbsp;{{c1::Fenofibrate}}</div><div><br><div><b><u>Mechanism of Action&nbsp;&nbsp;</u></b></div><div>Not fully known<b><br></b></div><div>Agonists for {{c1::PPARα}} -&gt;&nbsp;{{c1::↓}}crease Triglycerides\n({{c1::20 - 50}}%)<br></div><div>Inhibit {{c1::CETP}} -&gt; {{c1::↑}}crease HDL{{c1::c}}\n(10 - 30%)<br></div><div><br></div><div>Commonly used in familial {{c1::hypertriglyceridaemias}}<br></div><div>Greater benefit in reducing {{c1::TG}} in T2DM<br></div><div>Used in <font color=\"#ff0000\">statin</font> <font color=\"#ff0000\">intolerant</font><br></div><div><font color=\"#ff0000\"><br></font></div><div><b><u>Adverse Effects</u></b><font color=\"#ff0000\"><br></font></div><div>Rash&nbsp;</div><div>GI Upset&nbsp;</div><div>Cholecystitis / Cholestasis, why is this particulary bad? {{c1::</div><div>Most of these patients are fat and have/at risk for gallstones already</div><div></div><div>}}Photosensitivity&nbsp;</div><div>{{c1::Stevens Johnson}} Syndrome<b><u><br></u></b></div></div>",
+                                "No current evidence for absolute benefit in terms of outcomes, prob but not for sure"
+                            ],
+                            "guid": "I0hT0H^e,*",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Bile Acid Sequestrants</b><div><b><u>Mechanism of Action</u><br></b></div><div>{{c1::Positively}} charged resins which bind {{c1::(-)ve}} bile&nbsp;</div><div>Inhibit {{c1::enterohepatic}} circulation of bile acids..</div><div><font color=\"#ff0000\">↓ LDLc</font> by {{c1::25}}%&nbsp;</div><div>Not absorbed {{c1::systemically}}<b><u><br></u></b></div><div><br></div><div>What is the main drug used, what side effect does it have?</div><div>{{c1::<div>Cholestyramine&nbsp;</div><div>↓ Absorption of thyroid hormone and fat soluble drugs</div>}}<br></div>",
+                                "<img src=\"paste-b2cad2e19e32c6e8e337d32f7b94bbab594bcf30.jpg\"><div>Poorly tolerated - Considerable GI upset and ↓ Fat Soluble Vitamins</div>"
+                            ],
+                            "guid": "x$dmVc9)Yn",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Ezetimibe</b><div>Inhibits the {{c1::<font color=\"#ff0000\">NPLP1</font>}} - ↓ Intestinal Absorption Cholesterol 25%</div><div>{{c1::↑}}crease Hepatic LDL-R expression&nbsp;</div><div>{{c1::↑}}crease Hepatic <font color=\"#ff0000\">cholesterol biosynthesis</font>&nbsp;</div><div>-Inhibited by co-administration with {{c1::statin}}</div><div>-Monotherapy {{c1::LDLc}} ↓ of <font color=\"#ff0000\">25%</font> can be as high as<font color=\"#ff0000\"> 80% </font>with dual therapy, what drug? {{c1::statin}}</div><div><br></div><div>Rarely used as monotherapy except in {{c1::statin}} intolerant</div><div><font color=\"#ff0000\">Water insoluble</font> and must be {{c1::glucuronidated}} - hence not absorbed\nwith BAS (bile acid secretant)</div>",
+                                "**Hepatic&nbsp;<font color=\"#ff0000\">cholesterol biosynthesis</font>&nbsp; he said increase in&nbsp; lecture too but doesn't seem right<div><br></div><div>No current evidence for absolute benefit in terms of outcomes -like everything else<br></div>"
+                            ],
+                            "guid": "l:/f`d-^mM",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Proprotein Convertase Subtilisin/Kexin Type 9 (PCSK9) Inhibitors</b><div>How many times can the LDL-R be reused, happens after limit? {{c1::150 times, lyosomal degradation}}</div><div><br></div><div><font color=\"#ff0000\">Inhibit</font> LDL-R {{c1::lysosomal degradation}}&nbsp;<br></div><div><font color=\"#ff0000\">Increase</font> LDL-R {{c1::recycling}}&nbsp;</div><div><font color=\"#ff0000\">Increase</font> {{c1::HDLc}}<br></div><div><br></div><div>Name 2 drugs. {{c1::Alirocumab &amp; Evolocumab}}<br></div><div><br></div><div><b><u>Pharmacology<br></u></b></div><div>Monoclonal antibodies which bind free {{c1::PCSK-9}} and prevent degradation of {{c1::LDL-R}}.</div><div>Administration {{c1::Parenteral or subcutaneous.}}\nTreatment of severe <font color=\"#ff0000\">statin-resistant hypercholesterolaemia</font> or with <font color=\"#ff0000\">statin\nintolerance</font>.</div><div><br></div><div><b><u>Adverse Effects</u></b><br></div><div>Largely unknown at the moment&nbsp;</div><div><font color=\"#ff0000\">Hypersensitivity</font> reactions in 1.5%&nbsp;</div><div><font color=\"#ff0000\">Neurocognitive</font> symptoms in &lt;1%&nbsp;</div><div>Theoretical increased risk of {{c1::HCV}} infectivity and {{c1::colon}} cancer.<b><u><br></u></b></div><div><br></div><div>Pretty expensive</div>",
+                                "<img src=\"paste-871365be274ed501cd8cb23a5bb9ae82a5fae2b4.jpg\"><div><img src=\"paste-4189c5be24f30b1b6d0ed51a1e9658c92f605dbb.jpg\"><br></div><div><img src=\"paste-8ad4d46143a8abe404431003694831a07c889b3e.jpg\"><br></div>"
+                            ],
+                            "guid": "DpZyc#H;$3",
                             "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
                             "tags": []
                         }
