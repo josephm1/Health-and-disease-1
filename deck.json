@@ -714,7 +714,46 @@
                 },
                 {
                     "__type__": "Deck",
-                    "children": [],
+                    "children": [
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "5a0dac39-b247-11eb-a1f8-faf4610bb370",
+                            "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [
+                                "paste-59290ebe4d310691f1d0a9c70ae0dd9b6c555278.jpg",
+                                "paste-89164384e59b3991cf1044cf0f9ee87f52c5dfe7.jpg",
+                                "paste-eeec9ab58f3a0bfa830401e6166ad9a78c802f44.jpg"
+                            ],
+                            "name": "2 Bloodborne virus",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>Hepatitis\nB virus (HBV)</b><div><u>Virology</u><b><br></b></div><div><div><span style=\"color: rgb(143, 198, 57);\">§</span> {{c1::Hepadnaviridae}} family of viruses</div>\n<div><span style=\"color: rgb(143, 198, 57);\">§</span> Double-stranded DNA, {{c1::enveloped}} virus</div></div><div><br></div><div><u>Epidemiology</u><br></div><div><div>{{c1::250}}<span style=\"color: rgb(192, 0, 0);\">&nbsp;</span><span style=\"color: rgb(192, 0, 0);\">million chronic infections</span></div>\n<div><span style=\"color: rgb(192, 0, 0);\">6</span><span style=\"color: rgb(192, 0, 0);\">00,000\n</span><span style=\"color: rgb(192, 0, 0);\">deaths/</span><span style=\"color: rgb(192, 0, 0);\">yr</span></div>\n<div>{{c1::30}}<span style=\"color: rgb(192, 0, 0);\">%\nglobal population infected at some </span><span style=\"color: rgb(192, 0, 0);\">time</span></div></div><div><div><span style=\"color: rgb(95, 165, 52);\">•</span>Ireland\nconsidered a low endemicity\ncountry, i.e. HBsAg\n&lt;{{c1::2}}%</div></div><div><br></div><div><u>Clinical\nFeatures</u><br></div><div><div><span style=\"color: rgb(95, 165, 52);\">§</span>Incubation period average {{c1::2-3}}\nmonths {{c1::(6\nweeks to 6 months)}}</div>\n<div><span style=\"color: rgb(95, 165, 52);\">§</span>{{c1::50-100}}\ntimes more infectious than HIV</div></div><div><br></div><div><u>Acute\nHepatitis B<br></u></div><div><div>First\nsymptoms appear 3-4 days before {{c1::jaundice}}:</div>\n<div><span style=\"color: rgb(95, 165, 52);\">•</span>Weakness,\nmalaise, anorexia</div>\n<div><span style=\"color: rgb(95, 165, 52);\">•</span><b>Right\nupper</b> abdominal pain/discomfort</div>\n<div><span style=\"color: rgb(95, 165, 52);\">•</span>Low-grade\nfever and “Flu-like” symptoms</div></div><div><br></div><div><div>{{c1::Icteric}}\nphase ({{c1::Jaundice}})</div>\n<div><span style=\"color: rgb(95, 165, 52);\">•</span>Dark\nurine</div>\n<div><span style=\"color: rgb(95, 165, 52);\">•</span>Later\npale stools</div>\n<div><span style=\"color: rgb(95, 165, 52);\">•</span>Yellowish\ncoloration of&nbsp; </div>\n<div>&nbsp;&nbsp;&nbsp; -\nmucous membrane</div>\n<div>&nbsp;&nbsp;&nbsp; - conjunctiva</div>\n<div>&nbsp;&nbsp;&nbsp; - sclera </div>\n&nbsp;&nbsp;&nbsp; - skin<br></div><div><br></div><div><u>Diagnosis</u><br></div><div><img src=\"paste-59290ebe4d310691f1d0a9c70ae0dd9b6c555278.jpg\"><u><br></u></div><div>{{c1::<div><span style=\"color: rgb(95, 165, 52);\">•</span>Hepatitis\nB surface antigen: associated with viral replication</div>\n<div><span style=\"color: rgb(95, 165, 52);\">•</span>Hepatitis\nB e antigen: associated with <span style=\"font-weight: bold;\">high-level</span>\nviral replication</div>\n<div><span style=\"color: rgb(95, 165, 52);\">•</span>Hepatitis\nB core antibody: marker of exposure to HBV; presence of IgM subtype is\nindicative of recent infection. Core antibody is not a useful marker of immune\nstatus</div>\n<div><span style=\"color: rgb(95, 165, 52);\">•</span>Inverse\nrelationships between:</div>\n<div><span style=\"color: rgb(95, 165, 52);\">•</span>HepB\nsurface antigen vs surface antibody</div>\n<div><span style=\"color: rgb(95, 165, 52);\">•</span>HepB e\nantigen vs e antibody</div>}}<br></div><div>Which markers are pos or neg in the following cases?</div><div>Vaccinated</div><div>Resolved infection</div><div>Active infection</div><div>Distant resolved infection</div><div>{{c1::<img src=\"paste-89164384e59b3991cf1044cf0f9ee87f52c5dfe7.jpg\">}}<br></div><div><br></div><div><u>Management</u><br></div><div>Are antivirals indicated in</div><div>Acute</div><div>chronic</div><div>Both</div><div>None?</div><div>{{c1::Chronic}}</div><div><br></div><div><div><span style=\"color: rgb(95, 165, 52);\">§ </span>Chronic<span style=\"color: rgb(95, 165, 52);\">&nbsp;</span>Individuals\nwith high {{c1::HBV DNA}} levels at greatest risk of liver disease</div>\n<div><font color=\"#5fa534\">-</font>Usually\n{{c1::‘e’}} antigen positive</div></div><div><br></div><div>What are the anti-viral therapies (3)?</div><div>{{c1::<div><span style=\"color: rgb(95, 165, 52);\">•</span>Interferon alpha</div>\n<div><span style=\"color: rgb(95, 165, 52);\">•</span>Nucleoside analogues eg.\nentecavir, tenofivir</div>\n<div><span style=\"color: rgb(95, 165, 52);\">•</span>Lamivudine – drug resistance issues</div>}}<br></div>",
+                                        ""
+                                    ],
+                                    "guid": "bysLFdB%C(",
+                                    "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>Hepatitis\nC virus (HCV)</b><div><u>Management\nof Chronic Hepatitis C</u><b><br></b></div><div><div><span style=\"color: rgb(143, 198, 57);\">§</span>Goal\nis to clear {{c1::HCV RNA}}&nbsp;- sustained virological\nresponse (SVR) is associated with greatly reduced progression to cirrhosis</div></div><div><br></div><div><div><span style=\"color: rgb(95, 165, 52);\">•</span>Direct-acting\nantiviral (DAA) regimens (1/4)</div>\n<div>{{c1::<div><span style=\"color: rgb(95, 165, 52);\">•</span>Ledipasvir-sofosbuvir;&nbsp;</div><div>glecaprevir-pibrentasvir;&nbsp;</div><div>elbasivir-grazoprevir;&nbsp;</div><div>paritaprevir-ritonavir-ombitsavir;\netc.<br></div><div>\"avir\"</div>}}<br></div>\n<div><span style=\"color: rgb(95, 165, 52);\">•</span>Choice of Rx also influenced by HCV\ngenotypes (1-6)</div></div><div><br></div><div>What is the risk of Hep C from needlestick\ninjuries?</div><div>{{c1::<img src=\"paste-eeec9ab58f3a0bfa830401e6166ad9a78c802f44.jpg\">}}<br></div>",
+                                        ""
+                                    ],
+                                    "guid": "P{/.Ri-zM",
+                                    "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                                    "tags": []
+                                }
+                            ]
+                        }
+                    ],
                     "crowdanki_uuid": "0b86db1e-948a-11eb-852b-92bb668014f1",
                     "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
                     "desc": "",
@@ -1032,6 +1071,30 @@
                             "tags": []
                         }
                     ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "5a0ee428-b247-11eb-bf7f-faf4610bb370",
+                    "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "04/02 Immunization",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>Give examples:</div>LIVE ATTENUATED VACCINES<div>{{c1::<div>Smallpox – now eradicated&nbsp;</div><div>Oral poliomyelitis vaccine (OPV)</div>}}<br></div><div><br></div><div>LIVE ATTENUATED<br></div><div>{{c1::<div>Measles/ mumps/ rubella (MMR) Once at 12 months again at 4-5 years&nbsp;</div><div>Rotavirus vaccine\nOral at 2 and 4 months&nbsp;</div><div>Varicella-Zoster*\nChildren (Chickenpox) or Adults\n(Shingles)&nbsp;</div><div>BCG*</div>}}<br></div><div><br></div><div>TOXOID VACCINES<br></div><div>{{c1::<div>Diphtheria\n(Corynebacterium diphtheriae)\nTetanus\n(Clostridium tetani)<br></div><div>The D and the T in the 6 in 1 VACCINE\nCurrently given at 2, 4 and 6 months\nWith a booster ( of 4 in 1) at 4 years</div>}}<br></div><div><br></div><div>WHOLE INACTIVATED PATHOGEN<br></div><div>{{c1::<div>Inactivated poliomyelitis vaccine (IPV)\nIn 6 in 1 and 4 in 1&nbsp;</div><div>Hepatitis A vaccine&nbsp;</div><div>Influenza A and B vaccine</div>}}<br></div><div><br></div><div>COMPONENT VACCINES<br></div><div>{{c1::<div>Hepatitis B virus vaccine ( 6 in 1: 2, 4 and 6 months)&nbsp;</div><div>Acellular pertussis vaccine ( 6 in 1 and 4 in 1)</div><div>HPV (Quadrivalent - Types 6, 11, 16, and 18) all girls &amp; boys 1st\nyear secondary<br></div><div>4CMenB Vaccine (Bexsero)</div>}}<br></div><div><br></div><div>CONJUGATE VACCINES<br></div><div>{{c1::<div>Haemophilus influenzae type b (Hib) vaccine (6 in 1)&nbsp;</div><div>Meningococcal C Vaccine (at 4, 6 and 13 months)&nbsp;</div><div>Pneumococcal Conjugate Vaccine (PCV 13)</div>}}<br></div><div><br></div><div>RNA VACCINES<br></div><div>{{c1::ah here}}</div>",
+                                ""
+                            ],
+                            "guid": "dm:m3}U>B|",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        }
+                    ]
                 }
             ],
             "crowdanki_uuid": "e848dad6-7dce-11eb-a5b6-a0b2d6ecb02c",
@@ -1183,14 +1246,28 @@
                         "15aeb80fdd6a4d64bcfead91737410d1-ao-6-A.svg",
                         "15aeb80fdd6a4d64bcfead91737410d1-ao-6-Q.svg",
                         "15aeb80fdd6a4d64bcfead91737410d1-ao-O.svg",
+                        "a7ff13801b27455fbbf2abf97ec3d60c-ao-1-A.svg",
+                        "a7ff13801b27455fbbf2abf97ec3d60c-ao-1-Q.svg",
+                        "a7ff13801b27455fbbf2abf97ec3d60c-ao-2-A.svg",
+                        "a7ff13801b27455fbbf2abf97ec3d60c-ao-2-Q.svg",
+                        "a7ff13801b27455fbbf2abf97ec3d60c-ao-3-A.svg",
+                        "a7ff13801b27455fbbf2abf97ec3d60c-ao-3-Q.svg",
+                        "a7ff13801b27455fbbf2abf97ec3d60c-ao-4-A.svg",
+                        "a7ff13801b27455fbbf2abf97ec3d60c-ao-4-Q.svg",
+                        "a7ff13801b27455fbbf2abf97ec3d60c-ao-5-A.svg",
+                        "a7ff13801b27455fbbf2abf97ec3d60c-ao-5-Q.svg",
+                        "a7ff13801b27455fbbf2abf97ec3d60c-ao-6-A.svg",
+                        "a7ff13801b27455fbbf2abf97ec3d60c-ao-6-Q.svg",
+                        "a7ff13801b27455fbbf2abf97ec3d60c-ao-O.svg",
                         "paste-1412d67bcc193a1e56e9e6207f28b27ecd761610.jpg",
                         "paste-c4fc8e69075438112207f7247293722f17eb2b22.jpg",
                         "paste-d66e20f8c4221a74e8834f249ee4d3ed5733fc6c.jpg",
                         "paste-da46a46cfce6b9676d3c638d411c699dd81107bb.jpg",
                         "paste-fc1234c0fb9f419a010787713809a3b31147ca95.jpg",
-                        "tmp3u3k9y23.png"
+                        "tmp3u3k9y23.png",
+                        "tmp648xq3mb.png"
                     ],
-                    "mid": 1603908832969,
+                    "mid": 1603908832965,
                     "name": "02/15 Healing & Repair",
                     "notes": [
                         {
@@ -1561,6 +1638,120 @@
                             ],
                             "guid": "e11j}6DOu*",
                             "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a7ff13801b27455fbbf2abf97ec3d60c-ao-1",
+                                "",
+                                "<img src=\"tmp648xq3mb.png\" />",
+                                "<img src=\"a7ff13801b27455fbbf2abf97ec3d60c-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"a7ff13801b27455fbbf2abf97ec3d60c-ao-1-A.svg\" />",
+                                "<img src=\"a7ff13801b27455fbbf2abf97ec3d60c-ao-O.svg\" />"
+                            ],
+                            "guid": "MAXy;X@)JX",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a7ff13801b27455fbbf2abf97ec3d60c-ao-2",
+                                "",
+                                "<img src=\"tmp648xq3mb.png\" />",
+                                "<img src=\"a7ff13801b27455fbbf2abf97ec3d60c-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"a7ff13801b27455fbbf2abf97ec3d60c-ao-2-A.svg\" />",
+                                "<img src=\"a7ff13801b27455fbbf2abf97ec3d60c-ao-O.svg\" />"
+                            ],
+                            "guid": "j85&;f8*F3",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a7ff13801b27455fbbf2abf97ec3d60c-ao-3",
+                                "",
+                                "<img src=\"tmp648xq3mb.png\" />",
+                                "<img src=\"a7ff13801b27455fbbf2abf97ec3d60c-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"a7ff13801b27455fbbf2abf97ec3d60c-ao-3-A.svg\" />",
+                                "<img src=\"a7ff13801b27455fbbf2abf97ec3d60c-ao-O.svg\" />"
+                            ],
+                            "guid": "HY%k4[5fN:",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a7ff13801b27455fbbf2abf97ec3d60c-ao-4",
+                                "",
+                                "<img src=\"tmp648xq3mb.png\" />",
+                                "<img src=\"a7ff13801b27455fbbf2abf97ec3d60c-ao-4-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"a7ff13801b27455fbbf2abf97ec3d60c-ao-4-A.svg\" />",
+                                "<img src=\"a7ff13801b27455fbbf2abf97ec3d60c-ao-O.svg\" />"
+                            ],
+                            "guid": "rnX%lqOZX(",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a7ff13801b27455fbbf2abf97ec3d60c-ao-5",
+                                "",
+                                "<img src=\"tmp648xq3mb.png\" />",
+                                "<img src=\"a7ff13801b27455fbbf2abf97ec3d60c-ao-5-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"a7ff13801b27455fbbf2abf97ec3d60c-ao-5-A.svg\" />",
+                                "<img src=\"a7ff13801b27455fbbf2abf97ec3d60c-ao-O.svg\" />"
+                            ],
+                            "guid": "rOR@8HHU#`",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a7ff13801b27455fbbf2abf97ec3d60c-ao-6",
+                                "",
+                                "<img src=\"tmp648xq3mb.png\" />",
+                                "<img src=\"a7ff13801b27455fbbf2abf97ec3d60c-ao-6-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"a7ff13801b27455fbbf2abf97ec3d60c-ao-6-A.svg\" />",
+                                "<img src=\"a7ff13801b27455fbbf2abf97ec3d60c-ao-O.svg\" />"
+                            ],
+                            "guid": "emU${-7>*)",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
                             "tags": []
                         }
                     ]
@@ -2251,7 +2442,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "AHTR Lab results. True or False?<div><div>•Hemoglobinemia {{c1::True}}</div>\n<div>•Negative DAT {{c1::False positive DAT}}<br></div><div><div>•Hemoglobinuria {{c1::True}}</div></div>\n<div>•Hypobilirubinemia {{c1::False Hyperbilirubinemia}}</div><div><br></div><div>What is missing?</div>\n<div>{{c1::•Abnormal\nDIC panel&nbsp;}}</div></div><div><br></div><div>Monitoring in AHTR<br></div><div>Name 3 things that need to be monitored apart from vital/clinical status. {{c1::renal status, coagulation status, signs\nof hemolysis&nbsp;}}</div>",
-                                ""
+                                "<span style=\"color: rgb(32, 33, 36);\">acute hemolytic transfusion reaction</span>"
                             ],
                             "guid": "A&m}o-D*0q",
                             "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
@@ -5784,6 +5975,642 @@
                                 "Staging reflects the clinical extent of the tumor&nbsp;<div>• Grading a tumor reflects its histologic subtype&nbsp;</div><div>• Of the two, <font color=\"#ff0000\">staging</font> is the <font color=\"#ff0000\">primary</font> indicator of\nprognosis</div><div><img src=\"paste-37bf03b96d1bab1e97ec71dd4139e28631f0fffc.jpg\"><br></div><div><img src=\"paste-c5d2817ddb77c2a20ef95f93936bf80d7532987e.jpg\"><br></div><div><img src=\"paste-09016e98e3431953666a325b3ab81a7c9690dd99.jpg\"><br></div><div><img src=\"paste-bfce643996f0f8c122ee0f7a91398c53ee7c2e94.jpg\"><br></div><div><img src=\"paste-91708d842ac080cc9e9e5f845d571726a159ebba.jpg\"><br></div><div><img src=\"paste-46f06ccf8061cd8707b8bd41647f5fcb200c52e4.jpg\"><br></div>"
                             ],
                             "guid": "CSHk=el2WM",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "5a21d0f1-b247-11eb-a0bb-faf4610bb370",
+                    "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-23e990afe2393eef6b36f7f04738aead576ef56e.jpg",
+                        "paste-3fff56a60084bae40f6706a73deeec395cab48a3.jpg",
+                        "paste-5bb1c538b78fa092fd4fe15884a4ba41de49fed4.jpg",
+                        "paste-6e5e51cc9449466ff7d4dc84a9ffdc1dd8f42f81.jpg",
+                        "paste-a2175bfa875e6c3238ec5b576bf84255bf762812.jpg"
+                    ],
+                    "mid": 1603908832969,
+                    "name": "04/10 Biology of Cancer",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Give 6&nbsp;Characteristics of cancer cells</b><div>self-sufficiency in _</div><div>sustained _</div><div>Insensitivity to _</div><div>evasion of _</div><div>Limitless _ potential</div><div>_ invasion and _</div>",
+                                "<img src=\"paste-3fff56a60084bae40f6706a73deeec395cab48a3.jpg\">"
+                            ],
+                            "guid": "z>thd:<Vk&",
+                            "note_model_uuid": "afe9e61b-7dce-11eb-8b6f-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Oncogenes</b><div><b><u>Ras-MAPK pathway<br></u></b></div><div>What is the difference in amnio acids between Normal RAS and oncogence RAS?</div><div>Why can't mutant RAS become inactive?</div><div><br></div><div><b><u>Gene amplification<br></u></b></div><div>• {{c1::ERBB2}} gene amplification involved in 25%\nof all <font color=\"#ff0000\">breast and ovarian</font> cancers&nbsp;</div><div><br></div><div>• 32 of 49 (65%) human <font color=\"#ff0000\">retinoblastomas</font> have\nextra copies of {{c1::MDMX}}, and 5 of 49&nbsp;</div><div>(10%)\nhave extra copies of {{c1::MDM2}}&nbsp;</div><div><br></div><div>• {{c1::MYCN}} gene amplication: <font color=\"#ff0000\">neuroblastoma</font><br></div><div><font color=\"#ff0000\"><br></font></div><div><b><u>Chromosomal\ntranslocation</u></b><font color=\"#ff0000\"><br></font></div><div>Name 2 + give affected chromosomes</div><div>{{c1::Chromosome 8 and 14 translocation:\nBurkitt’s lymphoma&nbsp;</div><div><br></div><div>Chromosome 22 and 9 translocation:\n– Chronic myelogeneous leukemia (CML)}}<br></div>",
+                                "<img src=\"paste-23e990afe2393eef6b36f7f04738aead576ef56e.jpg\"><div><img src=\"paste-6e5e51cc9449466ff7d4dc84a9ffdc1dd8f42f81.jpg\"><br></div><div><img src=\"paste-a2175bfa875e6c3238ec5b576bf84255bf762812.jpg\"><br></div>"
+                            ],
+                            "guid": "ImtN4v.(wh",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Tumour Suppressor\ngene</b><div>Match up</div><div>1. Antagonize the action of oncogene&nbsp;<div>2. Regulate cell cycle&nbsp;</div><div>3. Induce apoptosis&nbsp;</div><div>4. Transcription factors</div></div><div><br></div><div>RB, INK4&nbsp;<br></div><div>p53&nbsp;<br></div><div>PTEN antagonize PI3K&nbsp;<br></div><div>SMAD family that are activated by TGF-β, leading to inhibition of cell proliferation</div><div><br></div><div>The {{c1::Li-Fraumeni}} syndrome is a rare autosomal\ndisorder characterised by a familial clustering of early onset tumors (&lt;45), with\na predominance of sarcomas, breast cancers, brain tumors and adrenocortical\ncarcinomas. This syndrome may be caused by a germline\nmutation in the {{c1::TP53}} gene.<br></div>",
+                                "1. Antagonize the action of oncogene e.g. PTEN antagonize\nPI3K&nbsp;<div>2. Regulate cell cycle e.g. RB, INK4&nbsp;</div><div>3. Induce apoptosis e.g. p53&nbsp;</div><div>4. Transcription factors e.g. SMAD family that are activated by\nTGF-β, leading to inhibition of cell proliferation.</div>"
+                            ],
+                            "guid": "y}_W1^FpUD",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Evasion of apoptosis</b><div>• Reduced {{c1::CD95}} level\n<font color=\"#ff0000\">inactivate</font> death –induced\nsignaling cascade that cleaves DNA to cause\ndeath -&gt; tumour cells <font color=\"#ff0000\">less\nsusceptible to apoptosis</font>&nbsp;</div><div>• DNA damage induced\napoptosis (with the action\nof {{c1::TP53}} ) can be blocked\nin tumours&nbsp;</div><div>• loss of {{c1::TP53}} and upregulation of {{c1::BCL2}}\n<font color=\"#ff0000\">prevent apoptosis</font> e.g.\nfollicular lymphoma<br></div>",
+                                "<img src=\"paste-5bb1c538b78fa092fd4fe15884a4ba41de49fed4.jpg\">"
+                            ],
+                            "guid": "v(exDp[MD+",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Limitless replicative potential</b><div>– Normally there is progressive shortening of {{c1::telomeres}} at\nthe ends of chromosomes&nbsp;</div><div>– <font color=\"#ff0000\">Telomerase</font> is active in normal {{c1::stem}} cells but absent in\n{{c1::somatic}} cells&nbsp;</div><div>– In tumor cells : activation of the enzyme telomerase, which\ncan maintain normal telomere length<b><br></b></div>",
+                                ""
+                            ],
+                            "guid": "y:hy$%`?|A",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Sustained angiogenesis</b><div>– Neovascularization has two main effects:&nbsp;</div><div>• Perfusion supplies <font color=\"#ff0000\">oxygen</font> and <font color=\"#ff0000\">nutrients</font>&nbsp;</div><div>• Newly formed endothelial cells stimulate the\ngrowth of adjacent tumor cells by secreting\ngrowth factors, e.g : {{c1::PDGF, IL-1&nbsp;}} (2)</div><div><br></div><div>– Angiogenesis is required for {{c1::metastasis}} (action)<b><br></b></div>",
+                                ""
+                            ],
+                            "guid": "l5~F)louLo",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Metastasis</b><div>Two phases :&nbsp;</div><div>• Invasion of\n{{c1::extracellular matrix}}&nbsp;</div><div>• Vascular\n<font color=\"#ff0000\">dissemination</font> and\n<font color=\"#ff0000\">homing</font> of tumor cells<b><br></b></div><div><br></div><div><b>Invasion of _</b><b>&nbsp;has four steps</b></div><div>– Malignant cells first breach\nthe {{c1::underlying}} basement\nmembrane&nbsp;</div><div>– Traverse the {{c1::interstitial}}\ntissue&nbsp;</div><div>– Penetrate the {{c1::vascular}}\nbasement membrane&nbsp;</div><div>– Gain access to the\ncirculation<b><br></b></div><div><br></div><div><b>Genomic Instability</b><br></div><div>{{c1::BRCA1 &amp; BRCA2}} mutation in <font color=\"#ff0000\">80% of familial\nbreast cancer</font><b><br></b></div>",
+                                ""
+                            ],
+                            "guid": "duWcp(4;sM",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "5a226d39-b247-11eb-ae61-faf4610bb370",
+                    "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-5d9a63b4652f35114899da12790841045ef3a1de.jpg",
+                        "paste-8c5411d2a7dc495e57ad6b3ffd76dc0a3dc6beaf.jpg",
+                        "paste-985b155da27293af67611bab7f646e8c1d341c51.jpg",
+                        "paste-b58c534797a151683ceabbc0d3228cded55f96d8.jpg",
+                        "paste-bfefeb54e77b11f37181da39c4dfec88d9fa947d.jpg",
+                        "paste-cbef42767e731723318a7c32bcdfcbb8b629a957.jpg",
+                        "paste-cc855d61dbf1ddb40ab6146cd7fc2292ff6dc965.jpg",
+                        "paste-d512b54308efb142fe1cf9426df92d839fe267c1.jpg",
+                        "paste-eb0241522e40648d0e3e297eaf247a204cceebd1.jpg"
+                    ],
+                    "name": "04/13 Introduction to Autoimmune Disease",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b style=\"\">Definition\nof Pathologic Autoimmunity</b><div>Give the 3 criteria/defintion of it<br><div></div><div>{{c1::<div><span style=\"color: rgb(179, 17, 102);\">1.</span><span style=\"color: rgb(64, 64, 64);\">The </span><span style=\"color: rgb(64, 64, 64);\">presence of an\nimmune reaction specific for some </span><font color=\"#ff0000\">self antigen</font><span style=\"color: rgb(64, 64, 64);\"> or </span><font color=\"#ff0000\">self tissue</font></div>\n<div><span style=\"color: rgb(179, 17, 102);\">2.</span><span style=\"color: rgb(64, 64, 64);\">Evidence </span><span style=\"color: rgb(64, 64, 64);\">that such a\nreaction is </span><font color=\"#ff0000\">not secondary</font><span style=\"color: rgb(64, 64, 64);\"> to tissue damage </span><font color=\"#ff0000\">but is of primary pathogenic significance</font></div>\n<div><span style=\"color: rgb(179, 17, 102);\">3.</span><span style=\"color: rgb(64, 64, 64);\">The </span><font color=\"#ff0000\">absence</font><span style=\"color: rgb(64, 64, 64);\"> of\nanother well-defined </span><font color=\"#ff0000\">cause</font><span style=\"color: rgb(64, 64, 64);\"> of the disease</span></div>}}<br></div></div><div><br></div><div>Name 2 antibody mediated diseases<br></div><div>Name 2 T-cell mediated diseases</div><div><br></div><div>Which 1 of these is a systemic disease instead of organ specific?</div><div>MS<br></div><div>Type 1 DM</div><div>Chron disease</div><div>RA</div><div>Graves disease</div><div><br></div><div>{{c1::rheumatoid arthritis}}</div>",
+                                "<img src=\"paste-5d9a63b4652f35114899da12790841045ef3a1de.jpg\"><div><img src=\"paste-cc855d61dbf1ddb40ab6146cd7fc2292ff6dc965.jpg\"><br></div><div><img src=\"paste-eb0241522e40648d0e3e297eaf247a204cceebd1.jpg\"><br></div>"
+                            ],
+                            "guid": "cwMA^Y8J>{",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-b58c534797a151683ceabbc0d3228cded55f96d8.jpg\"><div><span style=\"color: rgb(64, 64, 64);\">What does The TCR heterodimer&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">consist&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">of?</span></div><div><br></div>",
+                                "<div><span style=\"color: rgb(64, 64, 64);\">an&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">a</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">and&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">a β&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">chain</span><br></div>\n<div><br></div>"
+                            ],
+                            "guid": "zJ;tu.v/AO",
+                            "note_model_uuid": "afe9e61b-7dce-11eb-8b6f-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<img src=\"paste-b58c534797a151683ceabbc0d3228cded55f96d8.jpg\"><div><span style=\"color: rgb(64, 64, 64);\">What does The TCR heterodimer&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">consist&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">of?</span></div><div>{{c1::<span style=\"color: rgb(64, 64, 64);\">an&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">a</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">and&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">a β&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">chain</span>}}<br></div><div><div><span style=\"color: rgb(64, 64, 64);\">The </span><font color=\"#ff0000\">peptide</font><span style=\"color: rgb(64, 64, 64);\"> antigen in turn is presented by a Class </span><font color=\"#ff0000\">II</font><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span>{{c1::MHC}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;molecule on antigen-presenting cells</span><span style=\"color: rgb(64, 64, 64);\"> </span><span style=\"color: rgb(64, 64, 64);\">(APC)</span></div></div><div>What does signal 2 consist of?</div><div>{{c1::<div>APC- CD80 or CD86</div><div>T-cell - CD28</div>}}<br></div>",
+                                "<div><u><span style=\"color: rgb(64, 64, 64);\">Both self\nantigens and foreign antigens </span></u><span style=\"color: rgb(64, 64, 64);\">are routinely\npresented</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span></div>"
+                            ],
+                            "guid": "C#mcmLt,Ke",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Central\nTolerance – Thymus (T-cells) &amp; Bone Marrow (B-cells)&nbsp;</b><div>What are the possible fates (2) of T-Cells that recognise/activate upon self antigens?&nbsp;</div><div>{{c1::<br></div><div><div><span style=\"color: rgb(64, 64, 64);\">1.undergo\napoptosis&nbsp;</span><br></div><div><span style=\"color: rgb(64, 64, 64);\">2.Turn into Treg cells</span></div>}}<br></div><div>Name the key&nbsp;<span style=\"color: rgb(64, 64, 64);\">Autoimmune regulator protein in this process</span></div><div>{{c1::AIRE protein}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;</span><br></div><div><br></div><div>What are the possible fates (2) of B-Cells that recognise/activate upon self antigens?</div><div>{{c1::<div><font color=\"#b31166\">1.R</font><span style=\"color: rgb(64, 64, 64);\">eceptor\nediting:&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Reactivate antigen receptor gene rearrangement to\ncreate new non-self recognising receptors</span>&nbsp;</div><div><span style=\"color: rgb(64, 64, 64);\">2.undergo apoptosis&nbsp;</span></div>}}<br></div>",
+                                "<img src=\"paste-cbef42767e731723318a7c32bcdfcbb8b629a957.jpg\">"
+                            ],
+                            "guid": "Eh~}k9%*T6",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b style=\"\">Peripheral\nTolerance&nbsp;</b><div>What are the 2 fates?</div><div>{{c1::<div>1.anergy</div><div>2.deletion</div>}}<br></div><div><br></div><div>The molecules (2) {{c1::CTLA-4 &amp;\nor PD-1}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;may be expressed by the T-cells&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">instead of\nCD</span>{{c1::28}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;but they</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;prevent </span><font color=\"#ff0000\">signal 2</font><span style=\"color: rgb(64, 64, 64);\"> causing&nbsp;</span>{{c1::anergy}}</div><div><div><b style=\"\"><br></b></div></div><div><div><font color=\"#b31166\">-</font><span style=\"color: rgb(64, 64, 64);\">T cells that recognise self antigens may express </span><span style=\"color: rgb(64, 64, 64);\">Bim</span></div>\n<div><font color=\"#b31166\">-</font><span style=\"color: rgb(64, 64, 64);\">Pro-apoptotic&nbsp;</span>{{c1::Bim}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;in the absence of anti-apoptotic&nbsp;</span>{{c1::Bcl-2}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;and&nbsp;</span>{{c1::Bcl-xL}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;→ T cell\napoptosis</span></div>\n<div><font color=\"#b31166\">-</font><font color=\"#ff0000\">Fas</font><span style=\"color: rgb(64, 64, 64);\"> is expressed\non most T cells </span></div>\n<div><font color=\"#b31166\">-</font>{{c1::<span style=\"color: rgb(64, 64, 64);\">Fas</span>L}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;is upregulated </span><span style=\"color: rgb(64, 64, 64);\">on Activated T\ncells </span><span style=\"color: rgb(64, 64, 64);\">&nbsp;- engagement of </span><font color=\"#ff0000\">Fas</font><span style=\"color: rgb(64, 64, 64);\"> and&nbsp;</span>{{c1::FasL}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;induces apoptosis</span></div>\n<div><font color=\"#b31166\">-</font><span style=\"color: rgb(64, 64, 64);\">Self-reactive B cells may also be eliminated if&nbsp;</span>{{c1::FasL}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;on Activated\nT cells engages the </span><span style=\"color: rgb(64, 64, 64);\">Fas</span><span style=\"color: rgb(64, 64, 64);\"> on the B cell</span></div></div>",
+                                "<img src=\"paste-d512b54308efb142fe1cf9426df92d839fe267c1.jpg\"><div><span style=\"color: rgb(64, 64, 64);\">B-cells can\nundergo </span><span style=\"color: rgb(64, 64, 64);\">anergy</span><span style=\"color: rgb(64, 64, 64);\">, particularly if they encounter self-antigen in the\nabsence of </span><font color=\"#ff0000\">T helper cells</font><br></div><div><img src=\"paste-b58c534797a151683ceabbc0d3228cded55f96d8.jpg\"><span style=\"color: rgb(64, 64, 64);\"><br></span></div>"
+                            ],
+                            "guid": "g=ylfGd|Bo",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>HLA\nAlleles (MHCs)<br></b></div><div><font color=\"#b31166\">-</font><span style=\"color: rgb(64, 64, 64);\">In&nbsp;</span>Systemic\nLupus Erythematosus,<span style=\"color: rgb(64, 64, 64);\"> </span><span style=\"color: rgb(64, 64, 64);\">the HLA-DR3 </span><span style=\"color: rgb(64, 64, 64);\">haplotype associates </span><span style=\"color: rgb(64, 64, 64);\">with\nproduction of&nbsp;</span>{{c1::anti-DNA}}&nbsp;<span style=\"color: rgb(64, 64, 64);\">antibodies, in </span><span style=\"color: rgb(64, 64, 64);\">myositis </span><span style=\"color: rgb(64, 64, 64);\">with</span>{{c1::<span style=\"color: rgb(64, 64, 64);\"> </span><span style=\"color: rgb(64, 64, 64);\">anti-Jo1</span>}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">production</span></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><b>SLE – Etiology and Pathogenesis</b><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Deficiencies in early&nbsp;</span>{{c1::complement}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;components (C2, C3,\nC4)</span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Genetic loci discovered by GWAS (lymphocyte and\ninterferon signalling)</span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Failure of self tolerance in&nbsp;</span>{{c1::B}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;cells</span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span>{{c1::CD4+ T}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;cells recognising self-antigens that have\nescaped tolerance</span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">UV exposure</span></div></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><span style=\"color: rgb(64, 64, 64);\">Name 2 types of Autoa</span><span style=\"color: rgb(64, 64, 64);\">ntibodies involved</span></div><div>{{c1::<div><span style=\"color: rgb(64, 64, 64);\"><b>Antinuclear Antibodies</b></span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">To DNA</span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">To histones</span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Non histone proteins bound to DNA</span></div>\n<div><span style=\"color: rgb(64, 64, 64);\"><b>Antiphospholipid antibodies (anti-PL)</b></span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Present in 30-40%</span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Directed against plasma proteins</span></div>\n<div><span style=\"color: rgb(64, 64, 64);\">Also anti-</span><span style=\"color: rgb(64, 64, 64);\">SSa</span><span style=\"color: rgb(64, 64, 64);\"> (Ro) and anti-</span><span style=\"color: rgb(64, 64, 64);\">SSb</span><span style=\"color: rgb(64, 64, 64);\"> (La)</span></div>}}</div>",
+                                "<b>genome-wide association</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;study (</span><b>GWAS</b><span style=\"color: rgb(32, 33, 36);\">)</span>"
+                            ],
+                            "guid": "r}%ck;mSc@",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b style=\"\">SLE\n– Case Study</b><div><div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">A </span><span style=\"color: rgb(64, 64, 64);\">2</span><span style=\"color: rgb(64, 64, 64);\">0-year </span><span style=\"color: rgb(64, 64, 64);\">old woman </span><span style=\"color: rgb(64, 64, 64);\">presents </span><span style=\"color: rgb(64, 64, 64);\">with </span><span style=\"color: rgb(64, 64, 64);\">fatigue, heart palpitations and abdominal pain 3\nmonths after giving birth. Her symptoms resolve over next months </span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">5 years later she is pregnant with her 2</span><span style=\"color: rgb(64, 64, 64);\">nd</span><span style=\"color: rgb(64, 64, 64);\"> child. She experiences premature contractions</span><span style=\"color: rgb(64, 64, 64);\">, increased fatigue, headaches, and swelling in her\nlegs.&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">With bed rest\nshe gives birth to a healthy baby.</span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Shortly after she begins experiencing ankles </span><span style=\"color: rgb(64, 64, 64);\">and </span><span style=\"color: rgb(64, 64, 64);\">knee swelling,\njoint </span><span style=\"color: rgb(64, 64, 64);\">pain in her\nankles, knees, elbows, wrists, and fingers.&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">&nbsp; </span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Intolerance </span><span style=\"color: rgb(64, 64, 64);\">to low </span><span style=\"color: rgb(64, 64, 64);\">temperature, </span><span style=\"color: rgb(64, 64, 64);\">hands and feet\nbecoming painful and </span><span style=\"color: rgb(64, 64, 64);\">discoloured.</span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">S</span><span style=\"color: rgb(64, 64, 64);\">he is referred\nto a rheumatologist.</span></div></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><span style=\"color: rgb(64, 64, 64);\">Identifiy&nbsp; 2 risk factors present</span></div><div>{{c1::<br></div><div><span style=\"color: rgb(64, 64, 64);\">Women is biggest one, often assoc. with pregnancy</span>}}</div><div><span style=\"color: rgb(64, 64, 64);\">Why is it important she has \"</span><span style=\"color: rgb(64, 64, 64);\">joint&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">pain in her ankles, knees, elbows, wrists, and fingers</span><span style=\"color: rgb(64, 64, 64);\">\" ?</span><br></div><div>{{c1::Somethings wrong but it is all over and on both sides of her body and sounds like autoimmune disease}}<br></div><div><span style=\"color: rgb(64, 64, 64);\">\"</span><span style=\"color: rgb(64, 64, 64);\">Intolerance&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">to low&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">temperature,&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">hands and feet becoming painful and&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">discoloured.</span><span style=\"color: rgb(64, 64, 64);\">\",what is this called?</span><br></div><div>{{c1::raynaud's phenomenon, keelin gets it}}<span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><br></div><div><div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Patient </span><span style=\"color: rgb(64, 64, 64);\">A's ANA test\nis positive at 1:640. </span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Her </span><span style=\"color: rgb(64, 64, 64);\">lupus\nerythematosus test or LE cell prep is negative (normal: negative test with no\nLE cells noted.) </span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">The </span><span style=\"color: rgb(64, 64, 64);\">rheumatoid\narthritis factor is negative (normal: negative with &lt;60 U/mL), and her\nsedimentation rate is 62 mm/hr (normal: up to 20 mm/hr for females</span><span style=\"color: rgb(64, 64, 64);\">).</span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Schirmer's</span><span style=\"color: rgb(64, 64, 64);\"> </span><span style=\"color: rgb(64, 64, 64);\">test was performed. The test was markedly abnormal as\nonly 3.0mm of the filter strip in the right _ and 1.0mm of that in the left _ became </span><span style=\"color: rgb(64, 64, 64);\">wet (negative\n&lt;10mm in 5 min)&nbsp;</span></div></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><span style=\"color: rgb(64, 64, 64);\">What is an ANA test?</span></div><div>{{c1::<span style=\"color: rgb(32, 33, 36);\">An&nbsp;</span><b>ANA test</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;looks for antinuclear antibodies in your blood.</span>}}<span style=\"color: rgb(64, 64, 64);\"><br></span></div><div>What is an LE cell?</div><div>{{c1::Neutrophil or macrophage that has phagocytosed the denatured nuclear material of another cell}}</div><div>What does high&nbsp;<span style=\"color: rgb(64, 64, 64);\">sedimentation rate</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span>indicate?</div>{{c1::Likely some autoimmunity}}<div>What is&nbsp;<b>Schirmer's test </b>and how is it performed?<br></div><div>{{c1::<span style=\"color: rgb(32, 33, 36);\">A&nbsp;</span><b>Schirmer's test</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;determines whether a person's eye produces enough tears to keep their eye moist and healthy. To&nbsp;</span><b>conduct a Schirmer's test</b><span style=\"color: rgb(32, 33, 36);\">, a doctor places a piece of filter paper inside the lower eyelid of both eyes and the person closes their eyes. After 5 minutes, the doctor removes the filter paper.</span>}}<br></div><div><br></div><div><br></div><div><div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">One year\nlatter the patient begins to develop a malar rash</span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">She undergoes\nfurther tests:</span></div></div><div><div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">ANA: 1:640 (normal: No ANA detected in a </span><span style=\"color: rgb(64, 64, 64);\">titer</span><span style=\"color: rgb(64, 64, 64);\"> with a\ndilution 1:32)</span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Anti-DNA antibody test: Elevated (normal: low or none)</span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Complement assay: Decreased C</span><span style=\"color: rgb(64, 64, 64);\">3</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;level at 43 mg/</span><span style=\"color: rgb(64, 64, 64);\">dL</span><span style=\"color: rgb(64, 64, 64);\"> (normal: 55–120 mg/</span><span style=\"color: rgb(64, 64, 64);\">dL</span><span style=\"color: rgb(64, 64, 64);\">) and decreased C</span><span style=\"color: rgb(64, 64, 64);\">4</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;level at\n14 mg/</span><span style=\"color: rgb(64, 64, 64);\">dL</span><span style=\"color: rgb(64, 64, 64);\"> (normal: 20–50 mg/</span><span style=\"color: rgb(64, 64, 64);\">dL</span><span style=\"color: rgb(64, 64, 64);\">)</span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Red blood cell count: 3.8 million/mm</span><span style=\"color: rgb(64, 64, 64);\">3</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;(normal: 4.2–5.4 million/mm</span><span style=\"color: rgb(64, 64, 64);\">3</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;for women)</span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Hemoglobin</span><span style=\"color: rgb(64, 64, 64);\">: 10.5 g/</span><span style=\"color: rgb(64, 64, 64);\">dL</span><span style=\"color: rgb(64, 64, 64);\"> (normal:\n12–16 g/</span><span style=\"color: rgb(64, 64, 64);\">dL</span><span style=\"color: rgb(64, 64, 64);\"> for women)</span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Hematocrit</span><span style=\"color: rgb(64, 64, 64);\">: 35% (normal:\n37% to 47% for women)</span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">White blood cell count: 6000/mm</span><span style=\"color: rgb(64, 64, 64);\">3</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;(normal: 5000–10,000/mm</span><span style=\"color: rgb(64, 64, 64);\">3</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;for women)</span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Platelets: </span><span style=\"color: rgb(64, 64, 64);\">138,000/mm</span><span style=\"color: rgb(64, 64, 64);\">3</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;(normal: 150,000–400,000/mm</span><span style=\"color: rgb(64, 64, 64);\">3</span><span style=\"color: rgb(64, 64, 64);\">)</span></div></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><span style=\"color: rgb(64, 64, 64);\">What is a malar rash?</span></div>{{c1::<span style=\"color: rgb(64, 64, 64);\">Butterfly rash</span>}}<div><span style=\"color: rgb(64, 64, 64);\">Which of these tests is normal?</span></div><div>{{c1::White blood cell count}}<span style=\"color: rgb(64, 64, 64);\"><br></span></div><div>Which test (specifically mentioned by her) give an insight to autoimmune activity?</div><div>{{c1::Complement Assay}}</div><div>How many criteria for SLE dianosis does she meet, can you diagnose her?</div><div>{{c1::<span style=\"color: rgb(64, 64, 64);\">She meets 5 of </span><span style=\"color: rgb(64, 64, 64);\">11 criteria </span><span style=\"color: rgb(64, 64, 64);\">for </span><span style=\"color: rgb(64, 64, 64);\">SLE diagnosis</span><span style=\"color: rgb(64, 64, 64);\">, including: butterfly rash/facial erythema, </span><span style=\"color: rgb(64, 64, 64);\">non-erosive </span><span style=\"color: rgb(64, 64, 64);\">arthritis,\nhematologic or blood disorder (</span><span style=\"color: rgb(64, 64, 64);\">anemia</span><span style=\"color: rgb(64, 64, 64);\">), immunologic disorder (abnormal anti-DNA antibody\ntest), and a positive ANA </span><span style=\"color: rgb(64, 64, 64);\">titer</span><span style=\"color: rgb(64, 64, 64);\">.</span>}}<br></div>",
+                                "<img src=\"paste-8c5411d2a7dc495e57ad6b3ffd76dc0a3dc6beaf.jpg\">"
+                            ],
+                            "guid": "pwLZJmNZO;",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Rheumatoid\nArthritis</b><div><div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Inflammatory Disease that Affects Joints </span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">inflammatory synovitis</span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Destruction of articular cartilage and </span><span style=\"color: rgb(64, 64, 64);\">ankylosis</span><span style=\"color: rgb(64, 64, 64);\"> of the joints</span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Extra-articular lesion can be found in the skin,\nheart, blood vessels, and lungs</span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Ie</span><span style=\"color: rgb(64, 64, 64);\"> Systemic</span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Caused by autoimmune&nbsp;</span>{{c1::CD4+ T}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;cell activation</span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span>{{c1::IFN gamma}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;(from Th1 cells) activate&nbsp;</span>{{c1::macrophages}}</div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><font color=\"#ff0000\">IL-17 from Th17</font><span style=\"color: rgb(64, 64, 64);\"> cells recruits </span><font color=\"#ff0000\">neutrophils and\nmonocytes</font><span style=\"color: rgb(64, 64, 64);\">, </span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span>{{c1::TNF}}<span style=\"color: rgb(64, 64, 64);\">, IL-1 from macrophages mediates a lot of the\ndamaging effects</span></div></div>",
+                                "<img src=\"paste-bfefeb54e77b11f37181da39c4dfec88d9fa947d.jpg\">"
+                            ],
+                            "guid": "p{3domqB{Q",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Rheumatoid Arthritis-Case study</b><div><div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">7 months ago a 48-year </span><span style=\"color: rgb(64, 64, 64);\">old </span><span style=\"color: rgb(64, 64, 64);\">hairdresser experienced morning stiffness </span><span style=\"color: rgb(64, 64, 64);\">in both hands </span><span style=\"color: rgb(64, 64, 64);\">and increasing\n</span><span style=\"color: rgb(64, 64, 64);\">difficulty standing for long periods at work or at\nhome due to foot and ankle pain. </span><span style=\"color: rgb(64, 64, 64);\">ibuprofen </span><span style=\"color: rgb(64, 64, 64);\">800mg 3 times daily </span><span style=\"color: rgb(64, 64, 64);\">improved\nsymptoms. </span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">3 months she noticed </span><span style=\"color: rgb(64, 64, 64);\">pain in her\nright and left shoulders when </span><span style=\"color: rgb(64, 64, 64);\">drying\nclient’s </span><span style=\"color: rgb(64, 64, 64);\">hair. </span><span style=\"color: rgb(64, 64, 64);\">Additionally she felt extremely </span><span style=\"color: rgb(64, 64, 64);\">tired </span><span style=\"color: rgb(64, 64, 64);\">and lacked\nenergy for energy for usual </span><span style=\"color: rgb(64, 64, 64);\">activities.\nIbuprofen was no longer </span><span style=\"color: rgb(64, 64, 64);\">effective.</span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Additionally she reported experiencing intermittent\nfever</span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">She visited her GP who ordered a series of tests.</span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\"> The blood tests revealed positive rheumatoid factor,\nCCP antibodies, elevated ESR and C-reactive protein.&nbsp;</span></div></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><span style=\"color: rgb(64, 64, 64);\">What indicates this a systemic autoimmune disease?</span></div><div>{{c1::<span style=\"color: rgb(64, 64, 64);\">\"both hands\", \"</span><span style=\"color: rgb(64, 64, 64);\">her right and left shoulders\"</span>}}<span style=\"color: rgb(64, 64, 64);\"><br></span></div><div>Is it rheumatoid factor the dianosistic test for RA?</div><div>{{c1::No, isn't specific/definitive, there is no 1 test a criteria system is used to diagnose}}</div><div>What does elevated&nbsp;<span style=\"color: rgb(64, 64, 64);\">C-reactive protein indicate?</span></div><div>{{c1::Inflammation is occuring}}<br></div>",
+                                "<img src=\"paste-985b155da27293af67611bab7f646e8c1d341c51.jpg\">"
+                            ],
+                            "guid": "u^sB@xpp;g",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Sjogren’s Syndrome&nbsp;</b><div><div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">A 5</span><span style=\"color: rgb(64, 64, 64);\">2-year old\nwoman presented with a painful enlarged parotid gland.&nbsp; </span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">She </span><span style=\"color: rgb(64, 64, 64);\">reported that\nthree months earlier she had presented with an enlarged parotid gland,\naccompanied by severe pain on the opposite side, fever and had been treated for\nmumps.&nbsp; </span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">When </span><span style=\"color: rgb(64, 64, 64);\">questioned\nabout dryness the patient said that she experiences oral dryness on a daily\nbasis for the past 5 years and had been tested for diabetes (negative) due to\nthe frequent dryness/thirst. </span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">The </span><span style=\"color: rgb(64, 64, 64);\">patient also\nreported that she experienced dry and gritty eyes, and was prone to muscular\npains and painful joints.&nbsp; </span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Schirmer's</span><span style=\"color: rgb(64, 64, 64);\"> </span><span style=\"color: rgb(64, 64, 64);\">test was performed. The test was markedly abnormal as\nonly 3.0mm of the filter strip in the right eye and 1.0mm of that in the left\neye became </span><span style=\"color: rgb(64, 64, 64);\">wet</span><span style=\"color: rgb(64, 64, 64);\">.</span></div></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><span style=\"color: rgb(64, 64, 64);\">What makes you rule out RA and SLE?</span></div><div>{{c1::You can't rule it out, but occular and oral dryness is in 95% of sjogren's syndrome}}<br></div><div><br></div><div><b>Further tests were done:</b></div><div>If there's a cloze explain what it indicates or rules out</div><div><div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Glucose: 77 [74-106mg/L]&nbsp;</span>{{c1::rules out DM}}</div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Cryogobulins</span><span style=\"color: rgb(64, 64, 64);\">:\nNegative&nbsp;</span><span style=\"color: rgb(64, 64, 64);\"> </span><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span>{{c1::<span style=\"color: rgb(64, 64, 64);\">rules out&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">SLE </span><span style=\"color: rgb(64, 64, 64);\">and </span><span style=\"color: rgb(64, 64, 64);\">RA</span>}}</div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">CRP: 7.2\n[0.00-4.99mg/L]&nbsp;&nbsp;</span>{{c1::Inflammation\nmarker}}</div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">C3 Complement: 127.1 [90-180 mg/</span><span style=\"color: rgb(64, 64, 64);\">dL</span><span style=\"color: rgb(64, 64, 64);\">] </span><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span>{{c1::<span style=\"color: rgb(64, 64, 64);\">Decreased C3 C4&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">would indicate lupus </span><span style=\"color: rgb(64, 64, 64);\">activity</span>}}</div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">C4 Complement: 13.8 [10-40 mg/</span><span style=\"color: rgb(64, 64, 64);\">dL</span><span style=\"color: rgb(64, 64, 64);\">]&nbsp;</span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">IgG: 2271\n[700-1600 mg/</span><span style=\"color: rgb(64, 64, 64);\">dL</span><span style=\"color: rgb(64, 64, 64);\">]&nbsp;</span>{{c1::<span style=\"color: rgb(64, 64, 64);\">(elevated Ig -patient is sick, not specific for much</span><span style=\"color: rgb(64, 64, 64);\">)</span>}}</div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">IgA: 439\n[70-400 mg/</span><span style=\"color: rgb(64, 64, 64);\">dL</span><span style=\"color: rgb(64, 64, 64);\">]&nbsp;</span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">IgM: 107 [40-230 mg/</span><span style=\"color: rgb(64, 64, 64);\">dL</span><span style=\"color: rgb(64, 64, 64);\">]&nbsp;&nbsp;</span>{{c1::<span style=\"color: rgb(64, 64, 64);\">(</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;Can be a sign of </span><span style=\"color: rgb(64, 64, 64);\">RA)</span>}}</div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Erythrocyte </span><span style=\"color: rgb(64, 64, 64);\">Sedimentation\nRate&nbsp;: 30 [0-42 mm/hr</span><span style=\"color: rgb(64, 64, 64);\">]&nbsp;</span>{{c1::<span style=\"color: rgb(64, 64, 64);\">(Non </span><span style=\"color: rgb(64, 64, 64);\">specific but measures disease </span><span style=\"color: rgb(64, 64, 64);\">activity)</span>}}</div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Anti-Nuclear\nAntibody: &gt;12 [0.0-0.9 EU</span><span style=\"color: rgb(64, 64, 64);\">]&nbsp;</span>{{c1::<span style=\"color: rgb(64, 64, 64);\">(These </span><span style=\"color: rgb(64, 64, 64);\">indicate\nautoimmune activity, but are non specific, so need further </span><span style=\"color: rgb(64, 64, 64);\">investigation </span><span style=\"color: rgb(64, 64, 64);\">to figure out\nwhich is </span><span style=\"color: rgb(64, 64, 64);\">present)</span>}}</div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Anti-ENA\nScreen: &gt;200 [0.0-19 EU]&nbsp;</span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Anti-</span><span style=\"color: rgb(64, 64, 64);\">Cardiolipin</span><span style=\"color: rgb(64, 64, 64);\"> ACA IgG: </span><span style=\"color: rgb(64, 64, 64);\">Negative&nbsp;</span>{{c1::(Lupus marker)}}</div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Anti-</span><span style=\"color: rgb(64, 64, 64);\">Cardiolipin</span><span style=\"color: rgb(64, 64, 64);\"> ACA IgM: Negative&nbsp;</span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Anti-CCP antibody: &lt;20 [0-20 Units]&nbsp;&nbsp;</span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Rheumatoid\nFactor: 136 [&lt;15 IU/mL]&nbsp;</span>{{c1::<span style=\"color: rgb(64, 64, 64);\">(Typically </span><span style=\"color: rgb(64, 64, 64);\">elevated in\nrheumatoid arthritis, </span><span style=\"color: rgb(64, 64, 64);\">Sjogrens</span><span style=\"color: rgb(64, 64, 64);\">, lupus,\ninterstitial fibrosis </span><span style=\"color: rgb(64, 64, 64);\">etc</span><span style=\"color: rgb(64, 64, 64);\">)</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span>}}</div></div><div><br></div><div>Which test is missing?</div><div>{{c1::<span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Anti-SS A:\n&gt; 8 [&lt;1.0 </span><span style=\"color: rgb(64, 64, 64);\">Neg</span><span style=\"color: rgb(64, 64, 64);\">] (</span><span style=\"color: rgb(64, 64, 64);\">Sjogren’s</span><span style=\"color: rgb(64, 64, 64);\"> specific)</span>}}<br></div>",
+                                "<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Inflammatory Disease that Affect Primarily the\nsalivary and lacrimal glands</span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Caused by autoimmune T cell action against these\nglands </span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Aberrant B cell activation also involved </span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Initialising trigger may be viral infection of\nsalivary glands. E.g. CMV, EBV, less so HTVL-1 &amp; Hep C.</span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Increased risk of lymphoma 5% v 2 T for RA or SLE\n(Non-</span><span style=\"color: rgb(64, 64, 64);\">Hodgkins</span><span style=\"color: rgb(64, 64, 64);\">, MALT – mucosa associated lymphoid tissue)</span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\"><b>90% Patients are female</b></span></div>\n<div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Generally diagnosed after 50</span></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><div><b>Clinical Features&nbsp;</b><b><br></b></div><div>systemic disease so anywhere can be affected</div><div><br></div><div><div><span style=\"color: rgb(64, 64, 64);\">Glandular</span></div><div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\"><b>Oral Dryness (90%)</b></span></div><div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Parotid gland enlargement (50%)</span></div><div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\"><b>Ocular dryness (95%)</b></span></div><div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Dry skin (10%)</span></div><div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Dryness upper respiratory tract (20%)</span></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><span style=\"color: rgb(64, 64, 64);\">Systemic (Non-specific)</span></div><div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Musculoskeletal (70%)</span></div><div><span style=\"color: rgb(179, 17, 102);\">u</span><span style=\"color: rgb(64, 64, 64);\">Raynaud's (30</span><span style=\"color: rgb(64, 64, 64);\">%)</span></div><span style=\"color: rgb(64, 64, 64);\">uFatigue (</span><span style=\"color: rgb(64, 64, 64);\">7</span><span style=\"color: rgb(64, 64, 64);\">0%)</span><br></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><div>Systemic (Periepithelial)</div><div>-Bronchial (20%)</div><div>-Liver (hepatomegaly) (25%)</div><div>-Kidney(2.5%)</div><div><br></div><div>Systemic (Endocrine)</div><div>-Thyroid</div><div>-Adrenal Glands</div><div>-Ovaries</div><div><br></div><div>Lymphoma (approx. 5% life time risk)</div></div></div>"
+                            ],
+                            "guid": "lmQd-oyi2E",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "5a233096-b247-11eb-a7a8-faf4610bb370",
+                    "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-761184f1aa40cd45a9ca2f86455a97321f1c476e.jpg",
+                        "paste-953f952e2bdebf71b716d730bc03142d941405df.jpg",
+                        "paste-a40b298f6ee2a521cff9fdf82c7bc56a5c0dd6d6.jpg",
+                        "paste-d5acd14a75eab48466e4591d960f54ff5bc36b44.jpg",
+                        "paste-efad5989363b08fcf046e498081f95efe747ac6c.jpg"
+                    ],
+                    "name": "04/14 Cancer Diagnosis and Management",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b><span style=\"color: rgb(192, 0, 0);\">Making\na Tissue Diagnosis</span><span style=\"color: yellow;\"><br></span></b></div><div><span style=\"color: yellow;\">•</span>A\ntissue diagnosis is required before treatment instituted for almost all cancers\n</div>\n<div><span style=\"color: yellow;\">•</span>Different\napproaches to getting tissue depend on the site of the lesion</div>\n<div><span style=\"color: rgb(192, 0, 0);\"><br></span></div><div>{{c1::Punch}}<span style=\"color: rgb(192, 0, 0);\">&nbsp;biopsy&nbsp; </span>-\nsuitable for superficial sites e.g. skin &nbsp; lesion</div>\n<div><span style=\"color: yellow;\">•</span>{{c1::<span style=\"color: rgb(192, 0, 0);\">Needle</span><span style=\"color: red;\"> </span><span style=\"color: rgb(192, 0, 0);\">core</span>}}<span style=\"color: rgb(192, 0, 0);\">&nbsp;biopsy – </span>for\ndeeper lesions; can be performed with or without radiological guidance. Former\ncan be done for palpable lesion in accessible site e.g. Obvious breast lump&nbsp;</div><div><div>{{c1::Fine\nneedle aspirate/washings}}<span style=\"color: rgb(192, 0, 0);\">&nbsp;-&nbsp;</span>used for head &amp; neck lumps, pleura, lung,\nascites, biliary brushings</div></div><div><div>{{c1::Excisional}}<span style=\"color: rgb(192, 0, 0);\">&nbsp;biopsy&nbsp;</span>e.g. for skin lesions , lymph nodes, or\nlesions that are indeterminate on core biopsy</div>\n<div></div>\n<div>{{c1::Frozen}}<span style=\"color: rgb(192, 0, 0);\">&nbsp;section&nbsp;</span>Rarely used usually only for testicular\nmass, renal tumours, met to node</div>\n<div></div>\n<div>{{c1::Resection}}<span style=\"color: rgb(192, 0, 0);\">&nbsp;-&nbsp;</span>Sometimes diagnosis is made at definitive resection e.g. kidney, thyroid</div></div>",
+                                ""
+                            ],
+                            "guid": "O_J_EZ+/b!",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(192, 0, 0);\"><b>Prognostic\nFactors&nbsp;</b></span><div>In cancers,\nthere are features, apart from grade and stage, that are prognostically\nrelevant<span style=\"color: rgb(192, 0, 0);\"><b><br></b></span></div><div>Mix and match:</div><div>Proliferation rate<br></div><div>Perineural invasion<br></div><div>Ulceration and LVI<br></div><div>LVI<br></div><div>Ki67 positivity<br></div><div><br></div><div>non-melanoma skin cancer<br></div><div>node-negative breast cancer<br></div><div>carcinoid<br></div><div>lymphoma<br></div><div>melanoma<br></div><div><br></div><div>{{c1::<div><span style=\"color: rgb(192, 0, 0);\">•</span>Proliferation\nrate in lymphoma </div>\n<div><span style=\"color: rgb(192, 0, 0);\">•</span>Perineural\ninvasion in non-melanoma skin cancer</div>\n<div><span style=\"color: rgb(192, 0, 0);\">•</span>Ulceration\nand LVI in melanoma</div>\n<div><span style=\"color: rgb(192, 0, 0);\">•</span>LVI\nin node-negative breast cancer</div>\n<div><span style=\"color: rgb(192, 0, 0);\">•</span>Ki67\npositivity in carcinoid</div>}}<br></div>",
+                                "<span style=\"color: rgb(32, 33, 36);\">Lymphovascular invasion (</span><b>LVI</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;or lymphovascular space invasion)&nbsp;</span>"
+                            ],
+                            "guid": "g,UW`#FlfO",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Case 1</b><div><div><span style=\"color: rgb(235, 242, 90);\">l</span>Male 70 years </div>\n<div><span style=\"color: rgb(235, 242, 90);\">l</span>Heavy Smoker</div>\n<div><span style=\"color: rgb(235, 242, 90);\">l</span>Longstanding COAD</div>\n<div><span style=\"color: rgb(235, 242, 90);\">l</span>Productive cough</div>\n<div><span style=\"color: rgb(235, 242, 90);\">l</span>Recent episode of haemoptysis</div></div><div><br></div><div>What is COAD?</div>{{c1::<div><span style=\"color: rgb(32, 33, 36);\">Chronic bronchitis and emphysema (also known as chronic obstructive airway disease or&nbsp;</span><b>COAD</b><span style=\"color: rgb(32, 33, 36);\">)</span><br></div><div></div><div>}}</div><div>What is the difference between&nbsp;<b>hematemesis and&nbsp;</b>haemoptysis?</div>{{c1::<div><b>haematemesis</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;-&nbsp;the vomiting of blood</span><br></div><div><em>Haemoptysis</em><span style=\"color: rgb(77, 81, 86);\">&nbsp;is the coughing of blood originating from the respiratory tract below the level of the larynx</span><br></div><div><br></div><div></div><div>}}</div><div><br></div><div><img src=\"paste-a40b298f6ee2a521cff9fdf82c7bc56a5c0dd6d6.jpg\"><br></div><div>Describe this (location, effect)</div>{{c1::<div>Right middle lobar consolidation</div><div></div><div>}}Give a non cancer differential for this<br></div><div>{{c1::<div>Pneumonia, anything that causes lung consolidation</div><div></div>}}<br></div><div><br></div><div><img src=\"paste-efad5989363b08fcf046e498081f95efe747ac6c.jpg\"><br></div><div>What is the imaging called and what is evident?</div><div>{{c1::CT scan, tumour}}</div><div><br></div><div>What would be the next step to do?</div><div>{{c1::<img src=\"paste-761184f1aa40cd45a9ca2f86455a97321f1c476e.jpg\">}}<br></div><div><br></div><div>Pathologist returns this image</div><div><img src=\"paste-d5acd14a75eab48466e4591d960f54ff5bc36b44.jpg\"><br></div><div>What are her findings?</div><div>{{c1::tumour, very poorly\ndifferentiated}}<br></div><div>How would she find out more about it?</div><div>{{c1::<div><span style=\"color: rgb(77, 81, 86);\">Immunohistochemistry (</span><em>IHC</em><span style=\"color: rgb(77, 81, 86);\">) performed to identify markers</span><br></div><div><img src=\"paste-953f952e2bdebf71b716d730bc03142d941405df.jpg\"></div>}}<br></div><div>She suspects it is a carcinoma after that, what indicates carcinoma?<br></div><div>{{c1::<div>Cytokeratin positive: carcinoma</div>\n<div>Neuroendocrine markers (synsptophysin)\npositive: Diagnosis- Small cell undifferentiated carcinoma SCUC</div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "oq6r~r5?l8",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "5a23cce0-b247-11eb-9196-faf4610bb370",
+                    "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-f4826e7b1feede0de38b515c360eda12c6a3bd70.jpg",
+                        "paste-f5f4628f70646de51b254f9595bababb7ffc48c5.jpg"
+                    ],
+                    "name": "04/15 Pathology Tools for Cancer Diagnostics",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><div><b>Fluorescent In-situ hybridisation (FISH)</b>&nbsp;</div><div><b>Comparative Genomic Hybridization (CGH)&nbsp;</b><br></div></div><b><div><div><b>IN SITU HYBRIDIZATION</b>&nbsp;</div><br></div></b><div>{{c1::<b>Comparative Genomic\nHybridization (CGH)&nbsp;</b><div></div>}}•Molecular-cytogenetic method for the analysis of copy\nnumber changes (gains/losses) in the DNA content of a\ngiven subject's DNA and often in tumor cells.&nbsp;</div><div>•_ will detect <font color=\"#ff0000\">only unbalanced chromosomal changes</font>.&nbsp;</div><div>•Structural chromosome aberrations such as balanced\n<font color=\"#ff0000\">reciprocal</font> translocations or <font color=\"#ff0000\">inversions</font> can <font color=\"#ff0000\">not be detecte</font>d,\nas they do not change the copy number</div><div><br></div>{{c1::<div><b>IN SITU HYBRIDIZATION</b>&nbsp;</div><div></div><div>}}• A method for the localization of <font color=\"#ff0000\">nucleic acids</font> at the\ncellular level.&nbsp;<br></div><div>– DNA (viral, single copy genes-FISH)&nbsp;</div><div>– RNA (viral, mRNA)<br></div><div><br></div>{{c1::<div><b>Fluorescent In-situ hybridisation (FISH)</b>&nbsp;</div><div></div><div>}}• Detect disease specific <font color=\"#ff0000\">translocations</font>&nbsp;<br></div><div>• Chromosome numeration&nbsp;</div><div>• Detect <font color=\"#ff0000\">loss/gain in specific gene</font> targets<br></div>",
+                                ""
+                            ],
+                            "guid": "H;OH*1q1C:",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Heterogeneity in\nthe cancerous\ntissue</b><div>very hard hard to tell real cells and baby cancers apart under microscope<br></div><div>Use <font color=\"#ff0000\">Laser Capture Microscopy (LCM)</font></div><div><br></div><div>Name its 5 steps</div><br><div>leaves only tumour to look at behind</div><div><img src=\"paste-f4826e7b1feede0de38b515c360eda12c6a3bd70.jpg\"><br></div>",
+                                "<img src=\"paste-f5f4628f70646de51b254f9595bababb7ffc48c5.jpg\">"
+                            ],
+                            "guid": "p27~piYsoe",
+                            "note_model_uuid": "afe9e61b-7dce-11eb-8b6f-a0b2d6ecb02c",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "5a244216-b247-11eb-b092-faf4610bb370",
+                    "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-22cd9d358bfe9dc97fff4bc6ea76e6bf6e1204b9.jpg",
+                        "paste-2925f9a4edf77d622b67d14ae58453f982aee5a7.jpg",
+                        "paste-63ad5940ae3383ea124d383408ea125c9f1fa2c1.jpg",
+                        "paste-8a71b595a2d9a21dca3fc4db288f32b179adf431.jpg",
+                        "paste-8d34ff908b9352d6a55a1b327d3eddb9e54c6b02.jpg"
+                    ],
+                    "name": "04/16 Precision Medicine and Molecular Testing in Pathology",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Which Gene mutation is common to&nbsp;<span style=\"font-weight: bold;\">GI/Colorectal,&nbsp;</span><span style=\"font-weight: bold;\">Lung,&nbsp;</span><span style=\"font-weight: bold;\">Breast,&nbsp;</span><span style=\"font-weight: bold;\">Melanoma?</span><div>{{c1::NTRK}}</div><div><br></div><div><div>Is there effective therapy for it?<br>{{c1::Yep, entrectinib}}</div></div><div><br></div><div>What is the downsized for testing it?</div><div>{{c1::Very rare, so doesn't make economic sense}}</div>",
+                                "<div>•<span style=\"font-weight: bold;\">GI/Colorectal&nbsp; </span></div>\n<div>•KRAS,\nNRAS, BRAF, MSI/MMR, Her2, Kit, PDGFR, PDL1, NTRK</div>\n<div>•<span style=\"font-weight: bold;\">Lung&nbsp; </span></div>\n<div>•EGFR,\nKRAS, NRAS, BRAF, MSI/MMR, Her2, kit, PDGFR,PDL1, Alk,\nROS1, NTRK</div>\n<div>•<span style=\"font-weight: bold;\">Breast&nbsp; </span></div>\n<div>•ER,\nPR, Her2, PIK3Ca, PDL1, Oncotype, BRCA, Ki67, NTRK</div>\n<div>•<span style=\"font-weight: bold;\">Melanoma&nbsp; </span></div>\n<div>•BRAF,\nPDL1, NTRK</div>"
+                            ],
+                            "guid": "C1g}0MR>l|",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><span style=\"color: rgb(0, 112, 192);\"><b>PCR</b></span><br></div>What is PCR testing?<div><div>{{c1::<div>•Amplify the target DNA with PCR</div>\n<div>•For single gene tests can just use PCR\nproduct expansion to detect gene variants</div>\n<div>•Or for multiple genes can do massive\nparallel sequencing AKA Next Generation Sequencing (NGS)</div>}}</div><div>What does it look at?</div></div><div><div>{{c1::Looks at the genetic code in sequence}}</div></div><div>What genes does it look for (7)?</div><div>{{c1::KRAS, NRAS, BRAF, EGFR, PDGFRa,\nCKIT, PIK3CA</div><div>All 4 letters in the name genes apart from NTRK}}</div><div><br></div><div><span style=\"color: rgb(112, 48, 160);\"><b>ISH</b></span><br></div><div>What is ISH testing?</div><div><div>{{c1::•Detection of fusion oncoproteins which\nare constitutively activated by a translocation}}</div><div><br></div><div><div><div>What does it look at?</div></div><div><div><div>{{c1::<div><div>Looks at the structure of the chromosome}}</div></div></div></div></div><div><br></div><div><div>What genes does it look for (3)?</div><div>{{c1::<div><div>ALK, ROS1, NTRK</div></div><div><div></div></div>}}<br></div></div><div><br></div><div>Which inhibitor may help if positive?</div><div>{{c1::ALK\nor ROS translocation in non-small cell lung cancer then the patient may respond\nto an inhibitor such as crizotinib}}<br></div><div><br></div><div><br></div></div></div>",
+                                "<img src=\"paste-2925f9a4edf77d622b67d14ae58453f982aee5a7.jpg\">"
+                            ],
+                            "guid": "oTodm/AD_i",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(132, 60, 12);\"><b>Immunohistochemistry</b></span><div><span style=\"color: rgb(132, 60, 12);\">What is used to test for HER2?</span></div><div><div>{{c1::•Use monoclonal antibodies to detect the\nproteins (antigens) expressed on tumour tissue on a glass slide}}</div><div><br></div><div>What is used to test for EP/PR?</div>\n<div>{{c1::•If a breast cancer expresses hormone\nreceptors, (O)Estrogen or\nProgesterone, ER or PR then the patient will respond to anti-hormone therapy\nnamely tamoxifen}}</div><div><br></div><div>What therapy is used in Her2's case?</div>\n<div>{{c1::•If a breast cancer overexpresses Her2\nthen the patient may receive herecptin a monoclonal antibody therapy against\nthe Her2 protein}}<br></div></div><div><br></div><div>What is MMR?</div><div>{{c1::&nbsp;Mismatch repair proteins}}</div><div><br></div><div><br></div><div>How is MMR detected?</div><div>{{c1::<div>Detect <span style=\"font-weight: bold;\">Lack\n</span>&nbsp;of a functional MMR gene by <span style=\"font-weight: bold;\">negative\nIHC</span><br></div><div><img src=\"paste-22cd9d358bfe9dc97fff4bc6ea76e6bf6e1204b9.jpg\"></div>}}<br></div><div><span style=\"font-weight: bold;\"><br></span></div><div>What is MSI?</div><div>{{c1::microsatellite\ninstability}}</div><div><br></div><div>What are the 4 most important genes for MMR?</div><div>{{c1::<div>•MLH1</div>\n<div>•PMS2</div>\n<div>•MSH2</div>\n<div>•MSH6}}</div></div><div><br></div><div><br></div>",
+                                "<img src=\"paste-8a71b595a2d9a21dca3fc4db288f32b179adf431.jpg\">"
+                            ],
+                            "guid": "tMt&&n5u//",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>PDL1</b><div>What is<b>&nbsp;</b>PDL1?</div><div>{{c1::<div><div>•<span style=\"font-weight: bold;\">Programmed death-ligand 1</span>&nbsp;(PD-L1)&nbsp;</div></div><div><div>•Transmembrane protein which binds to PD1\na receptor on T cells which dampens down the immune response through decreased\nT cell proliferation</div></div><div><img src=\"paste-63ad5940ae3383ea124d383408ea125c9f1fa2c1.jpg\">}}<br></div></div><div><br></div><div><br></div><div>Why isn't it used in as a treatment many cancers (4)?</div><div>{{c1::<div>Doesn't always work- the more PDL1 the higher the chance it works</div><div><br></div><div>Side effects- Immunetherapy can cause autoimmune effects</div><div><br></div><div>Potential to make things worse still new</div><div><br></div><div>Expensive</div>}}<br></div><div><br></div><div>What is a liquid biopsy?</div><div>{{c1::<div>Take blood/fluid which contains cancer cells and see what makes better/worse, what's there</div><div><img src=\"paste-8d34ff908b9352d6a55a1b327d3eddb9e54c6b02.jpg\"></div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "Gw#.:$R%Rn",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "5a24de5e-b247-11eb-a34d-faf4610bb370",
+                    "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-0dc5a645aee85cd35e9989c5a8b4ef20e8dd0757.jpg",
+                        "paste-2befeb1d1c6b6872adafb6a75b3be7970994db51.jpg",
+                        "paste-327b6d0ae2a689c712d7793feb5a715c2f65217c.jpg",
+                        "paste-333fddc4ce41f58c789ddf7ced0b69e9c97dad04.jpg",
+                        "paste-456614fdc5224a234de6cab747ff88b1c37dd42e.jpg",
+                        "paste-533b404e051c6f4fa2a17f9dbba5f124e1c54b01.jpg",
+                        "paste-951229e6cecc4b1739cc55125502ac4ec13d6345.jpg",
+                        "paste-9df942879806e491b2e627c506a26355e9a8988d.jpg",
+                        "paste-afac0cfcc63152d2aef3a1c12a18791017c044f6.jpg",
+                        "paste-b352bab634318829363fdc17d4c45ab1cf995042.jpg",
+                        "paste-d08d2be11ba92707db249bdf0261dc475cff730f.jpg"
+                    ],
+                    "name": "04/19 Lung tumours",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b style=\"\">Case 1</b><div><div>-60 year old male</div>\n<div>-Worked in building sites in 1950s </div>\n<div>-Smoker x 30 years, 1 pack per day;\nstopped 5 years ago</div>\n<div>nLongstanding COAD</div>\n<div>nGenerally feeling unwell, weak</div>\n<div>nPersistent cough with recent <b>haemoptysis</b></div>\n<div>nReduced AE, scattered crepitations</div>\n<div>&nbsp;&nbsp;</div><div>Give 3 differentials</div><div>{{c1::<div>1.Lung cancer</div>\n<div>2.TB</div>\n<div>3.Abscess</div>\n<div>4.Bronchiectasis</div>\n<div>5.COAD with infection</div>\n<div>6.Fungal infection</div>\n<div>7.Anti-coagulant use</div>\n<div>8.Vasculitis</div>\n<div>9.PE</div>}}<br></div><div>What is&nbsp;<b>haemoptysis?</b></div><div>{{c1::Coughing blood}}</div>\n<div></div></div>",
+                                "<img src=\"paste-2befeb1d1c6b6872adafb6a75b3be7970994db51.jpg\">"
+                            ],
+                            "guid": "L#?>u_4f53",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Case 2</b><div><b>Name is David Waldron<br></b><div><div>n65 year old man </div>\n<div>nLife-long smoker</div>\n<div>nSOB, cough, low grade temp</div>\n<div>nConsolidation on CXR</div>\n<div>nDiagnosis of pneumonia</div>\n<div>nTreated with antibiotics </div>\n<div>nPresented for follow-up CXR after 6 weeks&nbsp;</div><div><img src=\"paste-d08d2be11ba92707db249bdf0261dc475cff730f.jpg\"><br></div><div><br></div><div>What is most likely differential?</div><div>{{c1::Non-compliance with medication}}</div>\n<div></div></div></div>",
+                                "Other possible:<div><div>Non-compliance\nwith medication</div>\n<div>Infection\nby drug-resistant organisms</div>\n<div>Atypical\nor viral pneumonia</div>\n<div>TB</div>\n<div>Abscess</div>\n<div>Underlying\ntumour –\nprimary or secondary lung cancer&nbsp;</div></div>"
+                            ],
+                            "guid": "IVa|S&qmdi",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Central Tumours</b><div><div>nPresent with bronchial obstruction</div>\n<div>ne.g.\nhaemoptysis; cough; wheeze</div>\n<div>n2/3rd\ninvolve 1st, 2nd,\n3rd&nbsp;\norder bronchi</div>\n<div>nAre most commonly SCC or SCUC</div>\n<div>nCan be complicated by pneumonia, abscess,\natelectasis, bronchiectasis</div></div><div><br></div><div>What can they look like?</div><div>{{c1::<div><img src=\"paste-327b6d0ae2a689c712d7793feb5a715c2f65217c.jpg\"><br></div><div><img src=\"paste-0dc5a645aee85cd35e9989c5a8b4ef20e8dd0757.jpg\"><br></div><div><img src=\"paste-afac0cfcc63152d2aef3a1c12a18791017c044f6.jpg\"></div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "eWt6Y_]n:=",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Peripheral Tumours<br></b></div><div><b>True/False</b></div><div>nPresent late {{c1::T}}</div>\n<div>nPresent with&nbsp;haemoptysis, cough, wheeze {{c1::F cough, pleural irritation,\neffusion}}</div>\n<div>n1/3&nbsp;\narise in alveoli or terminal bronchioles {{c1::T}}</div>\n<div>nAre more commonly SCC {{c1::F adenocarcinomas}}</div><div><img src=\"paste-533b404e051c6f4fa2a17f9dbba5f124e1c54b01.jpg\"><br></div>",
+                                ""
+                            ],
+                            "guid": "g8z9~@#Sj8",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>Name these cancer types</div><div><br></div>{{c1::<div>Adenocarcinoma (AC)<br></div><div></div><div>}}<img src=\"paste-9df942879806e491b2e627c506a26355e9a8988d.jpg\"></div><div><br></div>{{c1::<div>Squamous Cell Carcinoma, keratin is found on right of the circle, curved line of nuclei<br></div><div></div><div>}}<img src=\"paste-456614fdc5224a234de6cab747ff88b1c37dd42e.jpg\"><br></div><div><br></div><div><br></div>{{c1::<div>Adenocarcinoma in situ&nbsp;<br></div><div></div><div>}}<img src=\"paste-b352bab634318829363fdc17d4c45ab1cf995042.jpg\"><br></div><div><br></div><div>{{c1::Small cell undifferentiated carcinoma}}<br></div><div><img src=\"paste-951229e6cecc4b1739cc55125502ac4ec13d6345.jpg\"><br></div>",
+                                "<b>Adenocarcinoma in situ&nbsp;</b><div><div>nPeripeheral;\nsingle or multiple coaslescing nodules that look like pneumonia.</div>\n<div>nGrow along pre-existing structures/septae</div>\n<div>nOrigin: type II pneumocytes, clara\ncells or bronchiolar cells..</div>\n<div>n&lt; 3 cm</div>\n<div>nNon mucinous subtype excellent 5 yr\nsurvival.</div>\n<div>nMucinous subtype spread earlier almost\nalways have invasion (IMA)</div></div><div><img src=\"paste-333fddc4ce41f58c789ddf7ced0b69e9c97dad04.jpg\"><br></div>"
+                            ],
+                            "guid": "eo9+**`hT]",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Spread of lung cancer</b><div><div>nDirect spread</div>\n<div>-Regional\nnodes</div>\n<div>-Pulmonary\nartery </div>\n<div>-Regional\norgans/structures</div>\n<div>e.g.\npericardium, mediastinum, <b>superior vena cava</b> (emergency),\ncervical sympathetic ganglia (Horner’s syndrome)</div>\n<div>nBlood</div>\n<div>nAdrenal,\nliver, brain, bone, breast</div>\n<div>nLymphatic</div>\n<div><br></div></div><div>What is horner's syndrome?</div><div>{{c1::<b>Horner syndrome</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;is a combination of signs and symptoms caused by the disruption of a nerve pathway from the brain to the face and eye on one side of the body. Typically,&nbsp;</span><b>Horner syndrome</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;results in a decreased pupil size, a drooping eyelid and decreased sweating on the affected side of your face</span>}}<br></div><div>Why is&nbsp;<b>superior vena cava syndrome</b>&nbsp;a medical emergency?</div><div><div>{{c1::<div>SVCS may develop quickly and block your breathing completely. If so, you might need a machine to help you breathe until doctors treat the blockage. It is more common for SVCS to develop slowly. If this happens, your other veins may get larger to carry extra blood and you may experience milder symptoms.&nbsp;</div>}}<br></div></div><div>What is&nbsp;Paraneoplastic syndrome?</div><div>{{c1::<div><span style=\"color: rgb(32, 33, 34);\">A&nbsp;</span><b>paraneoplastic syndrome</b><span style=\"color: rgb(32, 33, 34);\">&nbsp;is a&nbsp;</span><a href=\"https://en.wikipedia.org/wiki/Syndrome\">syndrome</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;</span><span style=\"color: rgb(32, 33, 34);\">&nbsp;that is the consequence of&nbsp;</span><a href=\"https://en.wikipedia.org/wiki/Cancer\">cancer</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;in the body, specifically due to the production of chemical signaling molecules (such as&nbsp;</span><a href=\"https://en.wikipedia.org/wiki/Hormone\">hormones</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;</span><span style=\"color: rgb(32, 33, 34);\">) by&nbsp;</span><a href=\"https://en.wikipedia.org/wiki/Tumor\">tumor</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;cells or by an&nbsp;</span><a href=\"https://en.wikipedia.org/wiki/Immune_response\">immune response</a><span style=\"color: rgb(32, 33, 34);\">&nbsp;against the tumor. Unlike a&nbsp;</span><a href=\"https://en.wikipedia.org/wiki/Mass_effect_(medicine)\">mass effect</a><span style=\"color: rgb(32, 33, 34);\">, it is not due to the local presence of cancer cells.</span><br></div><div><span style=\"color: rgb(32, 33, 34);\">Common ones are&nbsp;</span></div><div><span style=\"font-style: italic;\">PTH</span><span style=\"font-style: italic;\">&nbsp; </span><span style=\"font-style: italic;\">&amp; SCC</span></div>\n<div><span style=\"font-style: italic;\">&nbsp;</span><span style=\"font-style: italic;\">ADH/ACTH &amp; SCUC</span></div>}}<br></div><div><br></div><div>What chromosomes can be affected in SCC?</div><div>{{c1::ch 3, 9; 17}}<br></div>",
+                                "For other causes of SCCs<div><div>Loss and deletions on ch 3, 9; 17; <b>p53</b> mutations, loss of Rb;\nFGFR1 amp, EGFRvIII\nmutation</div></div>"
+                            ],
+                            "guid": "H2d0F|)N$b",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "5a257aa7-b247-11eb-8c87-faf4610bb370",
+                    "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-19d21c67c03c29ea6c4d27687e61f95cd386867c.jpg",
+                        "paste-32a1c8e93299960c4cc9a379ddc66b282d46886a.jpg",
+                        "paste-331af478443ebcc1139e979997f97f23a4589af3.jpg",
+                        "paste-34ad1b04c810989becd435b8ece0b76ffc55fd54.jpg",
+                        "paste-352a0a2faef9b4896339841d93712b85ec0cc4a1.jpg",
+                        "paste-3a567e2a5404106b4326f7c2054527b79cb128cc.jpg",
+                        "paste-48b4ad6b7ace6b28aa699816a775b43eafa59c79.jpg",
+                        "paste-5493fff33bb131180048dcaa5799e877905f72d8.jpg",
+                        "paste-59bd2b200d175f6858143ebebf7f6b8e35ea40fe.jpg",
+                        "paste-6b724f404d7d9aff1d56453150099a547cb82e3b.jpg",
+                        "paste-a14db7e0c304d2948ab2b6910c613aaed3f62398.jpg",
+                        "paste-c7b93b354bf6a4831236a33574a5f45919644911.jpg"
+                    ],
+                    "mid": 1603908832969,
+                    "name": "04/20 Molecular pathology of lung cancer",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Lung\nCancer – 2 main types</b><div><div>{{c1::Small}} cell carcinoma 15-20%</div><div>{{c1::</div><div>treatment is usually just chemo</div><div><img src=\"paste-48b4ad6b7ace6b28aa699816a775b43eafa59c79.jpg\">}}<br></div><div><br></div><div><div>{{c1::NON Small}} cell carcinoma ~80%</div></div></div><div><div>{{c1::<div><div>Adenocarcinoma 45 - 50%</div></div><div><img src=\"paste-5493fff33bb131180048dcaa5799e877905f72d8.jpg\"><br></div><div><div>Squamous cell carcinoma 30%</div></div><div><img src=\"paste-352a0a2faef9b4896339841d93712b85ec0cc4a1.jpg\"></div>}}<br></div></div>",
+                                ""
+                            ],
+                            "guid": "GrTo.Z`WTG",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "subset of lung {{c1::adenocarcin}}omas possessed a mutation in the <b>tyrosine\nkinase</b> domain of the {{c1::EGFR}} receptor and increased sensitivity to treatment with<b> tyrosine kinase</b> inhibitor (TKI)\ntherapies<div><br></div><div>EGFR\nmutations tend to occur in well-differentiated adenocarcinomas with a lepidic\npattern of growth<br></div><div><b>What is a&nbsp;</b>lepidic pattern of growth?&nbsp;</div><div>{{c1::<div><b>Lepidic growth</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;is a pathological term referring to a pattern of cell proliferation along the lining of the alveolar structures of the lung as is seen in a subset of lung tumors</span></div><div><img src=\"paste-19d21c67c03c29ea6c4d27687e61f95cd386867c.jpg\"></div>}}<br></div>",
+                                "<img src=\"paste-3a567e2a5404106b4326f7c2054527b79cb128cc.jpg\">"
+                            ],
+                            "guid": "o)2>p(tkU!",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Rearrangements of&nbsp;<span style=\"font-style: italic;\">ALK</span>&nbsp;gene in {{c1::non small}} cell lung cancer&nbsp;</b><div><br></div><div>What is ALK? {{c1::anaplastic lymphoma kinase}}</div><div><br></div><div><div>Gene fusion events lead to the production\nof a protein chimer: </div>\n<div></div>\n<div>carboxy-terminal kinase domain of ALK and\namino-terminal of the fusion partner, usually {{c1::echinoderm microtubule-associated\nprotein-like 4 (EML4)}}</div>\n<div></div>\n<div>The resulting protein has an activated\n{{c1::tyrosine kinase}} with transforming abilities that drive carcinogenesis</div></div><div><br></div><div>What is the therapy used on this?</div><div>{{c1::Crizotinib</div><div><img src=\"paste-a14db7e0c304d2948ab2b6910c613aaed3f62398.jpg\">}}<br></div><div><br></div><div>Who is tested for ALK?</div><div><div>{{c1::<div><div>Now all advanced lung adenocarcinomas and\nunclassified cases (Not Otherwise Specified (NOS))</div>\n<div></div>\n<div>Initial studies revealed usually occur in\nLight/Never smokers</div>\n<div>Younger\\</div>\n<div>signet-ring or goblet mucin cells</div></div><div><img src=\"paste-331af478443ebcc1139e979997f97f23a4589af3.jpg\"></div>}}<br></div></div><div><br></div><div>How is it tested?</div><div>{{c1::<div>FISH and <b>Roche d5f3</b> clone for immunohistochemistry&nbsp;</div><div><br></div><div><b><u>FISH</u></b></div><div>EML4-ALK\nresults from an <b>inversion</b> of a fragment of EML4 on chromosome <b>2</b> and its\nsubsequent ligation to the ALK gene.&nbsp;<br></div><div><br></div><div><div>1.both ends of the ALK gene, highlighted by the FISH probe, are separated\nas a result of the inversion</div>\n<div><br></div>\n<div>2.also cases where there is an isolated red (3') signal, implying\ncoincident deletions of the 5' end of ALK .</div></div><div><img src=\"paste-59bd2b200d175f6858143ebebf7f6b8e35ea40fe.jpg\"><br></div><div><img src=\"paste-c7b93b354bf6a4831236a33574a5f45919644911.jpg\"></div>}}<br></div>",
+                                "<img src=\"paste-32a1c8e93299960c4cc9a379ddc66b282d46886a.jpg\"><div><img src=\"paste-34ad1b04c810989becd435b8ece0b76ffc55fd54.jpg\"><br></div>"
+                            ],
+                            "guid": "z[YRh&`xzT",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>ROS1</b><div><div>ROS1 IHC can test strongly positive but be negative for a translocation,\ntherefore all ros1 samples with any level of positivity require {{c1::fish or another\nconfirmation of the fusion&nbsp;}}</div></div><div><br></div><div><div>ROS1 staining patterns may vary owing to different intracellular\nlocalization of the ROS1 fusions</div></div><div><br></div><div><div>IHC results may also be falsely positive because of {{c1::aneuploidy}} leading\nto aberrant expression.</div></div>",
+                                ""
+                            ],
+                            "guid": "mxI8BYhecc",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What biomarker predicts chemo efficacy?<div><div>{{c1::<div>PD-1, programmed death-1 is a type 1\ntransmembrane protein</div>\n<div>Expressed on activated T cells</div>\n<div></div>\n<div>&nbsp;particularly high expression by\ntumor-infiltrating T lymphocytes</div>\nAlso expressed on activated B-cells, natural killer cells, and\nmonocytes</div><div><img src=\"paste-6b724f404d7d9aff1d56453150099a547cb82e3b.jpg\">}}<br></div></div><div><br></div><div><br></div><div>What treatment can be used for this while present?</div><div>{{c1::The treatments known as “checkpoint\ninhibitors” disrupt this PD-L1:PD-1 interaction, allowing the immune system to\nattack tumour cells}}<br></div><div><br></div><div>How many tumour cells do you need for&nbsp; a TUMOUR PERCENTAGE\nSCORE (TPS)?</div><div>{{c1::100}}</div>",
+                                ""
+                            ],
+                            "guid": "O}jq|/4.*<",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "5a2616f0-b247-11eb-acbf-faf4610bb370",
+                    "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-048f414884f224cfa793c709dd01214f1cfc0cba.jpg",
+                        "paste-55a2081fdc9ed9cedf9443ad98ea1e92c3209afe.jpg",
+                        "paste-901e80373f3bd3a050bd6b93a41fb520e6539ed3.jpg",
+                        "paste-aeea81f11edcd55b406eb514ee4b88a553646f10.jpg",
+                        "paste-f953aaf1d0c504e729526285ef9a3862f0f4f039.jpg"
+                    ],
+                    "name": "04/22 Amyloid",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What is Amyloidosis?<div>{{c1::<div>•Group of diverse disorders characterized\nby extracellular deposits of amyloid</div>\n<div></div><div>}}</div><div><br></div><div>{{c1::Amyloid}} :a protein in abnormal\nfibrillar form resistant resistant to degradation.&nbsp;<br></div></div>",
+                                ""
+                            ],
+                            "guid": "iY%d^7na<9",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div></div>\n<div><b>Formation of Amyloid-Nucleation<br></b></div><div>•Formation of the amyloid relies on\n<font color=\"#ff0000\">polymerisation</font> of {{c1::fibrils}} from an unstable intermediate state</div>\n<div>•A “nucleus” or ”seed” of peptides in the\nform of a micelle or conglomeration of peptides starts the process</div>\n<div>•Thought to be similar to crystalisation </div>\n<div>•The free _ nucleate within these,\nelongating by irreversibly binding monomers to their free ends</div>\n<div>•Alternatively, amyloid formation may\nfollow an ‘offset pathway’ involving conversion of the intermediates into\namorphous deposits</div><div><br></div><div>What amyloid structure is more resistant and insoluble?</div><div><div>{{c1::•The beta sheet provides for the\nfibrillar, proteolytic resistant and insoluble characteristics that defines\namyloid}}</div></div>",
+                                "<img src=\"paste-55a2081fdc9ed9cedf9443ad98ea1e92c3209afe.jpg\">"
+                            ],
+                            "guid": "ts}Ecy?-Xr",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>how does amyloid&nbsp;cause damage?</b><br><div>If\nthe accumulation is in sensitive area (2),&nbsp;</div>{{c1::<div>heart (cardiac amyloid),&nbsp;</div><div>brain (amyloid angiopathy, Alzheimers)</div><div>}} it\ncan cause more significant problems<br></div><div><b><br></b></div><div><b>Mode of action<br></b></div><div><div>•Thought\nto be due to the {{c1::fibrils}} infiltration and not the mature amyloid fibres</div>\n<div>•{{c1::Calcium}}\nchannel dysregulation</div>\n<div>•{{c1::Mithocondrial}}\ndysfunction – increased ROS</div></div>",
+                                ""
+                            ],
+                            "guid": "C;uHn4g`l/",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Classification of Amyloid&nbsp;&nbsp;<br></b></div><div>Name the 5 types/methods<br></div><div>{{c1::<div>•By protein&nbsp;fibril</div>\n<div>•As primary or secondary</div>\n<div>•By anatomical category</div>\n<div>•As systemic or localized or herediatary</div>\n<div>•By disease association</div>}}<br></div><div><br></div>",
+                                "<img src=\"paste-048f414884f224cfa793c709dd01214f1cfc0cba.jpg\">"
+                            ],
+                            "guid": "ng{NL:,(#z",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>AL fibril</b><div><div>•{{c1::Prim}}ary <font color=\"#ff0000\">amyloidosis</font></div>\n<div>•Associated with <font color=\"#ff0000\">light chains</font> from {{c1::Ig}}</div>\n<div>•Proliferation of {{c1::plasma}} cells</div>\n<div>•Associated with <font color=\"#ff0000\">myeloma</font>, Waldenstroms,\nMGUS, NHL B cell lymphoma</div>\n<div>•Can sometimes precede development of a\nplasma cell dyscrasia </div><div><br></div>\n<div>•Deposition can happen in a number of\norgans</div></div><div><div>•Heart: restrictive cardiomyopathy</div>\n<div>•Kidney: Nephrotic syndrome, chronic\nkidney disease</div>\n<div>•Nerves: peripheral neuropathy</div>\n<div>•Liver: damage to liver function</div>\n<div>•Gut: Malabsorbtion</div>\n<div>•Soft tissue: Macroglossia</div>\n<div>•Blood vessels: haemorrhage,\nperiorbital haemorrhage</div></div>",
+                                "<img src=\"paste-f953aaf1d0c504e729526285ef9a3862f0f4f039.jpg\">"
+                            ],
+                            "guid": "B$C!V[5+ot",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>AA fibril</b><div><div>•{{c1::Second}}ary amyloidosis</div>\n<div>•Derived from {{c1::serum amyloid A}} (SAA)</div>\n<div>•Acute phase protein</div><div><br></div>\n<div>•Arises in chronic inflammatory conditions (3)</div>\n<div>{{c1::<div>•Rheumatoid\narthritis</div>\n<div>•Inflammatory\nbowel disease</div>\n<div>•Chronic\ninfections – TB, Osteomyelitis</div>}}<br></div><div><br></div><div>Name 3 usually affected organs.</div>\n<div>{{c1::<div>End organ damage</div>\n<div>•Kidneys\n– proteinuria, nephrotic syndrome</div>\n<div>•Liver\n– hepatomegaly, bleeding/bruising</div>\n<div>•Spleen\n– splenomegaly, prone to rupture</div>\n<div><br></div>\n<div>•Macroglossia doesn’t usually happen</div>\n<div>•Heart is rarely involved</div>}}<br></div></div>",
+                                ""
+                            ],
+                            "guid": "O@^2![lz9M",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>B2 amyloid</b><div><div>•Patients on Long-term {{c1::haemodialysis}}</div>\n<div>•Gradual accumulation of {{c1::β2 macroglobulin}}</div>\n<div>•A serum protein</div>\n<div><br></div><div>•Usually affects joints<br></div></div>",
+                                "<div><div>•Accumulates because it is unable to cross the dialysis filter</div><div>•Presents after some years of dialysis</div></div><img src=\"paste-901e80373f3bd3a050bd6b93a41fb520e6539ed3.jpg\">"
+                            ],
+                            "guid": "d=P;z`(+kr",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Alzhemiers and\nAmyloid</b><br></div><div>•Deposits of <font color=\"#ff0000\">A4</font> amyloid/amyloid {{c1::B}}&nbsp;protein</div>\n<div>•Precursor protein encoded on chromosome\n{{c1::21}}</div><div><br></div><div><b>Familial Amyloid Polyneuropathy</b><br></div><div><div>•Autosomal {{c1::dominant}}</div>\n<div>•Incomplete penetration</div>\n<div>•CAN be genetic</div>\n<div>•Mutations in transthyretin protein </div>\n<div>•<span style=\"font-weight: bold;\">Trans</span>ports {{c1::<span style=\"font-weight: bold;\">thy</span>roxine}}&nbsp;and {{c1::<span style=\"font-weight: bold;\">retin</span>ol}}&nbsp;protein</div>\n<div>•Produced in the {{c1::liver}}</div>\n<div>•Some forms affect multiple peripheral\nnerves – Polyneuropathy</div>\n<div>•May sometimes affect the heart</div></div>",
+                                ""
+                            ],
+                            "guid": "sN5=tC!V=0",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Diagnosis of Amyloid&nbsp;</b><div>what indications for these would lead you to suspect amyloidosis?</div><div><div>•History (5) {{c1::Chronic disease, haemodialysis,\ndementia, neuropathy, family history}}</div><div><br></div>\n<div>•Examination (2) {{c1::Marcoglossia, Hepatosplenomegaly}}</div><div><br></div>\n<div>•Echocardiogram (2) {{c1::May see “sparkling” on&nbsp; in\ncardiac amyloid, May see cardiomegaly}}</div><div><br></div>\n<div>•CT/MRI (1) {{c1::May see thickening of larger\nvessels}}</div>\n<div><br></div></div><div>What gives a definite diagnosis? explain the method used.</div><div><div>{{c1::<div><div>•Tissue diagnosis is definitive</div>\n<div>•Biopsy taken</div>\n<div>•Can be seen on standard H&amp;E stains but Stains\nPink so hard to see</div></div><div>Congo Red used, Bright Red Stain but Polarises to Apple Green Birefringince</div>\n<div>Because of fibrils in the structures</div><div><img src=\"paste-aeea81f11edcd55b406eb514ee4b88a553646f10.jpg\"></div>}}<br></div></div>",
+                                ""
+                            ],
+                            "guid": "EW-5dSnSUa",
                             "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
                             "tags": []
                         }
