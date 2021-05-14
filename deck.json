@@ -1095,6 +1095,292 @@
                             "tags": []
                         }
                     ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "8ccf7727-b4dd-11eb-b01b-faf4610bb370",
+                    "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-42542d88401187df8e5a34414d62ec30b252cb77.jpg",
+                        "paste-685eb7a492e9cadd2b1263cb497566960642c702.jpg",
+                        "paste-785bb99b159e0cf0770af302d3fed9e4304341a7.jpg",
+                        "paste-84be6d00cc9578cfe1dd83ffd918d500d5815080.jpg",
+                        "paste-883673bcc10f92ba2b32459bcd49b22441c02edb.jpg",
+                        "paste-deab5427c7c477927c4c39ec810da3010ef13baa.jpg"
+                    ],
+                    "mid": 1603908832969,
+                    "name": "04/05 Respiratory Tract Infections",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Respiratory\nTract Infections&nbsp;</span></b></div><div><span style=\"color: rgb(64, 64, 64);\">Upper respiratory tract infections (URTI)</span><br></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Sinusitis /\nrhinitis</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Otitis media</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Pharyngitis</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Tonsillitis</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Epiglottitis </span></div><div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Tracheitis</span><span style=\"color: rgb(64, 64, 64);\"><br></span></div>\n<div><br></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Lower respiratory tract infections (LRTI)</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">o</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;B</span><span style=\"color: rgb(64, 64, 64);\">ronchitis</span></div><div><span style=\"color: rgb(228, 131, 18);\">◦&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Bronchiolitis</span><br></div>\n<div><span style=\"color: rgb(228, 131, 18);\">o</span><span style=\"color: rgb(64, 64, 64);\"> Pneumonia /\npneumonitis</span><br></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><div><span style=\"color: rgb(64, 64, 64);\">One of these is in the wrong place, which one?</span></div></div><div>{{c1::<span style=\"color: rgb(64, 64, 64);\">Tracheitis =&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">B</span><span style=\"color: rgb(64, 64, 64);\">ronchitis</span>}}</div><div><br></div><div><span style=\"color: rgb(64, 64, 64);\">What is the difference between&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Bronchiolitis and&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">B</span><span style=\"color: rgb(64, 64, 64);\">ronchitis?</span></div><div>{{c1::<div><b>Bronchitis</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;is an inflammation of the lining of your bronchial tubes, which carry air to and from your lungs.</span><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><b>Bronchiolitis</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;is a common lung infection in young children and infants. It causes inflammation and congestion in the small airways (bronchioles) of the lung.</span></div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "N@0n`B]B(U",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(64, 64, 64);\"><b>Rhinosinusitis</b></span><div><span style=\"color: rgb(64, 64, 64);\">aka&nbsp;</span>{{c1::Common cold}}</div><div><span style=\"color: rgb(64, 64, 64);\">Incubation: 1-3 days</span><br></div><div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Duration of symptoms: </span><span style=\"color: rgb(64, 64, 64);\">usu</span><span style=\"color: rgb(64, 64, 64);\"> 1-2 </span><span style=\"color: rgb(64, 64, 64);\">wks</span></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Symptoms:</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Nasal:\ndischarge, congestion, sneezing</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Sore throat</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">+/- low-grade\nfever</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Malaise,\nheadache, others</span></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Rx: symptomatic relief (3)</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span>{{c1::Paracetamol,\nNSAIDs, antihistamines}}</div></div><div><br></div><div><div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Virus Causes:</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Rhinoviruses</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Coronaviruses</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Adenoviruses</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">P</span><span style=\"color: rgb(64, 64, 64);\">arainfluenza\nviruses; respiratory syncytial viruses</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Others</span></div></div><div><br></div><div>What type of bacteria can cause it? {{c1::Bacteria don't cause it}}</div><div><br></div><div>If you have prolonged sinusitis what would you expect to be the cause?&nbsp;<span style=\"color: rgb(228, 131, 18);\">&nbsp;</span></div><div>{{c1::<div><span style=\"color: rgb(64, 64, 64);\">Suspect bacterial infection when:</span><br></div><div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">No improvement\nor worsening after 8-10d</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">High fever,\nsignificant facial pain</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Development of\ncentral nervous system features (emergency)</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Bacterial pathogens:</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">Streptococcus </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">pneumoniae</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">Haemophilus </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">influenzae</span></div>\n<span style=\"color: rgb(64, 64, 64);\">others</span></div>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "Lo[je;b7m)",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b><span style=\"color: rgb(64, 64, 64);\">Otitis media</span><br></b></div><div><span style=\"color: rgb(64, 64, 64);\">Where does it affect?</span></div><div>{{c1::<img src=\"paste-883673bcc10f92ba2b32459bcd49b22441c02edb.jpg\">}}</div><div><br></div><div><div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Usually viral in aetiology</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Eg</span><span style=\"color: rgb(64, 64, 64);\">. rhinovirus</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Occasionally, secondary bacterial infection, 2/3&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">eg</span><span style=\"color: rgb(64, 64, 64);\">.</span></div>\n<div>{{c1::<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">Streptococcus </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">pneumoniae</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">Haemophilus </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">influenzae</span></div>\n<span style=\"color: rgb(64, 64, 64); font-style: italic;\">Moraxella </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">catarrhalis</span>}}<br></div></div>",
+                                ""
+                            ],
+                            "guid": "ek?t|@SOo#",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(64, 64, 64);\"><b>Pharyngitis</b></span><div><img src=\"paste-685eb7a492e9cadd2b1263cb497566960642c702.jpg\"><font color=\"#404040\"><b><br></b></font><div><font color=\"#404040\"><br></font></div><div><font color=\"#404040\">Usually viral 2/4<br></font><div>{{c1::<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Glandular\nfever (Epstein-Barr virus); HIV</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">B</span><span style=\"color: rgb(64, 64, 64);\">-haemolytic </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">Streptococcus</span><span style=\"color: rgb(64, 64, 64);\"> (</span><span style=\"color: rgb(64, 64, 64);\">eg</span><span style=\"color: rgb(64, 64, 64);\">. </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">S. </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">pyogenes</span><span style=\"color: rgb(64, 64, 64);\">)</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Others </span><span style=\"color: rgb(64, 64, 64);\">eg</span><span style=\"color: rgb(64, 64, 64);\">. </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">Mycoplasma</span><span style=\"color: rgb(64, 64, 64);\">, anaerobes</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">Corynebacterium</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\"> </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">diphtheriae</span></div>}}<br></div></div></div>",
+                                ""
+                            ],
+                            "guid": "eT:ytqqj3)",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(64, 64, 64);\"><b>Acute\nepiglottitis</b></span><div><span style=\"color: rgb(64, 64, 64);\">What usually causes it?&nbsp;</span><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span>{{c1::<span style=\"color: rgb(64, 64, 64); font-style: italic;\">H. </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">influenzae</span><span style=\"color: rgb(64, 64, 64);\"> type b</span>}}</div><div><br></div><div><div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Clinical presentation&nbsp;</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Toxic,\ndysphagia, drooling of saliva</span></div></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><span style=\"color: rgb(64, 64, 64);\">What is&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">dysphagia?&nbsp;</span><span style=\"color: rgb(32, 33, 36);\">&nbsp;</span>{{c1::swallowing difficulties}}</div><div><br></div><div><div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">What precautions must be taken?</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Get specialist\nreview (</span><span style=\"color: rgb(64, 64, 64);\">eg</span><span style=\"color: rgb(64, 64, 64);\">. ENT)\npromptly</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Secure <b>airway</b>;\navoid unnecessary examination</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Early\nantibiotics </span><span style=\"color: rgb(64, 64, 64);\">eg</span><span style=\"color: rgb(64, 64, 64);\">.&nbsp;</span>{{c1::ceftriaxone}}</div></div>",
+                                "<img src=\"paste-42542d88401187df8e5a34414d62ec30b252cb77.jpg\">"
+                            ],
+                            "guid": "wt.@7kvXIp",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(64, 64, 64);\"><b>Croup</b></span><div><span style=\"color: rgb(64, 64, 64);\">What 3 parts of the resp system does it affect?</span></div><div>{{c1::<span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Laryngo</span><span style=\"color: rgb(64, 64, 64);\">-trachea-bronchitis</span>}}<br></div><div><br></div><div><div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Typically in younger children</span></div><div><br></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Characterised by a barking-type cough, hoarseness of\nvoice, fever, agitation, stridor, etc.</span></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><span style=\"color: rgb(64, 64, 64);\">What is stridor?</span></div><div>{{c1::<b>Stridor</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;is a high-pitched, wheezing sound caused by disrupted airflow.&nbsp;</span><b>Stridor</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;may also be called musical breathing or extrathoracic airway obstruction.&nbsp;</span>}}<span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><br></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Usually caused by&nbsp;</span>{{c1::parainfluenza}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;viruses, occasionally&nbsp;</span>{{c1::respiratory\nsyncytial viruses}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;(rsv</span><span style=\"color: rgb(64, 64, 64);\">)</span></div></div>",
+                                ""
+                            ],
+                            "guid": "GIe72cqFgS",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(64, 64, 64);\"><b>Bronchiolitis</b></span><div><div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Inflammation of the&nbsp;</span>{{c1::bronchioles}}</div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Typically in infants and young children, especially\nduring the winter months</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Usually caused by respiratory syncytial viruses (RSVs)</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Wheezing, cough, URTI symptoms, etc.</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Prompt medical attention if evidence of difficulty in\nbreathing, etc.</span></div></div>",
+                                ""
+                            ],
+                            "guid": "o`_e$x-EZH",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(38, 38, 38);\"><b>Pneumonia</b></span><div><div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Symptoms: cough,&nbsp;</span>{{c1::purulent}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;sputum, dyspnoea, chest\npain, fever, anorexia, sweats, etc.</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Signs: vitals; oxygenation status (cyanosis?); chest\nsigns; mental status; etc.</span></div></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><span style=\"color: rgb(64, 64, 64);\"><u>Causes</u></span></div><div><div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span>{{c1::Streptococcus}}<span style=\"color: red; font-style: italic;\">&nbsp;</span><span style=\"color: red; font-style: italic;\">pneumoniae</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">Haemophilus </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">influenzae</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Atypical organisms </span><span style=\"color: rgb(64, 64, 64);\">eg</span><span style=\"color: rgb(64, 64, 64);\">.</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: red; font-style: italic;\">Legionella </span><span style=\"color: red; font-style: italic;\">pneumophila</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">Mycoplasma </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">pneumoniae</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">Chlamydophila</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\"> </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">pneumoniae</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: red;\">Viruses:</span><span style=\"color: rgb(99, 112, 82);\"> </span>Influenza\nviruses, SARS-CoV-1 and SARS-CoV-2, MERS-CoV</div></div><div><br></div><div><u>Causes in specific scenarios</u></div><div>Give scenario if there is a cloze</div><div><div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">Staphylococcus aureus</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;(2)</span>{{c1::(post-trauma or post-influenza)}}</div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">Pseudomonas aeruginosa</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;(2)</span>{{c1::(cystic fibrosis, bronchiectasis)}}</div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Anaerobes (aspiration); </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">Klebsiella</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\"> </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">pneumoniae</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Fungi: </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">Pneumocystis</span><span style=\"color: rgb(64, 64, 64);\">, </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">Aspergillus (1)</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span>{{c1::(severely immuno-compromised patients)}}</div><div><br></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span>{{c1::Mycobacterium}}<span style=\"color: red; font-style: italic;\">&nbsp;tuberculosis</span></div></div>",
+                                ""
+                            ],
+                            "guid": "En=cS#m=z+",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><span style=\"color: rgb(64, 64, 64); font-style: italic;\">Streptococcus </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">pneumoniae</span></b><div><div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Major pathogen for community-acquired pneumonia</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Gram-</span>{{c1::positive}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;diplococci on microscopy/Gram stain</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">What is a diploccus?</span></div><div>{{c1::<div><span style=\"color: rgb(77, 81, 86);\">A diplococcus is a round bacterium that typically occurs in the form of two joined cells.</span><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span>}}</div></div><div><br></div>\n<div><font color=\"#e48312\">Risk Factors</font></div></div><div><div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">&gt;65 </span><span style=\"color: rgb(64, 64, 64);\">yrs</span><span style=\"color: rgb(64, 64, 64);\"> or &lt;2 </span><span style=\"color: rgb(64, 64, 64);\">yrs</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Chronic lung, cardiovascular, renal and liver diseases</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Diabetes mellitus, alcohol abuse</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span>{{c1::<span style=\"color: rgb(64, 64, 64);\">A</span><span style=\"color: rgb(64, 64, 64);\">splenia</span><span style=\"color: rgb(64, 64, 64);\">/</span><span style=\"color: rgb(64, 64, 64);\">hypo</span>}}<span style=\"color: rgb(64, 64, 64);\">splenism</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Immunosuppression (condition and/or treatment)</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Post-influenza (secondary bacterial infection)</span></div></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><u><span style=\"color: rgb(64, 64, 64);\"><b>Penicillin\nsusceptibility</b></span><span style=\"color: rgb(64, 64, 64);\"><br></span></u></div><div><div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Most strains are susceptible to penicillin. Some\nstrains with </span><span style=\"color: rgb(64, 64, 64);\">r</span><span style=\"color: rgb(64, 64, 64);\">educed\nsusceptibility: due to changes in&nbsp;</span>{{c1::penicillin-binding proteins}}</div></div><div><br></div><div><div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Higher doses of penicillin/</span>{{c1::amoxicillin}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;can overcome\nintermediate penicillin susceptibility in </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">S. </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">pneumoniae</span></div></div><div><span style=\"color: rgb(64, 64, 64); font-style: italic;\"><br></span></div><div><span style=\"color: rgb(64, 64, 64);\"><b><u>Treatment</u></b></span><span style=\"color: rgb(64, 64, 64); font-style: italic;\"><br></span></div><div><div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Beta-</span><span style=\"color: rgb(64, 64, 64);\">lactams</span><span style=\"color: rgb(64, 64, 64);\">: </span><span style=\"color: rgb(64, 64, 64);\">penicillins</span><span style=\"color: rgb(64, 64, 64);\"> (</span><span style=\"color: rgb(64, 64, 64);\">eg</span><span style=\"color: rgb(64, 64, 64);\">. penicillin, amoxicillin); </span><span style=\"color: rgb(64, 64, 64);\">cephalosporins (1)</span><span style=\"color: rgb(64, 64, 64);\"> (</span><span style=\"color: rgb(64, 64, 64);\">eg</span><span style=\"color: rgb(64, 64, 64);\">.&nbsp;</span>{{c1::ceftriaxone}}<span style=\"color: rgb(64, 64, 64);\">)</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Macrolides</span><span style=\"color: rgb(64, 64, 64);\"> </span><span style=\"color: rgb(64, 64, 64);\">eg</span><span style=\"color: rgb(64, 64, 64);\">. </span><span style=\"color: rgb(64, 64, 64);\">clarithromycin</span><span style=\"color: rgb(64, 64, 64);\">, erythromycin</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Quinolones</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;(1)&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">eg</span><span style=\"color: rgb(64, 64, 64);\">.&nbsp;</span>{{c1::levofloxacin}}</div></div><div><br></div><div>What is&nbsp;<span style=\"color: rgb(64, 64, 64);\">clavulanic acid?</span></div><div>{{c1::<b>Clavulanic acid</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;is a β-lactam drug that functions as a mechanism-based β-lactamase inhibitor. While not effective by itself as an antibiotic, when combined with penicillin-group antibiotics, it can overcome antibiotic resistance in bacteria that secrete β-lactamase, which otherwise inactivates most penicillins.</span>}}<span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><br></div><div><div><span style=\"color: rgb(228, 131, 18);\">&nbsp;S</span><span style=\"color: rgb(64, 64, 64);\">hould co-</span><span style=\"color: rgb(64, 64, 64);\">amoxiclav</span><span style=\"color: rgb(64, 64, 64);\"> (amoxicillin + clavulanic acid) be used in penicillin resistant strains, why?&nbsp;</span>{{c1::<span style=\"color: rgb(64, 64, 64);\">No it isn't resistant via&nbsp;</span><span style=\"color: rgb(32, 33, 36);\">β-lactamase</span>}}</div></div><div><br></div><div>Name 2 other possible infections where it may be used.</div><div>{{c1::<span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">β</span><span style=\"color: rgb(64, 64, 64);\">-lactamase\nproducers: varying proportions of </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">H. </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">influenzae</span><span style=\"color: rgb(64, 64, 64);\"> isolates and majority of </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">M. </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">catarrhalis</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\"> </span><span style=\"color: rgb(64, 64, 64);\">isolates</span>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "lTBxGb|EFk",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(64, 64, 64);\"><b>Vaccination</b></span><div><div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Protection against invasive disease (bloodstream):</span></div>\n<div><span style=\"color: rgb(64, 64, 64);\">&nbsp;Conjugate vaccine </span><span style=\"color: rgb(64, 64, 64);\">eg</span><span style=\"color: rgb(64, 64, 64);\">. PCV13 </span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Routine at&nbsp;</span>{{c1::2}}<span style=\"color: rgb(64, 64, 64);\">,\n6, and&nbsp;</span>{{c1::13}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">mths</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">High-risk\ngroups</span></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div>\n<div><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Polysaccharide vaccine (PPV23)</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Routine for\nadults ≥&nbsp;</span>{{c1::65}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">yrs</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">High-risk\ngroups</span></div></div>",
+                                ""
+                            ],
+                            "guid": "dJb-=JMH~s",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><span style=\"font-style: italic;\">Legionella </span><span style=\"font-style: italic;\">pneumophila</span></b><div><div><span style=\"color: rgb(64, 64, 64);\">Common\nfeatures of </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">Legionella</span><span style=\"color: rgb(64, 64, 64);\"> infection: high fever, cough, altered mental status,\nabdominal symptoms, headaches,&nbsp;</span>{{c1::hypo}}<span style=\"color: rgb(64, 64, 64);\">natraemia, elevated&nbsp;</span>{{c1::liver}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;enzymes, etc.</span></div></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><div><u><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Diagnosis:</span></u></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Difficult </span><span style=\"color: rgb(64, 64, 64);\">to culture (needs special medium)</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Look for </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">Legionella</span><span style=\"color: rgb(64, 64, 64);\"> urine </span><span style=\"color: rgb(64, 64, 64);\">antigen, give name (</span>{{c1::<span style=\"color: rgb(64, 64, 64); font-style: italic;\">L. </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">pneumophila</span><span style=\"color: rgb(64, 64, 64);\"> </span><span style=\"color: rgb(64, 64, 64);\">serogroup</span><span style=\"color: rgb(64, 64, 64);\"> 1</span>}}<span style=\"color: rgb(64, 64, 64);\">)</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">PCR assay for respiratory samples</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\"><u>Treatment</u>:</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Not susceptible to&nbsp;</span>{{c1::beta-lactams}}, so (2) are give</div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span>{{c1::<span style=\"color: rgb(64, 64, 64);\">Quinolones </span><span style=\"color: rgb(64, 64, 64);\">(</span><span style=\"color: rgb(64, 64, 64);\">eg</span><span style=\"color: rgb(64, 64, 64);\">. </span><span style=\"color: rgb(64, 64, 64);\">levofloxacin) or Macrolides (</span><span style=\"color: rgb(64, 64, 64);\">eg</span><span style=\"color: rgb(64, 64, 64);\">.\nclarithromycin, </span><span style=\"color: rgb(64, 64, 64);\">erythromycin)</span>}}</div></div>",
+                                ""
+                            ],
+                            "guid": "I~U$Rq.0kT",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(64, 64, 64);\"><b>Influenza\nvirus</b></span><div><div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Sudden onset of fever, cough, sore throat; other\nsymptoms: runny nose, generalised aches, headaches, gastrointestinal upset</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Complications: viral pneumonia, secondary bacterial\npneumonia, respiratory distress, sepsis, shock, altered level of consciousness,\netc.</span></div></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><b><span style=\"color: rgb(64, 64, 64);\">Treatment</span><span style=\"color: rgb(64, 64, 64);\"><br></span></b></div><div><div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Rx usually advised for patients who are severely ill,\nor patients in a defined risk group</span></div>\n<div><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Rx </span><span style=\"color: rgb(64, 64, 64);\">oseltamivir</span><span style=\"color: rgb(64, 64, 64);\">, </span><span style=\"color: rgb(64, 64, 64);\">zanamivir</span><span style=\"color: rgb(64, 64, 64);\"> (</span>{{c1::neuraminidase}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;inhibitors), </span><span style=\"color: rgb(64, 64, 64);\">baloxavir</span><span style=\"color: rgb(64, 64, 64);\"> (</span>{{c1::endonuclease}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;inhibitor)</span></div></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><span style=\"color: rgb(64, 64, 64);\"><b>Prevention</b></span><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Hand hygiene</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Cough/respiratory </span><span style=\"color: rgb(64, 64, 64);\">etiquette</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Infection control measures</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Vaccination – influenza A H1N1 and H3N2, influenza B\n(1 strain or 2 strains)</span></div></div>",
+                                "<img src=\"paste-785bb99b159e0cf0770af302d3fed9e4304341a7.jpg\">"
+                            ],
+                            "guid": "EqFw?nhLGo",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><span style=\"color: rgb(64, 64, 64);\">SARS-</span><span style=\"color: rgb(64, 64, 64);\">CoV-1</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;and MERS-</span><span style=\"color: rgb(64, 64, 64);\">CoV</span></b><div><div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">SARS-CoV-1</span><span style=\"color: rgb(64, 64, 64);\"> (Severe Acute Respiratory Syndrome)&nbsp; --&nbsp; </span><span style=\"color: rgb(64, 64, 64);\">?Bats</span><span style=\"color: rgb(64, 64, 64);\">, civet cats,\nbadgers</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Outbreak\noriginated in southern China, lasted from 2002-2004; spread to &gt;30 countries\n(most cases in Asia); &gt;8,000 cases; case fatality rates of 11%</span></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">MERS-</span><span style=\"color: rgb(64, 64, 64);\">CoV</span><span style=\"color: rgb(64, 64, 64);\"> </span><span style=\"color: rgb(64, 64, 64);\">(Middle Eastern Respiratory Syndrome)&nbsp; -- (animal)&nbsp;&nbsp;</span>{{c1::Camels}}</div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">First reported\nin 2012 (S. Arabia); 2,500 cases since; mostly in the Middle East; animal\ncontact or human-to-human transmission; case-fatality rates of 30-35%</span></div></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><b><span style=\"color: rgb(64, 64, 64);\">Solutions for&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">SARS-CoV-2</span></b><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Vaccine development (main target:&nbsp;</span>{{c1::spike}}<span style=\"color: rgb(64, 64, 64);\">&nbsp;protein)</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Examples:</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">mRNA vaccines\n(Pfizer/</span><span style=\"color: rgb(64, 64, 64);\">BioNTech</span><span style=\"color: rgb(64, 64, 64);\">; </span><span style=\"color: rgb(64, 64, 64);\">Moderna</span><span style=\"color: rgb(64, 64, 64);\">)</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Viral vector\nvaccines (AstraZeneca; Janssen; Sputnik V)</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Protein\nsubunit vaccines (</span>{{c1::Novavax}}<span style=\"color: rgb(64, 64, 64);\">)</span></div></div>",
+                                ""
+                            ],
+                            "guid": "H&2j3&sX^;",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(64, 64, 64);\"><b>Investigations\nfor pneumonia</b></span><div><div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Clinical history and physical examination</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Radiological </span><span style=\"color: rgb(64, 64, 64);\">eg</span><span style=\"color: rgb(64, 64, 64);\">. Chest X-ray</span></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">General laboratory:</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">FBC,\nbiochemistry, ESR, CRP, blood gas</span></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Microbiological:</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Sputum for\nmicroscopy, culture, etc.</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Nasopharyngeal\nswab (PCR for </span><span style=\"color: rgb(64, 64, 64);\">eg</span><span style=\"color: rgb(64, 64, 64);\">. viruses)</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Blood culture</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Urine (</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">Legionella</span><span style=\"color: rgb(64, 64, 64);\"> and\npneumococcal antigens)</span></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Others: </span><span style=\"color: rgb(64, 64, 64);\">eg</span><span style=\"color: rgb(64, 64, 64);\">. bronchoscopy, biopsy</span></div></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><span style=\"color: rgb(64, 64, 64);\"><b>Sputum\nanalysis</b></span><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Appearance: purulent?</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Gram stain: leucocytes? bacteria?</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Culture: usually on blood and chocolate agar</span></div></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><b><span style=\"color: rgb(64, 64, 64);\">Management</span><span style=\"color: rgb(64, 64, 64);\"><br></span></b></div><div><div><span style=\"color: rgb(228, 131, 18);\">&nbsp;What is used to determine n</span><span style=\"color: rgb(64, 64, 64);\">eed for hospitalisation?&nbsp;</span>{{c1::<span style=\"color: rgb(64, 64, 64);\">(</span><span style=\"color: rgb(64, 64, 64);\">eg</span><span style=\"color: rgb(64, 64, 64);\">. CURB-65\ncriteria)</span>}}</div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Antimicrobial therapy</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Empiric Rx </span><span style=\"color: rgb(64, 64, 64);\">à</span><span style=\"color: rgb(64, 64, 64);\"> targeted Rx (start smart, then focus)</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Supportive measures:</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Oxygen,\nbronchodilators, fluids</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Chest\nphysiotherapy</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Ventilatory</span><span style=\"color: rgb(64, 64, 64);\"> support?</span></div></div>",
+                                "<img src=\"paste-deab5427c7c477927c4c39ec810da3010ef13baa.jpg\">"
+                            ],
+                            "guid": "Ok#[I=7/S4",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(64, 64, 64);\"><b>Antibiotics</b></span><div><span style=\"color: rgb(64, 64, 64);\"><b>Match these up</b></span></div><div><span style=\"color: rgb(64, 64, 64);\">β</span><span style=\"color: rgb(64, 64, 64);\">-lactams</span><br></div><div><span style=\"color: rgb(64, 64, 64);\">Macrolides</span><br></div><div><span style=\"color: rgb(64, 64, 64);\">Quinolones</span><br></div><div><span style=\"color: rgb(64, 64, 64);\">Tetracyclines</span><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Levofloxacin,&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">moxifloxacin</span><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><span style=\"color: rgb(64, 64, 64);\">doxycycline</span><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Cefotaxime</span><span style=\"color: rgb(64, 64, 64);\">&nbsp;/ ceftriaxone</span></div><div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Benzylpenicillin</span></div><div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Amoxicillin</span></div></div><div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Erythromycin, clarithromycin</span><span style=\"color: rgb(64, 64, 64);\"><br></span></div>",
+                                "<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">β</span><span style=\"color: rgb(64, 64, 64);\">-lactams</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Benzylpenicillin</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Amoxicillin </span></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div>\n<div><span style=\"color: rgb(64, 64, 64);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Other </span><span style=\"color: rgb(64, 64, 64);\">β</span><span style=\"color: rgb(64, 64, 64);\">-lactams</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Amoxicillin-clavulanic\nacid</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Cefotaxime</span><span style=\"color: rgb(64, 64, 64);\"> / ceftriaxone</span></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Macrolides</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Erythromycin,\nclarithromycin, etc.</span></div>\n<div><br></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Tetracyclines</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Tetracycline,\ndoxycycline</span></div>\n<div><br></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Certain quinolones</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Levofloxacin, </span><span style=\"color: rgb(64, 64, 64);\">moxifloxacin</span></div></div>"
+                            ],
+                            "guid": "Ad7vE<L>F!",
+                            "note_model_uuid": "afe9e61b-7dce-11eb-8b6f-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(64, 64, 64);\"><b>Antimicrobial\nRx CAP</b></span><div><div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Mild cases - one of the following is acceptable:</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Amoxicillin /\nAmoxicillin-clavulanic acid</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Clarithromycin</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Doxycycline</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Moderate to\nsevere cases:</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Amoxicillin\nplus clarithromycin; Or</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Amoxicillin /\nAmoxicillin-clavulanic acid plus clarithromycin; Or</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Cefotaxime</span><span style=\"color: rgb(64, 64, 64);\"> plus\nclarithromycin</span></div></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><span style=\"color: rgb(64, 64, 64);\"><b>Rx HAP</b></span></div><div><img src=\"paste-84be6d00cc9578cfe1dd83ffd918d500d5815080.jpg\"><span style=\"color: rgb(64, 64, 64);\"><b><br></b></span></div>",
+                                ""
+                            ],
+                            "guid": "bex`]Kw86l",
+                            "note_model_uuid": "afe9e61b-7dce-11eb-8b6f-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><div><b><span style=\"color: rgb(64, 64, 64);\">Infective\nexacerbation of COPD</span><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span></b></div><div><span style=\"color: rgb(64, 64, 64);\">Radiological features of COPD but no&nbsp;</span>{{c1::consolidation}}</div></div><div><font color=\"#404040\"><b><br></b></font><div><span style=\"color: rgb(64, 64, 64);\"><u>Causes:</u></span></div><div><div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Infective causes (~80-85%)</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Bacterial\ncauses</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Viral causes</span></div>\n<div><br></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Non-infective causes (~15-20%?)</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Air pollution</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Other factors</span></div></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><u><span style=\"color: rgb(64, 64, 64);\">Infective&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">causes</span><span style=\"color: rgb(64, 64, 64);\"><br></span></u></div><div><div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Bacterial (50%):</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span>{{c1::<span style=\"color: red; font-style: italic;\">Haemophilus </span><span style=\"color: red; font-style: italic;\">influenzae</span>}}<span style=\"color: rgb(99, 112, 82); font-style: italic;\">;\n</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">Streptococcus </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">pneumoniae</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">; Moraxella </span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">catarrhalis</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64); font-style: italic;\">Pseudomonas aeruginosa </span><span style=\"color: rgb(64, 64, 64);\">(advanced disease)</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Viral (20-30%):</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span>{{c1::Rhino}}<span style=\"color: red;\">viruses</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span><span style=\"color: rgb(64, 64, 64);\">Influenza and\nParainfluenza </span><span style=\"color: rgb(64, 64, 64);\">viruses; RSV;\nothers</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">◦</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Mixed (viral-bacterial):</span></div>\n<span style=\"color: rgb(64, 64, 64);\">Potential\nsynergistic </span><span style=\"color: rgb(64, 64, 64);\">activity</span><span style=\"color: rgb(64, 64, 64);\"><br></span></div></div><div><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><span style=\"color: rgb(64, 64, 64);\"><u>Rx</u></span><span style=\"color: rgb(64, 64, 64);\"><br></span></div><div><div><span style=\"color: rgb(64, 64, 64);\">Most\nguidelines recommend:</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Beta-lactam (</span><span style=\"color: rgb(64, 64, 64);\">eg</span><span style=\"color: rgb(64, 64, 64);\">. amoxicillin or amoxicillin-</span><span style=\"color: rgb(64, 64, 64);\">clavulanate</span><span style=\"color: rgb(64, 64, 64);\">)</span></div>\n<div><span style=\"color: rgb(64, 64, 64);\">Or</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Macrolide (</span><span style=\"color: rgb(64, 64, 64);\">eg</span><span style=\"color: rgb(64, 64, 64);\">. clarithromycin)</span></div>\n<div><span style=\"color: rgb(64, 64, 64);\">Or</span></div>\n<div><span style=\"color: rgb(228, 131, 18);\">&nbsp;</span><span style=\"color: rgb(64, 64, 64);\">Tetracycline (</span><span style=\"color: rgb(64, 64, 64);\">eg</span><span style=\"color: rgb(64, 64, 64);\">. doxycycline)</span></div></div>",
+                                ""
+                            ],
+                            "guid": "i1OaSTbZ]J",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "8cd0af16-b4dd-11eb-8ebd-faf4610bb370",
+                    "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "04/07 Food and Water Borne Infection",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<u><span style=\"color: rgb(192, 0, 0); font-weight: bold;\">PATHOGENS\n</span></u><span style=\"color: rgb(192, 0, 0); font-weight: bold;\">OF ANIMALS TRANSMITTED IN FOOD<br></span><div><div><span style=\"font-style: italic;\">Salmonella\nenterica</span> </div>\n<div>(some\nserovars, e.g. Choleraesuis – hog fever)</div>\n<div>{{c1::Mycobacterium}}<span style=\"font-style: italic;\">&nbsp;bovis</span></div>\n<div><span style=\"font-style: italic;\">Brucella\nabortus</span></div>\n<div><span style=\"font-style: italic;\">Trichinella\nspiralis (pork tape worm)</span></div>\n<div><span style=\"font-style: italic;\">Toxoplasma&nbsp;</span>{{c1::gondii}}</div>\nBovine spongiform encephalopathy\n(BSE)<span style=\"color: rgb(192, 0, 0); font-weight: bold;\"><br></span></div>",
+                                ""
+                            ],
+                            "guid": "KTKr&2:]R7",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(192, 0, 0);\"><b>Salmonella</b></span><div><div>Ø Over 2000\nserovars</div></div><div><br></div><div><div>Enteric Fever Associated Salmonella\nserovars(2)</div>\n<div>{{c1::<div>S. Typhi</div>\n<div>S. Paratyphi A &amp; B</div>}}<br></div></div><div><br></div><div><div>Gastroenteritis Associated serovars\nmost common </div>\n<div>(by a long way) (2)</div>\n<div>{{c1::<div>S. Typhimurium</div>\n<div>S. Enteritidis</div>}}<br></div></div>",
+                                ""
+                            ],
+                            "guid": "e~[y@6pK<#",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(192, 0, 0);\"><b>Campylobacter</b></span><div><div>•Abdominal\npain and blood in faeces.</div>\n<div>•Guillain-Barre\nsyndrome&nbsp;\n- causes paralysis</div>\n<div>•Lab\nDiagnosis By Culturing\n+ PCR&nbsp;</div></div><div><br></div><div>What is G-B syndrome? {{c1::<b>Guillain</b><span style=\"color: rgb(32, 33, 36);\">-</span><b>Barre</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;</span><b>syndrome</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;is a rare&nbsp;</span><b>disorder</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;in which your body's immune system attacks your nerves. Weakness and tingling in your extremities are usually the first symptoms. These sensations can quickly spread, eventually paralyzing your whole body.</span>}}</div><div><br></div><div>Treatment&nbsp;</div><div>usually {{c1::grand/supportive}}</div>",
+                                ""
+                            ],
+                            "guid": "vSQnB9Q;D,",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b><span style=\"color: rgb(192, 0, 0); font-style: italic;\">Escherichia</span><span style=\"font-style: italic;\"> coli</span></b><div><div>•Pathogenic <span style=\"font-style: italic;\">E. coli</span>. = {{c1::VTEC (Vero-Toxigenic <span style=\"font-style: italic;\">E. coli</span>)&nbsp;}}</div></div><div><br></div><div><div>Low\ninfectious dose (&lt;{{c1::10}}CFU/ml) , serovars\nO157, O26, O104</div>\n<div>&nbsp;</div>\n<div>•Mild diarrhoea,</div>\n<div>•haemorrhagic\n{{c1::colitis}} </div>\n<div>(abdominal\ncramping, bloody diarrhoea,&nbsp; </div>\n<div>no/low\ngrade fever)</div>\n<div>•haemolytic uraemic\nsyndrome (HUS). give 2/3 symptoms</div>\n<div>({{c1::haemolytic\nanaemia, thromocytopaenia,\nacute renal failure}})</div>\n<div></div>\n<div>•Death</div></div>",
+                                ""
+                            ],
+                            "guid": "cLJ(OTnjC#",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "What organisms can create toxins on food (4)?<div>{{c1::<div><span style=\"font-style: italic;\">S.\naureus</span></div>\n<div><span style=\"font-style: italic;\">Clostridium\nperfringens</span> </div>\n<div><span style=\"font-style: italic;\">Clostridium\nbotulinum</span></div>\n<div><span style=\"font-style: italic;\">Bacillus\ncereus</span></div>}}<br></div><div><br></div><div>Which one can survive high temps/cooking?</div><div>{{c1::Clostridium perfringens}}<br></div><div>Usually found in the nose?&nbsp;</div><div>{{c1::S. aureus}}<br></div><div>Big problem for unborn children?</div><div>{{c1::Listeria monocytogenes}}<br></div>",
+                                ""
+                            ],
+                            "guid": "w,C|YXIwp5",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"color: rgb(192, 0, 0); font-weight: bold;\">CHOLERA</span><div><div>Profuse watery diarrhoea</div>\n<div></div>\n<div>Aetiological Agent: <span style=\"font-style: italic;\">Vibrio\ncholera</span></div>\n<div></div>\n<div>Infectious Dose = The minimum number of organisms\nassociated with risk of infection&nbsp;</div><div>Which is more likely vector for transmission food or water?</div>\n<div></div>\n<div>{{c1::<div>10^3-10^6 cells in water</div>\n<div>10^2-10^4 cells in food</div>}}<br></div></div><div><br></div><div><div>Commonest\ncause of death in children under 4 years is what?</div>\n<div></div>\n{{c1::<div>Diarrhoea</div>\n<div></div>\n<div></div><div>}}Why\ndo they die?<br></div>\n<div></div>\n<div>{{c1::Dehydration}}</div></div>",
+                                ""
+                            ],
+                            "guid": "hXQ$R/%0zN",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><span style=\"color: rgb(192, 0, 0); font-style: italic;\">Cryptosporidium\nparvum</span></div>\n<div></div>\n<div>•{{c1::Protozoan}}\nparasite - lives in the intestines of infected humans and animals.</div>\n<div>•Can\nbe shed in faeces and contaminate water.</div>\n<div>•Ingestion\nmay result in watery diarrhoea, stomach cramps, bloating, vomiting and fever.</div>\n<div>•May\nbe fatal in those with impaired immune system.</div>\n<div>•Highly\nresistant to chlorine-based disinfection – removed by {{c1::filters}}</div><div><br></div><div>Which 2 can diagnose it?</div><div><div>MICROSCOPY&nbsp;</div><div>ISH</div><div>PCR&nbsp;</div><div>CULTURE</div></div><div><br></div><div><div>{{c1::MICROSCOPY\n+ PCR - NOT CULTURE}}</div></div><div><br></div><div>Name 1 other Chlorine Resistant Protozoan Parasite.</div><div>{{c1::Giardia\nlamblia}}<br></div>",
+                                ""
+                            ],
+                            "guid": "eg]ZOUjTod",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><div><b>What do they worry about?</b></div><div></div><br></div><div>Swimming in lake malawi</div>\n<div></div>\n<div>{{c1::Schistosomiasis}}<br></div><div><br></div><div><div>SWIMMING POOLS/JACUZZI</div>\n<div></div>\n<div>{{c1::<div><span style=\"font-style: italic;\">Pseudomonas\naeruginosa</span></div>\n<div>OTITIS EXTERNA</div>\n<div>FOLLICULITIS&nbsp;</div>}}<br></div></div>",
+                                ""
+                            ],
+                            "guid": "ciZ:K>*+*Q",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        }
+                    ]
                 }
             ],
             "crowdanki_uuid": "e848dad6-7dce-11eb-a5b6-a0b2d6ecb02c",
@@ -6503,6 +6789,26 @@
                             "guid": "O}jq|/4.*<",
                             "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>BRAF mutations</b></div><div><div>•V600E-mutated tumors showed an\naggressive histotype characterized by {{c1::micropapillary}} features in <b>80</b>% of\npatients and were significantly associated with shorter disease-free and\noverall survival rates </div>\n<div>•The B-Raf proto-oncoprotein (BRAF)\nis a {{c1::serine/threonine}} kinase that regulates cell <b>proliferation,\ndifferentiation, angiogenesis, and cell death</b>. It functions {{c1::down}}stream of RAS\nand signals through the MAPK/ERK pathway</div></div>",
+                                ""
+                            ],
+                            "guid": "q>8_ddk.wG",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>KRAS</b><br></div><div>No therapies for targeting KRAS mutations in cancer have been approved.\nThe KRAS p.G12C mutation occurs in 13% of non–small-cell lung cancers and in 1\nto 3% of colorectal cancers and other cancers. {{c1::Sotorasib}} is a small molecule\nthat selectively and irreversibly targets KRASG12C.</div><div><br></div><div><div>Several novel covalent direct inhibitors\ntargeting KRASG12C with similar covalent binding mechanisms are now in clinical\ntrials. Both <b>AMG 510</b> from Amgen and <b>MRTX849</b> from Mirati Therapeutics covalently\nbinds to KRASG12C at the {{c1::cysteine}} at residue 12, keeping KRASG12C in its\ninactive GDP-bound state and inhibiting KRAS-dependent signaling</div></div>",
+                                ""
+                            ],
+                            "guid": "Q.RoHnCfHM",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
                         }
                     ]
                 },
@@ -8030,6 +8336,629 @@
                                 "<img src=\"paste-871365be274ed501cd8cb23a5bb9ae82a5fae2b4.jpg\"><div><img src=\"paste-4189c5be24f30b1b6d0ed51a1e9658c92f605dbb.jpg\"><br></div><div><img src=\"paste-8ad4d46143a8abe404431003694831a07c889b3e.jpg\"><br></div>"
                             ],
                             "guid": "DpZyc#H;$3",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "8cf9d14e-b4dd-11eb-993d-faf4610bb370",
+                    "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "3a32e115f28d4e26a317342efeea792a-ao-1-A.svg",
+                        "3a32e115f28d4e26a317342efeea792a-ao-1-Q.svg",
+                        "3a32e115f28d4e26a317342efeea792a-ao-2-A.svg",
+                        "3a32e115f28d4e26a317342efeea792a-ao-2-Q.svg",
+                        "3a32e115f28d4e26a317342efeea792a-ao-3-A.svg",
+                        "3a32e115f28d4e26a317342efeea792a-ao-3-Q.svg",
+                        "3a32e115f28d4e26a317342efeea792a-ao-4-A.svg",
+                        "3a32e115f28d4e26a317342efeea792a-ao-4-Q.svg",
+                        "3a32e115f28d4e26a317342efeea792a-ao-5-A.svg",
+                        "3a32e115f28d4e26a317342efeea792a-ao-5-Q.svg",
+                        "3a32e115f28d4e26a317342efeea792a-ao-6-A.svg",
+                        "3a32e115f28d4e26a317342efeea792a-ao-6-Q.svg",
+                        "3a32e115f28d4e26a317342efeea792a-ao-7-A.svg",
+                        "3a32e115f28d4e26a317342efeea792a-ao-7-Q.svg",
+                        "3a32e115f28d4e26a317342efeea792a-ao-O.svg",
+                        "hgt.jpg",
+                        "paste-667ce499d07ad002b89d66a357110ef60be4b46e.jpg",
+                        "paste-784587f16717e3efc47639b0bbe6d87f940b50ac.jpg",
+                        "paste-bdbb79afa5470c18ad808c15c18fc8d31a8542ed.jpg",
+                        "paste-fe90550ba60185325efd099cc07bf987eda23056.jpg",
+                        "tmpy3s1o58p.png"
+                    ],
+                    "name": "04/03 Antimicrobials 1",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Bacterial Chemotherapy</b><div>• Chemotherapeutic drugs should be {{c1::toxic}} to invading organisms but non-toxic to\nhumans. Selective toxicity (Most cases, relative, rather than absolute).&nbsp;</div><div><br></div><div>• Microbiota in GIT, lungs and vaginal tracts.&nbsp;</div><div><br></div><div>• Drugs should target unique genetic or biochemical pathways to pathogens.&nbsp;</div><div><br></div><div>• Drugs should be {{c1::selective}} to target protein isoforms unique to the pathogen without\naffecting human forms.&nbsp;</div><div><br></div><div>• Drugs should target {{c1::metabolic}} requirements that are specific to the pathogen.<b><br></b></div><div><br></div><div><u>Give definitions for these</u></div><div>• Anti-bacterial (anti-microbial) drugs&nbsp;</div><div>{{c1::<div>– Interfere with the growth of microbes within a host&nbsp;</div><div>– May be synthetic or derived from a living organism&nbsp;</div>}}<br></div><div><br></div><div>• Antibiotic&nbsp;</div><div>{{c1::<div>– Substance produced by a microbe that, in small amounts, inhibits another\nmicrobe&nbsp;</div><div>– A subclass of antibacterial drug&nbsp;</div>}}<br></div><div><br></div><div>• Bacteriostatic&nbsp;</div>{{c1::<div>– Stops growth/proliferation but does not kill bacteria</div><div>– Host defence required to defeat infection</div><div>}}&nbsp;<br></div><div><br></div><div>• Bactericidal&nbsp;</div><div>{{c1::– Kills bacteria}}<br></div>",
+                                "<img src=\"paste-bdbb79afa5470c18ad808c15c18fc8d31a8542ed.jpg\">"
+                            ],
+                            "guid": "c2M!n^$3vL",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Chemotherapy</b><div>A. Narrow spectrum: Acting only on a single or limited group of microorganisms,\ne.g. <b>isoniazid</b> against mycobacteria&nbsp;</div><div>B. Extended spectrum: Active against Gram-negative e.g. <b>ampicillin</b>&nbsp;</div><div>C. Broad spectrum: Affect a wide variety of microbial species. Can drastically\nalter normal bacterial flora and can precipitate a superinfection e.g. candida\n(normally kept in check by other microorganisms) with {{c1::tetracycline}} and\n{{c1::chloramphenicol}}<b><br></b></div><div><br></div><div>• Class I reactions: that use utilise glucose and other carbon sources are used to\nproduce {{c1::ATP}} and simple molecules.&nbsp;</div><div>• Not promising targets because humans and bacteria use similar mechanisms to\nobtain energy from glucose and even if glucose is blocked other sources of carbon\ncan be used by bacteria.&nbsp;</div><div><br></div><div>• Class II reactions: pathways utilising energy and class I compounds to make {{c1::small\nmolecules (e.g. nucleotides)}}. Agents that interfere with {{c1::folate synthesis}} can be\nused.&nbsp;</div><div><br></div><div>• Class III reactions: pathways that convert small molecules into macromolecules\nsuch as {{c1::proteins, nucleic acids and peptidoglycan}}. Agents that interfere with\nprotein synthesis, e.g. {{c1::RNA polymerase and DNA gyrase}}. Agents that target\nformed cell structures e.g. cell membrane.<br></div>",
+                                ""
+                            ],
+                            "guid": "g0LT=.@EJv",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "3a32e115f28d4e26a317342efeea792a-ao-1",
+                                "",
+                                "<img src=\"tmpy3s1o58p.png\" />",
+                                "<img src=\"3a32e115f28d4e26a317342efeea792a-ao-1-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"3a32e115f28d4e26a317342efeea792a-ao-1-A.svg\" />",
+                                "<img src=\"3a32e115f28d4e26a317342efeea792a-ao-O.svg\" />"
+                            ],
+                            "guid": "fi.qw$W5=~",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "3a32e115f28d4e26a317342efeea792a-ao-2",
+                                "",
+                                "<img src=\"tmpy3s1o58p.png\" />",
+                                "<img src=\"3a32e115f28d4e26a317342efeea792a-ao-2-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"3a32e115f28d4e26a317342efeea792a-ao-2-A.svg\" />",
+                                "<img src=\"3a32e115f28d4e26a317342efeea792a-ao-O.svg\" />"
+                            ],
+                            "guid": "GP0%T7EM?#",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "3a32e115f28d4e26a317342efeea792a-ao-3",
+                                "",
+                                "<img src=\"tmpy3s1o58p.png\" />",
+                                "<img src=\"3a32e115f28d4e26a317342efeea792a-ao-3-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"3a32e115f28d4e26a317342efeea792a-ao-3-A.svg\" />",
+                                "<img src=\"3a32e115f28d4e26a317342efeea792a-ao-O.svg\" />"
+                            ],
+                            "guid": "o,Ly(X)91;",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "3a32e115f28d4e26a317342efeea792a-ao-4",
+                                "",
+                                "<img src=\"tmpy3s1o58p.png\" />",
+                                "<img src=\"3a32e115f28d4e26a317342efeea792a-ao-4-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"3a32e115f28d4e26a317342efeea792a-ao-4-A.svg\" />",
+                                "<img src=\"3a32e115f28d4e26a317342efeea792a-ao-O.svg\" />"
+                            ],
+                            "guid": "w%4KvG+CC&",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "3a32e115f28d4e26a317342efeea792a-ao-5",
+                                "",
+                                "<img src=\"tmpy3s1o58p.png\" />",
+                                "<img src=\"3a32e115f28d4e26a317342efeea792a-ao-5-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"3a32e115f28d4e26a317342efeea792a-ao-5-A.svg\" />",
+                                "<img src=\"3a32e115f28d4e26a317342efeea792a-ao-O.svg\" />"
+                            ],
+                            "guid": "DN-fmjIgqD",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "3a32e115f28d4e26a317342efeea792a-ao-6",
+                                "",
+                                "<img src=\"tmpy3s1o58p.png\" />",
+                                "<img src=\"3a32e115f28d4e26a317342efeea792a-ao-6-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"3a32e115f28d4e26a317342efeea792a-ao-6-A.svg\" />",
+                                "<img src=\"3a32e115f28d4e26a317342efeea792a-ao-O.svg\" />"
+                            ],
+                            "guid": "gLCHgtOXA0",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "3a32e115f28d4e26a317342efeea792a-ao-7",
+                                "",
+                                "<img src=\"tmpy3s1o58p.png\" />",
+                                "<img src=\"3a32e115f28d4e26a317342efeea792a-ao-7-Q.svg\" />",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "<img src=\"3a32e115f28d4e26a317342efeea792a-ao-7-A.svg\" />",
+                                "<img src=\"3a32e115f28d4e26a317342efeea792a-ao-O.svg\" />"
+                            ],
+                            "guid": "p|[WT,BXd?",
+                            "note_model_uuid": "aefbf282-7dce-11eb-8a97-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Peptidoglycan Synthesis&nbsp;</b><div>• Bacterial cell walls contain peptidoglycan,\nwhich is not in eukaryotic cells.&nbsp;</div><div>• In Gram negative bacteria, it is a single layer\nthick but in Gram positive bacteria it can be up\nto 40 layers thick.&nbsp;</div><div>• Each layer consists of multiple backbones of\nalternating {{c1::N-acetylglucosamine}} (NAG) and Nacetylmuramic acid (NAM)&nbsp;</div><div>• NAM residues are cross-linked together via an\n{{c1::interpeptide}} bridge.</div><div><br></div><div><img src=\"paste-667ce499d07ad002b89d66a357110ef60be4b46e.jpg\"><br></div><div>• Plasma membrane of bacterial cells is similar to\nthat in eukaryotes&nbsp;</div><div>- phospholipid bilayer in\nwhich proteins are embedded.&nbsp;</div><div><br></div><div>• Certain antibacterial drugs act as detergents by\ndisrupting the phospholipid components of the\nmembrane and kill the cells.&nbsp;</div><div><br></div><div>• <b>Polymixins</b> are {{c1::cat}}ionic peptide antibiotics that\ncontain both hydrophobic and hydrophilic\ngroups</div>",
+                                ""
+                            ],
+                            "guid": "p,w*kmw%Q4",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Nucleic Acid Synthesis</b><div>• Inhibiting the synthesis of nucleotides – class {{c1::II}} reactions.</div><div>&nbsp;</div><div>• {{c1::Folate}} is required for DNA synthesis in bacteria, some antibacterials interfere with\nthis pathway e.g. <b>Sulphonamides, trimethoprim</b>.&nbsp;</div><div><br></div><div>• Altering the base-pairing properties of the template, and intercalate with DNA, increase distance between base pairs and cause a {{c1::frameshift}} mutation e.g.&nbsp;</div><div><b>Acridines – proflavine &amp; acriflavine.&nbsp;</b></div><div><br></div><div>• Direct effects on DNA itself: alkylating agents affect the formation of covalent\nbonds with bases in DNA and prevent replication e.g. <b>Nitrosureas, mitomycin,\nbleomycin</b>.&nbsp;<br></div><div><br></div><div>• Tend to be used in cancer chemotherapy.<b><br></b></div><div><br></div><div><b>DNA as a drug target&nbsp;</b></div><div>• Inhibiting DNA polymerase e.g. <b>Aciclovir</b>.</div><div><br></div><div>• Inhibiting RNA polymerase e.g. <b>Actinomycin D,\nrifampicin.&nbsp;</b></div><div><br></div><div>• Inhibiting DNA gyrase e.g. the <b>fluoroquinolones -\nciprofloxacin.&nbsp;</b></div><div><br></div><div>• Initiation of DNA synthesis requires the\n{{c1::separation}} of the strands.&nbsp;</div><div><br></div><div>• The replication process induces a positive\nsupercoil which is relaxed by DNA\n{{c1::gyrase/topoisomerase II}}.</div>",
+                                "<img src=\"paste-fe90550ba60185325efd099cc07bf987eda23056.jpg\">"
+                            ],
+                            "guid": "rF$:vN9hUu",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Protein Synthesis Inhibitors&nbsp;</b><div>• Eukaryotic and prokaryotic ribosomes are\ndifferent and this provides the basis for selective\nantimicrobial action.\n•&nbsp;</div><div><br></div><div>The <b>bacterial ribosome</b> consists of a {{c1::50}}S and a\n{{c1::30}}S subunit to give a {{c1::70}}S complete ribosome.&nbsp;</div><div><br></div><div>• The <b>eukaryotic ribosome</b> consists of a {{c1::60}}S and\na {{c1::40}}S subunit to give a {{c1::80}}S complete ribosome.&nbsp;</div><div><br></div><div>• To initiate bacterial translation <b>mRNA</b> must bind\nto the {{c1::30}}S subunit first and then bind the {{c1::50}}S.&nbsp;</div><div><br></div><div>• The ribosome has 3 binding sites for tRNA\ntermed {{c1::E, P and A.}}</div>",
+                                "<img src=\"paste-784587f16717e3efc47639b0bbe6d87f940b50ac.jpg\">"
+                            ],
+                            "guid": "Ed)ds@mpAX",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Antibacterial drug Resistance<br></b></div>• {{c1::One}} in 10 patients entering a European hospital will develop an infection caused by\ndrug-resistant microbes such as the hospital super bug, MRSA.&nbsp;<div><br><div>• {{c1::50}}% of Staphylococci resistant to penicillin, methicillin, tetracycline, &amp;\nerythromycin.&nbsp;</div><div><br></div><div>• Enterococcus faecium – penicillin resistance in 1983.&nbsp;</div><div><br></div><div>• {{c1::Streptococcus}} pneumoniae – penicillin resistance 1967.&nbsp;</div><div><br></div><div>• {{c1::Mycobacterium}} tuberculosis – resistance to isoniazid, rifampin.</div></div>",
+                                ""
+                            ],
+                            "guid": "L8f=WM0s)8",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Drug Resistance</b><div>Give 3 MoA<br><div>{{c1::<div>• Mutation in a drug binding site, lowering the\naffinity of the interaction&nbsp;</div><div><br></div><div>•Genes encoding for enzymes that degrade\nantibacterial agents&nbsp;</div><div><br></div><div>-efflux pump</div>}}<br></div><div><br></div><div>• Chromosomal determinants: mutations – 1\ncell in 10^7 mutated, much higher than us</div><div><br></div><div>• Extrachromosomal plasmids – replicate\nindependently R plasmids.<br></div></div><div><br></div><div>Give 3 methods of gene transfer</div><div>{{c1::<img src=\"hgt.jpg\">}}<br></div>",
+                                ""
+                            ],
+                            "guid": "NZSgJ}H)q<",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "8cfae2ca-b4dd-11eb-af40-faf4610bb370",
+                    "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-3bc8deed991442fd2e4723ccb484feb87dcf0025.jpg",
+                        "paste-5c211871e74b84a44277073355fcd9623e56b80e.jpg",
+                        "paste-da798ac305a8ca1e64949b97ba9ae5389bfe88d2.jpg"
+                    ],
+                    "name": "04/04 Antimicrobials 2",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Folate Synthesis Pathway</b><div>• <b>Folate synthesis occurs</b> in bacteria.&nbsp;</div><div><br></div><div>• <b>Mammals cannot synthesise</b> so must\nobtain folate from diet.&nbsp;</div><div><br></div><div>• {{c1::p-aminobenzoic acid (PABA)}} required\nto make folate.&nbsp;</div><div><br></div><div>• Folate required for {{c1::DNA}} synthesis.&nbsp;</div><div><br></div><div>• Selectivity of drugs that interfere with\nfolate synthesis or action&nbsp;</div><div><br></div><div>• Target {{c1::dihydropteroate}} synthetase&nbsp;</div><div><br></div><div>• <b>Sulphonamides</b> - structural analogues of {{c1::PABA}} &amp; competitive inhibitors&nbsp;</div><div><br></div><div>• <b>Bacteriostatic</b> not bactericidal – suppress the division of cells.<b><br></b></div><div><br></div><div><br></div><div><b>Trimethoprim</b>&nbsp;</div><div>• Resembles {{c1::pteridine}} ring of folate&nbsp;</div><div>• Targets {{c1::dihydrofolate reductase (DHFR)&nbsp;}}</div><div>Is it active in human(mammal) or bacterial cells?</div><div>{{c1::• active against mammalian enzyme\nbut requires much higher concentrations\nthan in bacteria</div><div><img src=\"paste-5c211871e74b84a44277073355fcd9623e56b80e.jpg\">&nbsp;}}<br></div><div><br></div><div><b>Methotrexate</b>: Used to treat cancer and\nrheumatoid arthritis, not antibacterial, due\nto folate as it requires <b>active uptake</b> by cells.<br></div>",
+                                "<img src=\"paste-da798ac305a8ca1e64949b97ba9ae5389bfe88d2.jpg\">"
+                            ],
+                            "guid": "O`)dRtMVW;",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Sulphonamides</b><div>• Most sulphonamides are given orally and are well absorbed (except {{c1::sulfasalazine}}).&nbsp;</div><div><br></div><div>• Widely distributed and {{c1::can}} cross BBB and placental barrier.&nbsp;</div><div><br></div><div>• Metabolised mainly in the {{c1::liver}} and the major <b>metabolite</b> is the acetylated form that\n<b>lacks antibacterial</b> effects.&nbsp;</div><div><br></div><div>• {{c1::Hepatitis}}, hypersensitivity reactions and renal failure due to <b>interstitial nephritis<br></b></div><div><b><br></b></div><div><u style=\"\">Uses</u></div><div>-Widespread supha drug resistnace&nbsp;</div><div>– For infected burns (topically).&nbsp;</div><div>– Sulfasalazine used for IBD<u style=\"\"><br></u></div>",
+                                ""
+                            ],
+                            "guid": "P>xGqU2]2p",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Trimethoprim</b>&nbsp;<div>• Trimethoprim is absorbed well orally and widely distributed.&nbsp;</div><div><br></div><div>• Reaches high concentrations in the kidney, lungs and {{c1::can}} cross BBB .&nbsp;</div><div><br></div><div>• Trimethoprim is a <b>weak</b> {{c1::base}} and its elimination increases with <b>decreasing</b> urinary\npH.&nbsp;</div><div><br></div><div>• Can lead to folate deficiency in people with resultant {{c1::megaloblastic}} anaemia –\nrelated to pharmacological action.</div><div><br></div><div><u>Uses</u></div><div>– Urinary tract infections.&nbsp;</div><div>– Respiratory tract infections.&nbsp;</div><div>– STIs&nbsp;</div><div>– chlamydia.<u><br></u></div>",
+                                ""
+                            ],
+                            "guid": "noZkP~0$*+",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Peptidoglycan Synthesis</b><div><img src=\"paste-3bc8deed991442fd2e4723ccb484feb87dcf0025.jpg\"><b><br></b></div><div><b>These are mixed up order without drug names, fix it.</b></div><div><br></div><div>• {{c1::Cycloserine}} is a structural analogue of Dalanine and prevents the addition of the\nterminal alanine residues to the side chain on\nNAM by competitive inhibition.&nbsp;</div><div><br></div><div>• {{c1::Penicillins, cephalosporins and other βlactams}} inhibit the final transpeptidation and\nprevent formation of crosslinks.<br></div><div><br></div><div><div>• {{c1::Bacitracin}} interferes with the regeneration of the lipid carrier by blocking its dephosphorylation.&nbsp;</div><div><br></div></div><div>• {{c1::Vancomycin}} inhibits the release of the building block unit from the carrier thereby preventing the addition to the growing end of the peptidoglycan.&nbsp;<br></div>",
+                                ""
+                            ],
+                            "guid": "h~_3@ay>1C",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>β-lactam antibiotics</b><div>• Include penicillins, cephalosporins, carbpenems and\nmonobactams&nbsp;</div><div><br></div><div>• All β-lactam antibiotics interfere with the synthesis of\nthe bacterial cell wall {{c1::peptidoglycan}}.&nbsp;</div><div><br></div><div>• Penicillins attach to penicillin-binding proteins on\nbacteria, inhibit the transpeptidation enzyme that\n{{c1::crosslinks}} peptide chains in the backbone.&nbsp;</div><div><br></div><div>• First penicillins were naturally occurring\nbenzylpenicillin (penicillin G) as well as\nphenoxymethylpenicillin (penicillin V).&nbsp;</div><div><br></div><div>Which one is the common drug of choice?</div><div>{{c1::• Penicillin G is active against a wide range of\norganisms and is the drug of first choice for many\ninfections.}}<b><br></b></div><div><br></div><div>• Over 20 semisynthetic penicillins with different R group\nsubstitutions have been generated.&nbsp;</div><div><br></div><div>• While penicillins are very effective, they can be degraded\nby bacterial {{c1::amidases}} and <b>β-lactamases&nbsp;</b></div><div><br></div><div>• β-lactamase resistant penicillins –(2) {{c1::<b>methicillin</b>,\nflucloxacillin.&nbsp;}}</div><div><br></div><div>• Broad-spectrum penicillins – ampicillin, amoxicillin<br></div><div><br></div><div>• Administration: (3) {{c1::Intravenous, intramuscular and intrathecal (less common) injections are used.&nbsp;}}</div><div><br></div><div>• PK: Widely distributed in bodily fluids (including bile, saliva and milk) and pass into joints, pleural,\npericardial cavities, across the placenta and the BBB only if {{c1::it is inflamed}}.<br></div><div><br></div><div>• Do not enter mammalian cells as they are {{c1::lipid insoluble}}.&nbsp;</div><div><br></div><div>• Elimination of most penicillins is mainly {{c1::renal (by tubular secretion)}} and occurs rapidly – relatively <b>short</b>\nhalf life.&nbsp;</div><div><br></div><div>• Side-effects: include hypersensitivity reactions caused by the degradation products, which combine with\nhost protein to become antigenic.&nbsp;</div><div><br></div><div>• Skin rashes and fever are common in some people, with rare anaphylactic shock and alteration of the gut\nmicrobiota (GI disturbances).<br></div><div><br></div><div><u>Clinical Applications&nbsp;</u></div><div>• Benzylpenicillin for bacterial meningitis (Streptococcus {{c1::pneumoniae}}), endocarditis\n(Enterococcus {{c1::faecalis}}) and skin and tissue infections (Streptococcus\npyogenes/Staphylococcus aureus).&nbsp;</div><div><br></div><div>• Flucloxacillin for bone and joint infections (Staphylococcus {{c1::aureus}}).&nbsp;</div><div><br></div><div>• Amoxicillin for bronchitis (mixed infections), pneumonia, gonorrhoea and urinary tract\ninfections (Escherichia coli).<br></div>",
+                                ""
+                            ],
+                            "guid": "d1DpIp|z)7",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Cephalosporins</b><div>• Cephalosporins were first isolated from Cephalosporium fungus and\nare chemically related to β-lactams.&nbsp;</div><div><br></div><div>• Semi-synthetic broad spectrum cephalosporins have been produced\nby addition at R1 and R2&nbsp;</div><div><br></div><div>• {{c1::Water}} soluble and acid stable but vary in susceptibility to βlactamases&nbsp;</div><div><br></div><div>• First (e.g. cefadroxil), second (e.g. cefaclor) and third ({{c1::cefotaxime}})\ngenerations. Over 70 clinical agents have been developed&nbsp;</div><div><br></div><div>• Administration: Most are given parenterally but some are given\norally.&nbsp;</div><div><br></div><div>• PK: Widely distributed and {{c1::some}} cross the BBB, excretion is\nmostly via kidney (tubular secretion) but some members via {{c1::bile}}.&nbsp;</div><div><br></div><div>• Side effects: Hypersensitivity reactions as well as {{c1::nephro}}toxicity.<br></div><div><br></div><div><u>Uses&nbsp;</u></div><div>• Septicaemia – cefuroxime &amp; cefotaxime.&nbsp;</div><div>• Pneumonia&nbsp;</div><div>• Meningitis – ceftraxone &amp; cefotaxime.&nbsp;</div><div>• Urinary tract infections – cefaclor.&nbsp;</div><div>• Sinusitis – cefadroxil.&nbsp;</div><div>• Biliary tract infection</div>",
+                                ""
+                            ],
+                            "guid": "w=Ii8Q-IBZ",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Carbapenams</b>&nbsp;<div>• Acts in the same way as other β-lactams, broad spectrum antibacterial activity e.g. {{c1::imipenam}}.&nbsp;</div><div>• Used with {{c1::cilistatin}} to block its breakdown with {{c1::renal}} enzymes.&nbsp;</div><div>• Side effects: similar to other β-lactams with {{c1::neuro}}toxicity at high conc.</div>",
+                                ""
+                            ],
+                            "guid": "jdi$JKiA_I",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Monobactams</b>:&nbsp;<div>• Main member is {{c1::atreonam}} is resistant to β-lactamases and effective only against\nGram {{c1::–ve}} {{c1::}}aerobic bacteria.</div>",
+                                ""
+                            ],
+                            "guid": "w+H!K|lo?~",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Glycopeptides</b>:&nbsp;<div>• Such as {{c1::vancomycin}} act by inhibiting the release of the building block unit from the\nlipid carrier.&nbsp;</div><div>• Not orally absorbed, given for GI infection or i.v.&nbsp;</div><div>• Used in resistant bacteria, but growing rate of {{c1::resistance to vancomycin}} is limiting\nits use&nbsp;</div><div>• Side effects: include fever, rashes, ototoxicity and {{c1::nephro}}toxicity.</div><div><br></div><div>What is ototoxicity?</div><div>{{c1::<b>Ototoxicity</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;is the property of being toxic to the ear (oto-), specifically the cochlea or auditory nerve and sometimes the vestibular system, for example, as a side effect of a drug. The effects of&nbsp;</span><b>ototoxicity</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;can be reversible and temporary, or irreversible and permanent.</span>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "d{vd{aS3Bk",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Polymixins</b><div>• Polymixin B and <b>colistin</b>/polymixin E are the main members in use.&nbsp;</div><div><br></div><div>• MOA: {{c1::Cat}}ionic detergent properties and act by disrupting the outer cell membrane.&nbsp;</div><div><br></div><div>• Rapid selective bactericidal action against Gram {{c1::–ve}} {{c1::bacilli&nbsp;}}</div><div><br></div><div>• PK: Not absorbed from the GI tract.&nbsp;</div><div><br></div><div>• Side effects: {{c1::Neuro}}toxicity and {{c1::nephro}}toxicity.&nbsp;</div><div><br></div><div>• Clinical use: is restricted to {{c1::topical}} treatment of ear, eye or skin infections and for\ngut sterilization.<b><br></b></div>",
+                                ""
+                            ],
+                            "guid": "k+3VexS-F[",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Quinolones and fluoroquinolones</b><div>• Bactericidal inhibit bacterial DNA synthetic enzymes {{c1::topoisomerase II (a DNA\ngyrase)}} responsible for supercoiling of DNA&nbsp;</div><div><br></div><div>• The most commonly used are {{c1::ciprofloxacin}} and {{c1::levofloxacin}}, {{c1::-floxacin}}</div><div><br></div><div>• {{c1::Ciprofloxacin}} is a broad spectrum antibiotic effective against Gram +ve &amp; -ve\nbacteria including those resistant to penicillins.&nbsp;</div><div><br></div><div>• PK: Well absorbed orally but accumulate in the kidney and {{c1::lungs}} and {{c1::most}} cross the\nBBB.&nbsp;</div><div><br></div><div>• Metabolised by CYP450 enzymes in the liver and excreted by kidney.&nbsp;</div><div><br></div><div>• Interactions with other drugs due to inhibition of P450 ({{c1::theophylline}} toxicity).&nbsp;</div><div><br></div><div>• Side effects: GI disorders and rashes<b><br></b></div><div><br></div><div><u>Uses of fluoroquinolones&nbsp;</u></div><div>• Urinary tract infections – <b>norfloxacin</b> &amp; ofloxacin.&nbsp;</div><div>• Respiratory infection Pseudomonas aeruginosa in {{c1::CF}} patients.&nbsp;</div><div>• Gonorrhea – <b>norfloxacin</b> &amp; ofloxacin.&nbsp;</div><div>• Bacterial prostatitis – <b>norfloxacin</b>.&nbsp;</div><div>• External otitis.<br></div>",
+                                ""
+                            ],
+                            "guid": "m6v9>)}^p@",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "8cfba626-b4dd-11eb-9984-faf4610bb370",
+                    "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-02373cfef41135ad09b312537f23a440ea0db956.jpg",
+                        "paste-10b59e09027a76dff849f6644479d6f2e0acc377.jpg",
+                        "paste-9e9bacb9ceca87c8e722e710fa5b5ed0389769cb.jpg"
+                    ],
+                    "name": "04/05 Antimicrobials 3",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Protein Translation</b><div>Covered in L.1</div><div>• Eukaryotic and prokaryotic ribosomes are\ndifferent and this provides the basis for selective\nantimicrobial action.&nbsp;</div><div><br></div><div>• The eukaryotic ribosome consists of a {{c1::60}}S and\na {{c1::40}}S subunit to give a {{c1::80}}S complete ribosome.&nbsp;</div><div><br></div><div>• The bacterial ribosome consists of a {{c1::50}}S and a\n{{c1::30}}S subunit to give a {{c1::70}}S complete ribosome.&nbsp;</div><div><br></div><div>• To initiate bacterial translation mRNA must bind\nto the {{c1::30}}S subunit first and then bind the {{c1::50}}S.&nbsp;</div><div><br></div><div>• The ribosome has 3 binding sites for tRNA\ntermed {{c1::E, P and A.}}<br></div>",
+                                "4 Places for drugs to attack<div><img src=\"paste-10b59e09027a76dff849f6644479d6f2e0acc377.jpg\"><br></div>"
+                            ],
+                            "guid": "vL[G57ZfI}",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Amphenicols</b><div>- MOA: Inhibit protein synthesis by binding to the {{c1::50}}S subunit and inhibits the\nformation of the <b>peptide</b> bond.&nbsp;</div><div><br></div><div>- Broad spectrum antibiotic, <b>bacteriostatic</b> for most organisms but <b>kills</b> {{c1::H. Influenzae}}.&nbsp;</div><div><br></div><div>- Resistance mediated by plasmid transfer of {{c1::chloramphenicol acetyltransferase}}.<b><br></b></div><div><br></div><div>- Administration: {{c1::Chloramphenicol}} is given orally\nand is rapidly and completely absorbed and reaches\nCmax in {{c1::2}} hours.&nbsp;</div><div><br></div><div>- PK: Widely distributed throughout the tissues and\nfluids {{c1::in}}cluding CSF.&nbsp;</div><div><br></div><div>- Excreted in the urine ({{c1::10}}% unchanged) and\nmetabolised in the liver.&nbsp;</div><div><br></div><div>- Side effects: GI disturbances and hypersensitivity\nreactions.&nbsp;</div><div><br></div><div>- Rare side effects include {{c1::pancytopenia (decrease in\nall blood cell types).}}</div><div><br></div><div><b>Uses of Chloramphenicol</b><br></div><div>• Should be reserved for serious infections as side effects\ncan be serious ({{c1::haematological}} toxicity).&nbsp;</div><div>• Resistant Haemophilus {{c1::influenzae}} infections.&nbsp;</div><div>• Meningitis where patients can’t take penicillin.&nbsp;</div><div>• Conjunctivitis (safe when given {{c1::topically}}).&nbsp;</div><div>• Typhoid fever<br></div>",
+                                ""
+                            ],
+                            "guid": "r?bf5:U?T,",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Macrolides</b>&nbsp;<div>• {{c1::Lactone}} ring structure.&nbsp;</div><div><br></div><div>• Inhibit protein synthesis by binding to the <b>50S</b> subunit by\npreventing {{c1::<b>translocation</b>}} movement of the ribosome along\n<b>mRNA</b>.&nbsp;</div><div><br></div><div>• Examples: erythromycin, clarithromycin and\nazithromycin.&nbsp;</div><div><br></div><div>• Broad spectrum - {{c1::erythromycin}} is a safe alternative to\npenicillin sensitive patients.&nbsp;</div><div><br></div><div>• Resistance can occur from a plasmid controlled alteration\nin the binding site for erythromycin on the ribosome.&nbsp;</div><div><br></div><div>• Erythromycin is effective against Gram {{c1::+}}ve but not Gram {{c1::–}} ve bacteria.&nbsp;</div><div><br></div><div>• Clarithromycin and azithromycin are effective against <b>H. influenzae</b>.<br></div><div><br></div><div>• Administered {{c1::orally}}.&nbsp;</div><div><br></div><div>• Distribute to most tissues and {{c1::do not}} cross the BBB, poorly penetrates the synovial\njoints .&nbsp;</div><div><br></div><div>• Accumulate in <b>phagocytes</b> and eliminated in the {{c1::bile}}.&nbsp;</div><div><br></div><div>• {{c1::Erythr}}omycin is partly inactivated in the liver, {{c1::azithr}}omycin is resistant to\ninactivation and {{c1::clarithr}}omycin is converted to an active metabolite.&nbsp;</div><div><br></div><div>• Their inhibition of P450 enzymes can affect the bioavailability of some drugs e.g. Theophylline.&nbsp;</div><div><br></div><div>• Side effects include GI disturbances, opportunistic infections and\nhypersensitivity reactions - rashes and fever.<br></div>",
+                                ""
+                            ],
+                            "guid": "lN*glKGcCt",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Tetracyclines</b><div>• Broad-spectrum antibiotics.&nbsp;</div><div><br></div><div>• Uptake by {{c1::active transport}}.&nbsp;</div><div><br></div><div>• Inhibit protein synthesis by interfering with the attachment of {{c1::tRNA}} to mRNA.&nbsp;</div><div><br></div><div>• <b>Bacteriostatic</b> not bactericidal.&nbsp;</div><div><br></div><div>• Examples: <b>tetracycline</b>, doxycycline, minocycline.<b><br></b></div><div><br></div><div>• Given orally but can be given parenterally.&nbsp;</div><div><br></div><div>• Absorption varies but is improved in the {{c1::absence}} of\nfood.&nbsp;</div><div><br></div><div>• <b>Bonds metal ions</b> (Ca2+, Mg2+, Fe2+, Al3+)\nforming complexes.&nbsp;</div><div><br></div><div>• Absorption is {{c1::de}}creased with milk and antacids.&nbsp;</div><div><br></div><div>• GI disturbances (loss of microbiota), deposited in\ngrowing bones and teeth – bone &amp; teeth deformities.<br></div><div><br></div><div>Uses of Tetracyclines&nbsp;</div><div>• Use has declined due to {{c1::widespread resistance}}.&nbsp;</div><div>• Broad spectrum – Gram {{c1::+ve &amp; -ve}} bacteria, protozoa, mycoplasma &amp;\nspirochetes.&nbsp;</div><div>• Respiratory tract infections - chronic bronchitis.&nbsp;</div><div>• Chlamydia, anthrax, brucellosis.&nbsp;</div><div>• As an alternative to patients with allergies.&nbsp;</div><div>• Acne<br></div>",
+                                ""
+                            ],
+                            "guid": "fU^6Sb5B}<",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Aminoglycosides</b><div>Changes shape of 30S subunit causing an\nabnormal anticodon-codon interaction and\nmisreading of the mRNA.&nbsp;</div><div><br></div><div>• Their crossing of the bacterial cell membrane\ndepends on active transport.\n• Its effect is bactericidal.&nbsp;</div><div><br></div><div>• Resistance can be due to degradation by\nmicrobial enzymes or blocking cell entry.&nbsp;</div><div><br></div><div>• Function is enhanced with β-lactams.&nbsp;</div><div><br></div><div>• Effective against a wide range of aerobic Gram –ve and some Gram +ve bacteria; low activity\nwith anaerobes.&nbsp;</div><div><br></div><div>• Examples: streptomycin, gentamicin,\nneomycin.<b><br></b></div><div><br></div><div>- Aminoglycosides are {{c1::cati}}ons and highly polar so are {{c1::not\nab}}sorbed by the GIT.&nbsp;</div><div><br></div><div>- Administration: Given intramuscularly (i.m.) or i.v.;&nbsp; {{c1::can}} cross\nthe placenta and {{c1::not}} the BBB.&nbsp;</div><div><br></div><div>- PK: Elimination is by the kidney (glomerular filtration) with\n{{c1::50}}% being unchanged.&nbsp;</div><div><br></div><div>- Side-effects: Dose related toxic effects include\nnephrotoxicity and ototoxicity - {{c1::serum levels}} should be\nmonitored.&nbsp;</div><div><br></div><div>- Ototoxicity by destruction of sensory cells in the cochlea\nand results in vertigo or loss of balance.&nbsp;</div><div><br></div><div>- <b>Nephrotoxicity</b> is manifested by damage to the nephron\n{{c1::tubules}} and can prevent its own excretion – <b>accumulation\ncauses further damage</b>.&nbsp;</div><div><br></div><div>- Used with infections by Gram {{c1::–ve}} bacteria e.g. E. coli.<br></div>",
+                                ""
+                            ],
+                            "guid": "DRfHe:,w@C",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Tuberculosis</b><div>• Contagious infection caused by an\nairborne bacteria – {{c1::Mycobacterium\ntuberculosis}}.&nbsp;<br></div><div><br></div><div>• Usually affects the lungs but can also affect\n{{c1::any organ}}.<b><br></b></div><div><br></div><div><u>Therapy</u></div><div>• Monotherapy is <b>ineffective </b>(recognised since 1952 with the failure of\nstreptomycin).&nbsp;</div><div><br></div><div>• Multidrug-resistant TB (MDR-TB) and extensive drug resistant TB (XDR-TB).&nbsp;</div><div><br></div><div>• In countries where TB is prevalent, people with HIV/AIDS are {{c1::20}} times more\nlikely to contract TB.&nbsp;</div><div><br></div><div>• Long-term and multidrug therapeutic approach, with two steps in treatment.&nbsp;</div><div><br></div><div>• Initial intensive (bactericidal) phase ({{c1::2}} months): mycobacteria with a high replication\nrate are killed resulting in clinical recovery.&nbsp;</div><div><br></div><div>• Continuation (sterilizing) phase ({{c1::4}} months): oriented to eliminating semi-dormant\nbacteria<br></div><div><br></div><div><u>Dosing Regimes</u></div><div>Was a question so know this</div><div>• The initial phase treatment involves two bactericidal drugs ({{c1::isoniazid}} and\n{{c1::rifampicin}}), {{c1::ethambutol}} to inhibit <b>monoresistant</b> strains, and {{c1::pyrazinamide}} which\nacts on the <b>semidormant</b> bacteria.&nbsp;</div><div><br></div><div>• During the continuation phase and in drug-susceptible TB, two drugs are\nsufficient ({{c1::isoniazid and rifampicin, same as above}}).&nbsp;</div><div><br></div><div>• Treatment of MDR-TB is much more complicated<br></div><div>{{c1::<img src=\"paste-9e9bacb9ceca87c8e722e710fa5b5ed0389769cb.jpg\">}}<br></div>",
+                                "Where the drugs attack<div><img src=\"paste-02373cfef41135ad09b312537f23a440ea0db956.jpg\"><br></div>"
+                            ],
+                            "guid": "z6>{(InYhV",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Isoniazid</b><div>• Antibacterial action is limited to\n<b>mycobacterium</b>.&nbsp;</div><div><br></div><div>• Inhibits synthesis of {{c1::mycolic acid}}, an\nimportant constituent to the\nmycobacterium cell wall.&nbsp;</div><div><br></div><div>• Bacteriostatic but can kill dividing cells.&nbsp;</div><div><br></div><div>• Prodrug that must be <b>activated by\nbacterial enzymes</b>.&nbsp;</div><div><br></div><div>• PK: Readily absorbed from the GI tract\nand is widely distributed through most\ntissues and fluids and {{c1::can}} cross BBB.&nbsp;</div><div><br></div><div>• Penetrates deep into <b>necrotic</b> lesions\ncaused by infection<b><br></b></div><div><br></div><div>PK: Metabolism is by acetylation – ‘slow’\nand ‘fast’ acetylators.&nbsp;</div><div><br></div><div>• Determined by polymorphisms of enzyme\n{{c1::NAT2 (N-acetyl transferase)}}.&nbsp;</div><div><br></div><div>• Slow acetylators have a better therapeutic\nresponse, but can lead to toxicity.&nbsp;</div><div><br></div><div>• Excreted via kidney partly unchanged, partly\nacetylated.&nbsp;</div><div><br></div><div>• Side effects: include {{c1::allergic skin}} reactions.&nbsp;</div><div><br></div><div>• May interact with other drugs by inhibiting\nmetabolism of <b>phenytoin</b> and <b>carbamazepine</b>\nwhich leads to toxicity of these drugs<br></div>",
+                                ""
+                            ],
+                            "guid": "pg=!*2]M%p",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Rifampicin&nbsp;<div>• Inhibits {{c1::RNA polymerase}} in prokaryotic but not eukaryotic\ncells.&nbsp;</div><div><br></div><div>• Effective against leprosy and some Gram {{c1::+ve &amp; -}}ve\nbacteria.&nbsp;</div><div><br></div><div>• It can enter {{c1::phagocytes}} and therefore reach Mycobacterium.&nbsp;</div><div><br></div><div>• PK: Given orally and widely distributed in tissues and\nfluids.&nbsp;</div><div><br></div><div>• Excreted by the kidneys and bile.&nbsp;</div><div><br></div><div>• Metabolite {{c1::retains}} antibacterial activity.&nbsp;</div><div><br></div><div>• Side effects: not frequent but include fever, skin rashes and\nGI disturbances.&nbsp;</div><div><br></div><div>• Drug interactions: Can cause induction of metabolising\nenzymes and can lead to an increase in degradation of\n{{c1::warfarin}} and {{c1::oestrogens (contraceptive pill)}}.</div>",
+                                ""
+                            ],
+                            "guid": "Cf6%(4TGV.",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Ethambutol</b>&nbsp;<div>• <b>Only</b> affects mycobacterium: <b>bacteriostatic</b> effect.&nbsp;</div><div><br></div><div>• PK: Given orally, well absorbed&nbsp;</div><div><br></div><div>• Taken up by {{c1::RBCs}} in blood, partly metabolised and excreted in\nthe kidney.&nbsp;</div><div><br></div><div>• Side effects: include {{c1::optic neuritis – red-green colour\nblindness}}</div>",
+                                ""
+                            ],
+                            "guid": "Gx0FS{h-/g",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Pyrazinamide</b>&nbsp;<div>• Effective at {{c1::low and not neutral}} pH (tuberculostatic).&nbsp;</div><div><br></div><div>• Mycobacterium at {{c1::low}} pH inside <b>phagolysosomes</b>.&nbsp;</div><div><br></div><div>• PK: Orally well absorbed, well distributed, excreted by the\nkidney.&nbsp;</div><div><br></div><div>• Side effect: include gout (urate in blood)<br></div>",
+                                ""
+                            ],
+                            "guid": "Df)KEsGi8s",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Bedaquiline</b>:&nbsp;<div>• Target is mycobacterial {{c1::ATP}} synthase (unique\nmechanism), metabolised by <b>p450</b>.&nbsp;</div><div><br></div><div>• {{c1::Rifampicin}} induces this enzyme thus reducing <b>plasma</b>\nconcentrations of bedaquiline.&nbsp;</div><div><br></div><div>• Seems to have promise as an adjunct treatment on <b>MDRTB</b> and XDR-TB.</div>",
+                                ""
+                            ],
+                            "guid": "unZ6?[,ccL",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Delamanid</b>:&nbsp;<div>• Incompletely understood but may involve inhibition of\n<b>mycolic acid</b> synthesis, a prodrug requiring metabolism\nby {{c1::mycobacterial}} enzymes.&nbsp;</div><div><br></div><div>• Currently being investigated in MDR-TB and XDR-TB</div>",
+                                ""
+                            ],
+                            "guid": "rHtE`(&WJA",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "8cfc909c-b4dd-11eb-88fa-faf4610bb370",
+                    "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-180050e743265bd169d15f4d25a4c10288fe4910.jpg",
+                        "paste-b848fdbcc5f4cec4bf1fff5131213472c4009dca.jpg",
+                        "paste-c6db72b364bb90b633b75007bc32afb9a4698d25.jpg"
+                    ],
+                    "name": "04/06 Antimicrobials 4",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div><b>Viruses</b><br></div>• Small infective agents consisting of nucleic acid\n(RNA or DNA) enclosed in a protein coat.&nbsp;<div>• They are not cells, and utilise the metabolic\nprocesses of the host cell that they infect in\norder to replicate.&nbsp;</div><div><br></div><div>• DNA viruses: {{c1::usually enter the host cell nucleus\nand direct the generation of new viruses.&nbsp;}}</div><div><br></div><div>• RNA viruses: {{c1::direct generation of new viruses\nwithout involving the host cell nucleus.}}&nbsp;</div><div><br></div><div>• RNA retroviruses: {{c1::possess reverse transcriptase\nwhich makes a DNA copy of the viral RNA,\nwhich is then integrated into the host cell\ngenome and directs the generation of new virus\nparticles}}</div>",
+                                ""
+                            ],
+                            "guid": "Qs=VZ6NUo_",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>HIV and AIDS</b><div>• HIV: RNA retrovirus (HIV-1, responsible for human AIDS and HIV-2, largely\nconfined to Africa less virulent).&nbsp;</div><div><br></div><div>• Interaction of HIV with the host’s immune system is complex, primarily\ninvolving cytotoxic T lymphocytes (CTLs, CD{{1::8+}} T cells) and helper T\nlymphocytes (CD{{c1::4+}} cells).&nbsp;</div><div><br></div><div>What is CTL?</div><div>{{c1::<div><div><div>A&nbsp;<b>cytotoxic T cell</b>&nbsp;(also known as&nbsp;<b>T</b><sub>C</sub>,&nbsp;<b>cytotoxic T lymphocyte</b>, CTL,&nbsp;<b>T</b>-<b>killer cell</b>, cytolytic&nbsp;<b>T cell</b>, CD8+&nbsp;<b>T</b>-<b>cell</b>&nbsp;or&nbsp;<b>killer T cell</b>) is a&nbsp;<b>T lymphocyte</b>&nbsp;(a type of white blood&nbsp;<b>cell</b>) that kills cancer&nbsp;<b>cells</b>,&nbsp;<b>cells</b>&nbsp;that are infected (particularly with viruses), or&nbsp;<b>cells</b>&nbsp;that are damaged in other ways.</div></div><div><div><div><br></div></div></div></div><div>• CTLs directly kill virally infected cells, and produce and release antiviral\ncytokines, whilst CD4+ cells may have a direct role in the control of HIV\nreplication.&nbsp;</div>}}<br></div><div><br></div><div>• HIV is incorporated with the <b>host DNA</b> and can remain latent for a prolonged\nperiod. Mutations in the HIV genome enable the HIV to <b>escape</b> recognition by\nthe <b>original</b> <b>cytotoxic</b> <b>lymphocytes</b>, requiring the production of <b>new\nlymphocytes</b> that ultimately can “<b>exhaust</b>” the immune system<b><br></b></div><div><img src=\"paste-c6db72b364bb90b633b75007bc32afb9a4698d25.jpg\"><br></div>",
+                                ""
+                            ],
+                            "guid": "z:l4^r6mru",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Antiviral drugs</b><div>• Selectivity for viruses is difficult as\nthey reside within the host cell.&nbsp;</div><div><br></div><div>• Some enzymes are virus-specific and\nthus are useful drug targets.&nbsp;</div><div><br></div><div>• Most antivirals are effective only\nwhen the viruses are {{c1::replicating}}.&nbsp;</div><div><br></div><div>• Antivirals are grouped according to\ntheir mechanisms of action and side\neffects.<b><br></b></div><div><img src=\"paste-180050e743265bd169d15f4d25a4c10288fe4910.jpg\"><br></div>",
+                                ""
+                            ],
+                            "guid": "oaa&jZ%rS!",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Nucleoside Reverse transcriptase inhibitors</b>&nbsp;<div>• Nucleoside analogues: {{c1::phosphorylated}} by host\ncell enzymes to give the <b>5’-triphosphate</b>.&nbsp;</div><div><br></div><div>• This competes with the host cell <b>triphosphates</b>\nessential for pro-viral DNA production, thus\ncausing DNA chain termination.&nbsp;</div><div><br></div><div>• Examples: <b>zidovudine</b> ({{c1::thymidine}} analogue),\nwhilst newer NRTIs ({{c1::abacavir}}) have less toxicity.&nbsp;</div><div><br></div><div>• Non-nucleoside RTIs: do not require\nphosphorylation.&nbsp;</div><div><br></div><div>• Bind to the reverse transcriptase causing a\nconformational change reducing its activity.&nbsp;</div><div><br></div><div>• Example: <b>nevirapine</b>.&nbsp;</div><div><br></div><div>• Most are potent inducers of {{c1::Cyt P450}}</div>",
+                                ""
+                            ],
+                            "guid": "f.<;0rjC.:",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Protease inhibitors&nbsp;</b><div>• Bind to HIV <b>proteases</b>, blocking the {{c1::proteolytic}}\nactivity.&nbsp;</div><div><br></div><div>• Resulting in the provirus being translated into\ntwo biochemically inert polyproteins.&nbsp;</div><div><br></div><div>• Protease inhibitors prevent the cleavage of the\nnascent viral protein into functional and\nstructural proteins.</div><div><br></div><div>• Example: {{c1::ritonavir}}.&nbsp;</div><div><br></div><div>• Low likelihood of resistance.&nbsp;</div><div><br></div><div>• {{c1::Ritonavir}} is a potent CYP{{c1::3A4}} inhibitor</div>",
+                                ""
+                            ],
+                            "guid": "x[%QDZ:iiV",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>DNA polymerase inhibitors&nbsp;</b><div>• {{c1::Aciclovir}} is the prototype drug.&nbsp;</div><div><br></div><div>• It is a<b> guanosine</b> derivative that is converted to\nthe monophosphate by viral {{c1::thymidine}} kinase.&nbsp;</div><div><br></div><div>• More effective than the host cell enzyme (e.g.\n{{c2</div><div>1::30}} times more effective against the herpes virus\nenzyme than the host enzyme).&nbsp;</div><div><br></div><div>• Host cell kinases then convert the\nmonophosphate to the {{c1::tri}}phosphate, which\ninhibits viral DNA {{c1::polymerase}} terminating the\nnucleotide chain.&nbsp;</div><div><br></div><div>• Resistance occurs by changes in the viral genes\ncoding for {{c1::thymidine}} kinase or DNA\n{{c1::polymerase}}</div>",
+                                ""
+                            ],
+                            "guid": "d^(!n9a+?$",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>HIV integrase inhibitors&nbsp;</b><div>• Acts by inhibiting HIV DNA integrase.&nbsp;</div><div><br></div><div>• Prevents the formation of {{c1::covalent}} bonds\nbetween the host and viral DNA.&nbsp;</div><div><br></div><div>• Prevents the incorporation of <b>viral</b> DNA into the\n<b>host</b> <b>genome</b> when forming the provirus.&nbsp;</div><div><br></div><div>• Example: {{c1::ratelgravir}}.&nbsp;</div><div><br></div><div>• Used in the treatment of HIV as part of a\n<b>combination therapy,</b> due to its potency and low\npotential for side effects and drug interactions.</div>",
+                                ""
+                            ],
+                            "guid": "w!G{~mId}f",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Inhibitors of viral entry/fusion:</b><div>Chemokine receptor antagonists:&nbsp;</div><div>• {{c1::CCR5}}, together with {{c1::CXCR4}}, are cell surface\nchemokine receptors that are exploited by some\nHIV strains to gain entry into the cell.&nbsp;</div><div><br></div><div>• Example: {{c1::maraviroc}} a chemokine receptor\nantagonist used in combination with other drugs.</div><div><br></div><div>Fusion Inhibitors:&nbsp;</div><div>• Prevents the conformational changes necessary\nfor the fusion of the viral and cellular membrane.&nbsp;</div><div><br></div><div>• Example: {{c1::Enfuviritide}}&nbsp;</div><div><br></div><div>• Its novel mechanism means no cross resistance\nwith other antiretrovirals.</div><div><br></div><div>• Needs to be administered {{c1::parenterally}}<b><br></b></div>",
+                                "<img src=\"paste-b848fdbcc5f4cec4bf1fff5131213472c4009dca.jpg\">"
+                            ],
+                            "guid": "p:c=&)3IV;",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Immunomodulators</b><div>• Immunoglobulin: these are antibodies against\nvarious viruses.&nbsp;</div><div><br></div><div>• {{c1::Palivisumab}}: a monoclonal antibody directed\nagainst a <b>glycoprotein</b> on the surface of <b>respiratory\nsyncytial virus</b> (RSV).&nbsp;</div><div><br></div><div>• Interferons (IFNs): family of inducible proteins (alpha, beta and gamma).&nbsp;</div><div><br></div><div>• IFNs bind to specific receptors on host cell\nmembranes that then induce the production of\n<b>enzymes that inhibit the translation of viral mRNA\n</b>into viral proteins, thus stopping viral replication.&nbsp;</div><div><br></div><div>• Need to be administered intravenously, {{c1::do not}}\ncross BBB.<b><br></b></div>",
+                                ""
+                            ],
+                            "guid": "Bx/b@JN8So",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>Combination therapy for HIV</b><div>• Different agents targeting different steps\nresults in synergistic or additive antiviral\neffects.&nbsp;</div><div><br></div><div>• HAART (highly active antiretroviral\ntherapy) typically consists of two\n{{c1::nucleoside RTIs}} with either a nonnucleoside RTI or one/two {{c1::protease}}\ninhibitors.&nbsp;</div><div><br></div><div>• Other drugs, such as the HIV integrase\ninhibitor <b>ratelgravir</b>, the chemokine\nreceptor antagonist <b>marviroc</b> and the HIV\nfusion inhibitor <b>enfurvitide</b> may also be\nused in combination therapy.&nbsp;</div><div><br></div><div>• Some patients may experience treatment\nfailure and require more complex therapy&nbsp;</div>",
+                                ""
+                            ],
+                            "guid": "QM5=vaF&q1",
                             "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
                             "tags": []
                         }
