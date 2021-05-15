@@ -1291,6 +1291,128 @@
                 {
                     "__type__": "Deck",
                     "children": [],
+                    "crowdanki_uuid": "24e1015c-b5a8-11eb-b045-faf4610bb370",
+                    "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-2ed83e457752770bac1f19ff984d856b1011c0d8.jpg",
+                        "paste-5de0cf7f26db4349d43dbb2e287a5bbf46c1b1af.jpg",
+                        "paste-67b8b43b76601992cadff45a8d8a992da9aa30e1.jpg",
+                        "paste-a24dab07c07c052fbc2e1c6cbcac87a8b18c1a68.jpg",
+                        "paste-c19ce27b185e6763a38b6ee2df377b368eabd40c.jpg",
+                        "paste-f221bca023347f40f309c0b81502ea9ccfff82ca.jpg"
+                    ],
+                    "mid": 1603908832969,
+                    "name": "04/06 Tuberculosis",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"font-weight: bold;\">Zoonotic tuberculosis</span><div><div><span style=\"color: rgb(85, 139, 184);\">§</span>Tuberculosis\nacquired from infected animals/animal products</div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>Main\norganism: <span style=\"font-style: italic;\">Mycobacterium&nbsp;</span>{{c1::bovis}}</div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>Zoonotic\nTB a global problem in developing countries</div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>Close\ncontacts with infected animals (farmers, vets, etc.) or foodborne infection, eg.\nunpasteurised milk</div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>Foodborne\ninfection: infection of tonsils, cervical lymph nodes, GIT, urinary tract,\nbone/joint, etc.</div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>Rare\nin Ireland; majority have very low risk of exposure/infection:</div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>Annual TB testing of cattle herds; prompt\nelimination of infected ones from milk-producing herds</div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>{{c1::Pasteurisation}} of milk</div></div>",
+                                ""
+                            ],
+                            "guid": "b2&eEv?A(}",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"font-weight: bold;\">Clinical course of disease</span><div><div>Primary\ninfection: </div>\n<div>-&gt;&nbsp; Active infection (&lt;10%)</div>\n<div>-&gt; Self-limiting infection leading to:</div>\n<div><span style=\"color: rgb(0, 0, 204);\">latency\nof infection (~90%)</span></div>\n<div><span style=\"color: rgb(0, 0, 204);\">↓</span></div>\n<div><span style=\"color: red;\">Reactivation\nof disease (</span>{{c1::5-15}}<span style=\"color: red;\">%)</span></div>\n<div><span style=\"color: red;\">↓</span></div>\n<div><span style=\"color: red;\">&nbsp; </span><span style=\"color: red;\">Pulmonary or extra-pulmonary</span></div></div>",
+                                "<img src=\"paste-c19ce27b185e6763a38b6ee2df377b368eabd40c.jpg\">"
+                            ],
+                            "guid": "D_gFk(>l-?",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"font-weight: bold;\">Primary infection</span><div><div><span style=\"color: rgb(85, 139, 184);\">§</span>Initial\nalveolar infection with spread with lymphatics to {{c1::hilar}} lymph nodes. Possible\ndissemination via bloodstream</div>\n<div><br></div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>90%:\ndevelopment of cellular immunity about 6 weeks later: infective foci in lungs\nor elsewhere -&gt;&nbsp;small {{c1::granuloma}} (lymphocytes, macrophages, epithelioid cells and small area of\ncentral caseation -&gt;&nbsp;transition to latency of disease</div>\n<div><br></div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>Minority\nof patients – progression into active disease</div></div><div><br></div><div><u><span style=\"font-weight: bold;\">Primary TB pneumonia</span><br></u></div><div><div><span style=\"color: rgb(85, 139, 184);\">§</span>Fever,\nchest pain, cough, fatigue</div>\n<div><br></div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>Radiological:\n</div>\npulmonary\ninfiltrates (consolidation)</div><div><img src=\"paste-2ed83e457752770bac1f19ff984d856b1011c0d8.jpg\">&nbsp;<br></div><div><br></div><div><div><br></div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>peri-hilar lymphadenopathy, </div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>pleural effusion (1/3).</div></div><div><img src=\"paste-67b8b43b76601992cadff45a8d8a992da9aa30e1.jpg\"><br></div><div><br></div><div>What is&nbsp;<span style=\"color: rgb(32, 33, 36);\">Bilateral&nbsp;</span><b>hilar lymphadenopathy?&nbsp;</b></div><div>{{c1::<b>It</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;is a bilateral enlargement of the&nbsp;</span><b>lymph nodes</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;of pulmonary hila. It is a radiographic term for the enlargement of mediastinal&nbsp;</span><b>lymph nodes</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;and is most commonly identified by a chest x-ray.</span>}}</div><div><br></div><div><u><span style=\"font-weight: bold;\">Minority </span><span style=\"font-weight: bold;\">of primary infections:</span><br></u></div><div><div><span style=\"color: rgb(85, 139, 184);\">§</span>Disseminated\n({{c1::miliary}})\nprimary infection: multiple organ systems including CNS ({{c1::meningitis}})</div></div>",
+                                ""
+                            ],
+                            "guid": "D@m:KPy;v?",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"font-weight: bold;\">Outcome of Latent TB</span><div><div><span style=\"color: rgb(85, 139, 184);\">§</span>Majority\nof latent TB cases remain latent throughout lifetime. </div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>Granulomas\nremain localised &amp; quiescent, and become encapsulated by {{c1::fibrous}} tissue\nplus calcification of central caseation</div>\n<div><br></div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>But\n5-15% cases of latent disease: progression from dormancy to active disease (ie.\nreactivation)<span style=\"font-style: italic;\"> </span></div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span><span style=\"font-style: italic;\">Approx</span><span style=\"font-style: italic;\">\n</span><span style=\"font-style: italic;\">half within next 5 </span><span style=\"font-style: italic;\">years\nand </span><span style=\"font-style: italic;\">half some </span><span style=\"font-style: italic;\">years\nthereafter</span></div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>Characterised\nby enlargement of {{c1::granulomas}}, liquefaction of caseous area\nand proliferation of bacteria</div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>Over\na few months, patients become symptomatic. Clinical features depend on site of\nreactivated disease</div></div><div><br></div><div><div><span style=\"color: rgb(85, 139, 184);\">§</span><span style=\"font-weight: bold;\">Pulmonary\n</span><span style=\"font-weight: bold;\">(2/3)</span></div>\n<div><br></div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span><span style=\"font-weight: bold;\">Extra-pulmonary\n(1/3)</span></div>\n<div>&nbsp; Kidneys, adrenal glands,</div>\n<div>&nbsp; gastrointestinal tract,</div>\n&nbsp; bones, meninges, etc<br></div><div><br></div><div><div><span style=\"color: rgb(85, 139, 184);\">§</span>Systemic\nsymptoms: intermittent {{c1::fever}}, night sweats, anorexia, weight loss, malaise,\netc.</div>\n<div><br></div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>Pulmonary:\ncough, haemoptysis, chest pain, etc.</div>\n<div><br></div>\n<div><div><span style=\"color: rgb(85, 139, 184);\">§</span>Bone:\npain, tenderness, +/- neurological features</div>\n<div><br></div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>CNS: subacute\nmeningitis, headache, confusion, personality changes,\nseizures, cranial nerve palsies, etc.</div><div><br></div>\n<div></div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>Renal:\nsymptoms of cystitis; ‘sterile’ pyuria;</div>\n<div>&nbsp; others: back/flank pain, haematuria,\netc.</div></div></div>",
+                                ""
+                            ],
+                            "guid": "n1ZtrXz#$m",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"font-weight: bold;\">Reactivated </span><span style=\"font-weight: bold;\">pulmonary </span><span style=\"font-weight: bold;\">tuberculosis</span><div><div><span style=\"color: rgb(85, 139, 184);\">§</span>Most\noften in the posterior and apical segments of the {{c1::upper}} lobe (85%)</div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>Less\noften in the anterior segment of upper lobe or superior segment of lower lobe</div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>Cavitation&nbsp;more\nlikely than in primary infection</div></div><div><br></div><div>What is Cavitation?</div><div>{{c1::<span style=\"color: rgb(32, 33, 36);\">Dead, or necrotic, tissue tends to tear and break down. In the lung, this is called '</span><b>cavitation</b><span style=\"color: rgb(32, 33, 36);\">', after the latin word for cave. It is thought that the&nbsp;</span><b>TB</b><span style=\"color: rgb(32, 33, 36);\">&nbsp;bacilli destroy the lung tissue in a cave formation, where more and more of them sit in the middle and slowly destroy more tissue at the edges.</span>}}<br></div>",
+                                ""
+                            ],
+                            "guid": "CiTap-`pf",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"font-weight: bold;\">TB and HIV co-infection (‘</span><span style=\"font-weight: bold;\">syndemic</span><span style=\"font-weight: bold;\">’)&nbsp;</span><div><span style=\"font-weight: bold;\">Prepare for trouble and make it double!</span></div><div><div><span style=\"color: rgb(85, 139, 184);\">§</span>HIV\ninfection </div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>increases risk of progression to active\nTB in an infected person (lifetime risk {{c1::50}}% vs 5-15% in non-HIV infected persons)</div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>More difficult to diagnose TB</div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>More variable and florid clinical picture</div>\n<div></div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>Active\nTB leads to more rapid progression of HIV infection</div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>Higher\nmortality in co-infected patients</div></div>",
+                                ""
+                            ],
+                            "guid": "w(#ZFH0nrD",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"font-weight: bold;\">Diagnosis</span><div><u>Tuberculin Skin Test&nbsp; (TST)</u><span style=\"font-weight: bold;\"><br></span></div><div><div><span style=\"color: rgb(85, 139, 184);\">§</span>Mixture\nof mycobacterial\nproteins (Purified Protein Derivative, PPD)</div>\n<div>&nbsp; Eg. Mantoux test</div>\n<div></div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>Delayed-type\nhypersensitivity response in exposed persons</div></div><div><div><span style=\"color: rgb(85, 139, 184);\">§</span>Administration should be {{c1::intradermal}}</div></div><div><br></div><div>How big does reaction (mm) have to be for diagnosis?</div><div>&nbsp;{{c1::<img src=\"paste-5de0cf7f26db4349d43dbb2e287a5bbf46c1b1af.jpg\">}}</div><div><br></div><div>Why can there errors inmeasurement?</div><div><div>{{c1::<div><div><span style=\"color: rgb(85, 139, 184);\">§</span>Errors\nin measurement: induration, <u><span style=\"font-style: italic;\">not</span></u> erythema</div></div><div></div>}}<br></div></div><div><br></div><div><div><u>Interferon\nGamma Release Assays (IGRAs)</u></div></div><div><div><span style=\"color: rgb(85, 139, 184);\">§</span>Principle:\nassay of gamma-interferon release from sensitised white blood cells when exposed to <span style=\"font-style: italic;\">M.\ntuberculosis</span>\nanti{{c1::gens}}</div>\nEg. Quantiferon TB\nTest, T-Spot<u><br></u></div><div><br></div><div><div><u>Microscopy</u><span style=\"font-weight: bold;\">:</span> </div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>Fast,\ncheap, limited sensitivity</div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>{{c1::Ziehl-Neelsen}}\nstain; Auramine\n(fluorescence) stain</div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>“Smear-Positive” requires perhaps {{c1::10,000}} bacteria/ml</div></div><div>What colour do they stain?</div><div>{{c1::</div><div><img src=\"paste-a24dab07c07c052fbc2e1c6cbcac87a8b18c1a68.jpg\"></div><div><img src=\"paste-f221bca023347f40f309c0b81502ea9ccfff82ca.jpg\">}}<br></div><div><br></div><div><div><u>Culture</u><span style=\"font-weight: bold;\">:</span> </div>\n<div>Solid\nmedia (eg.\nLowenstein-Jensen agar) or\nliquid\nmedia</div>\n<div>Slow <span style=\"font-weight: bold;\">(</span>{{c1::1-6\nwks}}<span style=\"font-weight: bold;\">), </span>but\n</div>\n<div>Sensitive\n(perhaps {{c1::10}} bacteria/ml)</div>\n<div>Susceptibility\ntesting of isolates</div></div><div><br></div><div><div><u>Molecular\ntests (eg. DNA amplification\ntests)</u></div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>Expensive\nbut\nrapid\nand sensitive</div>\n<div></div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>Detection\nof <span style=\"font-style: italic;\">M. tuberculosis</span>\ncomplex DNA</div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>Detection\nof genes\nencoding antimicrobial resistance,\neg. rifampicin\nresistance</div></div>",
+                                ""
+                            ],
+                            "guid": "u,Jf3<?&4v",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"font-weight: bold;\">Treatment of </span><span style=\"font-weight: bold;\">tuberculosis</span><div><div><span style=\"color: rgb(85, 139, 184);\">§</span>How\nLong Is “Short” Course Treatment?\n– 6-9 Months</div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span><span style=\"font-weight: bold;\">1</span><span style=\"font-weight: bold;\">st</span><span style=\"font-weight: bold;\">\nline anti-TB drugs:</span></div>\n<div><span style=\"font-weight: bold;\">&nbsp;&nbsp;</span>{{c1::Rifamp}}<span style=\"font-weight: bold;\">icin</span> (6-9 months)</div>\n<div><span style=\"font-weight: bold;\">&nbsp;</span> {{c1::Isoni}}<span style=\"font-weight: bold;\">azid</span> (6-9 months)</div>\n<div><span style=\"font-weight: bold;\">&nbsp;&nbsp;</span>{{c1::Pyrazin}}<span style=\"font-weight: bold;\">amide</span> (1st 2 months)</div>\n<div><span style=\"font-weight: bold;\">&nbsp;&nbsp;</span>{{c1::Etham}}<span style=\"font-weight: bold;\">butol</span> (1st 2\nmonths)</div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>Interim\nassessment: clinical, radiological, microbiological</div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>&gt;90%\nCure rate in the days before antibiotic resistance</div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>Directly\nObserved Therapy (DOT)</div></div><div><br></div><div><div><span style=\"color: rgb(85, 139, 184);\">§</span><span style=\"font-weight: bold;\">MDR\n</span><span style=\"font-weight: bold;\">(Multi-drug-resistant) TB</span> (Resistance\nto {{c1::Rifampicin}} &amp; {{c1::Isoniazid}})</div><div><br></div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span><span style=\"font-weight: bold;\">XDR\n</span><span style=\"font-weight: bold;\">(Extremely-drug-resistant) TB</span> </div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>MDR TB + </div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>{{c1::Fluoroquinolone}}&nbsp; +</div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span> 1 of 3 injectable\nsecond-line drugs: amikacin, kanamycin, capreomycin</div></div>",
+                                ""
+                            ],
+                            "guid": "yEaAY2NP[B",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"font-weight: bold;\">Chemoprophylactic</span><span style=\"font-weight: bold;\"> Rx&nbsp;(for latent TB)</span><div><div>WHO\nrecommended regimens:</div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>Weekly\n{{c1::Rifap}}entine +\nIsoniazid for 3 months</div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>Daily\n{{c1::Rifap}}entine +\nIsoniazid for 1 month</div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>Daily\nRifampicin + Isoniazid for 3 months</div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>Daily\nRifampicin for 4 months</div>\nDaily\nIsoniazid for 6 months<span style=\"font-weight: bold;\"><br></span></div>",
+                                ""
+                            ],
+                            "guid": "z2gPLO@VF9",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"font-weight: bold;\">Hospital Infection Control</span><div><div><span style=\"color: rgb(85, 139, 184);\">§</span><span style=\"color: red;\">NB:\nTransmitted in small respiratory droplets</span></div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>Isolate\npatient (negative-pressure room if possible)</div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>Respiratory\nprecautions (high particle filtration efficiency respiratory masks)</div>\n<div><span style=\"color: rgb(85, 139, 184);\">§</span>Contact\nprecautions</div></div><div><br></div><div><div><span style=\"color: rgb(85, 139, 184);\">§</span>N95\nor FFP2 respirator masks: filter out ≥{{c1::95}}% of particles of ≥ <b>0.3 µm</b> diameter</div></div>",
+                                ""
+                            ],
+                            "guid": "LpI(N]NTCh",
+                            "note_model_uuid": "aefbcb59-7dce-11eb-8f59-a0b2d6ecb02c",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
                     "crowdanki_uuid": "8cd0af16-b4dd-11eb-8ebd-faf4610bb370",
                     "deck_config_uuid": "aefba5a0-7dce-11eb-a03c-a0b2d6ecb02c",
                     "desc": "",
@@ -8797,7 +8919,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Rifampicin&nbsp;<div>• Inhibits {{c1::RNA polymerase}} in prokaryotic but not eukaryotic\ncells.&nbsp;</div><div><br></div><div>• Effective against leprosy and some Gram {{c1::+ve &amp; -}}ve\nbacteria.&nbsp;</div><div><br></div><div>• It can enter {{c1::phagocytes}} and therefore reach Mycobacterium.&nbsp;</div><div><br></div><div>• PK: Given orally and widely distributed in tissues and\nfluids.&nbsp;</div><div><br></div><div>• Excreted by the kidneys and bile.&nbsp;</div><div><br></div><div>• Metabolite {{c1::retains}} antibacterial activity.&nbsp;</div><div><br></div><div>• Side effects: not frequent but include fever, skin rashes and\nGI disturbances.&nbsp;</div><div><br></div><div>• Drug interactions: Can cause induction of metabolising\nenzymes and can lead to an increase in degradation of\n{{c1::warfarin}} and {{c1::oestrogens (contraceptive pill)}}.</div>",
+                                "<b>Rifampicin</b>&nbsp;<div>• Inhibits {{c1::RNA polymerase}} in prokaryotic but not eukaryotic\ncells.&nbsp;</div><div><br></div><div>• Effective against leprosy and some Gram {{c1::+ve &amp; -}}ve\nbacteria.&nbsp;</div><div><br></div><div>• It can enter {{c1::phagocytes}} and therefore reach Mycobacterium.&nbsp;</div><div><br></div><div>• PK: Given orally and widely distributed in tissues and\nfluids.&nbsp;</div><div><br></div><div>• Excreted by the kidneys and bile.&nbsp;</div><div><br></div><div>• Metabolite {{c1::retains}} antibacterial activity.&nbsp;</div><div><br></div><div>• Side effects: not frequent but include fever, skin rashes and\nGI disturbances.&nbsp;</div><div><br></div><div>• Drug interactions: Can cause induction of metabolising\nenzymes and can lead to an increase in degradation of\n{{c1::warfarin}} and {{c1::oestrogens (contraceptive pill)}}.</div>",
                                 ""
                             ],
                             "guid": "Cf6%(4TGV.",
@@ -8875,7 +8997,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<b>HIV and AIDS</b><div>• HIV: RNA retrovirus (HIV-1, responsible for human AIDS and HIV-2, largely\nconfined to Africa less virulent).&nbsp;</div><div><br></div><div>• Interaction of HIV with the host’s immune system is complex, primarily\ninvolving cytotoxic T lymphocytes (CTLs, CD{{1::8+}} T cells) and helper T\nlymphocytes (CD{{c1::4+}} cells).&nbsp;</div><div><br></div><div>What is CTL?</div><div>{{c1::<div><div><div>A&nbsp;<b>cytotoxic T cell</b>&nbsp;(also known as&nbsp;<b>T</b><sub>C</sub>,&nbsp;<b>cytotoxic T lymphocyte</b>, CTL,&nbsp;<b>T</b>-<b>killer cell</b>, cytolytic&nbsp;<b>T cell</b>, CD8+&nbsp;<b>T</b>-<b>cell</b>&nbsp;or&nbsp;<b>killer T cell</b>) is a&nbsp;<b>T lymphocyte</b>&nbsp;(a type of white blood&nbsp;<b>cell</b>) that kills cancer&nbsp;<b>cells</b>,&nbsp;<b>cells</b>&nbsp;that are infected (particularly with viruses), or&nbsp;<b>cells</b>&nbsp;that are damaged in other ways.</div></div><div><div><div><br></div></div></div></div><div>• CTLs directly kill virally infected cells, and produce and release antiviral\ncytokines, whilst CD4+ cells may have a direct role in the control of HIV\nreplication.&nbsp;</div>}}<br></div><div><br></div><div>• HIV is incorporated with the <b>host DNA</b> and can remain latent for a prolonged\nperiod. Mutations in the HIV genome enable the HIV to <b>escape</b> recognition by\nthe <b>original</b> <b>cytotoxic</b> <b>lymphocytes</b>, requiring the production of <b>new\nlymphocytes</b> that ultimately can “<b>exhaust</b>” the immune system<b><br></b></div><div><img src=\"paste-c6db72b364bb90b633b75007bc32afb9a4698d25.jpg\"><br></div>",
+                                "<b>HIV and AIDS</b><div>• HIV: RNA retrovirus (HIV-1, responsible for human AIDS and HIV-2, largely\nconfined to Africa less virulent).&nbsp;</div><div><br></div><div>• Interaction of HIV with the host’s immune system is complex, primarily\ninvolving cytotoxic T lymphocytes (CTLs, CD{{c1::8+}} T cells) and helper T\nlymphocytes (CD{{c1::4+}} cells).&nbsp;</div><div><br></div><div>What is CTL?</div><div>{{c1::<div><div><div>A&nbsp;<b>cytotoxic T cell</b>&nbsp;(also known as&nbsp;<b>T</b><sub>C</sub>,&nbsp;<b>cytotoxic T lymphocyte</b>, CTL,&nbsp;<b>T</b>-<b>killer cell</b>, cytolytic&nbsp;<b>T cell</b>, CD8+&nbsp;<b>T</b>-<b>cell</b>&nbsp;or&nbsp;<b>killer T cell</b>) is a&nbsp;<b>T lymphocyte</b>&nbsp;(a type of white blood&nbsp;<b>cell</b>) that kills cancer&nbsp;<b>cells</b>,&nbsp;<b>cells</b>&nbsp;that are infected (particularly with viruses), or&nbsp;<b>cells</b>&nbsp;that are damaged in other ways.</div></div><div><div><div><br></div></div></div></div><div>• CTLs directly kill virally infected cells, and produce and release antiviral\ncytokines, whilst CD4+ cells may have a direct role in the control of HIV\nreplication.&nbsp;</div>}}<br></div><div><br></div><div>• HIV is incorporated with the <b>host DNA</b> and can remain latent for a prolonged\nperiod. Mutations in the HIV genome enable the HIV to <b>escape</b> recognition by\nthe <b>original</b> <b>cytotoxic</b> <b>lymphocytes</b>, requiring the production of <b>new\nlymphocytes</b> that ultimately can “<b>exhaust</b>” the immune system<b><br></b></div><div><img src=\"paste-c6db72b364bb90b633b75007bc32afb9a4698d25.jpg\"><br></div>",
                                 ""
                             ],
                             "guid": "z:l4^r6mru",
@@ -8915,7 +9037,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<b>DNA polymerase inhibitors&nbsp;</b><div>• {{c1::Aciclovir}} is the prototype drug.&nbsp;</div><div><br></div><div>• It is a<b> guanosine</b> derivative that is converted to\nthe monophosphate by viral {{c1::thymidine}} kinase.&nbsp;</div><div><br></div><div>• More effective than the host cell enzyme (e.g.\n{{c2</div><div>1::30}} times more effective against the herpes virus\nenzyme than the host enzyme).&nbsp;</div><div><br></div><div>• Host cell kinases then convert the\nmonophosphate to the {{c1::tri}}phosphate, which\ninhibits viral DNA {{c1::polymerase}} terminating the\nnucleotide chain.&nbsp;</div><div><br></div><div>• Resistance occurs by changes in the viral genes\ncoding for {{c1::thymidine}} kinase or DNA\n{{c1::polymerase}}</div>",
+                                "<b>DNA polymerase inhibitors&nbsp;</b><div>• {{c1::Aciclovir}} is the prototype drug.&nbsp;</div><div><br></div><div>• It is a<b> guanosine</b> derivative that is converted to\nthe monophosphate by viral {{c1::thymidine}} kinase.&nbsp;</div><div><br></div><div>• More effective than the host cell enzyme (e.g.\n{{c1::30}} times more effective against the herpes virus\nenzyme than the host enzyme).&nbsp;</div><div><br></div><div>• Host cell kinases then convert the\nmonophosphate to the {{c1::tri}}phosphate, which\ninhibits viral DNA {{c1::polymerase}} terminating the\nnucleotide chain.&nbsp;</div><div><br></div><div>• Resistance occurs by changes in the viral genes\ncoding for {{c1::thymidine}} kinase or DNA\n{{c1::polymerase}}</div>",
                                 ""
                             ],
                             "guid": "d^(!n9a+?$",
